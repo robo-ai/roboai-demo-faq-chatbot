@@ -1,0 +1,38 @@
+{
+  "bot_sector": {
+    "precision": 0.9325842696629213,
+    "recall": 0.6014492753623188,
+    "f1-score": 0.7312775330396476,
+    "support": 138
+  },
+  "geography": {
+    "precision": 0.7142857142857143,
+    "recall": 0.9090909090909091,
+    "f1-score": 0.8,
+    "support": 22
+  },
+  "company_cities_address": {
+    "precision": 0.832,
+    "recall": 1.0,
+    "f1-score": 0.9082969432314411,
+    "support": 104
+  },
+  "micro avg": {
+    "precision": 0.8553719008264463,
+    "recall": 0.7840909090909091,
+    "f1-score": 0.8181818181818182,
+    "support": 264
+  },
+  "macro avg": {
+    "precision": 0.8262899946495451,
+    "recall": 0.836846728151076,
+    "f1-score": 0.8131914920903629,
+    "support": 264
+  },
+  "weighted avg": {
+    "precision": 0.8747686171506396,
+    "recall": 0.7840909090909091,
+    "f1-score": 0.8067393244528078,
+    "support": 264
+  }
+}

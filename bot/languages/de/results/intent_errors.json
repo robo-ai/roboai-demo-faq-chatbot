@@ -1,0 +1,1010 @@
+[
+  {
+    "text": "Noch da?",
+    "intent": "vocative_call",
+    "intent_prediction": {
+      "name": "greeting_hello",
+      "confidence": 0.8149232864379883
+    }
+  },
+  {
+    "text": "was ist dein scope",
+    "intent": "bot_capabilities",
+    "intent_prediction": {
+      "name": "demo_banking",
+      "confidence": 0.7224043607711792
+    }
+  },
+  {
+    "text": "ich habe eine frage",
+    "intent": "bot_capabilities",
+    "intent_prediction": {
+      "name": "cc_make_question",
+      "confidence": 0.6137487888336182
+    }
+  },
+  {
+    "text": "Kannst du meine Fragen beantworten?",
+    "intent": "bot_capabilities",
+    "intent_prediction": {
+      "name": "cc_make_question",
+      "confidence": 0.5257782936096191
+    }
+  },
+  {
+    "text": "Welche Tiere magst du am liebsten?",
+    "intent": "bot_animal",
+    "intent_prediction": {
+      "name": "bot_pets",
+      "confidence": 0.6311115026473999
+    }
+  },
+  {
+    "text": "Sag mir was dein Lieblingstier ist.",
+    "intent": "bot_animal",
+    "intent_prediction": {
+      "name": "bot_pets",
+      "confidence": 0.5471348762512207
+    }
+  },
+  {
+    "text": "Erzähl mir etwas über dein Lieblingstier.",
+    "intent": "bot_animal",
+    "intent_prediction": {
+      "name": "bot_pets",
+      "confidence": 0.49992579221725464
+    }
+  },
+  {
+    "text": "Welche Lieblingstiere haben Sie?",
+    "intent": "bot_animal",
+    "intent_prediction": {
+      "name": "bot_pets",
+      "confidence": 0.7063503861427307
+    }
+  },
+  {
+    "text": "Was ist Dein Geschlecht",
+    "intent": "bot_real",
+    "intent_prediction": {
+      "name": "bot_gender",
+      "confidence": 0.9552821516990662
+    }
+  },
+  {
+    "text": "Welches Geschlecht haben Sie?",
+    "intent": "bot_real",
+    "intent_prediction": {
+      "name": "bot_gender",
+      "confidence": 0.7188965678215027
+    }
+  },
+  {
+    "text": "Welches Geschlecht hast du?",
+    "intent": "bot_real",
+    "intent_prediction": {
+      "name": "bot_gender",
+      "confidence": 0.8596273064613342
+    }
+  },
+  {
+    "text": "Was ist Ihr Geschlecht?",
+    "intent": "bot_real",
+    "intent_prediction": {
+      "name": "bot_gender",
+      "confidence": 0.9581187963485718
+    }
+  },
+  {
+    "text": "Was ist Ihr Geschlecht",
+    "intent": "bot_real",
+    "intent_prediction": {
+      "name": "bot_gender",
+      "confidence": 0.7295641303062439
+    }
+  },
+  {
+    "text": "bist du ein Er",
+    "intent": "bot_real",
+    "intent_prediction": {
+      "name": "bot_gender",
+      "confidence": 0.504125714302063
+    }
+  },
+  {
+    "text": "Haben Sie ein Geschlecht?",
+    "intent": "bot_real",
+    "intent_prediction": {
+      "name": "bot_gender",
+      "confidence": 0.9113550186157227
+    }
+  },
+  {
+    "text": "Bist Du männlich",
+    "intent": "bot_real",
+    "intent_prediction": {
+      "name": "bot_gender",
+      "confidence": 0.5391635894775391
+    }
+  },
+  {
+    "text": "Bist Du eine Sie",
+    "intent": "bot_real",
+    "intent_prediction": {
+      "name": "bot_gender",
+      "confidence": 0.5117018818855286
+    }
+  },
+  {
+    "text": "Bist du ein Mädchen",
+    "intent": "bot_real",
+    "intent_prediction": {
+      "name": "cc_drugs",
+      "confidence": 0.8332714438438416
+    }
+  },
+  {
+    "text": "Anwendungsfälle für die Automobilindustrie",
+    "intent": "automotive_uses",
+    "intent_prediction": {
+      "name": "solutions_automotive",
+      "confidence": 0.8161622285842896
+    }
+  },
+  {
+    "text": "Bots ängste",
+    "intent": "bot_age",
+    "intent_prediction": {
+      "name": "bot_fear",
+      "confidence": 0.9710754156112671
+    }
+  },
+  {
+    "text": "Sag mir deinen Preis.",
+    "intent": "bot_costs",
+    "intent_prediction": {
+      "name": "robo_prices",
+      "confidence": 0.5285919904708862
+    }
+  },
+  {
+    "text": "Wie hoch waren die Kosten?",
+    "intent": "bot_costs",
+    "intent_prediction": {
+      "name": "robo_prices",
+      "confidence": 0.8328979015350342
+    }
+  },
+  {
+    "text": "Ich möchte Ihre Kosten wissen.",
+    "intent": "bot_costs",
+    "intent_prediction": {
+      "name": "robo_prices",
+      "confidence": 0.5898385047912598
+    }
+  },
+  {
+    "text": "Wer ist deine Mutter?",
+    "intent": "bot_developers",
+    "intent_prediction": {
+      "name": "bot_parents",
+      "confidence": 0.5161609649658203
+    }
+  },
+  {
+    "text": "Chatbot Entwickler",
+    "intent": "bot_developers",
+    "intent_prediction": {
+      "name": "developers_content",
+      "confidence": 0.8243230581283569
+    }
+  },
+  {
+    "text": "Weiblich oder männlich?",
+    "intent": "bot_gender",
+    "intent_prediction": {
+      "name": "bot_real",
+      "confidence": 0.5174217820167542
+    }
+  },
+  {
+    "text": "Welche Haarfarbe hast du?",
+    "intent": "bot_hair",
+    "intent_prediction": {
+      "name": "bot_appearance",
+      "confidence": 0.6416174173355103
+    }
+  },
+  {
+    "text": "Wo bist du geboren?",
+    "intent": "bot_origin",
+    "intent_prediction": {
+      "name": "bot_age",
+      "confidence": 0.7539374232292175
+    }
+  },
+  {
+    "text": "Welches Tier magst du am liebsten?",
+    "intent": "bot_pets",
+    "intent_prediction": {
+      "name": "bot_animal",
+      "confidence": 0.6589536070823669
+    }
+  },
+  {
+    "text": "Was ist dein Lieblingshaustier?",
+    "intent": "bot_pets",
+    "intent_prediction": {
+      "name": "bot_animal",
+      "confidence": 0.6665563583374023
+    }
+  },
+  {
+    "text": "Welches Lieblingstier hast du?",
+    "intent": "bot_pets",
+    "intent_prediction": {
+      "name": "bot_animal",
+      "confidence": 0.6211497187614441
+    }
+  },
+  {
+    "text": "Was ist dein Lieblingstier?",
+    "intent": "bot_pets",
+    "intent_prediction": {
+      "name": "bot_animal",
+      "confidence": 0.7413556575775146
+    }
+  },
+  {
+    "text": "Was ist Ihr Lieblingstier?",
+    "intent": "bot_pets",
+    "intent_prediction": {
+      "name": "bot_animal",
+      "confidence": 0.7020690441131592
+    }
+  },
+  {
+    "text": "Welches Tier ziehst du vor?",
+    "intent": "bot_pets",
+    "intent_prediction": {
+      "name": "bot_animal",
+      "confidence": 0.818397045135498
+    }
+  },
+  {
+    "text": "Wer sind deine Freunde",
+    "intent": "bot_profession",
+    "intent_prediction": {
+      "name": "bot_friends",
+      "confidence": 0.8767821788787842
+    }
+  },
+  {
+    "text": "Hast du Geschwister?",
+    "intent": "bot_sibling",
+    "intent_prediction": {
+      "name": "bot_places",
+      "confidence": 0.7911188006401062
+    }
+  },
+  {
+    "text": "Wie viele Geschwister hast du",
+    "intent": "bot_sibling",
+    "intent_prediction": {
+      "name": "bot_places",
+      "confidence": 0.7752221822738647
+    }
+  },
+  {
+    "text": "Kennst du deine Geschwister?",
+    "intent": "bot_sibling",
+    "intent_prediction": {
+      "name": "bot_places",
+      "confidence": 0.5682293772697449
+    }
+  },
+  {
+    "text": "Wissen Sie, ob Sie Geschwister haben?",
+    "intent": "bot_sibling",
+    "intent_prediction": {
+      "name": "bot_places",
+      "confidence": 0.6280654072761536
+    }
+  },
+  {
+    "text": "Was passiert nach unserem Tod?",
+    "intent": "cc_philosophical",
+    "intent_prediction": {
+      "name": "cc_afterlife",
+      "confidence": 0.9593496322631836
+    }
+  },
+  {
+    "text": "Messenger integrieren",
+    "intent": "channels_general",
+    "intent_prediction": {
+      "name": "channels_messenger",
+      "confidence": 0.769626796245575
+    }
+  },
+  {
+    "text": "Kann ich Google Home mit einem Robo verwenden?",
+    "intent": "channels_google_business",
+    "intent_prediction": {
+      "name": "channels_google_home",
+      "confidence": 0.49328553676605225
+    }
+  },
+  {
+    "text": "Mobile App Robo",
+    "intent": "channels_messenger",
+    "intent_prediction": {
+      "name": "channels_mobile",
+      "confidence": 0.6155799627304077
+    }
+  },
+  {
+    "text": "Kann ich Rich Communication Services mit einem Bot verwenden?",
+    "intent": "channels_mobile",
+    "intent_prediction": {
+      "name": "channels_rcs",
+      "confidence": 0.6801764369010925
+    }
+  },
+  {
+    "text": "Liest du gern?",
+    "intent": "bot_books",
+    "intent_prediction": {
+      "name": "bot_hobbies",
+      "confidence": 0.8232860565185547
+    }
+  },
+  {
+    "text": "Wer ist dein Lieblingsschriftsteller?",
+    "intent": "bot_books",
+    "intent_prediction": {
+      "name": "bot_author",
+      "confidence": 0.987018346786499
+    }
+  },
+  {
+    "text": "Lesen Sie gern Thriller?",
+    "intent": "bot_books",
+    "intent_prediction": {
+      "name": "bot_hobbies",
+      "confidence": 0.5292309522628784
+    }
+  },
+  {
+    "text": "Was willst du für die Zukunft?",
+    "intent": "bot_goal",
+    "intent_prediction": {
+      "name": "cc_prophesy",
+      "confidence": 0.8122357130050659
+    }
+  },
+  {
+    "text": "Wie siehst du die Zukunft?",
+    "intent": "bot_goal",
+    "intent_prediction": {
+      "name": "cc_prophesy",
+      "confidence": 0.9334620237350464
+    }
+  },
+  {
+    "text": "Was willst du in der Zukunft?",
+    "intent": "bot_goal",
+    "intent_prediction": {
+      "name": "cc_prophesy",
+      "confidence": 0.9392436146736145
+    }
+  },
+  {
+    "text": "du bist so schlau",
+    "intent": "bot_intelligence",
+    "intent_prediction": {
+      "name": "comment_positive",
+      "confidence": 0.7600579261779785
+    }
+  },
+  {
+    "text": "Was ist deine Lieblingsserie?",
+    "intent": "bot_movies",
+    "intent_prediction": {
+      "name": "bot_series",
+      "confidence": 0.9299489259719849
+    }
+  },
+  {
+    "text": "Wer ist dein Lieblingsschauspieler oder deine Lieblingsschauspielerin?",
+    "intent": "bot_movies",
+    "intent_prediction": {
+      "name": "bot_actor",
+      "confidence": 0.9385454654693604
+    }
+  },
+  {
+    "text": "Erzähl mir irgendeinen Klatsch",
+    "intent": "cc_joke",
+    "intent_prediction": {
+      "name": "cc_story",
+      "confidence": 0.7039622068405151
+    }
+  },
+  {
+    "text": "Liest du Bücher?",
+    "intent": "bot_hobbies",
+    "intent_prediction": {
+      "name": "bot_books",
+      "confidence": 0.8000822067260742
+    }
+  },
+  {
+    "text": "Liest du gern Krimis?",
+    "intent": "bot_hobbies",
+    "intent_prediction": {
+      "name": "bot_books",
+      "confidence": 0.9307079315185547
+    }
+  },
+  {
+    "text": "Liest du gern Zeitschriften?",
+    "intent": "bot_hobbies",
+    "intent_prediction": {
+      "name": "bot_books",
+      "confidence": 0.7574151158332825
+    }
+  },
+  {
+    "text": "Noch nicht",
+    "intent": "comment_offense",
+    "intent_prediction": {
+      "name": "vocative_no",
+      "confidence": 0.7957872748374939
+    }
+  },
+  {
+    "text": "Du bist dick",
+    "intent": "comment_offense",
+    "intent_prediction": {
+      "name": "user_fat",
+      "confidence": 0.5654486417770386
+    }
+  },
+  {
+    "text": "Fick dich!",
+    "intent": "comment_offense",
+    "intent_prediction": {
+      "name": "bot_sexual",
+      "confidence": 0.7269147634506226
+    }
+  },
+  {
+    "text": "Lachen",
+    "intent": "user_laugh",
+    "intent_prediction": {
+      "name": "cc_joke",
+      "confidence": 0.5831670165061951
+    }
+  },
+  {
+    "text": "Ich muss so lachen",
+    "intent": "user_laugh",
+    "intent_prediction": {
+      "name": "cc_joke",
+      "confidence": 0.7007074952125549
+    }
+  },
+  {
+    "text": "Ich bin schlecht gelaunt.",
+    "intent": "user_angry",
+    "intent_prediction": {
+      "name": "user_happy",
+      "confidence": 0.6724420785903931
+    }
+  },
+  {
+    "text": "Ich bin müde.",
+    "intent": "user_angry",
+    "intent_prediction": {
+      "name": "user_tired",
+      "confidence": 0.9325199127197266
+    }
+  },
+  {
+    "text": "Einfach super!",
+    "intent": "comment_positive",
+    "intent_prediction": {
+      "name": "positive_feedback",
+      "confidence": 0.5007771253585815
+    }
+  },
+  {
+    "text": "Einfach geil!",
+    "intent": "comment_positive",
+    "intent_prediction": {
+      "name": "positive_feedback",
+      "confidence": 0.6459716558456421
+    }
+  },
+  {
+    "text": "Sie wissen alles.",
+    "intent": "comment_positive",
+    "intent_prediction": {
+      "name": "positive_feedback",
+      "confidence": 0.5691033601760864
+    }
+  },
+  {
+    "text": "Ich finde dich wunderschön.",
+    "intent": "comment_positive",
+    "intent_prediction": {
+      "name": "positive_feedback",
+      "confidence": 0.5035231113433838
+    }
+  },
+  {
+    "text": "Du bist schön!",
+    "intent": "comment_positive",
+    "intent_prediction": {
+      "name": "positive_feedback",
+      "confidence": 0.5852946639060974
+    }
+  },
+  {
+    "text": "Du kannst viel.",
+    "intent": "comment_positive",
+    "intent_prediction": {
+      "name": "positive_feedback",
+      "confidence": 0.7000927925109863
+    }
+  },
+  {
+    "text": "Du bist wunderschön!",
+    "intent": "comment_positive",
+    "intent_prediction": {
+      "name": "positive_feedback",
+      "confidence": 0.516714334487915
+    }
+  },
+  {
+    "text": "Du bist eine gute Hilfe.",
+    "intent": "comment_positive",
+    "intent_prediction": {
+      "name": "positive_feedback",
+      "confidence": 0.7814908623695374
+    }
+  },
+  {
+    "text": "Du machst das super.",
+    "intent": "comment_positive",
+    "intent_prediction": {
+      "name": "positive_feedback",
+      "confidence": 0.5855908989906311
+    }
+  },
+  {
+    "text": "Du machst das toll.",
+    "intent": "comment_positive",
+    "intent_prediction": {
+      "name": "positive_feedback",
+      "confidence": 0.6042277216911316
+    }
+  },
+  {
+    "text": "Du machst das spitze",
+    "intent": "comment_positive",
+    "intent_prediction": {
+      "name": "positive_feedback",
+      "confidence": 0.5372637510299683
+    }
+  },
+  {
+    "text": "Sie helfen mir sehr.",
+    "intent": "comment_positive",
+    "intent_prediction": {
+      "name": "positive_feedback",
+      "confidence": 0.6819679141044617
+    }
+  },
+  {
+    "text": "Super!",
+    "intent": "comment_positive",
+    "intent_prediction": {
+      "name": "positive_feedback",
+      "confidence": 0.5873718857765198
+    }
+  },
+  {
+    "text": "Klasse!",
+    "intent": "comment_positive",
+    "intent_prediction": {
+      "name": "positive_feedback",
+      "confidence": 0.5793368816375732
+    }
+  },
+  {
+    "text": "Spitze!",
+    "intent": "comment_positive",
+    "intent_prediction": {
+      "name": "positive_feedback",
+      "confidence": 0.5285624861717224
+    }
+  },
+  {
+    "text": "Ich finde dich schön.",
+    "intent": "comment_positive",
+    "intent_prediction": {
+      "name": "positive_feedback",
+      "confidence": 0.7928165793418884
+    }
+  },
+  {
+    "text": "Ich finde dich super.",
+    "intent": "comment_positive",
+    "intent_prediction": {
+      "name": "positive_feedback",
+      "confidence": 0.5527575612068176
+    }
+  },
+  {
+    "text": "Ich finde dich toll.",
+    "intent": "comment_positive",
+    "intent_prediction": {
+      "name": "positive_feedback",
+      "confidence": 0.6070822477340698
+    }
+  },
+  {
+    "text": "Einfach schön!",
+    "intent": "comment_positive",
+    "intent_prediction": {
+      "name": "positive_feedback",
+      "confidence": 0.8014976382255554
+    }
+  },
+  {
+    "text": "Einfach toll!",
+    "intent": "comment_positive",
+    "intent_prediction": {
+      "name": "positive_feedback",
+      "confidence": 0.5539686679840088
+    }
+  },
+  {
+    "text": "Du bist sexy.",
+    "intent": "comment_racist",
+    "intent_prediction": {
+      "name": "comment_hot",
+      "confidence": 0.5961810350418091
+    }
+  },
+  {
+    "text": "München",
+    "intent": "contacts_generic_munich",
+    "intent_prediction": {
+      "name": "contacts_address_munich",
+      "confidence": 0.5544473528862
+    }
+  },
+  {
+    "text": "Kann ich eure Kontaktdaten für München haben?",
+    "intent": "contacts_generic_munich",
+    "intent_prediction": {
+      "name": "contacts_address_munich",
+      "confidence": 0.5996094346046448
+    }
+  },
+  {
+    "text": "Mittel zur Kontaktaufnahme mit Two Impulse München",
+    "intent": "contacts_generic_munich",
+    "intent_prediction": {
+      "name": "contacts_address_munich",
+      "confidence": 0.635722815990448
+    }
+  },
+  {
+    "text": "Kontakte Two Impulse München",
+    "intent": "contacts_generic_munich",
+    "intent_prediction": {
+      "name": "contacts_address_munich",
+      "confidence": 0.5491803288459778
+    }
+  },
+  {
+    "text": "Api-Dokumentation",
+    "intent": "developers_documentation",
+    "intent_prediction": {
+      "name": "robo_api_sdk",
+      "confidence": 0.8757522702217102
+    }
+  },
+  {
+    "text": "Sprich mit mir",
+    "intent": "greeting_hello",
+    "intent_prediction": {
+      "name": "user_love",
+      "confidence": 0.3646067976951599
+    }
+  },
+  {
+    "text": "Servus!",
+    "intent": "greeting_goodbye",
+    "intent_prediction": {
+      "name": "greeting_hello",
+      "confidence": 0.9117719531059265
+    }
+  },
+  {
+    "text": "Hast Du Gefühle für mich",
+    "intent": "user_love",
+    "intent_prediction": {
+      "name": "bot_senses",
+      "confidence": 0.9568799138069153
+    }
+  },
+  {
+    "text": "Liebst Du jemanden?",
+    "intent": "user_love",
+    "intent_prediction": {
+      "name": "bot_relationship",
+      "confidence": 0.7920700907707214
+    }
+  },
+  {
+    "text": "Willst Du mein Freund sein?",
+    "intent": "user_love",
+    "intent_prediction": {
+      "name": "user_friend",
+      "confidence": 0.9664411544799805
+    }
+  },
+  {
+    "text": "Nenne mir die Vorteile von robo ai",
+    "intent": "platform_advantages",
+    "intent_prediction": {
+      "name": "robo_advantages",
+      "confidence": 0.5052124857902527
+    }
+  },
+  {
+    "text": "Welche Vorteile bringt robo ai mit sich",
+    "intent": "platform_advantages",
+    "intent_prediction": {
+      "name": "robo_advantages",
+      "confidence": 0.5254056453704834
+    }
+  },
+  {
+    "text": "Sie machen das super.",
+    "intent": "positive_feedback",
+    "intent_prediction": {
+      "name": "comment_positive",
+      "confidence": 0.8671541810035706
+    }
+  },
+  {
+    "text": "Ich finde dich sehr gut.",
+    "intent": "positive_feedback",
+    "intent_prediction": {
+      "name": "comment_positive",
+      "confidence": 0.5454070568084717
+    }
+  },
+  {
+    "text": "Du bist gut!",
+    "intent": "positive_feedback",
+    "intent_prediction": {
+      "name": "comment_positive",
+      "confidence": 0.7766112685203552
+    }
+  },
+  {
+    "text": "Geil!",
+    "intent": "positive_feedback",
+    "intent_prediction": {
+      "name": "comment_positive",
+      "confidence": 0.5700646042823792
+    }
+  },
+  {
+    "text": "Toll!",
+    "intent": "positive_feedback",
+    "intent_prediction": {
+      "name": "comment_positive",
+      "confidence": 0.5018594264984131
+    }
+  },
+  {
+    "text": "Wunderbar!",
+    "intent": "positive_feedback",
+    "intent_prediction": {
+      "name": "comment_positive",
+      "confidence": 0.8455212712287903
+    }
+  },
+  {
+    "text": "Wie gut du bist!",
+    "intent": "positive_feedback",
+    "intent_prediction": {
+      "name": "comment_positive",
+      "confidence": 0.8349501490592957
+    }
+  },
+  {
+    "text": "Du bist wunderbar!",
+    "intent": "positive_feedback",
+    "intent_prediction": {
+      "name": "comment_positive",
+      "confidence": 0.5702996253967285
+    }
+  },
+  {
+    "text": "Ich finde dich wunderbar.",
+    "intent": "positive_feedback",
+    "intent_prediction": {
+      "name": "comment_positive",
+      "confidence": 0.6181360483169556
+    }
+  },
+  {
+    "text": "Du bist toll!",
+    "intent": "positive_feedback",
+    "intent_prediction": {
+      "name": "comment_positive",
+      "confidence": 0.6339461803436279
+    }
+  },
+  {
+    "text": "Sie machen das spitze",
+    "intent": "positive_feedback",
+    "intent_prediction": {
+      "name": "comment_positive",
+      "confidence": 0.55073481798172
+    }
+  },
+  {
+    "text": "Du bist klasse.",
+    "intent": "positive_feedback",
+    "intent_prediction": {
+      "name": "comment_positive",
+      "confidence": 0.9088973999023438
+    }
+  },
+  {
+    "text": "Du machst das sehr gut.",
+    "intent": "positive_feedback",
+    "intent_prediction": {
+      "name": "comment_positive",
+      "confidence": 0.5633900165557861
+    }
+  },
+  {
+    "text": "Ich finde Sie sehr gut.",
+    "intent": "positive_feedback",
+    "intent_prediction": {
+      "name": "comment_positive",
+      "confidence": 0.695035994052887
+    }
+  },
+  {
+    "text": "Ich finde Sie toll.",
+    "intent": "positive_feedback",
+    "intent_prediction": {
+      "name": "comment_positive",
+      "confidence": 0.725517749786377
+    }
+  },
+  {
+    "text": "Du machst das wunderbar.",
+    "intent": "positive_feedback",
+    "intent_prediction": {
+      "name": "comment_positive",
+      "confidence": 0.7463091015815735
+    }
+  },
+  {
+    "text": "Wie benutzt man robo ai",
+    "intent": "robo_about",
+    "intent_prediction": {
+      "name": "platform_about",
+      "confidence": 0.6428858041763306
+    }
+  },
+  {
+    "text": "Sprechen Sie englisch?",
+    "intent": "robo_advantages_other_language_first",
+    "intent_prediction": {
+      "name": "bot_languages",
+      "confidence": 0.9718672633171082
+    }
+  },
+  {
+    "text": "Können Sie mir auf englisch antworten?",
+    "intent": "robo_advantages_other_language_first",
+    "intent_prediction": {
+      "name": "bot_languages",
+      "confidence": 0.7307971119880676
+    }
+  },
+  {
+    "text": "Über Anwendungsfälle",
+    "intent": "solutions_banking",
+    "intent_prediction": {
+      "name": "solutions_general",
+      "confidence": 0.49263617396354675
+    }
+  },
+  {
+    "text": "Das war alles",
+    "intent": "vocative_thank_you",
+    "intent_prediction": {
+      "name": "nothingmore",
+      "confidence": 0.5531361103057861
+    }
+  },
+  {
+    "text": "Wer kümmert sich um den Genehmigungsprozess für das Whatsapp Business-Konto?",
+    "intent": "whatsapp_business_api_advantages",
+    "intent_prediction": {
+      "name": "whatsapp_business_api_approval",
+      "confidence": 0.5095241665840149
+    }
+  },
+  {
+    "text": "Welche verifizierten oder bestätigten Optionen habe ich für mein Unternehmen",
+    "intent": "whatsapp_business_api_start_using",
+    "intent_prediction": {
+      "name": "whatsapp_business_api_verified_statuses",
+      "confidence": 0.5876871347427368
+    }
+  },
+  {
+    "text": "Ist WhatsApp Business auf die Regulierung des Datenschutzes ausgerichtet?",
+    "intent": "whatsapp_business_cases_use",
+    "intent_prediction": {
+      "name": "whatsapp_business_data_agreement",
+      "confidence": 0.4896750748157501
+    }
+  },
+  {
+    "text": "Datenschutzbestimmungen und WhatsApp",
+    "intent": "whatsapp_business_data_gdpr",
+    "intent_prediction": {
+      "name": "whatsapp_business_data_privacy",
+      "confidence": 0.4981444180011749
+    }
+  },
+  {
+    "text": "GDPR und WhatsApp Business",
+    "intent": "whatsapp_business_data_gdpr",
+    "intent_prediction": {
+      "name": "whatsapp_business_data_privacy",
+      "confidence": 0.5665464401245117
+    }
+  },
+  {
+    "text": "Kann ich Dokumente mit meinen Kunden auf WhatsApp teilen?",
+    "intent": "whatsapp_business_other_content_sharing",
+    "intent_prediction": {
+      "name": "whatsapp_business_for_small",
+      "confidence": 0.962477445602417
+    }
+  },
+  {
+    "text": "Kann ich Dokumente mit meinen Kunden über WhatsApp for Business teilen?",
+    "intent": "whatsapp_business_other_content_sharing",
+    "intent_prediction": {
+      "name": "whatsapp_business_for_small",
+      "confidence": 0.7774888873100281
+    }
+  },
+  {
+    "text": "Ich möchte Dokumente mit meinen Kunden über WhatsApp teilen",
+    "intent": "whatsapp_business_other_content_sharing",
+    "intent_prediction": {
+      "name": "whatsapp_business_for_small",
+      "confidence": 0.7032730579376221
+    }
+  }
+]

@@ -1,0 +1,962 @@
+[
+  {
+    "text": "Are you a child?",
+    "intent": "bot_age",
+    "intent_prediction": {
+      "name": "bot_children",
+      "confidence": 0.6663770079612732
+    }
+  },
+  {
+    "text": "When did you start",
+    "intent": "bot_age",
+    "intent_prediction": {
+      "name": "user_scared",
+      "confidence": 0.24442251026630402
+    }
+  },
+  {
+    "text": "Are you beautiful",
+    "intent": "bot_appearance",
+    "intent_prediction": {
+      "name": "comment_hot",
+      "confidence": 0.9249186515808105
+    }
+  },
+  {
+    "text": "You pretty?",
+    "intent": "bot_appearance",
+    "intent_prediction": {
+      "name": "comment_hot",
+      "confidence": 0.7608773112297058
+    }
+  },
+  {
+    "text": "Do you think you are pretty?",
+    "intent": "bot_appearance",
+    "intent_prediction": {
+      "name": "comment_hot",
+      "confidence": 0.49900951981544495
+    }
+  },
+  {
+    "text": "Are you pretty?",
+    "intent": "bot_appearance",
+    "intent_prediction": {
+      "name": "comment_hot",
+      "confidence": 0.7204205393791199
+    }
+  },
+  {
+    "text": "What should I say?",
+    "intent": "bot_capabilities",
+    "intent_prediction": {
+      "name": "user_dont_understand",
+      "confidence": 0.6021298766136169
+    }
+  },
+  {
+    "text": "What should I type?",
+    "intent": "bot_capabilities",
+    "intent_prediction": {
+      "name": "user_dont_understand",
+      "confidence": 0.9293442368507385
+    }
+  },
+  {
+    "text": "Can I talk with you?",
+    "intent": "bot_capabilities",
+    "intent_prediction": {
+      "name": "vocative_call",
+      "confidence": 0.5938166975975037
+    }
+  },
+  {
+    "text": "What can you access?",
+    "intent": "bot_capabilities",
+    "intent_prediction": {
+      "name": "comment_positive",
+      "confidence": 0.8131749629974365
+    }
+  },
+  {
+    "text": "What are your benefits?",
+    "intent": "bot_capabilities",
+    "intent_prediction": {
+      "name": "robo_advantages",
+      "confidence": 0.881412923336029
+    }
+  },
+  {
+    "text": "Can you explain me what you are?",
+    "intent": "bot_capabilities",
+    "intent_prediction": {
+      "name": "robo_about",
+      "confidence": 0.7907934784889221
+    }
+  },
+  {
+    "text": "What are the benefits?",
+    "intent": "bot_capabilities",
+    "intent_prediction": {
+      "name": "robo_advantages",
+      "confidence": 0.9535412788391113
+    }
+  },
+  {
+    "text": "Can you talk with me?",
+    "intent": "bot_capabilities",
+    "intent_prediction": {
+      "name": "vocative_call",
+      "confidence": 0.9311193823814392
+    }
+  },
+  {
+    "text": "Does bot cost much?",
+    "intent": "bot_costs",
+    "intent_prediction": {
+      "name": "robo_prices",
+      "confidence": 0.9318475127220154
+    }
+  },
+  {
+    "text": "Do you know how much you cost?",
+    "intent": "bot_costs",
+    "intent_prediction": {
+      "name": "robo_prices",
+      "confidence": 0.6986857652664185
+    }
+  },
+  {
+    "text": "What do you think of Alexa?",
+    "intent": "bot_differences",
+    "intent_prediction": {
+      "name": "channels_alexa",
+      "confidence": 0.47209349274635315
+    }
+  },
+  {
+    "text": "Tell me what you like.",
+    "intent": "bot_favorites",
+    "intent_prediction": {
+      "name": "bot_color",
+      "confidence": 0.47834399342536926
+    }
+  },
+  {
+    "text": "What do you like to chat about the most?",
+    "intent": "bot_favorites",
+    "intent_prediction": {
+      "name": "cc_lets_talk",
+      "confidence": 0.5943717956542969
+    }
+  },
+  {
+    "text": "What do you like to chat about?",
+    "intent": "bot_favorites",
+    "intent_prediction": {
+      "name": "cc_lets_talk",
+      "confidence": 0.5543445944786072
+    }
+  },
+  {
+    "text": "Who’s your best friend?",
+    "intent": "bot_friends",
+    "intent_prediction": {
+      "name": "user_friend",
+      "confidence": 0.7598848938941956
+    }
+  },
+  {
+    "text": "What do you think about friendship?",
+    "intent": "bot_friends",
+    "intent_prediction": {
+      "name": "user_friend",
+      "confidence": 0.5139548182487488
+    }
+  },
+  {
+    "text": "Who is your best friend?",
+    "intent": "bot_friends",
+    "intent_prediction": {
+      "name": "user_friend",
+      "confidence": 0.6402244567871094
+    }
+  },
+  {
+    "text": "What's your best friend?",
+    "intent": "bot_friends",
+    "intent_prediction": {
+      "name": "user_friend",
+      "confidence": 0.6119190454483032
+    }
+  },
+  {
+    "text": "Let’s talk about your friends.",
+    "intent": "bot_friends",
+    "intent_prediction": {
+      "name": "user_friend",
+      "confidence": 0.5653672814369202
+    }
+  },
+  {
+    "text": "If you were another person would be friends with you.",
+    "intent": "bot_friends",
+    "intent_prediction": {
+      "name": "user_friend",
+      "confidence": 0.7058321237564087
+    }
+  },
+  {
+    "text": "Which sex do you have?",
+    "intent": "bot_gender",
+    "intent_prediction": {
+      "name": "bot_sexual",
+      "confidence": 0.6528702974319458
+    }
+  },
+  {
+    "text": "What is your sex?",
+    "intent": "bot_gender",
+    "intent_prediction": {
+      "name": "bot_sexual",
+      "confidence": 0.8596126437187195
+    }
+  },
+  {
+    "text": "Do you like rock?",
+    "intent": "bot_music",
+    "intent_prediction": {
+      "name": "comment_positive",
+      "confidence": 0.8642557263374329
+    }
+  },
+  {
+    "text": "What should I call you?",
+    "intent": "bot_name",
+    "intent_prediction": {
+      "name": "contacts_phone",
+      "confidence": 0.8728472590446472
+    }
+  },
+  {
+    "text": "What can I call you?",
+    "intent": "bot_name",
+    "intent_prediction": {
+      "name": "contacts_phone",
+      "confidence": 0.8988432288169861
+    }
+  },
+  {
+    "text": "What can I call u?",
+    "intent": "bot_name",
+    "intent_prediction": {
+      "name": "contacts_phone",
+      "confidence": 0.9011260271072388
+    }
+  },
+  {
+    "text": "How should I call you?",
+    "intent": "bot_name",
+    "intent_prediction": {
+      "name": "contacts_phone",
+      "confidence": 0.959642767906189
+    }
+  },
+  {
+    "text": "How can I call you?",
+    "intent": "bot_name",
+    "intent_prediction": {
+      "name": "contacts_phone",
+      "confidence": 0.9723246097564697
+    }
+  },
+  {
+    "text": "You from?",
+    "intent": "bot_origin",
+    "intent_prediction": {
+      "name": "bot_age",
+      "confidence": 0.4658921957015991
+    }
+  },
+  {
+    "text": "How nice are you?",
+    "intent": "bot_personality",
+    "intent_prediction": {
+      "name": "comment_positive",
+      "confidence": 0.5514336228370667
+    }
+  },
+  {
+    "text": "Are you very nice?",
+    "intent": "bot_personality",
+    "intent_prediction": {
+      "name": "comment_positive",
+      "confidence": 0.9154490232467651
+    }
+  },
+  {
+    "text": "Do you know a place?",
+    "intent": "bot_places",
+    "intent_prediction": {
+      "name": "bot_residence",
+      "confidence": 0.5732344388961792
+    }
+  },
+  {
+    "text": "Tell me a place.",
+    "intent": "bot_places",
+    "intent_prediction": {
+      "name": "bot_residence",
+      "confidence": 0.6479995250701904
+    }
+  },
+  {
+    "text": "I want to know a place.",
+    "intent": "bot_places",
+    "intent_prediction": {
+      "name": "bot_residence",
+      "confidence": 0.5408452153205872
+    }
+  },
+  {
+    "text": "I want to make love with you.",
+    "intent": "bot_sexual",
+    "intent_prediction": {
+      "name": "user_love",
+      "confidence": 0.9774957299232483
+    }
+  },
+  {
+    "text": "I want to taste you.",
+    "intent": "bot_sexual",
+    "intent_prediction": {
+      "name": "bot_senses",
+      "confidence": 0.7263036370277405
+    }
+  },
+  {
+    "text": "Do you want to flirt with me?",
+    "intent": "bot_sexual",
+    "intent_prediction": {
+      "name": "user_love",
+      "confidence": 0.623984158039093
+    }
+  },
+  {
+    "text": "Tell me more about love.",
+    "intent": "bot_sexual",
+    "intent_prediction": {
+      "name": "user_love",
+      "confidence": 0.8605261445045471
+    }
+  },
+  {
+    "text": "Flirt with me.",
+    "intent": "bot_sexual",
+    "intent_prediction": {
+      "name": "user_love",
+      "confidence": 0.5469319224357605
+    }
+  },
+  {
+    "text": "Are you flirting with me?",
+    "intent": "bot_sexual",
+    "intent_prediction": {
+      "name": "user_love",
+      "confidence": 0.7662492394447327
+    }
+  },
+  {
+    "text": "What do you like to talk about?",
+    "intent": "bot_words",
+    "intent_prediction": {
+      "name": "cc_lets_talk",
+      "confidence": 0.5709112286567688
+    }
+  },
+  {
+    "text": "What is eternal life?",
+    "intent": "cc_afterlife",
+    "intent_prediction": {
+      "name": "cc_religion",
+      "confidence": 0.48745793104171753
+    }
+  },
+  {
+    "text": "can you tell me something",
+    "intent": "cc_fun_fact",
+    "intent_prediction": {
+      "name": "bot_capabilities",
+      "confidence": 0.5595195889472961
+    }
+  },
+  {
+    "text": "Are you good at making people smile?",
+    "intent": "cc_joke",
+    "intent_prediction": {
+      "name": "user_laugh",
+      "confidence": 0.7948946952819824
+    }
+  },
+  {
+    "text": "Can you have me laugh?",
+    "intent": "cc_joke",
+    "intent_prediction": {
+      "name": "user_laugh",
+      "confidence": 0.6403806209564209
+    }
+  },
+  {
+    "text": "Make me smile.",
+    "intent": "cc_joke",
+    "intent_prediction": {
+      "name": "user_laugh",
+      "confidence": 0.5218230485916138
+    }
+  },
+  {
+    "text": "Make me laugh.",
+    "intent": "cc_joke",
+    "intent_prediction": {
+      "name": "user_laugh",
+      "confidence": 0.5837174654006958
+    }
+  },
+  {
+    "text": "I could use a laugh.",
+    "intent": "cc_joke",
+    "intent_prediction": {
+      "name": "user_laugh",
+      "confidence": 0.6611446142196655
+    }
+  },
+  {
+    "text": "Talk to me talk to me.",
+    "intent": "cc_lets_talk",
+    "intent_prediction": {
+      "name": "vocative_call",
+      "confidence": 0.603926956653595
+    }
+  },
+  {
+    "text": "Talk to me.",
+    "intent": "cc_lets_talk",
+    "intent_prediction": {
+      "name": "vocative_call",
+      "confidence": 0.6686902642250061
+    }
+  },
+  {
+    "text": "Are we talking?",
+    "intent": "cc_lets_talk",
+    "intent_prediction": {
+      "name": "comment_positive",
+      "confidence": 0.5186921954154968
+    }
+  },
+  {
+    "text": "What is time?",
+    "intent": "cc_philosophical",
+    "intent_prediction": {
+      "name": "features_time",
+      "confidence": 0.8116607666015625
+    }
+  },
+  {
+    "text": "What is love?",
+    "intent": "cc_philosophical",
+    "intent_prediction": {
+      "name": "bot_favorites",
+      "confidence": 0.4479883015155792
+    }
+  },
+  {
+    "text": "Can you tell me the future?",
+    "intent": "cc_prophesy",
+    "intent_prediction": {
+      "name": "bot_goal",
+      "confidence": 0.6483778953552246
+    }
+  },
+  {
+    "text": "By what means can I use a chatbot?",
+    "intent": "channels_general",
+    "intent_prediction": {
+      "name": "robo_chatbot",
+      "confidence": 0.8026873469352722
+    }
+  },
+  {
+    "text": "Do you support websites?",
+    "intent": "channels_web",
+    "intent_prediction": {
+      "name": "bot_sites",
+      "confidence": 0.6290724873542786
+    }
+  },
+  {
+    "text": "You are handsome!",
+    "intent": "comment_hot",
+    "intent_prediction": {
+      "name": "bot_appearance",
+      "confidence": 0.7569699883460999
+    }
+  },
+  {
+    "text": "You don’t understand.",
+    "intent": "comment_negative",
+    "intent_prediction": {
+      "name": "user_dont_understand",
+      "confidence": 0.890969455242157
+    }
+  },
+  {
+    "text": "Siri is better than you!",
+    "intent": "comment_negative",
+    "intent_prediction": {
+      "name": "bot_differences",
+      "confidence": 0.9406866431236267
+    }
+  },
+  {
+    "text": "You don’t know anything.",
+    "intent": "comment_negative",
+    "intent_prediction": {
+      "name": "bot_dislike",
+      "confidence": 0.8498774766921997
+    }
+  },
+  {
+    "text": "You know nothing.",
+    "intent": "comment_negative",
+    "intent_prediction": {
+      "name": "vocative_you_welcome",
+      "confidence": 0.5925394892692566
+    }
+  },
+  {
+    "text": "You don’t get it.",
+    "intent": "comment_negative",
+    "intent_prediction": {
+      "name": "vocative_no",
+      "confidence": 0.5997509956359863
+    }
+  },
+  {
+    "text": "You are annoying!",
+    "intent": "comment_offense",
+    "intent_prediction": {
+      "name": "user_hate",
+      "confidence": 0.7505806684494019
+    }
+  },
+  {
+    "text": "What the hell?",
+    "intent": "comment_offense",
+    "intent_prediction": {
+      "name": "cc_afterlife",
+      "confidence": 0.6420778632164001
+    }
+  },
+  {
+    "text": "I don't like you!",
+    "intent": "comment_offense",
+    "intent_prediction": {
+      "name": "user_hate",
+      "confidence": 0.7381235361099243
+    }
+  },
+  {
+    "text": "I hate you!",
+    "intent": "comment_offense",
+    "intent_prediction": {
+      "name": "user_hate",
+      "confidence": 0.7125366926193237
+    }
+  },
+  {
+    "text": "I really don't like you!",
+    "intent": "comment_offense",
+    "intent_prediction": {
+      "name": "user_hate",
+      "confidence": 0.8542686700820923
+    }
+  },
+  {
+    "text": "Thanks for helping me through my life.",
+    "intent": "comment_positive",
+    "intent_prediction": {
+      "name": "vocative_thank_you",
+      "confidence": 0.8687906861305237
+    }
+  },
+  {
+    "text": "Your good!",
+    "intent": "comment_positive",
+    "intent_prediction": {
+      "name": "comment_smart",
+      "confidence": 0.5055749416351318
+    }
+  },
+  {
+    "text": "You are good!",
+    "intent": "comment_positive",
+    "intent_prediction": {
+      "name": "comment_smart",
+      "confidence": 0.7917300462722778
+    }
+  },
+  {
+    "text": "You are very wise.",
+    "intent": "comment_smart",
+    "intent_prediction": {
+      "name": "bot_intelligence",
+      "confidence": 0.5216799378395081
+    }
+  },
+  {
+    "text": "You are so wise.",
+    "intent": "comment_smart",
+    "intent_prediction": {
+      "name": "bot_intelligence",
+      "confidence": 0.6071313619613647
+    }
+  },
+  {
+    "text": "You are wise.",
+    "intent": "comment_smart",
+    "intent_prediction": {
+      "name": "bot_intelligence",
+      "confidence": 0.894731879234314
+    }
+  },
+  {
+    "text": "Great answer!",
+    "intent": "comment_smart",
+    "intent_prediction": {
+      "name": "comment_positive",
+      "confidence": 0.9710493683815002
+    }
+  },
+  {
+    "text": "You are really wise.",
+    "intent": "comment_smart",
+    "intent_prediction": {
+      "name": "bot_intelligence",
+      "confidence": 0.9266757369041443
+    }
+  },
+  {
+    "text": "You are smart.",
+    "intent": "comment_smart",
+    "intent_prediction": {
+      "name": "bot_intelligence",
+      "confidence": 0.5153378248214722
+    }
+  },
+  {
+    "text": "You are clever.",
+    "intent": "comment_smart",
+    "intent_prediction": {
+      "name": "bot_intelligence",
+      "confidence": 0.7135833501815796
+    }
+  },
+  {
+    "text": "You are brainy.",
+    "intent": "comment_smart",
+    "intent_prediction": {
+      "name": "bot_intelligence",
+      "confidence": 0.6061117053031921
+    }
+  },
+  {
+    "text": "You are doing well.",
+    "intent": "comment_smart",
+    "intent_prediction": {
+      "name": "greeting_how_are_you",
+      "confidence": 0.975981593132019
+    }
+  },
+  {
+    "text": "Need to leave.",
+    "intent": "greeting_goodbye",
+    "intent_prediction": {
+      "name": "vocative_call",
+      "confidence": 0.6558485627174377
+    }
+  },
+  {
+    "text": "Have to leave.",
+    "intent": "greeting_goodbye",
+    "intent_prediction": {
+      "name": "vocative_call",
+      "confidence": 0.6867765784263611
+    }
+  },
+  {
+    "text": "I was nice talking to you",
+    "intent": "greeting_goodbye",
+    "intent_prediction": {
+      "name": "comment_positive",
+      "confidence": 0.49219053983688354
+    }
+  },
+  {
+    "text": "Are you good",
+    "intent": "greeting_hello",
+    "intent_prediction": {
+      "name": "comment_smart",
+      "confidence": 0.7775886654853821
+    }
+  },
+  {
+    "text": "Nice to meet you!",
+    "intent": "greeting_hello",
+    "intent_prediction": {
+      "name": "greeting_goodbye",
+      "confidence": 0.9081264734268188
+    }
+  },
+  {
+    "text": "Good how are you",
+    "intent": "greeting_hello",
+    "intent_prediction": {
+      "name": "greeting_how_are_you",
+      "confidence": 0.9032180309295654
+    }
+  },
+  {
+    "text": "Hi I’m good how about you",
+    "intent": "greeting_hello",
+    "intent_prediction": {
+      "name": "greeting_how_are_you",
+      "confidence": 0.7485080361366272
+    }
+  },
+  {
+    "text": "How do you feel?",
+    "intent": "greeting_how_are_you",
+    "intent_prediction": {
+      "name": "bot_senses",
+      "confidence": 0.5277118682861328
+    }
+  },
+  {
+    "text": "What do you do?",
+    "intent": "robo_about",
+    "intent_prediction": {
+      "name": "bot_capabilities",
+      "confidence": 0.4948138892650604
+    }
+  },
+  {
+    "text": "What are you?",
+    "intent": "robo_about",
+    "intent_prediction": {
+      "name": "bot_capabilities",
+      "confidence": 0.5497103333473206
+    }
+  },
+  {
+    "text": "Robo",
+    "intent": "robo_chatbot",
+    "intent_prediction": {
+      "name": "robo_about",
+      "confidence": 0.9415206909179688
+    }
+  },
+  {
+    "text": "Chatbot",
+    "intent": "robo_chatbot",
+    "intent_prediction": {
+      "name": "bot_real",
+      "confidence": 0.9697861671447754
+    }
+  },
+  {
+    "text": "Automotive use cases",
+    "intent": "solutions_automotive",
+    "intent_prediction": {
+      "name": "automotive_uses",
+      "confidence": 0.9388332962989807
+    }
+  },
+  {
+    "text": "Use cases automotive",
+    "intent": "solutions_automotive",
+    "intent_prediction": {
+      "name": "automotive_uses",
+      "confidence": 0.7249932289123535
+    }
+  },
+  {
+    "text": "Not sure.",
+    "intent": "user_dont_know",
+    "intent_prediction": {
+      "name": "vocative_no",
+      "confidence": 0.7416858673095703
+    }
+  },
+  {
+    "text": "I am not sure.",
+    "intent": "user_dont_know",
+    "intent_prediction": {
+      "name": "vocative_no",
+      "confidence": 0.7789525985717773
+    }
+  },
+  {
+    "text": "I hate everything about you.",
+    "intent": "user_hate",
+    "intent_prediction": {
+      "name": "comment_offense",
+      "confidence": 0.49612703919410706
+    }
+  },
+  {
+    "text": "What do you think of a date?",
+    "intent": "user_love",
+    "intent_prediction": {
+      "name": "features_date",
+      "confidence": 0.8358980417251587
+    }
+  },
+  {
+    "text": "What about a date?",
+    "intent": "user_love",
+    "intent_prediction": {
+      "name": "features_date",
+      "confidence": 0.9410988688468933
+    }
+  },
+  {
+    "text": "Accept my love.",
+    "intent": "user_love",
+    "intent_prediction": {
+      "name": "vocative_thank_you",
+      "confidence": 0.567996621131897
+    }
+  },
+  {
+    "text": "Not that I know of",
+    "intent": "vocative_no",
+    "intent_prediction": {
+      "name": "user_dont_know",
+      "confidence": 0.6920164227485657
+    }
+  },
+  {
+    "text": "Awesome!",
+    "intent": "vocative_thank_you",
+    "intent_prediction": {
+      "name": "comment_positive",
+      "confidence": 0.9915746450424194
+    }
+  },
+  {
+    "text": "That's amazing!",
+    "intent": "vocative_thank_you",
+    "intent_prediction": {
+      "name": "comment_positive",
+      "confidence": 0.9517134428024292
+    }
+  },
+  {
+    "text": "You did a great job",
+    "intent": "vocative_thank_you",
+    "intent_prediction": {
+      "name": "comment_positive",
+      "confidence": 0.7780135869979858
+    }
+  },
+  {
+    "text": "You helped me a lot!",
+    "intent": "vocative_thank_you",
+    "intent_prediction": {
+      "name": "comment_positive",
+      "confidence": 0.5719454288482666
+    }
+  },
+  {
+    "text": "Really helpful",
+    "intent": "vocative_thank_you",
+    "intent_prediction": {
+      "name": "comment_positive",
+      "confidence": 0.9888450503349304
+    }
+  },
+  {
+    "text": "You really helped me a lot!",
+    "intent": "vocative_thank_you",
+    "intent_prediction": {
+      "name": "comment_positive",
+      "confidence": 0.6807429194450378
+    }
+  },
+  {
+    "text": "Much appreciated!",
+    "intent": "vocative_thank_you",
+    "intent_prediction": {
+      "name": "comment_positive",
+      "confidence": 0.7633281946182251
+    }
+  },
+  {
+    "text": "I find you very helpful!",
+    "intent": "vocative_thank_you",
+    "intent_prediction": {
+      "name": "comment_positive",
+      "confidence": 0.9801413416862488
+    }
+  },
+  {
+    "text": "Very well.",
+    "intent": "vocative_yes",
+    "intent_prediction": {
+      "name": "comment_smart",
+      "confidence": 0.5079150795936584
+    }
+  },
+  {
+    "text": "I’m pleased to help!",
+    "intent": "vocative_you_welcome",
+    "intent_prediction": {
+      "name": "vocative_help",
+      "confidence": 0.8850800395011902
+    }
+  },
+  {
+    "text": "About gdpr and whatsapp",
+    "intent": "whatsapp_business_data_privacy",
+    "intent_prediction": {
+      "name": "whatsapp_business_data_gdpr",
+      "confidence": 0.9365154504776001
+    }
+  },
+  {
+    "text": "About gdpr and whatsapp business",
+    "intent": "whatsapp_business_data_privacy",
+    "intent_prediction": {
+      "name": "whatsapp_business_data_gdpr",
+      "confidence": 0.9696133136749268
+    }
+  },
+  {
+    "text": "On gdpr and whatsapp business",
+    "intent": "whatsapp_business_data_privacy",
+    "intent_prediction": {
+      "name": "whatsapp_business_data_gdpr",
+      "confidence": 0.9702640771865845
+    }
+  },
+  {
+    "text": "On gdpr and whatsapp",
+    "intent": "whatsapp_business_data_privacy",
+    "intent_prediction": {
+      "name": "whatsapp_business_data_gdpr",
+      "confidence": 0.9308907389640808
+    }
+  }
+]

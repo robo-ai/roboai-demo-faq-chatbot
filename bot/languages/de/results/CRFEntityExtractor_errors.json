@@ -1,0 +1,1369 @@
+[
+  {
+    "text": "Wie lautet eure Adresse in München?",
+    "entities": [
+      {
+        "start": 27,
+        "end": 34,
+        "value": "munich",
+        "entity": "company_cities_address"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "company_cities_address",
+        "start": 27,
+        "end": 35,
+        "confidence_entity": 0.9242754345888553,
+        "value": "München?",
+        "extractor": "CRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "Wie lautet eure Anschrift in München?",
+    "entities": [
+      {
+        "start": 29,
+        "end": 36,
+        "value": "munich",
+        "entity": "company_cities_address"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "company_cities_address",
+        "start": 29,
+        "end": 37,
+        "confidence_entity": 0.9243062116017646,
+        "value": "München?",
+        "extractor": "CRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "Wie ist eure Anschrift in München?",
+    "entities": [
+      {
+        "start": 26,
+        "end": 33,
+        "value": "munich",
+        "entity": "company_cities_address"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "company_cities_address",
+        "start": 26,
+        "end": 34,
+        "confidence_entity": 0.9243062152547218,
+        "value": "München?",
+        "extractor": "CRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "Wo in München befindet sich die Firma?",
+    "entities": [],
+    "predicted_entities": [
+      {
+        "entity": "company_cities_address",
+        "start": 6,
+        "end": 13,
+        "confidence_entity": 0.7166446731779242,
+        "value": "munich",
+        "extractor": "CRFEntityExtractor",
+        "processors": [
+          "EntitySynonymMapper"
+        ]
+      }
+    ]
+  },
+  {
+    "text": "Wie ist die Adresse in München?",
+    "entities": [
+      {
+        "start": 23,
+        "end": 30,
+        "value": "munich",
+        "entity": "company_cities_address"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "company_cities_address",
+        "start": 23,
+        "end": 31,
+        "confidence_entity": 0.9242756002299416,
+        "value": "München?",
+        "extractor": "CRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "Wie lautet die Firmenadresse in München?",
+    "entities": [
+      {
+        "start": 32,
+        "end": 39,
+        "value": "munich",
+        "entity": "company_cities_address"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "company_cities_address",
+        "start": 32,
+        "end": 40,
+        "confidence_entity": 0.9242454349862665,
+        "value": "München?",
+        "extractor": "CRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "Wie lautet eure Adresse in Lissabon?",
+    "entities": [
+      {
+        "start": 27,
+        "end": 35,
+        "value": "lisbon",
+        "entity": "company_cities_address"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "company_cities_address",
+        "start": 27,
+        "end": 36,
+        "confidence_entity": 0.9304002020337196,
+        "value": "Lissabon?",
+        "extractor": "CRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "Wie lautet eure Anschrift in Lissabon?",
+    "entities": [
+      {
+        "start": 29,
+        "end": 37,
+        "value": "lisbon",
+        "entity": "company_cities_address"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "company_cities_address",
+        "start": 29,
+        "end": 38,
+        "confidence_entity": 0.9304291230461381,
+        "value": "Lissabon?",
+        "extractor": "CRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "Wie ist eure Anschrift in Lissabon?",
+    "entities": [
+      {
+        "start": 26,
+        "end": 34,
+        "value": "lisbon",
+        "entity": "company_cities_address"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "company_cities_address",
+        "start": 26,
+        "end": 35,
+        "confidence_entity": 0.9304291264791916,
+        "value": "Lissabon?",
+        "extractor": "CRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "Wie ist die Adresse in Lissabon?",
+    "entities": [
+      {
+        "start": 23,
+        "end": 31,
+        "value": "lisbon",
+        "entity": "company_cities_address"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "company_cities_address",
+        "start": 23,
+        "end": 32,
+        "confidence_entity": 0.9304003577088462,
+        "value": "Lissabon?",
+        "extractor": "CRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "Wie lautet die Firmenadresse in Lissabon?",
+    "entities": [
+      {
+        "start": 32,
+        "end": 40,
+        "value": "lisbon",
+        "entity": "company_cities_address"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "company_cities_address",
+        "start": 32,
+        "end": 41,
+        "confidence_entity": 0.9303720095358087,
+        "value": "Lissabon?",
+        "extractor": "CRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "Wie lautet eure Adresse in Évora?",
+    "entities": [
+      {
+        "start": 27,
+        "end": 32,
+        "value": "evora",
+        "entity": "company_cities_address"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "company_cities_address",
+        "start": 27,
+        "end": 33,
+        "confidence_entity": 0.9647787692970032,
+        "value": "Évora?",
+        "extractor": "CRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "Wie lautet eure Anschrift in Evora?",
+    "entities": [
+      {
+        "start": 29,
+        "end": 34,
+        "value": "evora",
+        "entity": "company_cities_address"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "company_cities_address",
+        "start": 29,
+        "end": 35,
+        "confidence_entity": 0.9776024764083389,
+        "value": "Evora?",
+        "extractor": "CRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "Wie ist eure Anschrift in Évora?",
+    "entities": [
+      {
+        "start": 26,
+        "end": 31,
+        "value": "evora",
+        "entity": "company_cities_address"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "company_cities_address",
+        "start": 26,
+        "end": 32,
+        "confidence_entity": 0.964795167277535,
+        "value": "Évora?",
+        "extractor": "CRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "Wie ist die Adresse in Evora?",
+    "entities": [
+      {
+        "start": 23,
+        "end": 28,
+        "value": "evora",
+        "entity": "company_cities_address"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "company_cities_address",
+        "start": 23,
+        "end": 29,
+        "confidence_entity": 0.9775919903281006,
+        "value": "Evora?",
+        "extractor": "CRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "Wie lautet die Firmenadresse in Evora?",
+    "entities": [
+      {
+        "start": 32,
+        "end": 37,
+        "value": "evora",
+        "entity": "company_cities_address"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "company_cities_address",
+        "start": 32,
+        "end": 38,
+        "confidence_entity": 0.9775816507861237,
+        "value": "Evora?",
+        "extractor": "CRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "Wie lautet eure Anschrift in Évora?",
+    "entities": [
+      {
+        "start": 29,
+        "end": 34,
+        "value": "evora",
+        "entity": "company_cities_address"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "company_cities_address",
+        "start": 29,
+        "end": 35,
+        "confidence_entity": 0.9647951653299319,
+        "value": "Évora?",
+        "extractor": "CRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "Wie ist eure Anschrift in Evora?",
+    "entities": [
+      {
+        "start": 26,
+        "end": 31,
+        "value": "evora",
+        "entity": "company_cities_address"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "company_cities_address",
+        "start": 26,
+        "end": 32,
+        "confidence_entity": 0.9776024776606398,
+        "value": "Evora?",
+        "extractor": "CRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "Gibt es Vorteile von Fahrzeugroboter?",
+    "entities": [
+      {
+        "start": 21,
+        "end": 29,
+        "value": "automotive",
+        "entity": "bot_sector"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "Automobil-Chatbot-Vorteile",
+    "entities": [
+      {
+        "start": 0,
+        "end": 9,
+        "value": "automotive",
+        "entity": "bot_sector"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "Vorteile für Fahrzeugbots",
+    "entities": [
+      {
+        "start": 13,
+        "end": 21,
+        "value": "automotive",
+        "entity": "bot_sector"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "Vorteile für den FahrzeugRobo",
+    "entities": [
+      {
+        "start": 17,
+        "end": 25,
+        "value": "automotive",
+        "entity": "bot_sector"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "Fahrzeug-Bot-Vorteile",
+    "entities": [
+      {
+        "start": 0,
+        "end": 8,
+        "value": "automotive",
+        "entity": "bot_sector"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "Vorteile Fahrzeugbot",
+    "entities": [
+      {
+        "start": 9,
+        "end": 17,
+        "value": "automotive",
+        "entity": "bot_sector"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "Vorteile Fahrzeug-Robo",
+    "entities": [
+      {
+        "start": 9,
+        "end": 17,
+        "value": "automotive",
+        "entity": "bot_sector"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "Fahrzeugroboter Vorteile",
+    "entities": [
+      {
+        "start": 0,
+        "end": 8,
+        "value": "automotive",
+        "entity": "bot_sector"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "Vorteile für den Fahrzeugroboter",
+    "entities": [
+      {
+        "start": 17,
+        "end": 25,
+        "value": "automotive",
+        "entity": "bot_sector"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "Was sind die Vorteile eines Kfz-Chatbots?",
+    "entities": [
+      {
+        "start": 28,
+        "end": 31,
+        "value": "automotive",
+        "entity": "bot_sector"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "Was sind die Vorteile eines Fahrzeug-Chatbots?",
+    "entities": [
+      {
+        "start": 28,
+        "end": 36,
+        "value": "automotive",
+        "entity": "bot_sector"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "Was sind die Vorteile eines Auto-Chatbots?",
+    "entities": [
+      {
+        "start": 28,
+        "end": 32,
+        "value": "automotive",
+        "entity": "bot_sector"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "Vorteile von Bots in der Automobil-Industrie",
+    "entities": [
+      {
+        "start": 25,
+        "end": 34,
+        "value": "automotive",
+        "entity": "bot_sector"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "Vorteile von Auto-Chatbots",
+    "entities": [
+      {
+        "start": 13,
+        "end": 17,
+        "value": "automotive",
+        "entity": "bot_sector"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "Vorteile Automobil-bot",
+    "entities": [
+      {
+        "start": 9,
+        "end": 18,
+        "value": "automotive",
+        "entity": "bot_sector"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "Vorteile Fahrzeugroboter",
+    "entities": [
+      {
+        "start": 9,
+        "end": 17,
+        "value": "automotive",
+        "entity": "bot_sector"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "Welchen Vorteil hat der Bot in der Automobil Branche",
+    "entities": [
+      {
+        "start": 35,
+        "end": 44,
+        "value": "automotive",
+        "entity": "bot_sector"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "Welchen Vorteil hat der Chatbot in der Automobil Branche",
+    "entities": [
+      {
+        "start": 39,
+        "end": 48,
+        "value": "automotive",
+        "entity": "bot_sector"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "Gibt es Vorteile für Automobilroboter?",
+    "entities": [
+      {
+        "start": 21,
+        "end": 30,
+        "value": "automotive",
+        "entity": "bot_sector"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "Gibt es Vorteile für Auto-Bots?",
+    "entities": [
+      {
+        "start": 21,
+        "end": 25,
+        "value": "automotive",
+        "entity": "bot_sector"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "Gibt es Vorteile für Auto-Chatbots?",
+    "entities": [
+      {
+        "start": 21,
+        "end": 25,
+        "value": "automotive",
+        "entity": "bot_sector"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "Gibt es Vorteile für Autorobos",
+    "entities": [
+      {
+        "start": 21,
+        "end": 25,
+        "value": "automotive",
+        "entity": "bot_sector"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "Was kann ein Fahrzeugbot tun?",
+    "entities": [
+      {
+        "start": 13,
+        "end": 21,
+        "value": "automotive",
+        "entity": "bot_sector"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "Was bringt mir ein Chatbot in der Automobil Branche",
+    "entities": [
+      {
+        "start": 34,
+        "end": 43,
+        "value": "automotive",
+        "entity": "bot_sector"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "Was kann ein Autobot?",
+    "entities": [
+      {
+        "start": 13,
+        "end": 17,
+        "value": "automotive",
+        "entity": "bot_sector"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "Anwendungsfälle für die Automobilindustrie",
+    "entities": [
+      {
+        "start": 24,
+        "end": 33,
+        "value": "automotive",
+        "entity": "bot_sector"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "Autobots im Einsatz",
+    "entities": [
+      {
+        "start": 0,
+        "end": 4,
+        "value": "automotive",
+        "entity": "bot_sector"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "Anwendungsfälle für Automobil-Chatbots",
+    "entities": [
+      {
+        "start": 20,
+        "end": 29,
+        "value": "automotive",
+        "entity": "bot_sector"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "Wie kann ein Bot in der Automobil Branche verwendet werden",
+    "entities": [
+      {
+        "start": 24,
+        "end": 33,
+        "value": "automotive",
+        "entity": "bot_sector"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "Erzählen Sie mir die Vorteile von Banken Chatbots",
+    "entities": [
+      {
+        "start": 34,
+        "end": 40,
+        "value": "banking",
+        "entity": "bot_sector"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "Warum sollten wir einen Bank Chatbot nutzen",
+    "entities": [
+      {
+        "start": 24,
+        "end": 28,
+        "value": "banking",
+        "entity": "bot_sector"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "Gibt es Vorteile für Chatbots im Bankwesen?",
+    "entities": [
+      {
+        "start": 33,
+        "end": 42,
+        "value": "banking",
+        "entity": "bot_sector"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "bot_sector",
+        "start": 33,
+        "end": 43,
+        "confidence_entity": 0.8832548589164024,
+        "value": "Bankwesen?",
+        "extractor": "CRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "Gibt es Vorteile für Bots im Finanzbereich?",
+    "entities": [
+      {
+        "start": 29,
+        "end": 42,
+        "value": "banking",
+        "entity": "bot_sector"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "bot_sector",
+        "start": 29,
+        "end": 43,
+        "confidence_entity": 0.5468796180774066,
+        "value": "Finanzbereich?",
+        "extractor": "CRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "Vorteile bei Finanz-Chatbots",
+    "entities": [
+      {
+        "start": 13,
+        "end": 19,
+        "value": "banking",
+        "entity": "bot_sector"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "Vorteile von Banken-Chatbots",
+    "entities": [
+      {
+        "start": 13,
+        "end": 19,
+        "value": "banking",
+        "entity": "bot_sector"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "Vorteile eines Banken-Chatbot",
+    "entities": [
+      {
+        "start": 15,
+        "end": 21,
+        "value": "banking",
+        "entity": "bot_sector"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "Vorteile Bankingbots",
+    "entities": [
+      {
+        "start": 9,
+        "end": 16,
+        "value": "banking",
+        "entity": "bot_sector"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "Was bieten Banking-Chatbots?",
+    "entities": [
+      {
+        "start": 11,
+        "end": 18,
+        "value": "banking",
+        "entity": "bot_sector"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "Was können Banking-Bots leisten?",
+    "entities": [
+      {
+        "start": 11,
+        "end": 18,
+        "value": "banking",
+        "entity": "bot_sector"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "Was bieten Bank-Bots?",
+    "entities": [
+      {
+        "start": 11,
+        "end": 15,
+        "value": "banking",
+        "entity": "bot_sector"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "Was kann ein Robo im Finanzsektor?",
+    "entities": [
+      {
+        "start": 21,
+        "end": 27,
+        "value": "banking",
+        "entity": "bot_sector"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "Was kann ein Bank-Chatbot bieten?",
+    "entities": [
+      {
+        "start": 13,
+        "end": 17,
+        "value": "banking",
+        "entity": "bot_sector"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "Was kann ein Banken-Chatbot?",
+    "entities": [
+      {
+        "start": 13,
+        "end": 19,
+        "value": "banking",
+        "entity": "bot_sector"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "Was kann ein Bankbot leisten?",
+    "entities": [
+      {
+        "start": 13,
+        "end": 17,
+        "value": "banking",
+        "entity": "bot_sector"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "Was kann ein Bank-Bot bieten?",
+    "entities": [
+      {
+        "start": 13,
+        "end": 17,
+        "value": "banking",
+        "entity": "bot_sector"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "Anwendungsfälle für Bankwesen-Bot",
+    "entities": [
+      {
+        "start": 20,
+        "end": 29,
+        "value": "banking",
+        "entity": "bot_sector"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "Banking Chatbot Anwendungsfälle",
+    "entities": [
+      {
+        "start": 0,
+        "end": 7,
+        "value": "banking",
+        "entity": "bot_sector"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "Informationen zu Bots im Bankwesen-Anwendungsfällen",
+    "entities": [
+      {
+        "start": 25,
+        "end": 34,
+        "value": "banking",
+        "entity": "bot_sector"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "Infos zu Bank-Bots",
+    "entities": [
+      {
+        "start": 9,
+        "end": 13,
+        "value": "banking",
+        "entity": "bot_sector"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "Was bieten Bank-Chatbots?",
+    "entities": [
+      {
+        "start": 11,
+        "end": 15,
+        "value": "banking",
+        "entity": "bot_sector"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "Was können Banking-Chatbots?",
+    "entities": [
+      {
+        "start": 11,
+        "end": 18,
+        "value": "banking",
+        "entity": "bot_sector"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "Anwendungen von Bank Chatbots",
+    "entities": [],
+    "predicted_entities": [
+      {
+        "entity": "bot_sector",
+        "start": 16,
+        "end": 20,
+        "confidence_entity": 0.8296050731028383,
+        "value": "banking",
+        "extractor": "CRFEntityExtractor",
+        "processors": [
+          "EntitySynonymMapper"
+        ]
+      }
+    ]
+  },
+  {
+    "text": "Warst du schonmal in Peru?",
+    "entities": [
+      {
+        "start": 21,
+        "end": 25,
+        "value": "country",
+        "entity": "geography"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "geography",
+        "start": 21,
+        "end": 26,
+        "confidence_entity": 0.7104269385881194,
+        "value": "Peru?",
+        "extractor": "CRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "Wo befindet sich USA?",
+    "entities": [
+      {
+        "start": 17,
+        "end": 20,
+        "value": "country",
+        "entity": "geography"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "geography",
+        "start": 17,
+        "end": 21,
+        "confidence_entity": 0.6801195387365271,
+        "value": "USA?",
+        "extractor": "CRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "Wo ist China?",
+    "entities": [
+      {
+        "start": 7,
+        "end": 12,
+        "value": "country",
+        "entity": "geography"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "Was Weißt du über Russland?",
+    "entities": [
+      {
+        "start": 18,
+        "end": 26,
+        "value": "country",
+        "entity": "geography"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "geography",
+        "start": 18,
+        "end": 27,
+        "confidence_entity": 0.7729874915232396,
+        "value": "Russland?",
+        "extractor": "CRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "Kennen Sie Neuseelandy?",
+    "entities": [
+      {
+        "start": 11,
+        "end": 21,
+        "value": "country",
+        "entity": "geography"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "Magst du Argentinien?",
+    "entities": [
+      {
+        "start": 9,
+        "end": 20,
+        "value": "country",
+        "entity": "geography"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "geography",
+        "start": 9,
+        "end": 21,
+        "confidence_entity": 0.726221146410543,
+        "value": "Argentinien?",
+        "extractor": "CRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "Wo finde ich Chile?",
+    "entities": [
+      {
+        "start": 13,
+        "end": 18,
+        "value": "country",
+        "entity": "geography"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "geography",
+        "start": 13,
+        "end": 19,
+        "confidence_entity": 0.6361996146980771,
+        "value": "Chile?",
+        "extractor": "CRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "Kennst du Bolivien?",
+    "entities": [
+      {
+        "start": 10,
+        "end": 18,
+        "value": "country",
+        "entity": "geography"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "geography",
+        "start": 10,
+        "end": 19,
+        "confidence_entity": 0.7230781696541208,
+        "value": "Bolivien?",
+        "extractor": "CRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "Was wissen Sie über Kanada?",
+    "entities": [
+      {
+        "start": 20,
+        "end": 26,
+        "value": "country",
+        "entity": "geography"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "geography",
+        "start": 20,
+        "end": 27,
+        "confidence_entity": 0.7411821082552126,
+        "value": "Kanada?",
+        "extractor": "CRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "Wo liegt Portugal?",
+    "entities": [
+      {
+        "start": 9,
+        "end": 17,
+        "value": "country",
+        "entity": "geography"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "geography",
+        "start": 9,
+        "end": 18,
+        "confidence_entity": 0.7030133942492478,
+        "value": "Portugal?",
+        "extractor": "CRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "Wie ist das Wetter in Lissabon?",
+    "entities": [],
+    "predicted_entities": [
+      {
+        "entity": "company_cities_address",
+        "start": 22,
+        "end": 31,
+        "confidence_entity": 0.9303713498157606,
+        "value": "Lissabon?",
+        "extractor": "CRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "Kontakt Telefonnummer Two Impulse Deutschland",
+    "entities": [],
+    "predicted_entities": [
+      {
+        "entity": "company_cities_address",
+        "start": 34,
+        "end": 45,
+        "confidence_entity": 0.6485659976034179,
+        "value": "munich",
+        "extractor": "CRFEntityExtractor",
+        "processors": [
+          "EntitySynonymMapper"
+        ]
+      }
+    ]
+  },
+  {
+    "text": "Kann ich Versicherungs-Demos sehen",
+    "entities": [
+      {
+        "start": 9,
+        "end": 22,
+        "value": "insurance",
+        "entity": "bot_sector"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "Kann ich eine Versicherungs-Demo sehen",
+    "entities": [
+      {
+        "start": 14,
+        "end": 27,
+        "value": "insurance",
+        "entity": "bot_sector"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "Demo im Versicherungsbereich",
+    "entities": [
+      {
+        "start": 8,
+        "end": 21,
+        "value": "insurance",
+        "entity": "bot_sector"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "Können Sie mir einige Versicherungs Demos zeigen",
+    "entities": [
+      {
+        "start": 22,
+        "end": 35,
+        "value": "insurance",
+        "entity": "bot_sector"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "Ich würde gerne eine Demo in der Versicherungsbranche sehen.",
+    "entities": [
+      {
+        "start": 33,
+        "end": 46,
+        "value": "insurance",
+        "entity": "bot_sector"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "Demo im Bereich Versicherungen",
+    "entities": [
+      {
+        "start": 16,
+        "end": 30,
+        "value": "insurance",
+        "entity": "bot_sector"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "Auto Chatbot",
+    "entities": [],
+    "predicted_entities": [
+      {
+        "entity": "bot_sector",
+        "start": 0,
+        "end": 4,
+        "confidence_entity": 0.7295065290749919,
+        "value": "automotive",
+        "extractor": "CRFEntityExtractor",
+        "processors": [
+          "EntitySynonymMapper"
+        ]
+      }
+    ]
+  },
+  {
+    "text": "Automobil Chatbot",
+    "entities": [],
+    "predicted_entities": [
+      {
+        "entity": "bot_sector",
+        "start": 0,
+        "end": 9,
+        "confidence_entity": 0.6820953091409657,
+        "value": "automotive",
+        "extractor": "CRFEntityExtractor",
+        "processors": [
+          "EntitySynonymMapper"
+        ]
+      }
+    ]
+  },
+  {
+    "text": "Bank Chatbot",
+    "entities": [],
+    "predicted_entities": [
+      {
+        "entity": "bot_sector",
+        "start": 0,
+        "end": 4,
+        "confidence_entity": 0.5111139045237862,
+        "value": "banking",
+        "extractor": "CRFEntityExtractor",
+        "processors": [
+          "EntitySynonymMapper"
+        ]
+      }
+    ]
+  }
+]

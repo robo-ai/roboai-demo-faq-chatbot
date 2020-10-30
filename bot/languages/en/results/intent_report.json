@@ -1,0 +1,1541 @@
+{
+  "bot_color": {
+    "precision": 0.975,
+    "recall": 1.0,
+    "f1-score": 0.9873417721518987,
+    "support": 39,
+    "confused_with": {}
+  },
+  "developers_documentation": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 44,
+    "confused_with": {}
+  },
+  "social_media_generic": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 34,
+    "confused_with": {}
+  },
+  "whatsapp_business_api_info": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 184,
+    "confused_with": {}
+  },
+  "whatsapp_business_other_groups": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 31,
+    "confused_with": {}
+  },
+  "solutions_insurance": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 33,
+    "confused_with": {}
+  },
+  "office_address_Lisbon": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 6,
+    "confused_with": {}
+  },
+  "robo_prices": {
+    "precision": 0.9534883720930233,
+    "recall": 1.0,
+    "f1-score": 0.9761904761904763,
+    "support": 41,
+    "confused_with": {}
+  },
+  "bot_availability": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 58,
+    "confused_with": {}
+  },
+  "whatsapp_business_data_customer": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 71,
+    "confused_with": {}
+  },
+  "bot_fear": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 34,
+    "confused_with": {}
+  },
+  "whatsapp_business_data_role": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 30,
+    "confused_with": {}
+  },
+  "vocative_thank_you": {
+    "precision": 0.9672131147540983,
+    "recall": 0.8805970149253731,
+    "f1-score": 0.9218749999999999,
+    "support": 67,
+    "confused_with": {
+      "comment_positive": 8
+    }
+  },
+  "channels_mobile": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 44,
+    "confused_with": {}
+  },
+  "cc_story": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 14,
+    "confused_with": {}
+  },
+  "channels_apple": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 58,
+    "confused_with": {}
+  },
+  "whatsapp_business_data_agreement": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 40,
+    "confused_with": {}
+  },
+  "whatsapp_business_for_large": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 51,
+    "confused_with": {}
+  },
+  "cc_lets_talk": {
+    "precision": 0.896551724137931,
+    "recall": 0.896551724137931,
+    "f1-score": 0.896551724137931,
+    "support": 29,
+    "confused_with": {
+      "vocative_call": 2,
+      "comment_positive": 1
+    }
+  },
+  "user_hate": {
+    "precision": 0.9534883720930233,
+    "recall": 0.9879518072289156,
+    "f1-score": 0.9704142011834319,
+    "support": 83,
+    "confused_with": {
+      "comment_offense": 1
+    }
+  },
+  "cc_lotr": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 22,
+    "confused_with": {}
+  },
+  "contacts_email": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 41,
+    "confused_with": {}
+  },
+  "contacts_TI": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 41,
+    "confused_with": {}
+  },
+  "robo_clients": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 33,
+    "confused_with": {}
+  },
+  "business_ecommerce": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 23,
+    "confused_with": {}
+  },
+  "solutions_telco": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 36,
+    "confused_with": {}
+  },
+  "bot_capabilities": {
+    "precision": 0.9734513274336283,
+    "recall": 0.9322033898305084,
+    "f1-score": 0.9523809523809523,
+    "support": 118,
+    "confused_with": {
+      "vocative_call": 2,
+      "user_dont_understand": 2
+    }
+  },
+  "bot_author": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 86,
+    "confused_with": {}
+  },
+  "whatsapp_business_cases_messaging_types": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 67,
+    "confused_with": {}
+  },
+  "bot_food": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 41,
+    "confused_with": {}
+  },
+  "whatsapp_business_api_options": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 180,
+    "confused_with": {}
+  },
+  "robo_registration": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 65,
+    "confused_with": {}
+  },
+  "cc_geography": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 45,
+    "confused_with": {}
+  },
+  "whatsapp_business_other_number": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 40,
+    "confused_with": {}
+  },
+  "social_media_facebook": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 36,
+    "confused_with": {}
+  },
+  "bot_origin": {
+    "precision": 1.0,
+    "recall": 0.9743589743589743,
+    "f1-score": 0.9870129870129869,
+    "support": 39,
+    "confused_with": {
+      "bot_age": 1
+    }
+  },
+  "platform_about": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 36,
+    "confused_with": {}
+  },
+  "automotive_advantages": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 60,
+    "confused_with": {}
+  },
+  "platform_advantages": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 32,
+    "confused_with": {}
+  },
+  "business_cms": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 38,
+    "confused_with": {}
+  },
+  "features_handover": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 36,
+    "confused_with": {}
+  },
+  "platform_agent_console": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 21,
+    "confused_with": {}
+  },
+  "bot_appearance": {
+    "precision": 0.9833333333333333,
+    "recall": 0.9365079365079365,
+    "f1-score": 0.9593495934959351,
+    "support": 63,
+    "confused_with": {
+      "comment_hot": 4
+    }
+  },
+  "bot_relationship": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 34,
+    "confused_with": {}
+  },
+  "cc_prophesy": {
+    "precision": 1.0,
+    "recall": 0.96,
+    "f1-score": 0.9795918367346939,
+    "support": 25,
+    "confused_with": {
+      "bot_goal": 1
+    }
+  },
+  "channels_google_home": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 29,
+    "confused_with": {}
+  },
+  "cc_drugs": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 44,
+    "confused_with": {}
+  },
+  "cc_weather": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 55,
+    "confused_with": {}
+  },
+  "demo_general": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 32,
+    "confused_with": {}
+  },
+  "bot_parents": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 35,
+    "confused_with": {}
+  },
+  "vocative_you_welcome": {
+    "precision": 0.9545454545454546,
+    "recall": 0.9545454545454546,
+    "f1-score": 0.9545454545454546,
+    "support": 22,
+    "confused_with": {
+      "vocative_help": 1
+    }
+  },
+  "channels_general": {
+    "precision": 1.0,
+    "recall": 0.9846153846153847,
+    "f1-score": 0.9922480620155039,
+    "support": 65,
+    "confused_with": {
+      "robo_chatbot": 1
+    }
+  },
+  "whatsapp_business_price_costs": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 130,
+    "confused_with": {}
+  },
+  "cc_deepest_point": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 48,
+    "confused_with": {}
+  },
+  "whatsapp_business_cases_session": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 74,
+    "confused_with": {}
+  },
+  "bot_differences": {
+    "precision": 0.9767441860465116,
+    "recall": 0.9767441860465116,
+    "f1-score": 0.9767441860465116,
+    "support": 43,
+    "confused_with": {
+      "channels_alexa": 1
+    }
+  },
+  "robo_about": {
+    "precision": 0.9565217391304348,
+    "recall": 0.9565217391304348,
+    "f1-score": 0.9565217391304348,
+    "support": 46,
+    "confused_with": {
+      "bot_capabilities": 2
+    }
+  },
+  "channels_messenger": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 86,
+    "confused_with": {}
+  },
+  "user_happy": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 55,
+    "confused_with": {}
+  },
+  "user_dont_know": {
+    "precision": 0.975,
+    "recall": 0.9512195121951219,
+    "f1-score": 0.9629629629629629,
+    "support": 41,
+    "confused_with": {
+      "vocative_no": 2
+    }
+  },
+  "cc_make_weather": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 26,
+    "confused_with": {}
+  },
+  "bot_senses": {
+    "precision": 0.9473684210526315,
+    "recall": 1.0,
+    "f1-score": 0.972972972972973,
+    "support": 36,
+    "confused_with": {}
+  },
+  "comment_hot": {
+    "precision": 0.9,
+    "recall": 0.972972972972973,
+    "f1-score": 0.935064935064935,
+    "support": 37,
+    "confused_with": {
+      "bot_appearance": 1
+    }
+  },
+  "contacts_address": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 39,
+    "confused_with": {}
+  },
+  "bot_games": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 64,
+    "confused_with": {}
+  },
+  "comment_positive": {
+    "precision": 0.7887323943661971,
+    "recall": 0.9491525423728814,
+    "f1-score": 0.8615384615384616,
+    "support": 59,
+    "confused_with": {
+      "comment_smart": 2,
+      "vocative_thank_you": 1
+    }
+  },
+  "solutions_automotive": {
+    "precision": 1.0,
+    "recall": 0.9487179487179487,
+    "f1-score": 0.9736842105263158,
+    "support": 39,
+    "confused_with": {
+      "automotive_uses": 2
+    }
+  },
+  "vocative_no": {
+    "precision": 0.9473684210526315,
+    "recall": 0.9818181818181818,
+    "f1-score": 0.9642857142857142,
+    "support": 55,
+    "confused_with": {
+      "user_dont_know": 1
+    }
+  },
+  "cc_rhyme": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 23,
+    "confused_with": {}
+  },
+  "user_scared": {
+    "precision": 0.9166666666666666,
+    "recall": 1.0,
+    "f1-score": 0.9565217391304348,
+    "support": 11,
+    "confused_with": {}
+  },
+  "automotive_uses": {
+    "precision": 0.9813084112149533,
+    "recall": 1.0,
+    "f1-score": 0.9905660377358491,
+    "support": 105,
+    "confused_with": {}
+  },
+  "robo_api_sdk": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 48,
+    "confused_with": {}
+  },
+  "social_media_linkedin": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 40,
+    "confused_with": {}
+  },
+  "cc_religion": {
+    "precision": 0.9924812030075187,
+    "recall": 1.0,
+    "f1-score": 0.9962264150943396,
+    "support": 132,
+    "confused_with": {}
+  },
+  "bot_sexual": {
+    "precision": 0.9855072463768116,
+    "recall": 0.9577464788732394,
+    "f1-score": 0.9714285714285714,
+    "support": 142,
+    "confused_with": {
+      "user_love": 5,
+      "bot_senses": 1
+    }
+  },
+  "demo_banking": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 31,
+    "confused_with": {}
+  },
+  "contacts_phone": {
+    "precision": 0.9193548387096774,
+    "recall": 1.0,
+    "f1-score": 0.9579831932773109,
+    "support": 57,
+    "confused_with": {}
+  },
+  "robo_advantages_proactive_learning": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 21,
+    "confused_with": {}
+  },
+  "insurance_advantages": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 34,
+    "confused_with": {}
+  },
+  "bot_sing": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 35,
+    "confused_with": {}
+  },
+  "office_address_Evora": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 6,
+    "confused_with": {}
+  },
+  "banking_advantages": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 34,
+    "confused_with": {}
+  },
+  "vocative_yes": {
+    "precision": 1.0,
+    "recall": 0.9868421052631579,
+    "f1-score": 0.9933774834437086,
+    "support": 76,
+    "confused_with": {
+      "comment_smart": 1
+    }
+  },
+  "robo_handover": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 18,
+    "confused_with": {}
+  },
+  "whatsapp_business_other_content_sharing": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 442,
+    "confused_with": {}
+  },
+  "bot_animal": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 40,
+    "confused_with": {}
+  },
+  "cc_afterlife": {
+    "precision": 0.9787234042553191,
+    "recall": 0.9787234042553191,
+    "f1-score": 0.9787234042553191,
+    "support": 47,
+    "confused_with": {
+      "cc_religion": 1
+    }
+  },
+  "user_love": {
+    "precision": 0.9038461538461539,
+    "recall": 0.94,
+    "f1-score": 0.9215686274509804,
+    "support": 50,
+    "confused_with": {
+      "features_date": 2,
+      "vocative_thank_you": 1
+    }
+  },
+  "robo_advantages_flexibility": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 24,
+    "confused_with": {}
+  },
+  "telco_advantages": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 136,
+    "confused_with": {}
+  },
+  "cc_senselife": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 58,
+    "confused_with": {}
+  },
+  "user_friend": {
+    "precision": 0.8536585365853658,
+    "recall": 1.0,
+    "f1-score": 0.9210526315789475,
+    "support": 35,
+    "confused_with": {}
+  },
+  "cc_skyblue": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 35,
+    "confused_with": {}
+  },
+  "bot_places": {
+    "precision": 1.0,
+    "recall": 0.9032258064516129,
+    "f1-score": 0.9491525423728813,
+    "support": 31,
+    "confused_with": {
+      "bot_residence": 3
+    }
+  },
+  "bot_hobbies": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 34,
+    "confused_with": {}
+  },
+  "bot_series": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 38,
+    "confused_with": {}
+  },
+  "whatsapp_business_cases_use": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 340,
+    "confused_with": {}
+  },
+  "vocative_call": {
+    "precision": 0.875,
+    "recall": 1.0,
+    "f1-score": 0.9333333333333333,
+    "support": 42,
+    "confused_with": {}
+  },
+  "robo_advantages_german_first": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 20,
+    "confused_with": {}
+  },
+  "bot_friends": {
+    "precision": 1.0,
+    "recall": 0.8,
+    "f1-score": 0.888888888888889,
+    "support": 30,
+    "confused_with": {
+      "user_friend": 6
+    }
+  },
+  "channels_call": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 58,
+    "confused_with": {}
+  },
+  "channels_google_business": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 34,
+    "confused_with": {}
+  },
+  "robo_chatbot": {
+    "precision": 0.9523809523809523,
+    "recall": 0.9090909090909091,
+    "f1-score": 0.9302325581395349,
+    "support": 22,
+    "confused_with": {
+      "robo_about": 1,
+      "bot_real": 1
+    }
+  },
+  "cc_make_food": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 40,
+    "confused_with": {}
+  },
+  "comment_negative": {
+    "precision": 1.0,
+    "recall": 0.8648648648648649,
+    "f1-score": 0.927536231884058,
+    "support": 37,
+    "confused_with": {
+      "user_dont_understand": 1,
+      "vocative_you_welcome": 1
+    }
+  },
+  "channels_web": {
+    "precision": 1.0,
+    "recall": 0.9838709677419355,
+    "f1-score": 0.991869918699187,
+    "support": 62,
+    "confused_with": {
+      "bot_sites": 1
+    }
+  },
+  "user_particles": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 16,
+    "confused_with": {}
+  },
+  "business_bi": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 50,
+    "confused_with": {}
+  },
+  "whatsapp_business_other_enabled_phone_number": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 255,
+    "confused_with": {}
+  },
+  "comment_offense": {
+    "precision": 0.9887640449438202,
+    "recall": 0.946236559139785,
+    "f1-score": 0.967032967032967,
+    "support": 93,
+    "confused_with": {
+      "user_hate": 4,
+      "cc_afterlife": 1
+    }
+  },
+  "cc_keys": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 25,
+    "confused_with": {}
+  },
+  "user_dont_understand": {
+    "precision": 0.9210526315789473,
+    "recall": 1.0,
+    "f1-score": 0.958904109589041,
+    "support": 35,
+    "confused_with": {}
+  },
+  "bot_version": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 37,
+    "confused_with": {}
+  },
+  "cc_alien": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 37,
+    "confused_with": {}
+  },
+  "channels_instagram": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 87,
+    "confused_with": {}
+  },
+  "whatsapp_business_api_approval": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 195,
+    "confused_with": {}
+  },
+  "solutions_banking": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 34,
+    "confused_with": {}
+  },
+  "user_angry": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 35,
+    "confused_with": {}
+  },
+  "features_date": {
+    "precision": 0.9701492537313433,
+    "recall": 1.0,
+    "f1-score": 0.9848484848484849,
+    "support": 65,
+    "confused_with": {}
+  },
+  "bot_books": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 44,
+    "confused_with": {}
+  },
+  "business_crm": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 39,
+    "confused_with": {}
+  },
+  "channels_whatsapp": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 33,
+    "confused_with": {}
+  },
+  "business_erp": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 26,
+    "confused_with": {}
+  },
+  "bot_personality": {
+    "precision": 1.0,
+    "recall": 0.9090909090909091,
+    "f1-score": 0.9523809523809523,
+    "support": 22,
+    "confused_with": {
+      "comment_positive": 2
+    }
+  },
+  "demo_automotive": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 63,
+    "confused_with": {}
+  },
+  "cc_philosophical": {
+    "precision": 1.0,
+    "recall": 0.9883720930232558,
+    "f1-score": 0.9941520467836257,
+    "support": 172,
+    "confused_with": {
+      "features_time": 1,
+      "bot_favorites": 1
+    }
+  },
+  "whatsapp_business_api_verified_statuses": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 116,
+    "confused_with": {}
+  },
+  "bot_music": {
+    "precision": 1.0,
+    "recall": 0.9777777777777777,
+    "f1-score": 0.9887640449438202,
+    "support": 45,
+    "confused_with": {
+      "comment_positive": 1
+    }
+  },
+  "platform_studio": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 30,
+    "confused_with": {}
+  },
+  "cc_newspaper": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 30,
+    "confused_with": {}
+  },
+  "whatsapp_business_api_start_using": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 75,
+    "confused_with": {}
+  },
+  "cc_highest_building": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 44,
+    "confused_with": {}
+  },
+  "whatsapp_business_for_small": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 51,
+    "confused_with": {}
+  },
+  "vocative_sorry": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 43,
+    "confused_with": {}
+  },
+  "cc_moon": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 24,
+    "confused_with": {}
+  },
+  "whatsapp_business_cases_hsm": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 75,
+    "confused_with": {}
+  },
+  "bot_actor": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 51,
+    "confused_with": {}
+  },
+  "developers_features": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 32,
+    "confused_with": {}
+  },
+  "greeting_how_are_you": {
+    "precision": 0.9333333333333333,
+    "recall": 0.9767441860465116,
+    "f1-score": 0.9545454545454545,
+    "support": 43,
+    "confused_with": {
+      "bot_senses": 1
+    }
+  },
+  "office_address_Munich": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 6,
+    "confused_with": {}
+  },
+  "bot_pets": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 38,
+    "confused_with": {}
+  },
+  "contacts_generic": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 56,
+    "confused_with": {}
+  },
+  "comment_racist": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 50,
+    "confused_with": {}
+  },
+  "bot_hair": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 39,
+    "confused_with": {}
+  },
+  "bot_costs": {
+    "precision": 1.0,
+    "recall": 0.9230769230769231,
+    "f1-score": 0.9600000000000001,
+    "support": 26,
+    "confused_with": {
+      "robo_prices": 2
+    }
+  },
+  "greeting_hello": {
+    "precision": 1.0,
+    "recall": 0.9259259259259259,
+    "f1-score": 0.9615384615384615,
+    "support": 54,
+    "confused_with": {
+      "greeting_how_are_you": 2,
+      "greeting_goodbye": 1
+    }
+  },
+  "bot_real": {
+    "precision": 0.9807692307692307,
+    "recall": 1.0,
+    "f1-score": 0.9902912621359222,
+    "support": 51,
+    "confused_with": {}
+  },
+  "bot_eyes": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 39,
+    "confused_with": {}
+  },
+  "demo_insurance": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 31,
+    "confused_with": {}
+  },
+  "cc_chicken_egg": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 39,
+    "confused_with": {}
+  },
+  "bot_residence": {
+    "precision": 0.9230769230769231,
+    "recall": 1.0,
+    "f1-score": 0.9600000000000001,
+    "support": 36,
+    "confused_with": {}
+  },
+  "channels_slack": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 29,
+    "confused_with": {}
+  },
+  "robo_advantages": {
+    "precision": 0.9459459459459459,
+    "recall": 1.0,
+    "f1-score": 0.9722222222222222,
+    "support": 35,
+    "confused_with": {}
+  },
+  "robo_cosibot": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 11,
+    "confused_with": {}
+  },
+  "cc_joke": {
+    "precision": 1.0,
+    "recall": 0.8888888888888888,
+    "f1-score": 0.9411764705882353,
+    "support": 45,
+    "confused_with": {
+      "user_laugh": 5
+    }
+  },
+  "bot_children": {
+    "precision": 0.967741935483871,
+    "recall": 1.0,
+    "f1-score": 0.9836065573770492,
+    "support": 30,
+    "confused_with": {}
+  },
+  "bot_intelligence": {
+    "precision": 0.8478260869565217,
+    "recall": 1.0,
+    "f1-score": 0.9176470588235294,
+    "support": 39,
+    "confused_with": {}
+  },
+  "channels_skype": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 30,
+    "confused_with": {}
+  },
+  "channels_teams": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 58,
+    "confused_with": {}
+  },
+  "bot_sports": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 39,
+    "confused_with": {}
+  },
+  "whatsapp_business_data_storage": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 36,
+    "confused_with": {}
+  },
+  "developers_content": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 69,
+    "confused_with": {}
+  },
+  "user_tired": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 53,
+    "confused_with": {}
+  },
+  "cc_hitchhiker": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 41,
+    "confused_with": {}
+  },
+  "demo_telco": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 62,
+    "confused_with": {}
+  },
+  "whatsapp_business_data_gdpr": {
+    "precision": 0.9459459459459459,
+    "recall": 1.0,
+    "f1-score": 0.9722222222222222,
+    "support": 70,
+    "confused_with": {}
+  },
+  "whatsapp_business_data_origin": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 39,
+    "confused_with": {}
+  },
+  "whatsapp_business_data_privacy": {
+    "precision": 1.0,
+    "recall": 0.9444444444444444,
+    "f1-score": 0.9714285714285714,
+    "support": 72,
+    "confused_with": {
+      "whatsapp_business_data_gdpr": 4
+    }
+  },
+  "bot_movies": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 32,
+    "confused_with": {}
+  },
+  "channels_alexa": {
+    "precision": 0.9859154929577465,
+    "recall": 1.0,
+    "f1-score": 0.9929078014184397,
+    "support": 70,
+    "confused_with": {}
+  },
+  "bot_profession": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 29,
+    "confused_with": {}
+  },
+  "telco_uses": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 105,
+    "confused_with": {}
+  },
+  "bot_words": {
+    "precision": 1.0,
+    "recall": 0.9666666666666667,
+    "f1-score": 0.983050847457627,
+    "support": 30,
+    "confused_with": {
+      "cc_lets_talk": 1
+    }
+  },
+  "cc_fun_fact": {
+    "precision": 1.0,
+    "recall": 0.9714285714285714,
+    "f1-score": 0.9855072463768115,
+    "support": 35,
+    "confused_with": {
+      "bot_capabilities": 1
+    }
+  },
+  "greeting_goodbye": {
+    "precision": 0.9859154929577465,
+    "recall": 0.958904109589041,
+    "f1-score": 0.9722222222222222,
+    "support": 73,
+    "confused_with": {
+      "vocative_call": 2,
+      "comment_positive": 1
+    }
+  },
+  "comment_smart": {
+    "precision": 0.8571428571428571,
+    "recall": 0.7272727272727273,
+    "f1-score": 0.7868852459016394,
+    "support": 33,
+    "confused_with": {
+      "bot_intelligence": 7,
+      "comment_positive": 1
+    }
+  },
+  "bot_sibling": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 35,
+    "confused_with": {}
+  },
+  "bot_age": {
+    "precision": 0.9873417721518988,
+    "recall": 0.975,
+    "f1-score": 0.9811320754716981,
+    "support": 80,
+    "confused_with": {
+      "bot_children": 1,
+      "user_scared": 1
+    }
+  },
+  "bot_name": {
+    "precision": 1.0,
+    "recall": 0.9056603773584906,
+    "f1-score": 0.9504950495049505,
+    "support": 53,
+    "confused_with": {
+      "contacts_phone": 5
+    }
+  },
+  "channels_sms": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 38,
+    "confused_with": {}
+  },
+  "user_laugh": {
+    "precision": 0.8571428571428571,
+    "recall": 1.0,
+    "f1-score": 0.923076923076923,
+    "support": 30,
+    "confused_with": {}
+  },
+  "vocative_help": {
+    "precision": 0.9803921568627451,
+    "recall": 1.0,
+    "f1-score": 0.99009900990099,
+    "support": 50,
+    "confused_with": {}
+  },
+  "banking_uses": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 26,
+    "confused_with": {}
+  },
+  "bot_favorites": {
+    "precision": 0.9722222222222222,
+    "recall": 0.9210526315789473,
+    "f1-score": 0.9459459459459458,
+    "support": 38,
+    "confused_with": {
+      "cc_lets_talk": 2,
+      "bot_color": 1
+    }
+  },
+  "user_fat": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 21,
+    "confused_with": {}
+  },
+  "bot_achievement": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 52,
+    "confused_with": {}
+  },
+  "user_random_input": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 44,
+    "confused_with": {}
+  },
+  "bot_goal": {
+    "precision": 0.9736842105263158,
+    "recall": 1.0,
+    "f1-score": 0.9866666666666666,
+    "support": 37,
+    "confused_with": {}
+  },
+  "features_time": {
+    "precision": 0.98,
+    "recall": 1.0,
+    "f1-score": 0.98989898989899,
+    "support": 49,
+    "confused_with": {}
+  },
+  "insurance_uses": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 27,
+    "confused_with": {}
+  },
+  "platform_analytics": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 53,
+    "confused_with": {}
+  },
+  "whatsapp_business_api_consent": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 128,
+    "confused_with": {}
+  },
+  "bot_dislike": {
+    "precision": 0.9743589743589743,
+    "recall": 1.0,
+    "f1-score": 0.9870129870129869,
+    "support": 38,
+    "confused_with": {}
+  },
+  "bot_worst_experience": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 78,
+    "confused_with": {}
+  },
+  "bot_languages": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 41,
+    "confused_with": {}
+  },
+  "cc_make_question": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 41,
+    "confused_with": {}
+  },
+  "bot_sites": {
+    "precision": 0.9696969696969697,
+    "recall": 1.0,
+    "f1-score": 0.9846153846153847,
+    "support": 32,
+    "confused_with": {}
+  },
+  "whatsapp_business_other_formatting_options": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 176,
+    "confused_with": {}
+  },
+  "solutions_general": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 46,
+    "confused_with": {}
+  },
+  "cc_politics": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 53,
+    "confused_with": {}
+  },
+  "whatsapp_business_api_advantages": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 141,
+    "confused_with": {}
+  },
+  "channels_rcs": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 58,
+    "confused_with": {}
+  },
+  "start": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 5,
+    "confused_with": {}
+  },
+  "bot_gender": {
+    "precision": 1.0,
+    "recall": 0.9459459459459459,
+    "f1-score": 0.9722222222222222,
+    "support": 37,
+    "confused_with": {
+      "bot_sexual": 2
+    }
+  },
+  "accuracy": 0.9891264951069227,
+  "macro avg": {
+    "precision": 0.9875301598571987,
+    "recall": 0.9873594708000019,
+    "f1-score": 0.9870207760943381,
+    "support": 11036
+  },
+  "weighted avg": {
+    "precision": 0.989782653213376,
+    "recall": 0.9891264951069227,
+    "f1-score": 0.9891360050963933,
+    "support": 11036
+  }
+}

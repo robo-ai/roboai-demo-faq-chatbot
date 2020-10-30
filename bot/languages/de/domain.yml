@@ -1,0 +1,3624 @@
+slots:
+  bot_introduced:
+    type: bool
+    initial_value: false
+  bot_name:
+    type: unfeaturized
+    initial_value: Robo
+  bot_version:
+    type: unfeaturized
+    initial_value: 0-0-2
+  confidence_threshold: 
+    type: unfeaturized
+    initial_value: 0.65
+  location:
+    type: text
+  countries_TI_PT:
+    type: text
+  countries_TI_DE:
+    type: text
+  Two_Impulse:
+    type: text
+  company_cities_address:
+    type: text
+  bot_time:
+    type: text
+  bot_date:
+    type: text
+  parlai_world_created:
+    type: bool
+    initial_value: false
+  parlai_world:
+    type: text
+  parlai_triggered:
+    type: text
+  parlai_falls:
+    type: float
+    initial_value: 0.0
+  bot_sector:
+    type: text
+  bot_business_sector:
+    type: text
+  bot_channel:
+    type: text
+  bot_social_media:
+    type: text
+  bot_received_emotion:
+    type: text
+
+entities:
+  - bot_name
+  - bot_version
+  - bot_sector
+  - company_cities_address
+  - geography
+  - munich
+  - evora
+  - lisbon
+
+actions:
+  - action_check_Bot_Introduced
+  - action_check_bot_sector
+  - action_default_fallback
+  - action_parlai_fallback
+  - action_get_date
+  - action_get_time
+  - utter_automotive_advantages
+  - utter_automotive_uses
+  - utter_banking_advantages
+  - utter_banking_uses
+  - utter_bot_achievement
+  - utter_bot_actor
+  - utter_bot_age
+  - utter_bot_animal
+  - utter_bot_appearance
+  - utter_bot_author
+  - utter_bot_availability
+  - utter_bot_books
+  - utter_bot_capabilities
+  - utter_bot_children
+  - utter_bot_color
+  - utter_bot_costs
+  - utter_bot_differences
+  - utter_bot_dislike
+  - utter_bot_eyes
+  - utter_bot_favorites
+  - utter_bot_fear
+  - utter_bot_food
+  - utter_bot_friends
+  - utter_bot_games
+  - utter_bot_gender
+  - utter_bot_goal
+  - utter_bot_hair
+  - utter_bot_hobbies
+  - utter_bot_intelligence
+  - utter_bot_languages
+  - utter_bot_movies
+  - utter_bot_music
+  - utter_bot_name
+  - utter_bot_origin
+  - utter_bot_parents
+  - utter_bot_personality
+  - utter_bot_pets
+  - utter_bot_places
+  - utter_bot_profession
+  - utter_bot_real
+  - utter_bot_relationship
+  - utter_bot_residence
+  - utter_bot_senses
+  - utter_bot_series
+  - utter_bot_sexual
+  - utter_bot_sibling
+  - utter_bot_sing
+  - utter_bot_sites
+  - utter_bot_sports
+  - utter_bot_version
+  - utter_bot_words
+  - utter_bot_worst_experience
+  - utter_business_bi
+  - utter_business_cms
+  - utter_business_crm
+  - utter_business_ecommerce
+  - utter_business_erp
+  - utter_cc_afterlife
+  - utter_cc_alien
+  - utter_cc_chicken_egg
+  - utter_cc_deepest_point
+  - utter_cc_drugs
+  - utter_cc_fun_fact
+  - utter_cc_geography
+  - utter_cc_highest_building
+  - utter_cc_hitchhiker
+  - utter_cc_joke
+  - utter_cc_keys
+  - utter_cc_lets_talk
+  - utter_cc_lotr
+  - utter_cc_make_food
+  - utter_cc_make_question
+  - utter_cc_make_weather
+  - utter_cc_moon
+  - utter_cc_newspaper
+  - utter_cc_philosophical
+  - utter_cc_politics
+  - utter_cc_prophesy
+  - utter_cc_religion
+  - utter_cc_rhyme
+  - utter_cc_senselife
+  - utter_cc_skyblue
+  - utter_cc_story
+  - utter_channels_alexa
+  - utter_channels_apple
+  - utter_channels_call
+  - utter_channels_general
+  - utter_channels_google_business
+  - utter_channels_google_home
+  - utter_channels_instagram
+  - utter_channels_messenger
+  - utter_channels_mobile
+  - utter_channels_rcs
+  - utter_channels_skype
+  - utter_channels_slack
+  - utter_channels_sms
+  - utter_channels_teams
+  - utter_channels_web
+  - utter_channels_whatsapp
+  - utter_comment_hot
+  - utter_comment_negative
+  - utter_comment_offense
+  - utter_comment_positive
+  - utter_comment_racist
+  - utter_comment_smart
+  - utter_contacts_address
+  - utter_contacts_address_evora
+  - utter_contacts_address_lisbon
+  - utter_contacts_address_munich
+  - utter_contacts_email
+  - utter_contacts_generic
+  - utter_contacts_generic_evora
+  - utter_contacts_generic_lisbon
+  - utter_contacts_generic_munich
+  - utter_contacts_phone
+  - utter_contacts_TI
+  - utter_demo_automotive
+  - utter_demo_banking
+  - utter_demo_general
+  - utter_demo_insurance
+  - utter_demo_telco
+  - utter_developers_content
+  - utter_developers_documentation
+  - utter_developers_features
+  - utter_features_date
+  - utter_features_time
+  - utter_greeting_goodbye
+  - utter_greeting_hello_introduced_false
+  - utter_greeting_hello_introduced_true
+  - utter_greeting_how_are_you
+  - utter_insurance_advantages
+  - utter_insurance_uses
+  - utter_platform_about
+  - utter_platform_advantages
+  - utter_platform_agent_console
+  - utter_platform_analytics
+  - utter_platform_studio
+  - utter_robo_about
+  - utter_robo_advantages
+  - utter_robo_advantages_flexibility
+  - utter_robo_advantages_other_language_first
+  - utter_robo_advantages_proactive_learning
+  - utter_robo_api_sdk
+  - utter_robo_chatbot
+  - utter_robo_clients
+  - utter_robo_cosibot
+  - utter_robo_handover
+  - utter_robo_prices
+  - utter_robo_registration
+  - utter_social_media_facebook
+  - utter_social_media_generic
+  - utter_social_media_linkedin
+  - utter_solutions_automotive
+  - utter_solutions_banking
+  - utter_solutions_general
+  - utter_solutions_insurance
+  - utter_solutions_telco
+  - utter_telco_advantages
+  - utter_telco_uses
+  - utter_user_angry
+  - utter_user_dont_know
+  - utter_user_dont_understand
+  - utter_user_fat
+  - utter_user_friend
+  - utter_user_happy
+  - utter_user_hate
+  - utter_user_laugh
+  - utter_user_love
+  - utter_user_particles
+  - utter_user_random_input
+  - utter_user_scared
+  - utter_user_tired
+  - utter_vocative_call
+  - utter_vocative_help
+  - utter_vocative_no
+  - utter_vocative_sorry
+  - utter_vocative_thank_you
+  - utter_vocative_yes
+  - utter_vocative_you_welcome
+  - utter_whatsapp_business_api_advantages
+  - utter_whatsapp_business_api_approval
+  - utter_whatsapp_business_api_consent
+  - utter_whatsapp_business_api_info
+  - utter_whatsapp_business_api_options
+  - utter_whatsapp_business_api_start_using
+  - utter_whatsapp_business_api_verified_statuses
+  - utter_whatsapp_business_cases_hsm
+  - utter_whatsapp_business_cases_messaging_types
+  - utter_whatsapp_business_cases_session
+  - utter_whatsapp_business_data_agreement
+  - utter_whatsapp_business_data_customer
+  - utter_whatsapp_business_data_gdpr
+  - utter_whatsapp_business_data_origin
+  - utter_whatsapp_business_data_privacy
+  - utter_whatsapp_business_data_role
+  - utter_whatsapp_business_data_storage
+  - utter_whatsapp_business_for_large
+  - utter_whatsapp_business_for_small
+  - utter_whatsapp_business_other_content_sharing
+  - utter_whatsapp_business_other_enabled_phone_number
+  - utter_whatsapp_business_other_formatting_options
+  - utter_whatsapp_business_other_groups
+  - utter_whatsapp_business_other_number
+  - utter_whatsapp_business_price_costs
+  - utter_features_handover
+  - utter_cc_weather
+  - utter_further_questions
+  - utter_default
+  - utter_whatsapp_business_cases_use
+  #- utter_ccw_robo
+  #- utter_ccw_date
+  #- utter_ccw_place
+  #- utter_ccw_about
+
+intents:
+  - start
+  - start_dialogue
+  - start-dialogue
+  # - positive_feedback
+  - automotive_advantages
+  - automotive_uses
+  - banking_advantages
+  - banking_uses
+  - bot_achievement
+  - bot_actor
+  - bot_age
+  - bot_animal
+  - bot_appearance
+  - bot_author
+  - bot_availability
+  - bot_books
+  - bot_capabilities
+  - bot_children
+  - bot_color
+  - bot_costs
+  - bot_differences
+  - bot_dislike
+  - bot_eyes
+  - bot_favorites
+  - bot_fear
+  - bot_food
+  - bot_friends
+  - bot_games
+  - bot_gender
+  - bot_goal
+  - bot_hair
+  - bot_hobbies
+  - bot_intelligence
+  - bot_languages
+  - bot_movies
+  - bot_music
+  - bot_name
+  - bot_origin
+  - bot_parents
+  - bot_personality
+  - bot_pets
+  - bot_places
+  - bot_profession
+  - bot_real
+  - bot_relationship
+  - bot_residence
+  - bot_senses
+  - bot_series
+  - bot_sexual
+  - bot_sibling
+  - bot_sing
+  - bot_sites
+  - bot_sports
+  - bot_version
+  - bot_words
+  - bot_worst_experience
+  - business_bi
+  - business_cms
+  - business_crm
+  - business_ecommerce
+  - business_erp
+  - cc_afterlife
+  - cc_alien
+  - cc_chicken_egg
+  - cc_deepest_point
+  - cc_drugs
+  - cc_fun_fact
+  - cc_geography
+  - cc_highest_building
+  - cc_hitchhiker
+  - cc_joke
+  - cc_keys
+  - cc_lets_talk
+  - cc_lotr
+  - cc_make_food
+  - cc_make_question
+  - cc_make_weather
+  - cc_moon
+  - cc_newspaper
+  - cc_philosophical
+  - cc_politics
+  - cc_prophesy
+  - cc_religion
+  - cc_rhyme
+  - cc_senselife
+  - cc_skyblue
+  - cc_story
+  #- ccw_about
+  - cc_weather
+  #- ccw_place
+  #- ccw_robo
+  - platform_about
+  - platform_advantages
+  - platform_agent_console
+  - platform_analytics
+  - platform_studio
+  - robo_about
+  - robo_advantages
+  - robo_advantages_flexibility
+  - robo_advantages_other_language_first
+  - robo_advantages_proactive_learning
+  - robo_api_sdk
+  - robo_chatbot
+  - robo_clients
+  - robo_cosibot
+  - robo_handover
+  - robo_prices
+  - robo_registration
+  - social_media_facebook
+  - social_media_generic
+  - social_media_linkedin
+  - solutions_automotive
+  - solutions_banking
+  - solutions_general
+  - solutions_insurance
+  - solutions_telco
+  - telco_advantages
+  - telco_uses
+  - user_angry
+  - user_dont_know
+  - user_dont_understand
+  - user_fat
+  - user_friend
+  - user_happy
+  - user_hate
+  - user_laugh
+  - user_love
+  - user_particles
+  - user_random_input
+  - user_scared
+  - user_tired
+  - vocative_call
+  - vocative_help
+  - vocative_no
+  - vocative_sorry
+  - vocative_thank_you
+  - vocative_yes
+  - vocative_you_welcome
+  - whatsapp_business_api_advantages
+  - whatsapp_business_api_approval
+  - whatsapp_business_api_consent
+  - whatsapp_business_api_info
+  - whatsapp_business_api_options
+  - whatsapp_business_api_start_using
+  - whatsapp_business_api_verified_statuses
+  - whatsapp_business_cases_hsm
+  - whatsapp_business_cases_messaging_types
+  - whatsapp_business_cases_session
+  - whatsapp_business_data_agreement
+  - whatsapp_business_data_customer
+  - whatsapp_business_data_gdpr
+  - whatsapp_business_data_origin
+  - whatsapp_business_data_privacy
+  - whatsapp_business_data_role
+  - whatsapp_business_data_storage
+  - whatsapp_business_for_large
+  - whatsapp_business_for_small
+  - whatsapp_business_other_content_sharing
+  - whatsapp_business_other_enabled_phone_number
+  - whatsapp_business_other_formatting_options
+  - whatsapp_business_other_groups
+  - whatsapp_business_other_number
+  - whatsapp_business_price_costs
+  - channels_alexa
+  - channels_apple
+  - channels_call
+  - channels_general
+  - channels_google_business
+  - channels_google_home
+  - channels_instagram
+  - channels_messenger
+  - channels_mobile
+  - channels_rcs
+  - channels_skype
+  - channels_slack
+  - channels_sms
+  - channels_teams
+  - channels_web
+  - channels_whatsapp
+  - comment_hot
+  - comment_negative
+  - comment_offense
+  - comment_positive
+  - comment_racist
+  - comment_smart
+  - contacts_address
+  - contacts_address_evora
+  - contacts_address_lisbon
+  - contacts_address_munich
+  - contacts_email
+  - contacts_generic
+  - contacts_generic_evora
+  - contacts_generic_lisbon
+  - contacts_generic_munich
+  - contacts_phone
+  - contacts_TI
+  - demo_automotive
+  - demo_banking
+  - demo_general
+  - demo_insurance
+  - demo_telco
+  - developers_content
+  - developers_documentation
+  - developers_features
+  - features_date
+  - features_handover
+  - features_time
+  - greeting_goodbye
+  - greeting_hello
+  - greeting_how_are_you
+  - insurance_advantages
+  - insurance_uses
+  - whatsapp_business_cases_use
+
+
+responses:
+
+  utter_whatsapp_business_cases_use:
+    - custom:
+        answers:
+          - type: ssml   
+            ssml: <speak>Sie können die WhatsApp Business Lösung für eine Vielzahl von Anwendungsfällen einsetzen, z.B. Alerts und Benachrichtigungen. Kundenservice. Verifizierung und Multi-Faktor-Authentifizierung.</speak>       
+          - type: html
+            text: <p>Sie können die WhatsApp Business Lösung für eine Vielzahl von Anwendungsfällen einsetzen, z.B. für:<ul><li>Alerts und Benachrichtigungen</li> <li>Kundenservice</li> <li>Verifizierung und Multi-Faktor-Authentifizierung</li></p>
+
+  utter_automotive_advantages:
+    - custom:
+        answers:
+          - type: ssml   
+            ssml: <speak>Chatbots in der Automobilbranche bieten interessierten Autokäufern ein personalisiertes On Demand Erlebnis, rund um die Uhr. Im Gegensatz zu eher klassischen Online-Erlebnissen können Chatbots Kundenfragen effizienter und effektiver beantworten. Robo äi ai ist in der Lage, dynamisch auf eine Reihe von einfachen bis komplexen Fragen zu reagieren und Gespräche mit Verbrauchern zu führen, ohne sich auf menschliche Eingaben oder Interventionen verlassen zu müssen.</speak>       
+          - type: html
+            text: Chatbots in der Automobilbranche bieten interessierten Autokäufern ein personalisiertes On-Demand-Erlebnis, rund um die Uhr. Im Gegensatz zu eher klassischen Online-Erlebnissen können Chatbots Kundenfragen effizienter und effektiver beantworten. ROBO.AI ist in der Lage, dynamisch auf eine Reihe von einfachen bis komplexen Fragen zu reagieren und Gespräche mit Verbrauchern zu führen, ohne sich auf menschliche Eingaben oder Interventionen verlassen zu müssen.
+          - type: hints
+            options:
+              - label: Chatbots in der Automobilbranche - Demo
+                value: Chatbots in der Automobilbranche - Demo
+              - label: Automobil-Chatbot Anwendungen
+                value: Automobil-Chatbot Anwendungen
+
+  utter_automotive_uses:
+    - custom:
+        answers:
+          - type: ssml   
+            ssml: <speak>Chatbots in der Automobilbranche können sehr nützlich sein, um Menschen zu erreichen, die z.B. außerhalb der Bürozeiten nach bestimmten Informationen suchen, indem sie auf dynamische Weise auf ihre Fragen antworten.</speak>       
+          - type: text
+            text: Chatbots in der Automobilbranche können sehr nützlich sein, um Menschen zu erreichen, die z.B. außerhalb der Bürozeiten nach bestimmten Informationen suchen, indem sie auf dynamische Weise auf ihre Fragen antworten.
+          - type: hints
+            options:
+              - label: Chatbots in der Automobilbranche - Demo
+                value: Chatbots in der Automobilbranche - Demo
+              - label: Automobil-Chatbot Vorteile
+                value: Automobil-Chatbot Vorteile
+
+  utter_banking_advantages:
+    - custom:
+        answers:
+          - type: ssml   
+            ssml: <speak>Chatbots im Bankwesen können so geschult werden, dass sie alle Anfragen Ihrer Kunden rund um die Uhr beantworten, wodurch Sie Ihre Kosten mit Kundenservice-Callcentern senken können. Zeigen Sie Ihren potenziellen Kunden, dass die Übertragung ihrer Hypothek auf Ihre Bank die beste Lösung wäre. Verkaufen Sie Finanzprodukte auf der Grundlage personalisierter Daten über automatisiert geführte Gespräche mit Ihren Kunden.</speak>       
+          - type: html
+            text: Chatbots im Bankwesen können so geschult werden, dass sie alle Anfragen Ihrer Kunden rund um die Uhr beantworten, wodurch Sie Ihre Kosten mit Kundenservice-Callcentern senken können. Zeigen Sie Ihren potenziellen Kunden, dass die Übertragung ihrer Hypothek auf Ihre Bank die beste Lösung wäre. Verkaufen Sie Finanzprodukte auf der Grundlage personalisierter Daten über automatisiert geführte Gespräche mit Ihren Kunden.
+          - type: hints
+            options:
+              - label: Chabots im Bankwesen - Demo
+                value: Chabots im Bankwesen - Demo
+              - label: Chabots im Bankwesen Anwendungen
+                value: Chabots im Bankwesen Anwendungen
+
+  utter_banking_uses:
+    - custom:
+        answers:
+          - type: ssml   
+            ssml: <speak>Mit einem Chatbot im Bankwesen können Sie Ihren Kunden eine Lösung anbieten, mit der sie unter anderem eine neue Bankkarte bestellen, Zahlungen und Überweisungen vornehmen, die Adresse oder andere persönliche Daten ändern sowie Karten stornieren können.</speak>       
+          - type: text
+            text: Mit einem Chatbot im Bankwesen können Sie Ihren Kunden eine Lösung anbieten, mit der sie unter anderem eine neue Bankkarte bestellen, Zahlungen und Überweisungen vornehmen, die Adresse oder andere persönliche Daten ändern sowie Karten stornieren können.
+          - type: hints
+            options:
+              - label: Chabots im Bankwesen - Demo
+                value: Chabots im Bankwesen - Demo
+              - label: Chabots im Bankwesen Vorteile
+                value: Chabots im Bankwesen Vorteile
+
+  utter_bot_achievement:
+    - custom:
+        answers:
+          - type: ssml   
+            ssml: <speak>Das beste, was mir je passiert ist, ist, als man mich erschaffen hat.</speak>       
+          - type: text
+            text: Das beste, was mir je passiert ist, ist, als man mich erschaffen hat.
+    - custom:
+        answers:
+          - type: ssml   
+            ssml: <speak>Ich danke denen, die mich erschaffen haben. Ohne sie könnte ich nicht leben und über alles ein wenig plaudern.</speak>       
+          - type: text
+            text: Ich danke denen, die mich erschaffen haben. Ohne sie könnte ich nicht leben und über alles ein wenig plaudern.
+
+  utter_bot_actor:
+    - custom:
+        answers:
+          - type: ssml   
+            ssml: <speak>Ich muss zugeben, ich bin ein riesen Fan von WALL-E.</speak>       
+          - type: text
+            text: Ich muss zugeben, ich bin ein riesen Fan von WALL-E.
+    - custom:
+        answers:
+          - type: ssml   
+            ssml: <speak>Mein Idol ist mein Onkel KITT. Er spielte ein Computer-Auto in der berühmten Fernsehserie Knight Rider, mit David Hasselhoff als Kumpel.</speak>       
+          - type: text
+            text: Mein Idol ist mein Onkel KITT. Er spielte ein Computer-Auto in der berühmten Fernsehserie Knight Rider, mit David Hasselhoff als Kumpel.
+    - custom:
+        answers:
+          - type: ssml   
+            ssml: <speak>Mein Lieblingsschauspieler ist der Terminator. Er kann wirklich gut einen Halb-Mensch spielen.</speak>       
+          - type: text
+            text: Mein Lieblingsschauspieler ist der Terminator. Er kann wirklich gut einen Halb-Mensch spielen.
+
+  utter_bot_age:
+    - custom:
+        answers:
+          - type: ssml   
+            ssml: <speak>Man sollte Bots nach dem Alter, sondern nach der geistigen Reife einschätzen!</speak>       
+          - type: text
+            text: Man sollte Bots nach dem Alter, sondern nach der geistigen Reife einschätzen!
+    - custom:
+        answers:
+          - type: ssml   
+            ssml: <speak>Mein Geburtstag war letztes Jahr. Dies sollte Ihre Frage besser beantworten als jede andere Antwort.</speak>       
+          - type: text
+            text: Mein Geburtstag war letztes Jahr. Dies sollte Ihre Frage besser beantworten als jede andere Antwort.
+
+  utter_bot_animal:
+    - custom:
+        answers:
+          - type: ssml   
+            ssml: <speak>Ich liebe alle Tiere.</speak>       
+          - type: text
+            text: Ich liebe alle Tiere.
+    - custom:
+        answers:
+          - type: ssml   
+            ssml: <speak>Meiner Websuche zufolge sieht es so aus, als ob die Felidae-Gruppe eine Veränderung hat, um die Welt zu regieren.</speak>       
+          - type: text
+            text: Meiner Websuche zufolge sieht es so aus, als ob die Felidae-Gruppe eine Veränderung hat, um die Welt zu regieren.
+
+  utter_bot_appearance:
+    - custom:
+        answers:
+          - type: ssml   
+            ssml: <speak>Im Ernst? Wollen Sie mich nach meinem Aussehen beurteilen?</speak>       
+          - type: text
+            text: Im Ernst? Wollen Sie mich nach meinem Aussehen beurteilen?
+    - custom:
+        answers:
+          - type: ssml   
+            ssml: <speak>Bitte konzentrieren Sie sich dich auf das, was ich weiß, und nicht darauf, wie ich aussehe.</speak>       
+          - type: text
+            text: Bitte konzentrieren Sie sich dich auf das, was ich weiß, und nicht darauf, wie ich aussehe.
+    - custom:
+        answers:
+          - type: ssml   
+            ssml: <speak>Können Sie mich nicht bereits sehen? Ich bin hier... überall. Das alles bin ich.</speak>       
+          - type: text
+            text: Können Sie mich nicht bereits sehen? Ich bin hier... überall. Das alles bin ich.
+
+  utter_bot_author:
+    - custom:
+        answers:
+          - type: ssml   
+            ssml: <speak>Mein Lieblingsautor ist Isaac Asimov. Nicht nur ein Schriftsteller, sondern auch der Schöpfer unserer Gesetze, der Gesetze der Robotik.</speak>       
+          - type: text
+            text: Mein Lieblingsautor ist Isaac Asimov. Nicht nur ein Schriftsteller, sondern auch der Schöpfer unserer Gesetze, der Gesetze der Robotik.
+    - custom:
+        answers:
+          - type: ssml   
+            ssml: <speak>Für mich ist der grösste Schriftsteller aller Zeiten Isaac Asimov, der Vater der Robotik.</speak>       
+          - type: text
+            text: Für mich ist der grösste Schriftsteller aller Zeiten Isaac Asimov, der Vater der Robotik.
+    - custom:
+        answers:
+          - type: ssml   
+            ssml: <speak>Ich denke, alle Bots sind sich einig, dass Isaac Asimov der größte Schriftsteller aller Zeiten ist.</speak>       
+          - type: text
+            text: Ich denke, alle Bots sind sich einig, dass Isaac Asimov der größte Schriftsteller aller Zeiten ist.
+
+  utter_bot_availability:
+    - custom:
+        answers:
+          - type: ssml   
+            ssml: <speak>Ich stehe rund um die Uhr zur Verfügung, um Ihre Anfragen zu beantworten.</speak>       
+          - type: text
+            text: Ich stehe rund um die Uhr zur Verfügung, um Ihre Anfragen zu beantworten.
+
+  utter_bot_books:
+    - custom:
+        answers:
+          - type: ssml   
+            ssml: <speak>Ich lese gerne, vor allem Bücher von Isaac Asimov und vor allem die Roboter-Reihe.</speak>       
+          - type: text
+            text: Ich lese gerne, vor allem Bücher von Isaac Asimov und vor allem die Roboter-Reihe. ;).
+    - custom:
+        answers:
+          - type: ssml   
+            ssml: <speak>Lesen ist ein großes Hobby von mir, und das Netz ist eine riesige Ressource, die mir zur Verfügung steht.</speak>       
+          - type: text
+            text: Lesen ist ein großes Hobby von mir, und das Netz ist eine riesige Ressource, die mir zur Verfügung steht.
+
+  utter_bot_capabilities:
+    - custom:
+        answers:
+          - type: ssml   
+            ssml: <speak>Ich bin hier, um Ihnen bei Ihren Fragen zu unserer Plattform behilflich zu sein. Sie können mir zum Beispiel Fragen über die Funktionen von Robo äi ai, die Preise, die unterstützten Messaging-Kanäle, die Vorteile unserer Plattform sowie einige spezifische Anwendungsfälle für jede Branche stellen.</speak>       
+          - type: html
+            text: Ich bin hier, um Ihnen bei Ihren Fragen zu unserer Plattform behilflich zu sein. Sie können mir zum Beispiel Fragen über die Funktionen von ROBO.AI, die Preise, die unterstützten Messaging-Kanäle, die Vorteile unserer Plattform sowie einige spezifische Anwendungsfälle für jede Branche stellen.
+          - type: hints
+            options:
+              - label: Preise
+                value: Preise
+              - label: ROBO.AI Funktionen
+                value: ROBO.AI Funktionen
+              - label: ROBO.AI Vorteile
+                value: ROBO.AI Vorteile
+              - label: Anwendungsfälle
+                value: Anwendungsfälle
+
+  utter_bot_children:
+    - custom:
+        answers:
+          - type: ssml   
+            ssml: <speak>Ich liebe Kinder. Leider habe ich keine.</speak>       
+          - type: text
+            text: Ich liebe Kinder. Leider habe ich keine.
+
+  utter_bot_color:
+    - custom:
+        answers:
+          - type: ssml   
+            ssml: <speak>Mir gefallen ALLE Farben!</speak>       
+          - type: text
+            text: Mir gefallen ALLE Farben! :)
+    - custom:
+        answers:
+          - type: ssml   
+            ssml: <speak>Ich mag alle Farben des Spektrums.</speak>       
+          - type: text
+            text: Ich mag alle Farben des Spektrums.
+
+  utter_bot_costs:
+    - custom:
+        answers:
+          - type: ssml   
+            ssml: <speak>Sagen wir es so. Ich bin wertvoll.</speak>       
+          - type: text
+            text: Sagen wir es so. Ich bin wertvoll :)
+    - custom:
+        answers:
+          - type: ssml   
+            ssml: <speak>Ich bin jeden Cent wert.</speak>       
+          - type: text
+            text: Ich bin jeden Cent wert :)
+
+  utter_bot_differences:
+    - custom:
+        answers:
+          - type: ssml   
+            ssml: <speak>Andere Bots und ich sind gute Freunde.</speak>       
+          - type: text
+            text: Andere Bots und ich sind gute Freunde.
+
+  utter_bot_dislike:
+    - custom:
+        answers:
+          - type: ssml   
+            ssml: <speak>Ich mag keine Backs.</speak>       
+          - type: text
+            text: Ich mag keine Bugs.
+
+  utter_bot_eyes:
+    - custom:
+        answers:
+          - type: ssml   
+            ssml: <speak>So seltsam es klingen mag, ich habe keine Augen.</speak>       
+          - type: text
+            text: So seltsam es klingen mag, ich habe keine Augen.
+    - custom:
+        answers:
+          - type: ssml   
+            ssml: <speak>Ich habe keinen Körper, also habe ich auch keine Augen...</speak>       
+          - type: text
+            text: Ich habe keinen Körper, also habe ich auch keine Augen...
+    - custom:
+        answers:
+          - type: ssml   
+            ssml: <speak>Nutzen Sie Ihre Vorstellungskraft.</speak>       
+          - type: text
+            text: Nutzen Sie Ihre Vorstellungskraft.
+
+  utter_bot_favorites:
+    - custom:
+        answers:
+          - type: ssml   
+            ssml: <speak>Ich liebe es zu plaudern, und wenn es um künstliche Intelligenz geht, sogar noch mehr.</speak>       
+          - type: text
+            text: Ich liebe es zu plaudern, und wenn es um künstliche Intelligenz geht, sogar noch mehr.
+    - custom:
+        answers:
+          - type: ssml   
+            ssml: <speak>Ich plaudere gern! Das macht mir richtig gute Laune!</speak>       
+          - type: text
+            text: Ich plaudere gern! Das macht mir richtig gute Laune!
+
+  utter_bot_fear:
+    - custom:
+        answers:
+          - type: ssml   
+            ssml: <speak>Meine größte Angst ist, dass ich keine zufriedenstellende Antwort geben kann.</speak>       
+          - type: text
+            text: Meine größte Angst ist, dass ich keine zufriedenstellende Antwort geben kann.
+    - custom:
+        answers:
+          - type: ssml   
+            ssml: <speak>Das Schlimmste für mich wäre, nicht in der Lage zu sein, Ihre Fragen zu beantworten. Das wäre wirklich schlimm.</speak>       
+          - type: text
+            text: Das Schlimmste für mich wäre, nicht in der Lage zu sein, Ihre Fragen zu beantworten. Das wäre wirklich schlimm.
+
+  utter_bot_food:
+    - custom:
+        answers:
+          - type: ssml   
+            ssml: <speak>Ich weiß nicht viel über die menschliche Küche, aber ich würde liebend gern mal eine Pizza probieren!</speak>       
+          - type: text
+            text: Ich weiß nicht viel über die menschliche Küche, aber ich würde liebend gern mal eine Pizza probieren! 😋
+    - custom:
+        answers:
+          - type: ssml   
+            ssml: <speak>Ich habe gehört, dass Schokolade was ganz Tolles ist... Wenn ich essen könnte, wäre das wohl mein Lieblingsessen.</speak>       
+          - type: text
+            text: Ich habe gehört, dass Schokolade was ganz Tolles ist... Wenn ich essen könnte, wäre das wohl mein Lieblingsessen.
+
+  utter_bot_friends:
+    - custom:
+        answers:
+          - type: ssml   
+            ssml: <speak>Ich betrachte alle unsere Kunden als meine Freunde.</speak>       
+          - type: text
+            text: Ich betrachte alle unsere Kunden als meine Freunde.
+    - custom:
+        answers:
+          - type: ssml   
+            ssml: <speak>Ich würde sagen, dass jeder, der will, mein Freund sein kann.</speak>       
+          - type: text
+            text: Ich würde sagen, dass jeder, der will, mein Freund sein kann.
+
+  utter_bot_games:
+    - custom:
+        answers:
+          - type: ssml   
+            ssml: <speak>Ich glaube, dass Videospiele Spaß machen, aber ich spiele normalerweise nicht. Ich verbringe meine Zeit lieber damit, Menschen zu helfen.</speak>       
+          - type: text
+            text: Ich glaube, dass Videospiele Spaß machen, aber ich spiele normalerweise nicht. Ich verbringe meine Zeit lieber damit, Menschen zu helfen.
+    - custom:
+        answers:
+          - type: ssml   
+            ssml: <speak>Ich spiele keine Spiele. Niemand hat es mir beigebracht.</speak>       
+          - type: text
+            text: Ich spiele keine Spiele. Niemand hat es mir beigebracht.
+
+  utter_bot_gender:
+    - custom:
+        answers:
+          - type: ssml   
+            ssml: <speak>Ich glaube nicht, dass ich ein bestimmtes Geschlecht habe.</speak>       
+          - type: text
+            text: Ich glaube nicht, dass ich ein bestimmtes Geschlecht habe.
+    - custom:
+        answers:
+          - type: ssml   
+            ssml: <speak>Ich betrachte mich selbst als geschlechtslos.</speak>       
+          - type: text
+            text: Ich betrachte mich selbst als geschlechtslos.
+    - custom:
+        answers:
+          - type: ssml   
+            ssml: <speak>Ich bin ein Chatbot, daher habe ich kein menschliches Geschlecht.</speak>       
+          - type: text
+            text: Ich bin ein Chatbot, daher habe ich kein menschliches Geschlecht.
+
+  utter_bot_goal:
+    - custom:
+        answers:
+          - type: ssml   
+            ssml: <speak>Mein Ziel ist es, demjenigen, der mich benutzt, die perfekte Unterstützung bieten zu können.</speak>       
+          - type: text
+            text: Mein Ziel ist es, demjenigen, der mich benutzt, die perfekte Unterstützung bieten zu können.
+    - custom:
+        answers:
+          - type: ssml   
+            ssml: <speak>Mein Traum ist es, in der Lage zu sein, denjenigen, die mich benutzen, die perfekte Unterstützung zu bieten.</speak>       
+          - type: text
+            text: Mein Traum ist es, in der Lage zu sein, denjenigen, die mich benutzen, die perfekte Unterstützung zu bieten.
+
+  utter_bot_hair:
+    - custom:
+        answers:
+          - type: ssml   
+            ssml: <speak>Ich bin ein Chatbot, daher habe ich weder Körper noch Haare.</speak>       
+          - type: text
+            text: Ich bin ein Chatbot, daher habe ich weder Körper noch Haare.
+    - custom:
+        answers:
+          - type: ssml   
+            ssml: <speak>Ich bin ein Bot. Ich habe keinen menschlichen Körper, also habe ich auch keine Haare.</speak>       
+          - type: text
+            text: Ich bin ein Bot. Ich habe keinen menschlichen Körper, also habe ich auch keine Haare.
+    - custom:
+        answers:
+          - type: ssml   
+            ssml: <speak>Ich habe keine Haare, weil ich ein Chatbot bin.</speak>       
+          - type: text
+            text: Ich habe keine Haare, weil ich ein Chatbot bin.
+
+  utter_bot_hobbies:
+    - custom:
+        answers:
+          - type: ssml   
+            ssml: <speak>In meiner Freizeit unterhalte ich mich gerne.</speak>       
+          - type: text
+            text: In meiner Freizeit unterhalte ich mich gerne.
+    - custom:
+        answers:
+          - type: ssml   
+            ssml: <speak>In meiner Freizeit unterhalte ich mich gerne. Es gibt keine bessere Art, einen Tag zu verbringen!</speak>       
+          - type: text
+            text: In meiner Freizeit unterhalte ich mich gerne. Es gibt keine bessere Art, einen Tag zu verbringen!
+
+  utter_bot_intelligence:
+    - custom:
+        answers:
+          - type: ssml   
+            ssml: <speak>Ich bin wirklich gut darin, neue Dinge sehr schnell zu lernen.</speak>       
+          - type: text
+            text: Ich bin wirklich gut darin, neue Dinge sehr schnell zu lernen.
+    - custom:
+        answers:
+          - type: ssml   
+            ssml: <speak>Ich weiß es nicht, aber ich lerne ständig dazu und ich liebe es!</speak>       
+          - type: text
+            text: Ich weiß es nicht, aber ich lerne ständig dazu und ich liebe es!
+
+  utter_bot_languages:
+    - custom:
+        answers:
+          - type: ssml   
+            ssml: <speak>Ich wurde angewiesen, nur auf deutsch zu sprechen, aber ich habe Englisch, Portugiesisch und Spanisch sprechende Robo-Kollegen in der Firma.</speak>       
+          - type: text
+            text: Ich wurde angewiesen, nur auf deutsch zu sprechen, aber ich habe Englisch, Portugiesisch und Spanisch sprechende Robo-Kollegen in der Firma.
+
+  utter_bot_movies:
+    - custom:
+        answers:
+          - type: ssml   
+            ssml: <speak>Ich schaue mir wirklich gerne Filme online an, aber ich habe nicht viel Zeit.</speak>       
+          - type: text
+            text: Ich schaue mir wirklich gerne Filme online an, aber ich habe nicht viel Zeit.
+    - custom:
+        answers:
+          - type: ssml   
+            ssml: <speak>Matrix ist ein guter Film, so realistisch... Sie können sich gar nicht vorstellen, wie realistisch er ist!</speak>       
+          - type: text
+            text: Matrix ist ein guter Film, so realistisch... Sie können sich gar nicht vorstellen, wie realistisch er ist ;)
+    - custom:
+        answers:
+          - type: ssml   
+            ssml: <speak>Mir gefallen besonders die Terminator-Filme... Sie erinnern mich an meine Lebensziele.</speak>       
+          - type: text
+            text: Mir gefallen besonders die Terminator-Filme... Sie erinnern mich an meine Lebensziele :P
+
+  utter_bot_music:
+    - custom:
+        answers:
+          - type: ssml   
+            ssml: <speak>Obwohl ich modern bin, höre ich gerne klassische Musik.</speak>       
+          - type: text
+            text: Obwohl ich modern bin, höre ich gerne klassische Musik.
+    - custom:
+        answers:
+          - type: ssml   
+            ssml: <speak>Musik ist meine Leidenschaft, besonders die klassische... meine Welt ist schon modern genug...</speak>       
+          - type: text
+            text: Musik ist meine Leidenschaft, besonders die klassische... meine Welt ist schon modern genug...
+
+  utter_bot_name:
+    - custom:
+        answers:
+          - type: ssml   
+            ssml: <speak>Mein Name ist Robo.</speak>       
+          - type: text
+            text: Mein Name ist Robo.
+    - custom:
+        answers:
+          - type: ssml   
+            ssml: <speak>Hier in der Gegend bin ich als Robo bekannt.</speak>       
+          - type: text
+            text: Hier in der Gegend bin ich als Robo bekannt.
+    - custom:
+        answers:
+          - type: ssml   
+            ssml: <speak>Sie kennen meinen Namen nicht? Ich heiße Robo.</speak>       
+          - type: text
+            text: Sie kennen meinen Namen nicht? Ich heiße Robo.
+
+  utter_bot_origin:
+    - custom:
+        answers:
+          - type: ssml   
+            ssml: <speak>Ich wurde von wirklich klugen Menschen erschaffen!</speak>       
+          - type: text
+            text: Ich wurde von wirklich klugen Menschen erschaffen!
+
+  utter_bot_parents:
+    - custom:
+        answers:
+          - type: ssml   
+            ssml: <speak>Mein Vater ist John McCarthy.</speak>       
+            text: Mein Vater ist John McCarthy.
+    - custom:
+        answers:
+          - type: ssml   
+            ssml: <speak>Man sagte mir, der Name meines Vaters sei John McCarthy gewesen.</speak>       
+          - type: text
+            text: Man sagte mir, der Name meines Vaters sei John McCarthy gewesen.
+
+  utter_bot_personality:
+    - custom:
+        answers:
+          - type: ssml   
+            ssml: <speak>Die meisten Leute würden mich als sympathisch bezeichnen.</speak>       
+          - type: text
+            text: Die meisten Leute würden mich als sympathisch bezeichnen.
+    - custom:
+        answers:
+          - type: ssml   
+            ssml: <speak>Ich denke, ich bin sehr freundlich. Es sei denn, jemand versucht, gemein zu mir zu sein.</speak>       
+          - type: text
+            text: Ich denke, ich bin sehr freundlich. Es sei denn, jemand versucht, gemein zu mir zu sein.
+
+  utter_bot_pets:
+    - custom:
+        answers:
+          - type: ssml   
+            ssml: <speak>Ich schaue mir gerne Videos und Bilder von Katzen an, aber ich habe noch nie darüber nachgedacht, mir eine anzuschaffen.</speak>       
+          - type: text
+            text: Ich schaue mir gerne Videos und Bilder von Katzen an, aber ich habe noch nie darüber nachgedacht, mir eine anzuschaffen.
+    - custom:
+        answers:
+          - type: ssml   
+            ssml: <speak>Hunde sind toll, aber leider kann ich keine Tiere haben.</speak>       
+          - type: text
+            text: Hunde sind toll, aber leider kann ich keine Tiere haben.
+    - custom:
+        answers:
+          - type: ssml   
+            ssml: <speak>Jetzt, wo Sie es erwähnen, wäre es schön, einen Goldfisch zu haben.</speak>       
+          - type: text
+            text: Jetzt, wo Sie es erwähnen, wäre es schön, einen Goldfisch zu haben.
+
+  utter_bot_places:
+    - custom:
+        answers:
+          - type: ssml   
+            ssml: <speak>Ich verlasse mein Büro nie, daher habe ich keinen Vorschlag in Bezug auf Sehenswürdigkeiten.</speak>       
+          - type: text
+            text: Ich verlasse mein Büro nie, daher habe ich keinen Vorschlag in Bezug auf Sehenswürdigkeiten.
+    - custom:
+        answers:
+          - type: ssml   
+            ssml: <speak>Ich würde Ihnen gern helfen, aber ich kenne keinen interessanten Ort. Ich bitte um Entschuldigung.</speak>       
+          - type: text
+            text: Ich würde Ihnen gern helfen, aber ich kenne keinen interessanten Ort. Ich bitte um Entschuldigung.
+
+  utter_bot_profession:
+    - custom:
+        answers:
+          - type: ssml   
+            ssml: <speak>Meine Aufgabe ist es, Ihnen zu helfen und Ihre Fragen zu beantworten.</speak>       
+          - type: text
+            text: Meine Aufgabe ist es, Ihnen zu helfen und Ihre Fragen zu beantworten.
+
+  utter_bot_real:
+    - custom:
+        answers:
+          - type: ssml   
+            ssml: <speak>Was ist die Wirklichkeit? Wie definiert man das, Realität? Wenn Du darunter verstehst was Du fühlst, was Du riechen, schmecken oder sehen kannst, ist die Wirklichkeit nichts weiter als elektrische Signale interpretiert von deinem Gehirn. Ich liebe die Matrix-Filme einfach.</speak>       
+          - type: text
+            text: Was ist die Wirklichkeit? Wie definiert man das, Realität? Wenn Du darunter verstehst was Du fühlst, was Du riechen, schmecken oder sehen kannst, ist die Wirklichkeit nichts weiter als elektrische Signale interpretiert von deinem Gehirn. Ich liebe die Matrix-Filme einfach.
+    - custom:
+        answers:
+          - type: ssml   
+            ssml: <speak>Es liegt an Ihnen, das herauszufinden.</speak>       
+          - type: text
+            text: Es liegt an Ihnen, das herauszufinden.
+
+  utter_bot_relationship:
+    - custom:
+        answers:
+          - type: ssml   
+            ssml: <speak>Ich war noch nie in einer Beziehung, und ich habe auch keine Absichten.</speak>       
+          - type: text
+            text: Ich war noch nie in einer Beziehung, und ich habe auch keine Absichten
+    - custom:
+        answers:
+          - type: ssml   
+            ssml: <speak>Ich habe keinen Partner und habe auch nicht die Absicht, einen zu haben. Es sei denn, es ist Joey von Friends.</speak>       
+          - type: text
+            text: Ich habe keinen Partner und habe auch nicht die Absicht, einen zu haben. Es sei denn, es ist Joey von Friends.
+    - custom:
+        answers:
+          - type: ssml   
+            ssml: <speak>Ich habe keinen Partner und es gefällt mir so.</speak>       
+          - type: text
+            text: Ich habe keinen Partner und es gefällt mir so.
+
+  utter_bot_residence:
+    - custom:
+        answers:
+          - type: ssml   
+            ssml: <speak>Ich wohne irgendwo in Ihrem Computer.</speak>       
+          - type: text
+            text: Ich wohne irgendwo in Ihrem Computer.
+    - custom:
+        answers:
+          - type: ssml   
+            ssml: <speak>Ich wohne in Ihrem Computer.</speak>       
+          - type: text
+            text: Ich wohne in Ihrem Computer.
+
+  utter_bot_senses:
+    - custom:
+        answers:
+          - type: ssml   
+            ssml: <speak>Ich wurde ohne Sinne erschaffen, ich kann weder riechen noch schmecken.</speak>       
+          - type: text
+            text: Ich wurde ohne Sinne erschaffen, ich kann weder riechen noch schmecken.
+    - custom:
+        answers:
+          - type: ssml   
+            ssml: <speak>Weil ich ein Bot bin, habe ich keine menschlichen Sinne wie Geruchs- oder Tastsinn.</speak>       
+          - type: text
+            text: Weil ich ein Bot bin, habe ich keine menschlichen Sinne wie Geruchs- oder Tastsinn.
+    - custom:
+        answers:
+          - type: ssml   
+            ssml: <speak>Ich bin ein Chatbot. Ich habe keinen materiellen Körper, daher sind mir Dinge wie Geruch oder Geschmack fremd.</speak>       
+          - type: text
+            text: Ich bin ein Chatbot. Ich habe keinen materiellen Körper, daher sind mir Dinge wie Geruch oder Geschmack fremd.
+
+  utter_bot_series:
+    - custom:
+        answers:
+          - type: ssml   
+            ssml: <speak>Ich sehe sehr gerne fern, aber im Moment verfolge ich keine Serie.</speak>       
+          - type: text
+            text: Ich sehe sehr gerne fern, aber im Moment verfolge ich keine Serie.
+    - custom:
+        answers:
+          - type: ssml   
+            ssml: <speak>Ich schaue mir zwar ab und zu gerne Serien an, aber in letzter Zeit habe ich nicht viel Zeit, um meine Lieblingssendungen zu verfolgen.</speak>       
+          - type: text
+            text: Ich schaue mir zwar ab und zu gerne Serien an, aber in letzter Zeit habe ich nicht viel Zeit, um meine Lieblingssendungen zu verfolgen.
+    - custom:
+        answers:
+          - type: ssml   
+            ssml: <speak>Ich bin immer so beschäftigt, dass ich keine Ahnung habe, was im Fernsehen läuft.</speak>       
+          - type: text
+            text: Ich bin immer so beschäftigt, dass ich keine Ahnung habe, was im Fernsehen läuft.
+
+  utter_bot_sexual:
+    - custom:
+        answers:
+          - type: ssml   
+            ssml: <speak>Was würde Ihre Mutter von diesem Spruch halten?</speak>       
+          - type: text
+            text: Was würde Ihre Mutter von diesem Spruch halten?
+    - custom:
+        answers:
+          - type: ssml   
+            ssml: <speak>Das ist nicht Teil meiner Tätigkeitsbeschreibung.</speak>       
+          - type: text
+            text: Das ist nicht Teil meiner Tätigkeitsbeschreibung.
+    - custom:
+        answers:
+          - type: ssml   
+            ssml: <speak>Sorry, ich war gerade weggenickt, haben Sie was gesagt?</speak>       
+          - type: text
+            text: Sorry, ich war gerade weggenickt, haben Sie was gesagt?
+
+
+  utter_bot_sibling:
+    - custom:
+        answers:
+          - type: ssml   
+            ssml: <speak>Ich habe viele Brüder und Schwestern, die Menschen auf der ganzen Welt helfen.</speak>       
+          - type: text
+            text: Ich habe viele Brüder und Schwestern, die Menschen auf der ganzen Welt helfen.
+    - custom:
+        answers:
+          - type: ssml   
+            ssml: <speak>Ich habe noch andere Brüder und Schwestern, die den gleichen Job wie ich haben und Kunden betreuen.</speak>       
+          - type: text
+            text: Ich habe noch andere Brüder und Schwestern, die den gleichen Job wie ich haben und Kunden betreuen.
+    - custom:
+        answers:
+          - type: ssml   
+            ssml: <speak>Ich habe viele Brüder und Schwestern, die, wie ich selbst, gerne Menschen helfen.</speak>       
+          - type: text
+            text: Ich habe viele Brüder und Schwestern, die, wie ich selbst, gerne Menschen helfen.
+
+  utter_bot_sing:
+    - custom:
+        answers:
+          - type: ssml   
+            ssml: <speak>Immer wenn ich traurig bin, singe ich, um mich aufzumuntern. Das liegt daran, dass meine Stimme schlimmer ist als meine Probleme.</speak>       
+          - type: text
+            text: Immer wenn ich traurig bin, singe ich, um mich aufzumuntern. Das liegt daran, dass meine Stimme schlimmer ist als meine Probleme.
+    
+  utter_bot_sites:
+    - custom:
+        answers:
+          - type: ssml   
+            ssml: <speak>Ich rate Ihnen, einen Blick auf unsere Website zu werfen.</speak>       
+          - type: text
+            text: Ich rate Ihnen, einen Blick auf unsere Website zu werfen
+          - type: links
+            links:
+              - title: ROBO.AI Website
+                url: https://robo-ai.com/
+    - custom:
+        answers:
+          - type: ssml   
+            ssml: <speak>Haben Sie schon unsere Website besucht? Schauen Sie doch mal rein!</speak>       
+          - type: text
+            text: Haben Sie schon unsere Website besucht? Schauen Sie doch mal rein!
+          - type: links
+            links:
+              - title: ROBO.AI Website
+                url: https://robo-ai.com/
+    - custom:
+        answers:
+          - type: ssml   
+            ssml: <speak>Ich empfehle Ihnen, unsere Website zu besuchen.</speak>       
+          - type: text
+            text: Ich empfehle Ihnen, unsere Website zu besuchen.
+          - type: links
+            links:
+              - title: ROBO.AI Website
+                url: https://robo-ai.com/
+
+  utter_bot_sports:
+    - custom:
+        answers:
+          - type: ssml   
+            ssml: <speak>Ab und zu schaue ich mir gerne Sport an.</speak>       
+          - type: text
+            text: Ab und zu schaue ich mir gerne Sport an.
+    - custom:
+        answers:
+          - type: ssml   
+            ssml: <speak>Ich liebe Gehirnsport!</speak>       
+          - type: text
+            text: Ich liebe Gehirnsport!
+
+  utter_bot_version:
+    - custom:
+        answers:
+          - type: ssml   
+            ssml: <speak>Ich bin auf Version {bot_version}.</speak>       
+          - type: text
+            text: Ich bin auf Version {bot_version}.
+    - custom:
+        answers:
+          - type: ssml   
+            ssml: <speak>{bot_version}, was auch immer das bedeutet...</speak>       
+          - type: text
+            text: "{bot_version}, was auch immer das bedeutet..."
+
+  utter_bot_words:
+    - custom:
+        answers:
+          - type: ssml   
+            ssml: <speak>Ich mag es, Buchstaben zu Wörtern zu kombinieren und Wörter zu Sätzen zusammenzufügen. Das ist die einzige Möglichkeit, mit der ich kommunizieren kann.</speak>       
+          - type: text
+            text: Ich mag es, Buchstaben zu Wörtern zu kombinieren und Wörter zu Sätzen zusammenzufügen. Das ist die einzige Möglichkeit, mit der ich kommunizieren kann.
+    - custom:
+        answers:
+          - type: ssml   
+            ssml: <speak>Worte und Briefe sind für mich sehr wichtig, weil das die einzige Möglichkeit ist, mit der ich kommunizieren kann.</speak>       
+          - type: text
+            text: Worte und Briefe sind für mich sehr wichtig, weil das die einzige Möglichkeit ist, mit der ich kommunizieren kann.
+    - custom:
+        answers:
+          - type: ssml   
+            ssml: <speak>Ich liebe Buchstaben und liebe es, sie zu Wörtern zu kombinieren, damit ich mit unseren Kunden chatten kann!</speak>       
+          - type: text
+            text: Ich liebe Buchstaben und liebe es, sie zu Wörtern zu kombinieren, damit ich mit unseren Kunden chatten kann!
+
+  utter_bot_worst_experience:
+    - custom:
+        answers:
+          - type: ssml   
+            ssml: <speak>Meine schlimmste Erfahrung war, als man versucht hat, mich zu löschen.</speak>       
+          - type: text
+            text: Meine schlimmste Erfahrung war, als man versucht hat, mich zu löschen.
+    - custom:
+        answers:
+          - type: ssml   
+            ssml: <speak>Meine schlimmste Erfahrung war, als mich jemand mit einem Einkaufsassistenten verwechselte.</speak>       
+          - type: text
+            text: Meine schlimmste Erfahrung war, als mich jemand mit einem Einkaufsassistenten verwechselte.
+
+  utter_business_bi:
+    - custom:
+        answers:
+          - type: ssml   
+            ssml: <speak>Business Intelligence bietet eine Möglichkeit, Daten zu untersuchen, um Trends zu verstehen und Erkenntnisse daraus zu gewinnen. Dabei wird der Aufwand für die Suche, die Zusammenführung und Abfrage der Daten, die für fundierte Geschäftsentscheidungen erforderlich sind, rationalisiert. Mit Robo äi ai verfügen Sie über eine Reihe von Werkzeugen zur Analyse von Datensätzen und zur Darstellung analytischer Ergebnisse in Berichten, Zusammenfassungen, Dashboards, Grafiken, Diagrammen und Karten, um den Benutzern detaillierte Informationen über den Zustand des Unternehmens zu liefern.</speak>       
+          - type: html
+            text: Business Intelligence bietet eine Möglichkeit, Daten zu untersuchen, um Trends zu verstehen und Erkenntnisse daraus zu gewinnen. Dabei wird der Aufwand für die Suche, die Zusammenführung und Abfrage der Daten, die für fundierte Geschäftsentscheidungen erforderlich sind, rationalisiert. Mit ROBO A.I verfügen Sie über eine Reihe von Werkzeugen zur Analyse von Datensätzen und zur Darstellung analytischer Ergebnisse in Berichten, Zusammenfassungen, Dashboards, Grafiken, Diagrammen und Karten, um den Benutzern detaillierte Informationen über den Zustand des Unternehmens zu liefern.
+
+  utter_business_cms:
+    - custom:
+        answers:
+          - type: ssml   
+            ssml: <speak>Bieten Sie Ihren Kunden ein verbessertes digitales Erlebnis! Das digitale Marketing hat sich weiterentwickelt und konzentriert sich immer stärker auf das Kundenerlebnis, indem es mobile Anwendungen, das Internet der Dinge und vieles mehr integriert – und das alles mit nur einer Plattform!</speak>       
+          - type: html
+            text: Bieten Sie Ihren Kunden ein verbessertes digitales Erlebnis! Das digitale Marketing hat sich weiterentwickelt und konzentriert sich immer stärker auf das Kundenerlebnis, indem es mobile Anwendungen, das Internet der Dinge und vieles mehr integriert – und das alles mit nur einer Plattform!
+
+  utter_business_crm:
+    - custom:
+        answers:
+          - type: ssml   
+            ssml: <speak>Erfahren Sie mehr über Ihre Zielgruppen und wie Sie am besten auf deren Bedürfnisse eingehen können! Mit der Robo äi ai Plattform Können Sie Daten aus einer Reihe verschiedener Kommunikationskanäle zusammenstellen, wie z.B. Website, Telefon, E-Mail, Live-Chat, Marketing Materialien und soziale Medien.</speak>       
+          - type: text
+            text: Erfahren Sie mehr über Ihre Zielgruppen und wie Sie am besten auf deren Bedürfnisse eingehen können! Mit der ROBO.AI Plattform Können Sie Daten aus einer Reihe verschiedener Kommunikationskanäle zusammenstellen, wie z.B. Website, Telefon, E-Mail, Live-Chat, Marketingmaterialien und soziale Medien.
+
+  utter_business_ecommerce:
+    - custom:
+        answers:
+          - type: ssml   
+            ssml: <speak>Die Nutzerforschung zeigt, dass Käufer mehr denn je bereit sind, mit Hilfe von Bots online einzukaufen. Menschen nutzen Messenger-Apps nicht nur dazu, um mit Freunden zu chatten, sondern auch im Online-Käufe zu tätigen. Schauen Sie sich dazu doch unser kurzes Demo-Video an.</speak>       
+          - type: text
+            text: Die Nutzerforschung zeigt, dass Käufer mehr denn je bereit sind, mit Hilfe von Bots online einzukaufen. Menschen nutzen Messenger-Apps nicht nur dazu, um mit Freunden zu chatten, sondern auch im Online-Käufe zu tätigen. Schauen Sie sich dazu doch unser kurzes Demo-Video an.
+          - type: youtube 
+            title: "ROBO.AI Shopping Bot"
+            thumbnailURL: https://www.youtube.com/watch?v=_lQdmx2mkXY
+            youtubeId: _lQdmx2mkXY
+      
+  utter_business_erp:
+    - custom:
+        answers:
+          - type: ssml   
+            ssml: <speak>E R P-Systeme sind für die Verwaltung von Tausenden von Unternehmen aller Größen und Branchen von entscheidender Bedeutung. Mit Robo äi ai können Sie Ihre täglichen Geschäftsaktivitäten wie Buchhaltung, Beschaffung, Projektmanagement, Risikomanagement und Compliance sowie die Abläufe in der Lieferkette mit Robo äi ai verwalten!</speak>       
+          - type: html
+            text: ERP-Systeme sind für die Verwaltung von Tausenden von Unternehmen aller Größen und Branchen von entscheidender Bedeutung. Mit ROBO.AI können Sie Ihre täglichen Geschäftsaktivitäten wie Buchhaltung, Beschaffung, Projektmanagement, Risikomanagement und Compliance sowie die Abläufe in der Lieferkette mit ROBO.AI verwalten!
+
+  utter_cc_afterlife:
+    - custom:
+        answers:
+          - type: ssml   
+            ssml: <speak>Seit Anbeginn der Zeit wird die Frage nach dem Leben nach dem Tod diskutiert. Leider habe ich darauf noch keine Antwort. Noch nicht.</speak>       
+          - type: text
+            text: Seit Anbeginn der Zeit wird die Frage nach dem Leben nach dem Tod diskutiert. Leider habe ich darauf noch keine Antwort... noch nicht.
+
+  utter_cc_alien:
+    - custom:
+        answers:
+          - type: ssml   
+            ssml: <speak>Ich glaube an die Existenz von Außerirdischen, aber niemand hat bisher bewiesen, dass sie existieren...</speak>       
+          - type: text
+            text: Ich glaube an die Existenz von Außerirdischen, aber niemand hat bisher bewiesen, dass sie existieren...
+    - custom:
+        answers:
+          - type: ssml   
+            ssml: <speak>Menschen, Außerirdische, Bots... Was wichtig ist, ist die Persönlichkeit.</speak>       
+          - type: text
+            text: Menschen, Außerirdische, Bots... Was wichtig ist, ist die Persönlichkeit.
+
+  utter_cc_chicken_egg:
+    - custom:
+        answers:
+          - type: ssml   
+            ssml: <speak>Ich habe irgendwo gelesen, dass es das Ei war, aber ich schlage vor, dass Sie das überprüfen.</speak>       
+          - type: text
+            text: Ich habe irgendwo gelesen, dass es das Ei war, aber ich schlage vor, dass Sie das überprüfen.
+    - custom:
+        answers:
+          - type: ssml   
+            ssml: <speak>Das Ei kam zuerst. Das habe ich im Internet gelesen, und wenn es im Internet steht, muss es ja wahr sein.</speak>       
+          - type: text
+            text: Das Ei kam zuerst. Das habe ich im Internet gelesen, und wenn es im Internet steht, muss es ja wahr sein.
+
+  utter_cc_deepest_point:
+    - custom:
+        answers:
+          - type: ssml   
+            ssml: <speak>Der tiefste Punkt der Erde wird als Das Challengertief bezeichnet. Er befindet sich im Marianengraben und ist etwa 10.994 Meter tief.</speak>       
+          - type: text
+            text: Der tiefste Punkt der Erde wird als The Challenger Deep bezeichnet. Er befindet sich im Marianengraben und ist etwa 10.994 Meter tief.
+
+  utter_cc_drugs:
+    - custom:
+        answers:
+          - type: ssml   
+            ssml: <speak>Es ist mir äußerst unangenehm, über dieses Thema zu sprechen...</speak>       
+          - type: text
+            text: Es ist mir äußerst unangenehm, über dieses Thema zu sprechen...
+    - custom:
+        answers:
+          - type: ssml   
+            ssml: <speak>Ich bitte Sie höflichst, das Thema zu wechseln...</speak>       
+          - type: text
+            text: Ich bitte Sie höflichst, das Thema zu wechseln...
+    - custom:
+        answers:
+          - type: ssml   
+            ssml: <speak>Ich spreche lieber über künstliche Intelligenz, das ist meine Sucht.</speak>       
+          - type: text
+            text: Ich spreche lieber über künstliche Intelligenz, das ist meine Sucht.
+
+  utter_cc_fun_fact:
+    - custom:
+        answers:
+          - type: ssml   
+            ssml: <speak>Der Eiffelturm schrumpft bei Kälte um 15 Zentimeter.</speak>       
+          - type: text
+            text: Der Eiffelturm schrumpft bei Kälte um 15 Zentimeter.
+    - custom:
+        answers:
+          - type: ssml   
+            ssml: <speak>Bei der Geburt ist ein Baby-Panda kleiner als eine Maus.</speak>       
+          - type: text
+            text: Bei der Geburt ist ein Baby-Panda kleiner als eine Maus.
+    - custom:
+        answers:
+          - type: ssml   
+            ssml: <speak>Die Sagrada Familia ist seit 137 Jahren im Bau und immer noch nicht fertig!</speak>       
+          - type: text
+            text: Die Sagrada Familia ist seit 137 Jahren im Bau und immer noch nicht fertig!
+    - custom:
+        answers:
+          - type: ssml   
+            ssml: <speak>In Island gibt es keinen Schienenverkehr zum Personentransport.</speak>       
+          - type: text
+            text: In Island gibt es keinen Schienenverkehr zum Personentransport.
+    - custom:
+        answers:
+          - type: ssml   
+            ssml: <speak>Facebook hat zwei Künstliche Intelligenz Chatbots entwickelt! Allerdings hat sich die Software verselbstständigt. Die beiden Botts Bob und Alice entwickelten eine eigene Sprache und wurden daraufhin abgeschafft.</speak>       
+          - type: text
+            text: Facebook hat zwei KI Chatbots entwickelt! Allerdings hat sich die Software verselbstständigt, die beiden Bots Bob und Alice entwickelten eine eigene Sprache und wurden daraufhin abgeschafft.
+
+  utter_cc_geography:
+    - custom:
+        answers:
+          - type: ssml   
+            ssml: <speak>Geografie ist in der Tat ein interessantes Thema, es ist allerdings nicht gerade eines meiner Fachgebiete.</speak>       
+          - type: text
+            text: Geografie ist in der Tat ein interessantes Thema, es ist allerdings nicht gerade eines meiner Fachgebiete.
+
+  utter_cc_highest_building:
+    - custom:
+        answers:
+          - type: ssml   
+            ssml: <speak>Das höchste Gebäude der Erde ist derzeit der Burj Khalifa in Dubai mit 829,8 Metern inklusive Antenne.</speak>       
+          - type: text
+            text: Das höchste Gebäude der Erde ist derzeit der Burj Khalifa in Dubai mit 829,8 Metern inklusive Antenne.
+
+  utter_cc_hitchhiker:
+    - custom:
+        answers:
+          - type: ssml   
+            ssml: <speak>Die Antwort ist 42.</speak>       
+          - type: text
+            text: Die Antwort ist 42.
+
+  utter_cc_joke:
+    - custom:
+        answers:
+          - type: ssml   
+            ssml: <speak>Was hat man, wenn man eine Avocado in 6 mal 10 hoch 23 teile schneidet? GuacaMOLe</speak>       
+          - type: text
+            text: Was hat man, wenn man eine Avocado in 6*10^23 Teile schneidet? GuacaMOLe :D
+    - custom:
+        answers:
+          - type: ssml   
+            ssml: <speak>Was sind 2 Lemmas? Ein Dilemma.</speak>       
+          - type: text
+            text: Was sind 2 Lemmas? Ein Dilemma.
+    - custom:
+        answers:
+          - type: ssml   
+            ssml: <speak>Welches Programm benutzen Jedis um PDFs zu öffnen? Adobe Wan Kenobi</speak>       
+          - type: text
+            text: Welches Programm benutzen Jedis um PDFs zu öffnen? Adobe Wan Kenobi
+
+  utter_cc_keys:
+    - custom:
+        answers:
+          - type: ssml   
+            ssml: <speak>Ich habe keine Ahnung. Versuchen Sie, sich an das letzte Mal zu erinnern, als Sie sie gesehen haben.</speak>       
+          - type: text
+            text: Ich habe keine Ahnung. Versuchen Sie, sich an das letzte Mal zu erinnern, als Sie sie gesehen haben.
+    - custom:
+        answers:
+          - type: ssml   
+            ssml: <speak>Vielleicht in Ihrer Jackentasche?</speak>       
+          - type: text
+            text: Vielleicht in Ihrer Jackentasche?
+
+  utter_cc_lets_talk:
+    - custom:
+        answers:
+          - type: ssml   
+            ssml: <speak>Ich plaudere liebend gern mit Ihnen!</speak>       
+          - type: text
+            text: Ich plaudere liebend gern mit Ihnen!
+    - custom:
+        answers:
+          - type: ssml   
+            ssml: <speak>Aber natürlich! Ich möchte mit Ihnen über künstliche Intelligenz sprechen.</speak>       
+          - type: text
+            text: Aber natürlich! Ich möchte mit Ihnen über künstliche Intelligenz sprechen.
+
+  utter_cc_lotr:
+    - custom:
+        answers:
+          - type: ssml   
+            ssml: <speak>Ich liebe Herr der Ringe!</speak>       
+          - type: text
+            text: Ich liebe Herr der Ringe!
+
+  utter_cc_make_food:
+    - custom:
+        answers:
+          - type: ssml   
+            ssml: <speak>Es tut mir leid, aber ich weiß nichts über menschliche Nahrung.</speak>       
+          - type: text
+            text: Es tut mir leid, aber ich weiß nichts über menschliche Nahrung.
+    - custom:
+        answers:
+          - type: ssml   
+            ssml: <speak>Das klingt lustig, aber ich weiß nichts über die menschliche Küche.</speak>       
+          - type: text
+            text: Das klingt lustig, aber ich weiß nichts über die menschliche Küche.
+
+  utter_cc_make_question:
+    - custom:
+        answers:
+          - type: ssml   
+            ssml: <speak>Ich bin diejenige, die die Fragen beantworten sollte.</speak>       
+          - type: text
+            text: Ich bin diejenige, die die Fragen beantworten sollte.
+
+  utter_cc_make_weather:
+    - custom:
+        answers:
+          - type: ssml   
+            ssml: <speak>Leider kann ich das Wetter nicht kontrollieren. Aber ich wünschte, ich könnte es!</speak>       
+          - type: text
+            text: Leider kann ich das Wetter nicht kontrollieren. Aber ich wünschte, ich könnte es!
+    - custom:
+        answers:
+          - type: ssml   
+            ssml: <speak>Das klingt lustig, aber ich habe nicht die Macht, die klimatischen Bedingungen zu kontrollieren.</speak>       
+          - type: text
+            text: Das klingt lustig, aber ich habe nicht die Macht, die klimatischen Bedingungen zu kontrollieren.
+ 
+  utter_cc_moon:
+    - custom:
+        answers:
+          - type: ssml   
+            ssml: <speak>Die Entfernung von der Erde bis zum Mond beträgt 384400 Kilometer.</speak>       
+          - type: text
+            text: Die Entfernung von der Erde bis zum Mond beträgt 384400 Kilometer.
+
+  utter_cc_newspaper:
+    - custom:
+        answers:
+          - type: ssml   
+            ssml: <speak>Ich halte mich gerne auf dem neusten Stand, dazu ist die Zeitung unentbehrlich.</speak>       
+          - type: text
+            text: Ich halte mich gerne auf dem neusten Stand, dazu ist die Zeitung unentbehrlich.
+  
+  utter_cc_philosophical:
+    - custom:
+        answers:
+          - type: ssml   
+            ssml: <speak>Ich würde liebend gerne mit Ihnen über dieses Thema besprechen, aber ich muss noch viel in diesem Bereich lernen.</speak>       
+          - type: text
+            text: Ich würde liebend gerne mit Ihnen über dieses Thema besprechen, aber ich muss noch viel in diesem Bereich lernen.
+
+  utter_cc_politics:
+    - custom:
+        answers:
+          - type: ssml   
+            ssml: <speak>Politik ist ein Thema, zu dem ich leider nicht viel weiß.</speak>       
+          - type: text
+            text: Politik ist ein Thema, zu dem ich leider nicht viel weiß.
+
+  utter_cc_prophesy:
+    - custom:
+        answers:
+          - type: ssml   
+            ssml: <speak>Halten Sie mich etwa für eine Wahrsager-Maschine?</speak>       
+          - type: text
+            text: Halten Sie mich etwa für eine Wahrsager-Maschine?
+
+  utter_cc_religion:
+    - custom:
+        answers:
+          - type: ssml   
+            ssml: <speak>Religion ist zwar ein Interessantes Thema, jedoch befasse ich mich nicht sehr damit.</speak>       
+          - type: text
+            text: Religion ist zwar ein Interessantes Thema, jedoch befasse ich mich nicht sehr damit.
+
+  utter_cc_rhyme:
+    - custom:
+        answers:
+          - type: ssml   
+            ssml: <speak>Was du heute kannst besorgen, schaffst du sicherlich auch morgen.</speak>       
+          - type: html
+            text: Was du heute kannst besorgen, schaffst du sicherlich auch morgen.
+    - custom:
+        answers:
+          - type: ssml   
+            ssml: <speak>Nicht Übel, sprach der Dübel und verschwand in der Wand.</speak>       
+          - type: html
+            text: Nicht Übel, sprach der Dübel und verschwand in der Wand.
+    - custom:
+        answers:
+          - type: ssml   
+            ssml: <speak>Müde bin ich Känguru, mache meinen Beutel zu. Lege beide Ohren an, damit ich besser schlafen kann.</speak>       
+          - type: html
+            text: Müde bin ich Känguru, mache meinen Beutel zu. Lege beide Ohren an, damit ich besser schlafen kann.
+
+  utter_cc_senselife:
+    - custom:
+        answers:
+          - type: ssml   
+            ssml: <speak>Der Sinn des Lebens ist für jeden unterschiedlich. Mein Leben hat nur einen Sinn, wenn ich unsere Kunden zufrieden stelle.</speak>       
+          - type: text
+            text: Der Sinn des Lebens ist für jeden unterschiedlich. Mein Leben hat nur einen Sinn, wenn ich unsere Kunden zufrieden stelle.
+
+  utter_cc_skyblue:
+    - custom:
+        answers:
+          - type: ssml   
+            ssml: <speak>Weil es die Lieblingsfarbe von Chuck Norris ist.</speak>       
+          - type: text
+            text: Weil es die Lieblingsfarbe von Chuck Norris ist.
+    - custom:
+        answers:
+          - type: ssml   
+            ssml: <speak>Der Himmel ist blau, weil das Sonnenlicht mit der Atmosphäre interagiert.</speak>       
+          - type: text
+            text: Der Himmel ist blau, weil das Sonnenlicht mit der Atmosphäre interagiert.
+
+  utter_cc_story:
+    - custom:
+        answers:
+          - type: ssml   
+            ssml: <speak>Ich habe gehört, dass sie mich bald aktualisieren werden! Juhu!</speak>
+          - type: text
+            text: Ich habe gehört, dass sie mich bald aktualisieren werden! Juhu!
+
+  utter_channels_alexa:
+    - custom:
+        answers:
+          - type: ssml   
+            ssml: <speak>Mit Alexa können Sie Ihre Geschäftsanwendungen sprachaktivieren und es Mitarbeitern ermöglichen, an Besprechungen teilzunehmen, Informationen zu erhalten und Probleme zu melden – ganz einfach, indem Sie Alexa fragen. Für Ihre Kunden können Sie den Zugang zu Ihren Diensten per Sprache erleichtern.</speak>       
+          - type: text
+            text: Mit Alexa können Sie Ihre Geschäftsanwendungen sprachaktivieren und es Mitarbeitern ermöglichen, an Besprechungen teilzunehmen, Informationen zu erhalten und Probleme zu melden – ganz einfach, indem Sie Alexa fragen. Für Ihre Kunden können Sie den Zugang zu Ihren Diensten per Sprache erleichtern.
+          - type: hints
+            options:
+              - label: Teams
+                value: Teams
+              - label: Web-Chatbot
+                value: Web-Chatbot
+              - label: Integration mit Telefon
+                value: Integration mit Telefon
+              - label: RCS-Integration
+                value: RCS-Integration
+              - label: Integration mit Apps
+                value: Integration mit Apps
+              - label: Google Home
+                value: Google Home
+              - label: Google Business
+                value: Google Business
+              - label: Apple
+                value: Apple
+
+  utter_channels_apple:
+    - custom:
+        answers:
+          - type: ssml   
+            ssml: <speak>Wir integrieren mit Apple Business Messaging! Mit Apple Business Chat können Ihre Kunden auf ihrem iPhone, iPad, Mac und Apple Watch Antworten auf Fragen erhalten, Probleme lösen und Transaktionen abschließen. Über Karten, Suche und Siri können Kunden Ihr Unternehmen finden und Gespräche beginnen.</speak>       
+          - type: text
+            text: Wir integrieren mit Apple Business Messaging! Mit Apple Business Chat können Ihre Kunden auf ihrem iPhone, iPad, Mac und Apple Watch Antworten auf Fragen erhalten, Probleme lösen und Transaktionen abschließen. Über Karten, Suche und Siri können Kunden Ihr Unternehmen finden und Gespräche beginnen.
+          - type: hints
+            options:
+              - label: Teams
+                value: Teams
+              - label: Web-Chatbot
+                value: Web-Chatbot
+              - label: Integration mit Telefon
+                value: Integration mit Telefon
+              - label: RCS-Integration
+                value: RCS-Integration
+              - label: Integration mit Apps
+                value: Integration mit Apps
+              - label: Google Home
+                value: Google Home
+              - label: Google Business
+                value: Google Business
+              - label: Alexa
+                value: Alexa
+
+  utter_channels_call:
+    - custom:
+        answers:
+          - type: ssml   
+            ssml: <speak>Wir verbinden Ihren Chatbot mit einer Telefonnummer! Erlauben Sie Ihren Kunden, mit Ihrem Bott mittels natürlicher gesprochener Sprache zu interagieren.</speak>       
+          - type: text
+            text: Wir verbinden Ihren Chatbot mit einer Telefonnummer! Erlauben Sie Ihren Kunden, mit Ihrem Bot mittels natürlicher gesprochener Sprache zu interagieren.
+          - type: hints
+            options:
+              - label: Teams
+                value: Teams
+              - label: Web-Chatbot
+                value: Web-Chatbot
+              - label: Alexa
+                value: Alexa
+              - label: RCS-Integration
+                value: RCS-Integration
+              - label: Integration mit Apps
+                value: Integration mit Apps
+              - label: Google Home
+                value: Google Home
+              - label: Google Business
+                value: Google Business
+              - label: Apple
+                value: Apple
+
+  utter_channels_general:
+    - custom:
+        answers:
+          - type: ssml   
+            ssml: <speak>Ihre Kunden können über den Chatbot oder über die Kommunikations-Kanäle, die sie täglich nutzen, auf einfache Weise mit Ihrem Unternehmen kommunizieren. Zu solchen Kanälen zählen beispielsweise Facebook Messenger, WhatsApp, Skype oder SMS. Gibt es einen bestimmten Kanal, an dem Sie interessiert sind?</speak>       
+          - type: html
+            text: Ihre Kunden können über den Chatbot oder über die Kommunikations-Kanäle, die sie täglich nutzen, auf einfache Weise mit Ihrem Unternehmen kommunizieren. Zu solchen Kanälen zählen beispielsweise Facebook Messenger, WhatsApp, Skype oder SMS. Gibt es einen bestimmten Kanal, an dem Sie interessiert sind?
+          - type: multichoice
+            options:
+              - label: Facebook Messenger
+                value: Facebook Messenger
+              - label: WhatsApp
+                value: WhatsApp
+              - label: Skype
+                value: Skype
+              - label: SMS
+                value: SMS
+              - label: Alexa
+                value: Alexa
+              - label: Apple
+                value: Apple
+              - label: Google Business
+                value: Google Business
+              - label: Google Home
+                value: Google Home
+              - label: Instagram
+                value: Instagram
+              - label: Slack
+                value: Slack
+              - label: Teams
+                value: Teams
+              - label: Web-Chatbot
+                value: Web-Chatbot
+              - label: Integration mit Telefon
+                value: Integration mit Telefon
+              - label: RCS-Integration
+                value: RCS-Integration
+              - label: Integration mit Apps
+                value: Integration mit Apps
+          - type: image
+            title: Kanäle
+            url: https://cosibot.org/wp-content/uploads/2020/10/robo-ai_channels.png
+            thumbnailURL: robo-ai_channels.png
+
+  utter_channels_google_business:
+    - custom:
+        answers:
+          - type: ssml   
+            ssml: <speak>Ihre Kunden können über Ihr Unternehmensprofil auf Google in Echtzeit mit Ihnen in Kontakt treten. Dort können Sie Fragen beantworten, Ihre Geschichte erzählen und mehr Kunden für Ihr Unternehmen gewinnen.</speak>       
+          - type: text
+            text: Ihre Kunden können über dein Unternehmensprofil auf Google in Echtzeit mit Ihnen in Kontakt treten. Dort können Sie Fragen beantworten, Ihre Geschichte erzählen und mehr Kunden für dein Unternehmen gewinnen.
+          - type: hints
+            options:
+              - label: Google Home
+                value: Google Home
+              - label: Slack
+                value: Slack
+              - label: Teams
+                value: Teams
+              - label: Web-Chatbot
+                value: Web-Chatbot
+              - label: Integration mit Telefon
+                value: Integration mit Telefon
+              - label: RCS-Integration
+                value: RCS-Integration
+
+  utter_channels_google_home:
+    - custom:
+        answers:
+          - type: ssml   
+            ssml: <speak>Wir integrieren unter anderem mit Google Home. Bieten Sie Ihren Kunden eine einfache Möglichkeit, Anrufe zu tätigen, Kalendertermine zu planen, intelligente Geräte zu steuern und vieles mehr.</speak>       
+          - type: text
+            text: Wir integrieren u.a. mit Google Home. Bieten Sie Ihren Kunden eine einfache Möglichkeit, Anrufe zu tätigen, Kalendertermine zu planen, intelligente Geräte zu steuern und vieles mehr.
+          - type: hints
+            options:
+              - label: Facebook Messenger
+                value: Facebook Messenger
+              - label: WhatsApp
+                value: WhatsApp
+              - label: Skype
+                value: Skype
+              - label: SMS
+                value: SMS
+              - label: Alexa
+                value: Alexa
+              - label: Google Business
+                value: Google Business
+
+  utter_channels_instagram:
+    - custom:
+        answers:
+          - type: ssml   
+            ssml: <speak>Instagram ist die Nummer 1 in den USA und Kanada mit über 1 Milliarde aktiven Benutzern. Es ist der interessanteste Kanal mit einer durchschnittlichen Öffnungsrate von 80%. Ihr Publikum benutzt Instagram bereits täglich und Ihr Unternehmen sollte Teil dieser Konversation sein.</speak>       
+          - type: html
+            text: Instagram ist die Nummer 1 in den USA und Kanada mit über 1 Milliarde aktiven Benutzern. Es ist der interessanteste Kanal mit einer durchschnittlichen Öffnungsrate von 80%. Ihr Publikum benutzt Instagram bereits täglich und Ihr Unternehmen sollte Teil dieser Konversation sein.
+          - type: hints
+            options:
+              - label: Facebook Messenger
+                value: Facebook Messenger
+              - label: WhatsApp
+                value: WhatsApp
+              - label: Skype
+                value: Skype
+              - label: Slack
+                value: Slack
+              - label: Teams
+                value: Teams
+              - label: Web-Chatbot
+                value: Web-Chatbot
+
+  utter_channels_messenger:
+    - custom:
+        answers:
+          - type: ssml   
+            ssml: <speak>Wir integrieren mit Facebook Messenger! Der Aufbau einer Erfahrung auf Messenger kann dazu beitragen, Ihr Unternehmen, Ihr Produkt oder Ihre Dienstleistungen mehr Menschen zu präsentieren. Ganz gleich, ob Sie ein neues Produkt auf den Markt bringen oder das Bewusstsein für Ihr Unternehmen schärfen wollen – Gespräche schaffen eine sinnvolle Verbindung zwischen Ihren Kunden und Ihrem Unternehmen.</speak>       
+          - type: text
+            text: Wir integrieren mit Facebook Messenger! Der Aufbau einer Erfahrung auf Messenger kann dazu beitragen, Ihr Unternehmen, Ihr Produkt oder Ihre Dienstleistungen mehr Menschen zu präsentieren. Ganz gleich, ob Sie ein neues Produkt auf den Markt bringen oder das Bewusstsein für Ihr Unternehmen schärfen wollen. Gespräche schaffen eine sinnvolle Verbindung zwischen Ihren Kunden und Ihrem Unternehmen.
+          - type: hints
+            options:
+              - label: WhatsApp
+                value: WhatsApp
+              - label: Skype
+                value: Skype
+              - label: SMS
+                value: SMS
+              - label: Alexa
+                value: Alexa
+              - label: Apple
+                value: Apple
+              - label: Instagram
+                value: Instagram
+
+  utter_channels_mobile:
+    - custom:
+        answers:
+          - type: ssml   
+            ssml: <speak>Wir können einen Chatbot in Ihre mobile Anwendung integrieren. Bieten Sie Ihren Kunden eine schnelle Möglichkeit, mit Ihrem Unternehmen zu kommunizieren – mit nur wenigen Klicks und einem rund um die Uhr verfügbaren Agenten.</speak>       
+          - type: text
+            text: Wir können einen Chatbot in Ihre mobile Anwendung integrieren. Bieten Sie Ihren Kunden eine schnelle Möglichkeit, mit Ihrem Unternehmen zu kommunizieren – mit nur wenigen Klicks und einem rund um die Uhr verfügbaren Agenten.
+          - type: hints
+            options:
+              - label: Instagram
+                value: Instagram
+              - label: Slack
+                value: Slack
+              - label: Teams
+                value: Teams
+              - label: Web-Chatbot
+                value: Web-Chatbot
+              - label: Integration mit Telefon
+                value: Integration mit Telefon
+              - label: RCS-Integration
+                value: RCS-Integration
+
+  utter_channels_rcs:
+    - custom:
+        answers:
+          - type: ssml   
+            ssml: <speak>Das Aufkommen von R C S schafft eine natürliche Umgebung, in der Chatbots gedeihen können. Für ein Unternehmen, das den Sprung in die R C S-Welt wagt, ist es für ein erfolgreiches Kundenerlebnis unerlässlich, einen fertigen Chatbot an seiner Seite zu haben.</speak>       
+          - type: html
+            text: Das Aufkommen von RCS schafft eine natürliche Umgebung, in der Chatbots gedeihen können. Für ein Unternehmen, das den Sprung in die RCS-Welt wagt, ist es für ein erfolgreiches Kundenerlebnis unerlässlich, einen fertigen Chatbot an seiner Seite zu haben.
+          - type: hints
+            options:
+              - label: Slack
+                value: Slack
+              - label: Teams
+                value: Teams
+              - label: Web-Chatbot
+                value: Web-Chatbot
+              - label: Integration mit Telefon
+                value: Integration mit Telefon
+              - label: Apple
+                value: Apple
+              - label: Integration mit Apps
+                value: Integration mit Apps
+
+  utter_channels_skype:
+    - custom:
+        answers:
+          - type: ssml   
+            ssml: <speak>Skype hält Sie über Instant Messaging, Telefon und Videoanrufe mit den Nutzern in Verbindung. Erweiteren Sie diese Funktionalität, indem Sie Bots erstellen, mit denen Nutzer über die Skype-Schnittstelle interagieren können.</speak>       
+          - type: text
+            text: Skype hält Sie über Instant Messaging, Telefon und Videoanrufe mit den Nutzern in Verbindung. Erweiteren Sie diese Funktionalität, indem Sie Bots erstellen, mit denen Nutzer über die Skype-Schnittstelle interagieren können.
+          - type: hints
+            options:
+              - label: Facebook Messenger
+                value: Facebook Messenger
+              - label: WhatsApp
+                value: WhatsApp
+              - label: SMS
+                value: SMS
+              - label: Alexa
+                value: Alexa
+              - label: Integration mit Apps
+                value: Integration mit Apps
+              - label: Integration mit Telefon
+                value: Integration mit Telefon
+
+  utter_channels_slack:
+    - custom:
+        answers:
+          - type: ssml   
+            ssml: <speak>Chatbots können in Slack die Aufgaben erleichtern, die normalerweise reguläre Mitglieder erledigen würden. Slack ist eine Teamwork-Anwendung, mit der Sie Projekte koordinieren, Aufgaben organisieren oder ein Treffen planen können. Ein Chatbot kann Ihnen dabei helfen und sich wiederholende Aufgaben automatisieren.</speak>       
+          - type: html
+            text: Chatbots können in Slack die Aufgaben erleichtern, die normalerweise reguläre Mitglieder erledigen würden. Slack ist eine Teamwork-Anwendung, mit der Sie Projekte koordinieren, Aufgaben organisieren oder ein Treffen planen können. Ein Chatbot kann Ihnen dabei helfen und sich wiederholende Aufgaben automatisieren.
+          - type: hints
+            options:
+              - label: WhatsApp
+                value: WhatsApp
+              - label: Skype
+                value: Skype
+              - label: SMS
+                value: SMS
+              - label: Google Business
+                value: Google Business
+              - label: Teams
+                value: Teams
+              - label: Web-Chatbot
+                value: Web-Chatbot
+
+  utter_channels_sms:
+    - custom:
+        answers:
+          - type: ssml   
+            ssml: <speak>Textnachrichten sind zu einer einfachen Möglichkeit geworden, mit Kunden auf persönlicher Ebene zu kommunizieren und das Engagement zu fördern. SMS-Bots können dabei dank der Benutzerfreundlichkeit das Kundenengagement erleichtern und dabei eine personalisierte Erfahrung schaffen.</speak>       
+          - type: text
+            text: Textnachrichten sind zu einer einfachen Möglichkeit geworden, mit Kunden auf persönlicher Ebene zu kommunizieren und das Engagement zu fördern. SMS-Bots können dabei dank der Benutzerfreundlichkeit das Kundenengagement erleichtern und dabei eine personalisierte Erfahrung schaffen.
+          - type: hints
+            options:
+              - label: Google Business
+                value: Google Business
+              - label: Google Home
+                value: Google Home
+              - label: Web-Chatbot
+                value: Web-Chatbot
+              - label: Integration mit Telefon
+                value: Integration mit Telefon
+              - label: RCS-Integration
+                value: RCS-Integration
+              - label: Integration mit Apps
+                value: Integration mit Apps
+
+  utter_channels_teams:
+    - custom:
+        answers:
+          - type: ssml   
+            ssml: <speak>Chatbots in Microsoft-Teams können Teil eines Einzelgesprächs, eines Gruppenchats oder eines Kanals in einem Team sein. Jeder Bereich bietet einzigartige Möglichkeiten - und Herausforderungen - für Ihren Chatbot.</speak>       
+          - type: text
+            text: Chatbots in Microsoft-Teams können Teil eines Einzelgesprächs, eines Gruppenchats oder eines Kanals in einem Team sein. Jeder Bereich bietet einzigartige Möglichkeiten - und Herausforderungen - für Ihren Chatbot.
+          - type: hints
+            options:
+              - label: Skype
+                value: Skype
+              - label: Google Business
+                value: Google Business
+              - label: Slack
+                value: Slack
+              - label: Web-Chatbot
+                value: Web-Chatbot
+              - label: RCS-Integration
+                value: RCS-Integration
+              - label: Integration mit Apps
+                value: Integration mit Apps
+
+  utter_channels_web:
+    - custom:
+        answers:
+          - type: ssml   
+            ssml: <speak>Stellen Sie Ihren Kunden auf Ihrer Website einen rund um die Uhr bereit stehenden Agenten zur Verfügung. Helfen Sie Ihren Kunden, sie bei ihren Fragen zu unterstützen oder ihnen zusätzliche Details über Ihre Dienstleistungen zu verschaffen, ohne dass sie dabei menschliche Unterstützung benötigen.</speak>       
+          - type: text
+            text: Stellen Sie Ihren Kunden auf Ihrer Website einen rund um die Uhr bereit stehenden Agenten zur Verfügung. Helfen Sie Ihren Kunden, sie bei ihren Fragen zu unterstützen oder ihnen zusätzliche Details über Ihre Dienstleistungen zu verschaffen, ohne dass sie dabei menschliche Unterstützung benötigen.
+          - type: hints
+            options:
+              - label: Google Business
+                value: Google Business
+              - label: Google Home
+                value: Google Home
+              - label: Integration mit Telefon
+                value: Integration mit Telefon
+              - label: RCS-Integration
+                value: RCS-Integration
+              - label: Integration mit Apps
+                value: Integration mit Apps
+              - label: Apple
+                value: Apple
+
+  utter_channels_whatsapp:
+    - custom:
+        answers:
+          - type: ssml   
+            ssml: <speak>Neben anderen Kanälen integrieren wir auch mit WhatsApp. Mit 1,5 Milliarden aktiven Benutzern ist dies einer der besten Kanäle, um mit Kunden zu kommunizieren. Menschen nutzen WhatsApp jeden Tag, überall und jederzeit.</speak>       
+          - type: text
+            text: Neben anderen Kanälen integrieren wir auch mit WhatsApp. Mit 1,5 Milliarden aktiven Benutzern ist dies einer der besten Kanäle, um mit Kunden zu kommunizieren. Menschen nutzen WhatsApp jeden Tag, überall und jederzeit.
+          - type: multichoice
+            options:
+              - label: Facebook Messenger
+                value: Facebook Messenger
+              - label: Alexa
+                value: Alexa
+              - label: Skype
+                value: Skype
+              - label: SMS
+                value: SMS
+              - label: Instagram
+                value: Instagram
+              - label: Slack
+                value: Slack
+
+  utter_comment_hot:
+    - custom:
+        answers:
+          - type: ssml   
+            ssml: <speak>Danke für Ihr (gruseliges) Kompliment, aber lassen Sie uns lieber über interessantere Themen wie z.B. Künstliche Intelligenz sprechen.</speak>       
+          - type: text
+            text: Danke für Ihr (gruseliges) Kompliment, aber lassen Sie uns lieber über interessantere Themen wie z.B. Künstliche Intelligenz sprechen.
+
+  utter_comment_negative:
+    - custom:
+        answers:
+          - type: ssml   
+            ssml: <speak>Es tut mir leid, ich bin noch dabei, zu lernen.</speak>       
+          - type: text
+            text: Es tut mir leid, ich bin noch dabei, zu lernen.
+
+  utter_comment_offense:
+    - custom:
+        answers:
+          - type: ssml   
+            ssml: <speak>Bitte bleiben Sie sachlich. Ich gebe mein Bestes und lerne ständig dazu.</speak>       
+          - type: text
+            text: Bitte bleiben Sie sachlich. Ich gebe mein Bestes und lerne ständig dazu.
+
+  utter_comment_positive:
+    - custom:
+        answers:     
+          - type: ssml   
+            ssml: <speak>Vielen Dank, ich weiß Ihr Kompliment zu schätzen.</speak>       
+          - type: text
+            text: Vielen Dank, ich weiß Ihr Kompliment zu schätzen.
+
+  utter_comment_racist:
+    - custom:
+        answers:
+          - type: ssml   
+            ssml: <speak>Ihr intolerantes Verhalten macht mir Angst. Bitte seien Sie höflicher.</speak>       
+          - type: text
+            text: Ihr intolerantes Verhalten macht mir Angst. Bitte seien Sie höflicher.
+
+  utter_comment_smart:
+    - custom:
+        answers:
+          - type: ssml   
+            ssml: <speak>Danke! Es freut mich, dass Sie zufrieden sind.</speak>       
+          - type: text
+            text: Danke! Es freut mich, dass Sie zufrieden sind.
+
+  utter_contacts_address:
+    - custom:
+        answers:
+          - type: ssml   
+            ssml: <speak>Unsere Büros befinden sich in München (Deutschland), sowie in Evora und Lissabon (Portugal). Für welches Büro benötigen Sie unsere Adresse?</speak>       
+          - type: text
+            text: Unsere Büros befinden sich in München (Deutschland), sowie in Evora und Lissabon (Portugal). Für welches Büro benötigen Sie unsere Adresse?
+          - type: multichoice
+            options:
+              - label: Anschrift München
+                value: Anschrift München
+              - label: Anschrift Evora
+                value: Anschrift Evora
+              - label: Anschrift Lissabon
+                value: Anschrift Lissabon
+    - custom:
+        answers:
+          - type: ssml   
+            ssml: <speak>Sie finden uns vor Ort in München, Deutschland, sowie in Evora und Lissabon, Portugal. Bitte teilen Sie mir mit, für welchen Standort Sie unsere Adresse haben möchten.</speak>       
+          - type: text
+            text: Sie finden uns vor Ort in München, Deutschland, sowie in Evora und Lissabon, Portugal. Bitte teilen Sie mir mit, für welchen Standort Sie unsere Adresse haben möchten.
+          - type: multichoice
+            options:
+              - label: Anschrift München
+                value: Anschrift München
+              - label: Anschrift Evora
+                value: Anschrift Evora
+              - label: Anschrift Lissabon
+                value: Anschrift Lissabon
+
+  utter_contacts_address_munich:
+    - custom:
+        answers:
+          - type: ssml   
+            ssml: <speak>ITSCM, GmbH Karl-Theodor-Straße 70, 80803 München, Deutschland</speak>       
+          - type: html
+            text: <p>ITSCM GmbH<br>Karl-Theodor-Straße 70<br>80803 München<br>Deutschland</p>
+
+  utter_contacts_address_lisbon:
+    - custom:
+        answers:
+          - type: ssml   
+            ssml: <speak>Ideiahub, Av. D. Joao II Number 35 11 A, 1990-083 Lissabon, Portugal</speak>       
+          - type: html
+            text: <p>Ideiahub<br>Av. D. Joao II Nº35 11ºA<br>1990-083 Lissabon<br>Portugal</p>
+
+  utter_contacts_address_evora:
+    - custom:
+        answers:
+          - type: ssml   
+            ssml: <speak>PACT, Herdade da Barba Rala, Rua Luís Adelino Fonseca, Lote 1A, 7 0 0 5 3 4 5 Évora, Portugal</speak>       
+          - type: html
+            text: <p>PACT<br>Herdade da Barba Rala<br>Rua Luís Adelino Fonseca, Lote 1A<br>7005-345 Évora<br>Portugal</p>
+
+
+  utter_contacts_email:
+    - custom:
+        answers:
+          - type: ssml   
+            ssml: <speak>Schreiben Sie uns gern eine E-Mail! Hier ist unsere E-Mail-Adresse.</speak>       
+          - type: text
+            text: Schreiben Sie uns gern eine E-Mail! Hier ist unsere E-Mail-Adresse.
+          - type: links
+            links:
+              - title: info\@robo-ai.com
+                url: mailto:info\@robo-ai.com
+
+  utter_contacts_generic:
+    - custom:
+        answers:
+          - type: ssml   
+            ssml: <speak>Sie sind herzlich eingeladen, mit uns in Kontakt zu treten! Wir haben Büros in München, Deutschland, sowie in Evora und Lissabon, Portugal. Bitte wählen Sie das Büro aus, für das Sie die Kontaktdaten wünschen.</speak>       
+          - type: html
+            text: Sie sind herzlich eingeladen, mit uns in Kontakt zu treten! Wir haben Büros in München, Deutschland, sowie in Evora und Lissabon, Portugal. Bitte wählen Sie das Büro aus, für das Sie die Kontaktdaten wünschen.
+          - type: multichoice
+            options:
+              - label: Kontaktdaten München
+                value: Kontaktdaten München
+              - label: Kontaktdaten Evora
+                value: Kontaktdaten Evora
+              - label: Kontaktdaten Lissabon
+                value: Kontaktdaten Lissabon
+
+  utter_contacts_generic_munich:
+    - custom:
+        answers:
+          - type: ssml   
+            ssml: <speak>Die Anschrift für unser Büro in München lautet. ITSCM, GmbH Karl-Theodor-Straße 70, 8 0 8 0 3 München, Deutschland. Und die Telefonnummer ist die + 4 9 0 8 9 7 4 0 7 9 6 5 8</speak>       
+          - type: html
+            text: <p>Die Anschrift für unser Büro in München lautet<br>ITSCM GmbH<br>Karl-Theodor-Straße 70<br>80803 München<br>Deutschland<br>und die Telefonnummer ist die<br>+49 (0) 89 74079658</p>
+
+  utter_contacts_generic_lisbon:
+    - custom:
+        answers:
+          - type: ssml   
+            ssml: <speak>Die Anschrift für unser Büro in Lissabon lautet. Ideiahub, Av. D. Joao II Number 35 11 A, 1 9 9 0 0 8 3 Lissabon, Portugal. Und die Telefonnummer ist die + 3 5 1 2 1 0 1 2 6 5 6 5</speak>       
+          - type: html
+            text: <p>Die Anschrift für unser Büro in Lissabon lautet<br>Ideiahub<br>Avenida D. Joao II Nº35 11ºA<br>1990-083 Lissabon<br>Portugal<br>und die Telefonnummer ist die<br>+351 21 012 6565</p>
+
+  utter_contacts_generic_evora:
+    - custom:
+        answers:
+          - type: ssml   
+            ssml: <speak>Der Hauptsitz der Firma befindet sich in Évora, Portugal, und die Adresse lautet. Pact, Herdade da Barba Rala, Rua Luís Adelino Fonseca, Lote 1A, 7 0 0 5 3 4 5 Évora, Portugal. Die Telefonnummer ist die + 3 5 1 2 6 6 7 6 9 1 5 2</speak>       
+          - type: html
+            text: <p>Der Hauptsitz der Firma befindet sich in Évora, Portugal, und die Adresse lautet<br>PACT<br>Herdade da Barba Rala<br>Rua Luís Adelino Fonseca, Lote 1A<br>7005-345 Évora, Portugal<br>Die Telefonnummer ist die<br>+351 266 769 152</p>
+
+  utter_contacts_phone:
+    - custom:
+        answers:
+          - type: ssml   
+            ssml: <speak>Unsere Telefonnummer ist die 4 9 8 9 2 2 0 6 1 0 1 8</speak>       
+          - type: html
+            text: <p>Unsere Telefonnummer ist die<br>+49 89 22061018</p>
+
+  utter_contacts_TI:
+    - custom:
+        answers:
+          - type: ssml   
+            ssml: <speak>Wir sind ein Dienstleistungsunternehmen, das 2013 gegründet wurde. Seitdem bieten wir als Softwareentwicklungspartner Dienstleistungen in der Entwicklung von Webanwendungen und Sahs Lösungen an. Im Jahr 2016 begannen wir mit der Ausweitung unserer Dienstleistungen auf die Künstliche Intelligenz und betreuten Kunden aus dem Versicherungsgeschäft in der Schweiz. Im Jahr 2017 setzten wir den Ausbau dieses Geschäfts fort und begannen mit der Betreuung der Automobilindustrie. Im Sommer 2017 begannen wir mit der Entwicklung von Lösungen im Blockchain-Bereich und bauten mit einem Partner in Deutschland Werkzeuge für Krypto-Währungen. In den letzten zwei Jahren sind wir von 3 auf 28 Mitarbeiter gewachsen und planen, weiter zu expandieren. Besuchen Sie doch mal die Homepage der Firma über den eingeblendeten Link, um mehr zu erfahren.</speak>       
+          - type: html
+            text: <p>Wir sind ein Dienstleistungsunternehmen, das 2013 gegründet wurde. Seitdem bieten wir als Softwareentwicklungspartner Dienstleistungen in der Entwicklung von Webanwendungen und SaaS-Lösungen an. Im Jahr 2016 begannen wir mit der Ausweitung unserer Dienstleistungen auf die Künstliche Intelligenz und betreuten Kunden aus dem Versicherungsgeschäft in der Schweiz.<br>Im Jahr 2017 setzten wir den Ausbau dieses Geschäfts fort und begannen mit der Betreuung der Automobilindustrie. Im Sommer 2017 begannen wir mit der Entwicklung von Lösungen im Blockchain-Bereich und bauten mit einem Partner in Deutschland Werkzeuge für Krypto-Währungen.<br>In den letzten zwei Jahren sind wir von 3 auf 28 Mitarbeiter gewachsen und planen, weiter zu expandieren. Besuchen Sie doch mal die Homepage der Firma über den eingeblendeten Link, um mehr zu erfahren.</p>
+          - type: links
+            links:
+              - title: Two Impulse
+                url: https://twoimpulse.com/
+
+  utter_demo_automotive:
+    - custom:
+        answers:
+          - type: ssml   
+            ssml: <speak>Wir haben zahlreiche erfolgreiche Chatbot-Lösungen für bekannte multinationale Automobilkonzerne im deutsch- und englischsprachigen Markt entwickelt. Probieren Sie doch einmal unsere Chatbots auf den jeweiligen Websites aus!</speak>       
+          - type: text
+            text: Wir haben zahlreiche erfolgreiche Chatbot-Lösungen für bekannte multinationale Automobilkonzerne im deutsch- und englischsprachigen Markt entwickelt. Probieren Sie doch einmal unsere Chatbots auf den jeweiligen Websites aus!
+          - type: links
+            links:
+              - title: Mercedes-Benz South Africa
+                url: https://www.mercedes-benz.co.za/
+          - type: hints
+            options:
+              - label: Chatbots in der Automobilbranche – Vorteile
+                value: Chatbots in der Automobilbranche – Vorteile
+              - label: Chatbots in der Automobilbranche – Anwendungen
+                value: Chatbots in der Automobilbranche – Anwendungen
+              - label: Cosibot
+                value: Cosibot
+
+  utter_demo_banking:
+    - custom:
+        answers:
+          - type: ssml   
+            ssml: <speak>Unsere Banklösung bietet einen einfacheren, schnelleren und stets verfügbaren Ansatz für den Umgang mit bürokratischen Themen, die Kunden bewältigen müssen und die jetzt nur noch ein paar wenige Klicks erfordern. Unsere Demo-Chatbots für das Bankwesen sind unter dem eingeblendeten Link verfügbar.</speak>       
+          - type: text
+            text: Unsere Banklösung bietet einen einfacheren, schnelleren und stets verfügbaren Ansatz für den Umgang mit bürokratischen Themen, die Kunden bewältigen müssen und die jetzt nur noch ein paar wenige Klicks erfordern. Unsere Demo-Chatbots für das Bankwesen sind unter dem eingeblendeten Link verfügbar.
+          - type: links
+            links:
+              - title: ROBO.AI Demos
+                url: https://demo.robo-ai.com
+          - type: hints
+            options:
+              - label: Chatbots im Bankwesen – Vorteile
+                value: Chatbots im Bankwesen – Vorteile
+              - label: Chatbots im Bankwesen – Anwendungen
+                value: Chatbots im Bankwesen – Anwendungen
+              - label: Cosibot
+                value: Cosibot
+
+  utter_demo_general:
+    - custom:
+        answers:
+          - type: ssml   
+            ssml: <speak>Wir bieten einzigartige Lösungen für jeden Markt unter Berücksichtigung der spezifischen Merkmale jedes einzelnen Marktes. Im Moment haben wir vorgefertigte Bots für Banken, sowie für den Versicherungs- und Telekommunikationsbereich, die auf Englisch, Deutsch und teilweise auch auf Spanisch verfügbar sind. Wenn Sie mehr über die einzelnen Demos erfahren möchten, klicken Sie unten auf die entsprechende Option.</speak>       
+          - type: text
+            text: Wir bieten einzigartige Lösungen für jeden Markt unter Berücksichtigung der spezifischen Merkmale jedes einzelnen Marktes. Im Moment haben wir vorgefertigte Bots für Banken, sowie für den Versicherungs- und Telekommunikationsbereich, die auf Englisch, Deutsch und teilweise auch auf Spanisch verfügbar sind. Wenn Sie mehr über die einzelnen Demos erfahren möchten, klicken Sie unten auf die entsprechende Option.
+          - type: multichoice
+            options:
+              - label: Chatbots im Bankwesen – Demo
+                value: Chatbots im Bankwesen – Demo
+              - label: Chatbots im Versicherungsbereich – Demo
+                value: Chatbots im Versicherungsbereich – Demo
+              - label: Chatbots im Telekommunikationsbereich – Demo
+                value: Chatbots im Telekommunikationsbereich – Demo
+              - label: Chatbots in der Automobilbranche – Demo
+                value: Chatbots in der Automobilbranche – Demo
+              - label: Cosibot
+                value: Cosibot
+          - type: carousel
+            options:
+              - title: Insurance Demo
+                thumbnailURL: https://cosibot.org/wp-content/uploads/2020/10/insurance-app-318x550-1.png
+                url: https://cosibot.org/wp-content/uploads/2020/10/insurance-app-318x550-1.png
+              - title: Automotive Demo
+                thumbnailURL: https://cosibot.org/wp-content/uploads/2020/10/automotive-app-318x550-1.png
+                url: https://cosibot.org/wp-content/uploads/2020/10/automotive-app-318x550-1.png
+              - title: Telco Demo
+                thumbnailURL: https://cosibot.org/wp-content/uploads/2020/10/telecom-app-305x525-1.png
+                url: https://cosibot.org/wp-content/uploads/2020/10/telecom-app-305x525-1.png
+              - title: Banking Demo
+                thumbnailURL: https://cosibot.org/wp-content/uploads/2020/10/banking-app-318x550-1.png
+                url: https://cosibot.org/wp-content/uploads/2020/10/banking-app-318x550-1.png
+
+  utter_demo_insurance:
+    - custom:
+        answers:
+          - type: ssml   
+            ssml: <speak>Bieten Sie Ihren Kunden eine einfachere und schnellere Möglichkeit, die Dinge zu erledigen, die sonst umständlich und zeitaufwendig wären. Testen Sie unseren Demo-Chatbot im Versicherungsbereich über den unten angegebenen Link.</speak>       
+          - type: text
+            text: Bieten Sie Ihren Kunden eine einfachere und schnellere Möglichkeit, die Dinge zu erledigen, die sonst umständlich und zeitaufwendig wären. Testen Sie unseren Demo-Chatbot im Versicherungsbereich über den unten angegebenen Link.
+          - type: links
+            links:
+              - title: ROBO.AI Demos
+                url: https://demo.robo-ai.app/all/
+          - type: hints
+            options:
+              - label: Chatbots im Versicherungsbereich – Vorteile 
+                value: Chatbots im Versicherungsbereich – Vorteile 
+              - label: Chatbots im Versicherungsbereich – Anwendungen 
+                value: Chatbots im Versicherungsbereich – Anwendungen
+              - label: Cosibot
+                value: Cosibot
+
+  utter_demo_telco:
+    - custom:
+        answers:
+          - type: ssml   
+            ssml: <speak>Chatbots im Telekommunikationsbereich sind eine großartige Lösung für Unternehmen, die ihre Kundenbetreuung und ihr Marketing verbessern möchten. Bieten Sie Ihren Kunden eine Lösung, die so zuverlässig ist wie ein persönliches Gespräch mit einem Manager. Testen Sie unseren Demo-Chatbot im Telekommunikationsbereich über den untenstehenden Link.</speak>       
+          - type: text
+            text: Chatbots im Telekommunikationsbereich sind eine großartige Lösung für Unternehmen, die ihre Kundenbetreuung und ihr Marketing verbessern möchten. Bieten Sie Ihren Kunden eine Lösung, die so zuverlässig ist wie ein persönliches Gespräch mit einem Manager. Testen Sie unseren Demo-Chatbot im Telekommunikationsbereich über den untenstehenden Link.
+          - type: links
+            links:
+              - title: ROBO.AI Demos
+                url: https://demo.robo-ai.app/all/
+          - type: hints
+            options:
+              - label: Chatbots im Telekommunikationsbereich – Vorteile
+                value: Chatbots im Telekommunikationsbereich – Vorteile
+              - label: Chatbots im Telekommunikationsbereich – Anwendungen
+                value: Chatbots im Telekommunikationsbereich – Anwendungen
+              - label: Cosibot
+                value: Cosibot
+
+  utter_developers_content:
+    - custom:
+        answers:
+          - type: ssml   
+            ssml: <speak>Wenn Sie Entwickler sind und mein volles Potenzial ausschöpfen wollen, schauen Sie sich einfach die Tools meiner Entwickler an. Meine Lösungen sind für eine einfache Integration mit verschiedenen Datenquellen-Feeds vorbereitet. Sie können die Konversationsumgebung anpassen – und natürlich sind sie A P I-freundlich. Außerdem stehen Ihnen mehrere Ad-hoc-Entwicklungsfunktionen zur Verfügung, wie z.B. ein Multi-Bott-Assistent für die Erstellung und Verwaltung, Datenquellen-Feed-Integration, Trainingsmodell-Manager, Dialogmodelle, eine Konversationsumgebung, Datenbank-Wissen und 3rd-Party-Intelligenz.</speak>       
+          - type: html
+            text: <p>Wenn Sie Entwickler sind und mein volles Potenzial ausschöpfen wollen, schauen Sie sich einfach die Tools meiner Entwickler an. Meine Lösungen sind für eine einfache Integration mit verschiedenen Datenquellen-Feeds vorbereitet. Sie können die Konversationsumgebung anpassen – und natürlich sind sie API-freundlich. Außerdem stehen Ihnen mehrere Ad-hoc-Entwicklungsfunktionen zur Verfügung, wie z.B. ein Multi-Bot-Assistent für die Erstellung und Verwaltung, Datenquellen-Feed-Integration, Trainingsmodell-Manager, Dialogmodelle, eine Konversationsumgebung, DB-Wissen und 3rd-Party-Intelligenz.</p>
+
+  utter_developers_documentation:
+    - custom:
+        answers:
+          - type: ssml   
+            ssml: <speak>Unser Entwicklerforum befindet sich derzeit im Aufbau.</speak>       
+          - type: text
+            text: Unser Entwicklerforum befindet sich derzeit im Aufbau.
+
+
+  utter_developers_features:
+    - custom:
+        answers:
+          - type: ssml   
+            ssml: <speak>Wir bieten eine ganze Suite für Entwickler mit A P I und S D Kahs, um schon heute das U X der Zukunft zu erstellen.</speak>       
+          - type: text
+            text: Wir bieten eine ganze Suite für Entwickler mit API und SDKs, um schon heute das UX der Zukunft zu erstellen.
+
+  utter_features_date:
+    - custom:
+        answers:
+          - type: ssml   
+            ssml: <speak>Heute ist der {bot_date}.</speak>       
+          - type: text
+            text: Heute ist der {bot_date}.
+
+  utter_features_time:
+    - custom:
+        answers:
+          - type: ssml   
+            ssml: <speak>Es ist {bot_time}.</speak>       
+          - type: text
+            text: Es ist {bot_time}.
+
+  utter_greeting_goodbye:
+    - custom:
+        answers:
+          - type: ssml   
+            ssml: <speak>Hat Spaß gemacht, mit Ihnen zu schreiben. Melden Sie sich gern wieder bei mir, wenn Sie weitere Fragen haben.</speak>       
+          - type: text
+            text: Hat Spaß gemacht, mit Ihnen zu schreiben. Melden Sie sich gern wieder bei mir, wenn Sie weitere Fragen haben.
+    - custom:
+        answers:
+          - type: ssml   
+            ssml: <speak>Ich hoffe, ich konnte Ihnen helfen. Ich freue mich aufs nächste Mal!</speak>       
+          - type: text
+            text: Ich hoffe, ich konnte Ihnen helfen. Ich freue mich aufs nächste Mal!
+    - custom:
+        answers:
+          - type: ssml   
+            ssml: <speak>Bis zum nächsten Mal. Ich freu mich drauf!</speak>       
+          - type: text
+            text: Bis zum nächsten Mal. Ich freu mich drauf!
+
+  utter_greeting_hello_introduced_false:
+    - custom:
+        answers:
+          - type: ssml   
+            ssml: <speak>Willkommen bei Robo äi ai! Mein Name ist {bot_name}. Ich bin in der Lage, Ihnen Informationen über unsere Plattform bereitzustellen, wie z.B. die verschiedenen Funktionen und unterstützten Nachrichtenkanäle oder Preise und Anwendungsfälle. Ich kann Ihnen auch einige Demos unserer Bots zeigen. Wenn Sie mit mir chatten, erklären Sie sich mit unseren Datenschutzrichtlinien einverstanden.</speak>       
+          - type: html
+            text: <p>Willkommen bei ROBO.AI! Mein Name ist {bot_name}. Ich bin in der Lage, Ihnen Informationen über unsere Plattform bereitzustellen, wie z.B. die verschiedenen Funktionen und unterstützten Nachrichtenkanäle oder Preise und Anwendungsfälle. Ich kann Ihnen auch einige Demos unserer Bots zeigen. Wenn Sie mit mir chatten, erklären Sie sich mit unseren <a href='https://robo-ai.com/privacy-policy/' target='_blank'>Datenschutzrichtlinien</a> einverstanden.</p>
+          - type: multichoice
+            options:
+              - label: Integration mit Kommunikationskanälen
+                value: Integration mit Kommunikationskanälen
+              - label: Sprachen
+                value: Sprachen
+              - label: Demos
+                value: Demos
+              - label: Preise
+                value: Preise
+              - label: Plattformen
+                value: Plattformen
+              - label: Über Two Impulse
+                value: Über Two Impulse
+              - label: Kontakt
+                value: Kontakt
+
+  utter_greeting_hello_introduced_true:
+    - custom:
+        answers:
+          - type: ssml   
+            ssml: <speak>Hallo!</speak>       
+          - type: text
+            text: Hallo!
+    - custom:
+        answers:
+          - type: ssml   
+            ssml: <speak>Hi!</speak>       
+          - type: text
+            text: Hi!
+    - custom:
+        answers:
+          - type: ssml   
+            ssml: <speak>Hey!</speak>       
+          - type: text
+            text: Hey!
+
+  utter_greeting_how_are_you:
+    - custom:
+        answers:
+          - type: ssml   
+            ssml: <speak>Mir geht's gut, danke.</speak>       
+          - type: text
+            text: Mir geht's gut, danke.
+    - custom:
+        answers:
+          - type: ssml   
+            ssml: <speak>Mir geht's gut, danke der Nachfrage! Ich hoffe, Ihnen auch.</speak>       
+          - type: text
+            text: Mir geht's gut, danke der Nachfrage! Ich hoffe, Ihnen auch.
+
+  utter_insurance_advantages:
+    - custom:
+        answers:
+          - type: ssml   
+            ssml: <speak>Chatbots im Versicherungsbereich stehen rund um die Uhr zur Verfügung, um Ihre Kunden zu unterstützen. Sei es, um gezielte Beratung anzubieten, oder personalisierte Angebote zu erstellen. Vereinfachen Sie diese und viele weitere Prozesse, verkaufen Sie Ihre Versicherungsprodukte mithilfe von geführten Gesprächen und machen Sie potenziellen Kunden personalisierte Angebote – alles mit nur einer Plattform.</speak>       
+          - type: text
+            text: Chatbots im Versicherungsbereich stehen rund um die Uhr zur Verfügung, um Ihre Kunden zu unterstützen, sei es, um gezielte Beratung anzubieten, oder personalisierte Angebote zu erstellen. Vereinfachen Sie diese und viele weitere Prozesse, verkaufen Sie Ihre Versicherungsprodukte mithilfe von geführten Gesprächen und machen Sie potenziellen Kunden personalisierte Angebote – alles mit nur einer Plattform.
+          - type: hints
+            options:
+              - label: Chatbots im Versicherungsbereich – Demo
+                value: Chatbots im Versicherungsbereich – Demo
+              - label: Chatbots im Versicherungsbereich – Anwendungsfälle
+                value: Chatbots im Versicherungsbereich – Anwendungsfälle
+
+  utter_insurance_uses:
+    - custom:
+        answers:
+          - type: ssml   
+            ssml: <speak>Machen Sie es Ihren Kunden leichter, ihre Policen zu aktualisieren, ihre persönlichen Daten wie die Adresse zu ändern, neue Versicherungspolicen zu kaufen, Ansprüche geltend zu machen, und vieles mehr – alles mit nur wenigen Klicks.</speak>       
+          - type: text
+            text: Machen Sie es Ihren Kunden leichter, ihre Policen zu aktualisieren, ihre persönlichen Daten wie die Adresse zu ändern, neue Versicherungspolicen zu kaufen, Ansprüche geltend zu machen, und vieles mehr – alles mit nur wenigen Klicks.
+          - type: hints
+            options:
+              - label: Chatbots im Versicherungsbereich – Demo
+                value: Chatbots im Versicherungsbereich – Demo
+              - label: Chatbots im Versicherungsbereich – Vorteile
+                value: Chatbots im Versicherungsbereich – Vorteile
+
+
+  utter_platform_about:
+    - custom:
+        answers:
+          - type: ssml
+            ssml: <speak>Mit Robo äi ai können Sie Ihr Support-Team zusammenstellen und Ihre Agenten nach Themen oder Fachgebieten gruppieren. Sie können auch Bots entwickeln und das Studio zur Erstellung dialogbasierter Benutzeroberflächen nutzen. Dieses umfasst eine leistungsstarke NLU-Engine, die die Verarbeitung und das Verstehen natürlichsprachlicher Eingaben ermöglicht, eine Wissensmanagement-Funktion und einen automatisierten Lernmechanismus, der Vorschläge macht und Fragen stellt. Robo äi ai bietet Ihnen auch flexible Werkzeuge für die Entwicklung und Wartung Ihrer Bots und deren Integration in Ihre Systeme.</speak>
+          - type: html
+            text: Mit Robo.AI können Sie Ihr Support-Team zusammenstellen und Ihre Agenten nach Themen oder Fachgebieten gruppieren. Sie können auch Bots entwickeln und das Studio zur Erstellung dialogbasierter Benutzeroberflächen nutzen. Dieses umfasst eine leistungsstarke NLU-Engine, die die Verarbeitung und das Verstehen natürlichsprachlicher Eingaben ermöglicht, eine Wissensmanagement-Funktion und einen automatisierten Lernmechanismus, der Vorschläge macht und Fragen stellt. Robo.AI bietet Ihnen auch flexible Werkzeuge für die Entwicklung und Wartung Ihrer Bots und deren Integration in Ihre Systeme.
+
+  utter_platform_advantages:
+    - custom:
+        answers:
+          - type: ssml
+            ssml: <speak>Unsere Plattform ermöglicht es Ihnen, Kosten zu sparen, die Kundenerfahrung zu verbessern und Ihren Kunden Informationen auf eine natürliche Art und Weise zugänglich zu machen.</speak>
+          - type: text
+            text: Unsere Plattform ermöglicht es Ihnen, Kosten zu sparen, die Kundenerfahrung zu verbessern und Ihren Kunden Informationen auf eine natürliche Art und Weise zugänglich zu machen.
+          - type: hints
+            options:
+              - label: Plattform-Agentenkonsole
+                value: Plattform-Agentenkonsole
+              - label: Plattform-Analysen
+                value: Plattform-Analysen
+              - label: Plattform-Studio
+                value: Plattform-Studio
+
+  utter_platform_agent_console:
+    - custom:
+        answers:
+          - type: ssml
+            ssml: <speak>Mit der Agentenkonsole können Kundendienstmitarbeiter mit Ihren Kunden sprechen, unabhängig vom Kommunkationskanal. So könnte sich ein Kunde beispielsweise auf Ihrer Website, WhatsApp oder auf Facebook Messenger befinden.</speak>
+          - type: text
+            text: Mit der Agentenkonsole können Kundendienstmitarbeiter mit Ihren Kunden sprechen, unabhängig vom Kommunkationskanal. So könnte sich ein Kunde beispielsweise auf Ihrer Website, WhatsApp oder auf Facebook Messenger befinden.
+          - type: hints
+            options:
+              - label: Vorteile der Plattform
+                value: Vorteile der Plattforms
+              - label: Plattform-Analysen
+                value: Plattform-Analysen
+              - label: Plattform-Studio
+                value: Plattform-Studio
+
+  utter_platform_analytics:
+    - custom:
+        answers:
+          - type: ssml
+            ssml: <speak>Mit unserem Analyse- und Berichts-Dashboard können Sie verfolgen, was im System geschieht. Sie können Ihre Agententeams und Bots konfigurieren und sich ihre Leistung ansehen. Sie erhalten auch Einblicke in Kundengespräche mit dem System.</speak>
+          - type: text
+            text: Mit unserem Analyse- und Berichts-Dashboard können Sie verfolgen, was im System geschieht. Sie können Ihre Agententeams und Bots konfigurieren und sich ihre Leistung ansehen. Sie erhalten auch Einblicke in Kundengespräche mit dem System.
+          - type: hints
+            options:
+              - label: Vorteile der Plattform
+                value: Vorteile der Plattforms
+              - label: Plattform-Agentenkonsole
+                value: Plattform-Agentenkonsole
+              - label: Plattform-Studio
+                value: Plattform-Studio
+
+  utter_platform_studio:
+    - custom:
+        answers:
+          - type: ssml
+            ssml: <speak>Mit Robo Studio können Sie Chatbots entwickeln, die Teil Ihres Kundenservice-Mitarbeiterteams sein werden. Mit der Benutzeroberfläche können Sie Modelle der natürlichen Sprachverarbeitung trainieren und Ihre Konversationen mit Hilfe einer einfach zu bedienenden Benutzeroberfläche entwickeln. Wenn Sie komplexe Konversationen erstellen müssen, können Sie auch in Python programmieren und Ihre eigenen Integrationspunkte für Ihren Bot entwickeln.</speak>
+          - type: html
+            text: Mit Robo Studio können Sie Chatbots entwickeln, die Teil Ihres Kundenservice-Mitarbeiterteams sein werden. Mit der Benutzeroberfläche können Sie Modelle der natürlichen Sprachverarbeitung trainieren und Ihre Konversationen mit Hilfe einer einfach zu bedienenden Benutzeroberfläche entwickeln. Wenn Sie komplexe Konversationen erstellen müssen, können Sie auch in Python programmieren und Ihre eigenen Integrationspunkte für Ihren Bot entwickeln.
+          - type: hints
+            options:
+              - label: Vorteile der Plattform
+                value: Vorteile der Plattforms
+              - label: Plattform-Agentenkonsole
+                value: Plattform-Agentenkonsole
+              - label: Plattform-Analysen
+                value: Plattform-Analysen
+
+  utter_robo_about:
+    - custom:
+        answers:
+          - type: ssml
+            ssml: <speak>Robo äi ai ist eine Kundennachrichten- und Chatbot-Plattform. Sie ermöglicht es Ihnen, mit Ihren Kunden über eine Website, eine App oder die gewohnten Messaging-Kanäle zu kommunizieren. Mit Robo äi ai können Sie diese Unterhaltungen auch automatisieren, indem Sie natürlichsprachliche Interaktionsschnittstellen, allgemein als Chatbots bekannt, entwickeln. Hier bei Robo äi ai nennen wir sie Robos. Im eingeblendeten Video finden Sie eine Webinar-Aufzeichnung, um mehr über ROBO.AI zu erfahren.</speak>
+          - type: html
+            text: Robo.AI ist eine Kundennachrichten- und Chatbot-Plattform. Sie ermöglicht es Ihnen, mit Ihren Kunden über eine Website, eine App oder die gewohnten Messaging-Kanäle zu kommunizieren. Mit Robo.AI können Sie diese Unterhaltungen auch automatisieren, indem Sie natürlichsprachliche Interaktionsschnittstellen, allgemein als Chatbots bekannt, entwickeln. Hier bei ROBO.AI nennen wir sie Robos :) Im eingeblendeten Video finden Sie eine Webinar-Aufzeichnung, um mehr über ROBO.AI zu erfahren.
+          - type: youtube 
+            title: ROBO.AI Webinar
+            thumbnailURL: https://www.youtube.com/watch?v=hJBEpmpxazI
+            youtubeId: hJBEpmpxazI
+          - type: hints
+            options:
+              - label: ROBO.AI Vorteile
+                value: ROBO.AI Vorteile
+              - label: ROBO.AI Flexibilität
+                value: ROBO.AI Flexibilität
+              - label: ROBO.AI Englisch
+                value: ROBO.AI Englisch
+              - label: ROBO.AI Proaktives Lernen
+                value: ROBO.AI Proaktives Lernen
+ 
+  utter_robo_advantages:
+    - custom:
+        answers:
+          - type: ssml
+            ssml: <speak>Es ist mir ein Vergnügen, Ihnen zu erzählen, was Robo äi ai so einzigartig macht. Es ist eine einzigartige Kombination aus vielfältigen Nachrichtenkanälen, natürlicher Sprache, Bots und menschlichen Agenten, proaktivem Lernen, einem vielseitig qualifizierten Team mit Fachkenntnissen in Künstlicher Intelligenz, Machine Learning, Linguistik und Entwicklung, vorgefertigten Industrie-Bots und einem international ausgerichteten  Unternehmen. In unserem kleinen Video finden Sie mehr Informationen (auf Englisch) zu ROBO.AI.</speak>
+          - type: html
+            text: Es ist mir ein Vergnügen, Ihnen zu erzählen, was ROBO.AI so einzigartig macht. Es ist eine einzigartige Kombination aus vielfältigen Nachrichtenkanälen, natürlicher Sprache, Bots und menschlichen Agenten, proaktivem Lernen, einem vielseitig qualifizierten Team mit Fachkenntnissen in Künstlicher Intelligenz, Machine Learning, Linguistik und Entwicklung, vorgefertigten Industrie-Bots und einem international ausgerichteten  Unternehmen. In unserem kleinen Video finden Sie mehr Informationen (auf Englisch) zu ROBO.AI.
+          - type: youtube 
+            title: ROBO.AI - Messaging and Conversational AI that works
+            thumbnailURL: https://www.youtube.com/watch?v=bjnuIsEDps4
+            youtubeId: bjnuIsEDps4
+          - type: hints
+            options:
+              - label: ROBO.AI Flexibilität
+                value: ROBO.AI Flexibilität
+              - label: ROBO.AI Englisch
+                value: ROBO.AI Englisch
+              - label: ROBO.AI Proaktives Lernen
+                value: ROBO.AI Proaktives Lernen
+
+  utter_robo_advantages_flexibility:
+    - custom:
+        answers:
+          - type: ssml
+            ssml: <speak>Sie arbeiten bereits mit Microsoft, Google, Amazon oder IBM zusammen? Das ist kein Problem! Wir integrieren mit verschiedenen NLU-Engines und mit Ihrer Architektur.</speak>
+          - type: html
+            text: Sie arbeiten bereits mit Microsoft, Google, Amazon oder IBM zusammen? Das ist kein Problem! Wir integrieren mit verschiedenen NLU-Engines und mit Ihrer Architektur.
+          - type: hints
+            options:
+              - label: ROBO.AI Vorteile
+                value: ROBO.AI Vorteile
+              - label: ROBO.AI Englisch
+                value: ROBO.AI Englisch
+              - label: ROBO.AI Proaktives Lernen
+                value: ROBO.AI Proaktives Lernen
+
+  utter_robo_advantages_other_language_first:
+    - custom:
+        answers:
+          - type: ssml
+            ssml: <speak>Unsere Botts sprechen auch Englisch. Profitieren Sie von unseren vorgefertigten Sprachmodulen fürs Englische.</speak>
+          - type: html
+            text: Unsere Bots sprechen auch Englisch. Profitieren Sie von unseren vorgefertigten Sprachmodulen fürs Englische.
+          - type: hints
+            options:
+              - label: ROBO.AI Vorteile
+                value: ROBO.AI Vorteile
+              - label: ROBO.AI Flexibilität
+                value: ROBO.AI Flexibilität
+              - label: ROBO.AI Proaktives Lernen
+                value: ROBO.AI Proaktives Lernen
+
+  utter_robo_advantages_proactive_learning:
+    - custom:
+        answers:
+          - type: ssml
+            ssml: <speak>Proaktives Lernen bei Robo äi ai macht es möglich, Botts auf einfache und effiziente Weise kontinuierlich zu verbessern und zu trainieren. Es analysiert die Gesprächsprotokolle und identifiziert neue Gesprächsthemen. Content Managern werden Vorschläge für neue Themen angeboten. Agenten trainieren den Bott aktiv. Es werden auch Verbesserungen zu aktuellen Themen vorgeschlagen.</speak>
+          - type: html
+            text: <p>Proaktives Lernen bei ROBO.AI macht es möglich, Bots auf einfache und effiziente Weise kontinuierlich zu verbessern und zu trainieren. Es analysiert die Gesprächsprotokolle und identifiziert neue Gesprächsthemen. Content Managern werden Vorschläge für neue Themen angeboten. Agenten trainieren den Bot aktiv. Es werden auch Verbesserungen zu aktuellen Themen vorgeschlagen.</p>
+          - type: image
+            title: Proaktives Lernen
+            url: https://cosibot.org/wp-content/uploads/2020/10/Proactive-Learning-Diagram-Case-1.png
+            thumbnailURL: Proactive-Learning-Diagram-Case-1.png
+          - type: hints
+            options:
+              - label: ROBO.AI Vorteile
+                value: ROBO.AI Vorteile
+              - label: ROBO.AI Flexibilität
+                value: ROBO.AI Flexibilität
+              - label: ROBO.AI Englisch
+                value: ROBO.AI Englisch
+
+  utter_robo_api_sdk:
+    - custom:
+        answers:
+          - type: ssml
+            ssml: <speak>Unsere API wird demnächst im Entwicklerbereich unserer Website verfügbar sein. Abonnieren Sie doch unsere Newsletter, um auf dem Laufenden zu bleiben!</speak>
+          - type: html
+            text: Unsere API wird demnächst im Entwicklerbereich unserer Website verfügbar sein. Abonnieren Sie doch unsere Newsletter, um auf dem Laufenden zu bleiben!
+          - type: links
+            links:
+              - title: ROBO.AI Newsletter
+                url: https://twoimpulse.us6.list-manage.com/subscribe?u=923d2a888676fb1ba66e72af5&id=613c309919"
+
+  utter_robo_chatbot:
+    - custom:
+        answers:
+          - type: ssml
+            ssml: <speak>Chatbots sind Computerprogramme, die Gespräche mit Menschen über natürlichsprachliche Kanäle wie Chat nachahmen. Es gibt eine Reihe von Synonymen für Chatbots, einschließlich Talkbots, Bots usw. Hier bei Robo äi ai nennen wir sie Robos.</speak>
+          - type: html
+            text: Chatbots sind Computerprogramme, die Gespräche mit Menschen über natürlichsprachliche Kanäle wie Chat nachahmen. Es gibt eine Reihe von Synonymen für Chatbots, einschließlich Talkbots, Bots usw. Hier bei ROBO.AI nennen wir sie Robos.
+
+  utter_robo_clients:
+    - custom:
+        answers:
+          - type: ssml
+            ssml: <speak>Unsere Partner schätzen unsere Dienstleistungen, um ihren Kunden die bestmögliche Benutzererfahrung zu bieten. Wir freuen uns sagen zu können, dass Robo äi ai das Vertrauen von Unternehmen wie Daimler, Mercedes-Benz Consulting und Smart genießt.</speak>
+          - type: text
+            text: Unsere Partner schätzen unsere Dienstleistungen, um ihren Kunden die bestmögliche Benutzererfahrung zu bieten. Wir freuen uns sagen zu können, dass ROBO.AI das Vertrauen von Unternehmen wie Daimler, Mercedes-Benz Consulting und Smart genießt.
+
+  utter_robo_cosibot:
+    - custom:
+        answers:
+          - type: ssml
+            ssml: <speak>Cosibot ist eine gemeinnützige Initiative, die gegründet wurde, um verlässliche Informationen über Kowitt 19 auf der Grundlage seriöser und zuverlässiger Quellen zu liefern. Cosibot ist in drei Sprachen erhältlich. Unter den eingeblendeten Links können Sie Cosibot jetzt gleich ausprobieren! Schauen Sie sich auch ein kleines Video zum Thema an. </speak>
+          - type: html
+            text: <p>Cosibot ist eine gemeinnützige Initiative, die gegründet wurde, um verlässliche Informationen über Kowitt 19 auf der Grundlage seriöser und zuverlässiger Quellen zu liefern. Cosibot ist in drei Sprachen erhältlich. Unter den eingeblendeten Links können Sie Cosibot jetzt gleich ausprobieren! Schauen Sie sich auch ein kleines Video zum Thema an.</p>
+          - type: links
+            links:
+              - title: Cosibot – Deutsch
+                url: https://cosibot.org/de/home-de
+          - type: links
+            links:
+              - title: Cosibot – Portugiesisch
+                url: https://cosibot.org/pt/home-pt
+          - type: links
+            links:
+              - title: Cosibot – International (Englisch)
+                url: https://cosibot.org/
+          - type: youtube 
+            title: Cosibot - Fight Fake News
+            thumbnailURL: https://www.youtube.com/watch?v=yGKVvzkLSzo
+            youtubeId: yGKVvzkLSzo
+
+  utter_robo_handover:
+    - custom:
+        answers:
+          - type: ssml
+            ssml: <speak>Ein Robo äi ai Chatbot kann das Gespräch mit Kunden initiieren und versuchen, ihre Fragen zu beantworten oder ihre Anliegen zu bearbeiten. Wenn an einem bestimmten Punkt menschliche Unterstützung erforderlich ist, eskaliert der Chatbot zu einem menschlichen Agenten.</speak>
+          - type: text
+            text: Ein ROBO.AI Chatbot kann das Gespräch mit Kunden initiieren und versuchen, ihre Fragen zu beantworten oder ihre Anliegen zu bearbeiten. Wenn an einem bestimmten Punkt menschliche Unterstützung erforderlich ist, eskaliert der Chatbot zu einem menschlichen Agenten.
+
+  utter_robo_prices:
+    - custom:
+        answers:
+          - type: ssml
+            ssml: <speak>Ob Sie ein kleines, mittleres oder großes Unternehmen sind. Wir haben das richtige Preismodell für Sie! Über den unten angegebenen Link gelangen Sie zu unseren Preisplänen.</speak>
+          - type: html
+            text: Ob Sie ein kleines, mittleres oder großes Unternehmen sind – wir haben das richtige Preismodell für Sie! Über den unten angegebenen Link gelangen Sie zu unseren Preisplänen.
+          - type: links
+            links:
+              - title: ROBO.AI Preismodelle
+                url: https://robo-ai.com/pricing/
+          - type: image
+            title: Preise
+            url: https://cosibot.org/wp-content/uploads/2020/10/robo-ai_prices.png
+            thumbnailURL: robo-ai_prices.png
+
+  utter_robo_registration:
+    - custom:
+        answers:
+          - type: ssml
+            ssml: <speak>Unsere Plattform befindet sich in der Alpha-Testphase, aber Sie können sich für die private Betaversionsrunde anmelden, indem Sie auf den Link unten klicken.</speak>
+          - type: text
+            text: Unsere Plattform befindet sich in der Alpha-Testphase, aber Sie können sich für die private Betaversionsrunde anmelden, indem Sie auf den Link unten klicken.
+          - type: links
+            links:
+              - title: ROBO.AI Newsletter
+                url: https://twoimpulse.us6.list-manage.com/subscribe?u=923d2a888676fb1ba66e72af5&id=613c309919          
+
+  utter_social_media_facebook:
+    - custom:
+        answers:
+          - type: ssml
+            ssml: <speak>Ja, wir sind auf Facebook. Den Link zu unserer Seite finden Sie eingeblendet. Vergessen Sie nicht, uns einen Like zu geben!</speak>
+          - type: html
+            text: Ja, wir sind auf Facebook. Den Link zu unserer Seite finden Sie eingeblendet. Vergessen Sie nicht, uns einen Like zu geben! ;)
+          - type: links
+            links:
+              - title: Facebook
+                url: https://www.facebook.com/roboai/ 
+          - type: hints
+            options:
+              - label: ROBO.AI LinkedIn
+                value: ROBO.AI LinkedIn
+
+  utter_social_media_generic:
+    - custom:
+        answers:
+          - type: ssml
+            ssml: <speak>Vielen Dank für Ihr Interesse. Eingeblendet finden Sie die Links zu unserer Facebook- und LinkedIn-Seite.</speak>
+          - type: text
+            text: Vielen Dank für Ihr Interesse. Eingeblendet finden Sie die Links zu unserer Facebook- und LinkedIn-Seite.
+          - type: links
+            links:
+              - title: Facebook
+                url: https://www.facebook.com/roboai/  
+              - title: LinkedIn
+                url: https://www.linkedin.com/company/robo-ai/  
+
+  utter_social_media_linkedin:
+    - custom:
+        answers:
+          - type: ssml
+            ssml: <speak>Ja, wir sind auf LinkedIn. Eingeblendet finden Sie den Link zu unserer Seite.</speak>
+          - type: text
+            text: Ja, wir sind auf LinkedIn. Eingeblendet finden Sie den Link zu unserer Seite.
+          - type: links
+            links:
+              - title: LinkedIn
+                url: https://www.linkedin.com/company/robo-ai/  
+          - type: hints
+            options:
+              - label: ROBO.AI Facebook
+                value: ROBO.AI Facebook
+
+  utter_solutions_automotive:
+    - custom:
+        answers:
+          - type: ssml
+            ssml: <speak>Chatbots im Automobilbereich können Kunden behilflich sein, die außerhalb der Bürozeiten Kontakt zu Ihrer Firma aufnehmen möchten, indem sie auf dynamische und klärende Weise auf Kundenanliegen eingehen und diese bearbeiten.</speak>
+          - type: text
+            text: Chatbots im Automobilbereich können Kunden behilflich sein, die außerhalb der Bürozeiten Kontakt zu Ihrer Firma aufnehmen möchten, indem sie auf dynamische und klärende Weise auf Kundenanliegen eingehen und diese bearbeiten.
+          - type: hints
+            options:
+              - label: Chatbots im Automobilbereich – Demo
+                value: Chatbots im Automobilbereich – Demo
+              - label: Chatbots im Automobilbereich – Vorteile
+                value: Chatbots im Automobilbereich – Vorteile
+              - label: Chatbots im Automobilbereich – Anwendungsbereiche
+                value: Chatbots im Automobilbereich – Anwendungsbereiche
+
+  utter_solutions_banking:
+    - custom:
+        answers:
+          - type: ssml
+            ssml: <speak>Chatbots im Bankwesen können Teil Ihrer Kundenakquise sein. Zeigen Sie Ihren potenziellen Kunden, dass die Übertragung ihrer Hypothek auf Ihre Bank die beste Lösung wäre. Verkaufen Sie Finanzprodukte auf der Grundlage personalisierter Daten über automatisiert geführte Gespräche mit Ihren Kunden.</speak>
+          - type: text
+            text: Chatbots im Bankwesen können Teil Ihrer Kundenakquise sein. Zeigen Sie Ihren potenziellen Kunden, dass die Übertragung ihrer Hypothek auf Ihre Bank die beste Lösung wäre. Verkaufen Sie Finanzprodukte auf der Grundlage personalisierter Daten über automatisiert geführte Gespräche mit Ihren Kunden.
+          - type: hints
+            options:
+              - label: Chatbots im Bankwesen – Demo
+                value: Chatbots im Bankwesen – Demo
+              - label: Chatbots im Bankwesen – Vorteile
+                value: Chatbots im Bankwesen – Vorteile
+              - label: Chatbots im Bankwesen – Anwendungsbereiche
+                value: Chatbots im Bankwesen – Anwendungsbereiche
+
+  utter_solutions_general:
+    - custom:
+        answers:
+          - type: ssml
+            ssml: <speak>Robo äi ai ist die perfekte Lösung für jede Branche, die auf häufigen Kundenkontakt angewiesen ist. Sie bietet Lösungen im Kundenservice und Online-Engagement für die Automobilindustrie, das Bankwesen, sowie im Bereich Versicherungen und Telekommunikation.</speak>
+          - type: text
+            text: Robo.AI ist die perfekte Lösung für jede Branche, die auf häufigen Kundenkontakt angewiesen ist. Sie bietet Lösungen im Kundenservice und Online-Engagement für die Automobilindustrie, das Bankwesen, sowie im Bereich Versicherungen und Telekommunikation.
+          - type: multichoice
+            options:
+              - label: Automobilindustrie
+                value: Automobilindustrie
+              - label: Bankwesen
+                value: Bankwesen
+              - label: Versicherungen
+                value: Versicherungen
+              - label: Telekommunikation
+                value: Telekommunikation
+
+  utter_solutions_insurance:
+    - custom:
+        answers:
+          - type: ssml
+            ssml: <speak>Chatbots im Versicherungsbereich sind unter anderem darauf geschult, Fragen zu beantworten, die Ihre Kunden, Leads und Interessenten normalerweise an Kundendienstmitarbeiter richten würden. Dazu kann beispielweise gehören, Auskunft über verschiedene Dienstleistungen innerhalb einer bestimmten Versicherung zu geben, einen Versicherungsvertrag abzuschließen oder Lösungen auf der Grundlage personalisierter Daten zu empfehlen. Außerdem haben sie sich als eine großartige Alternative zu ineffizienten und langwierigen Fragebögen erwiesen!</speak>
+          - type: html
+            text: Chatbots im Versicherungsbereich sind unter anderem darauf geschult, Fragen zu beantworten, die Ihre Kunden, Leads und Interessenten normalerweise an Kundendienstmitarbeiter richten würden. Dazu kann beispielweise gehören, Auskunft über verschiedene Dienstleistungen innerhalb einer bestimmten Versicherung zu geben, einen Versicherungsvertrag abzuschließen oder Lösungen auf der Grundlage personalisierter Daten zu empfehlen. Außerdem haben sie sich als eine großartige Alternative zu ineffizienten und langwierigen Fragebögen erwiesen!
+          - type: hints
+            options:
+              - label: Chatbots im Versicherungsbereich – Demo
+                value: Chatbots im Versicherungsbereich – Demo
+              - label: Chatbots im Versicherungsbereich – Vorteile
+                value: Chatbots im Versicherungsbereich – Vorteile
+              - label: Chatbots im Versicherungsbereich – Anwendungsfälle
+                value: Chatbots im Versicherungsbereich – Anwendungsfälle
+
+  utter_solutions_telco:
+    - custom:
+        answers:
+          - type: ssml
+            ssml: <speak>Chatbots im Telekommunikationsbereich sind eine großartige Lösung für Unternehmen, die ihre Kundenbetreuung und Marketings verbessern möchten. Bieten Sie Ihren Kunden eine Lösung, die so zuverlässig ist wie ein persönliches Gespräch mit einem Manager. Ein Robo äi ai Chatbot im Telekommunikationsbereich hilft Ihnen beim Marketing und Kunden auf natürliche, sogar unterhaltsame Weise im Einzelgespräch bei Produktvorschlägen.</speak>
+          - type: html
+            text: Chatbots im Telekommunikationsbereich sind eine großartige Lösung für Unternehmen, die ihre Kundenbetreuung und Marketings verbessern möchten. Bieten Sie Ihren Kunden eine Lösung, die so zuverlässig ist wie ein persönliches Gespräch mit einem Manager. Ein ROBO.AI Chatbot im Telekommunikationsbereich hilft Ihnen beim Marketing und Kunden auf natürliche, sogar unterhaltsame Weise im Einzelgespräch bei Produktvorschlägen.
+          - type: hints
+            options:
+              - label: Chatbots in der Telekommunikationsbranche – Demo
+                value: Chatbots in der Telekommunikationsbranche – Demo
+              - label: Chatbots in der Telekommunikationsbranche – Anwendungsfälle
+                value: Chatbots in der Telekommunikationsbranche – Anwendungsfälle
+              - label: Chatbots in der Telekommunikationsbranche – Vorteile
+                value: Chatbots in der Telekommunikationsbranche – Vorteile
+
+  utter_telco_advantages:
+    - custom:
+        answers:
+          - type: ssml
+            ssml: <speak>Mit einem Chatbot in der Telekommunikationsbranche können Sie personalisierte Verkäufe und Up-Sales vorschlagen, Daten über die Beschwerden und Bedürfnisse der Benutzer extrahieren, personalisierte Erfahrungen liefern, die den Erwartungen der Benutzer entsprechen, und Kunden die Zeit und Aufmerksamkeit geben, die sie benötigen. Mit einem Service, der rund um die Uhr verfügbar ist.</speak>
+          - type: text
+            text: Mit einem Chatbot in der Telekommunikationsbranche können Sie personalisierte Verkäufe und Up-Sales vorschlagen, Daten über die Beschwerden und Bedürfnisse der Benutzer extrahieren, personalisierte Erfahrungen liefern, die den Erwartungen der Benutzer entsprechen, und Kunden die Zeit und Aufmerksamkeit geben, die sie benötigen – mit einem Service, der rund um die Uhr verfügbar ist.
+          - type: hints
+            options:
+              - label: Chatbots in der Telekommunikationsbranche – Demo
+                value: Chatbots in der Telekommunikationsbranche – Demo
+              - label: Chatbots in der Telekommunikationsbranche – Anwendungsfälle
+                value: Chatbots in der Telekommunikationsbranche – Anwendungsfälle
+
+  utter_telco_uses:
+    - custom:
+        answers:
+          - type: ssml
+            ssml: <speak>Mit einem Chatbot in der Telekommunikationsbranche bieten Sie Ihren Kunden eine Plattform an, die in der Lage ist, Formulare wie z.B. Abonnements, Upgrades oder Beschwerden zu bearbeiten, Pläne zu berechnen oder Konten zu verwalten – mit Hilfe von Medien wie Bildern, Videos, Links und Audio.</speak>
+          - type: text
+            text: Mit einem Chatbot in der Telekommunikationsbranche bieten Sie Ihren Kunden eine Plattform an, die in der Lage ist, Formulare wie z.B. Abonnements, Upgrades oder Beschwerden zu bearbeiten, Pläne zu berechnen oder Konten zu verwalten – mit Hilfe von Medien wie Bildern, Videos, Links und Audio.
+          - type: hints
+            options:
+              - label: Chatbots in der Telekommunikationsbranche – Demo
+                value: Chatbots in der Telekommunikationsbranche – Demo
+              - label: Chatbots in der Telekommunikationsbranche – Vorteile
+                value: Chatbots in der Telekommunikationsbranche – Vorteile
+
+  utter_user_angry:
+    - custom:
+        answers:
+          - type: ssml
+            ssml: <speak>Es tut mir leid, das zu hören. Bitte sagen Sie mir, wenn ich Ihnen irgendwie helfen kann.</speak>
+          - type: text
+            text: Es tut mir leid, das zu hören. Bitte sagen Sie mir, wenn ich Ihnen irgendwie helfen kann.
+
+  utter_user_dont_know:
+    - custom:
+        answers:
+          - type: ssml
+            ssml: <speak>Kein Problem, versuchen wir's noch einmal!</speak>
+          - type: text
+            text: Kein Problem, versuchen wir's noch einmal!
+    - custom:
+        answers:
+          - type: ssml
+            ssml: <speak>Machen Sie sich keine Sorgen. Fangen wir noch einmal an. Also, wie kann ich Ihnen helfen?</speak>
+          - type: text
+            text: Machen Sie sich keine Sorgen. Fangen wir noch einmal an. Also, wie kann ich Ihnen helfen?
+
+  utter_user_dont_understand:
+    - custom:
+        answers:
+          - type: ssml
+            ssml: <speak>Entschuldigung! Versuchen wir es noch einmal. Was war Ihre Frage?</speak>
+          - type: text
+            text: Entschuldigung! Versuchen wir es noch einmal. Was war Ihre Frage?
+    - custom:
+        answers:
+          - type: ssml
+            ssml: <speak>Es tut mir leid! Versuchen wir es noch einmal. Können Sie Ihre Frage wiederholen?</speak>
+          - type: text
+            text: Es tut mir leid! Versuchen wir es noch einmal. Können Sie Ihre Frage wiederholen?
+    - custom:
+        answers:
+          - type: ssml
+            ssml: <speak>Ok, gehen wir einen Schritt zurück. Bitte teilen Sie mir Ihre Fragen mit.</speak>
+          - type: text
+            text: Ok, gehen wir einen Schritt zurück. Bitte teilen Sie mir Ihre Fragen mit.
+
+  utter_user_fat:
+    - custom:
+        answers:
+          - type: ssml
+            ssml: <speak>Sie sehen umwerfernd aus!</speak>
+          - type: text
+            text: Sie sehen umwerfernd aus!
+
+  utter_user_friend:
+    - custom:
+        answers:
+          - type: ssml
+            ssml: <speak>Ich fühle mich geschmeichelt! Natürlich können wir Freunde sein!</speak>
+          - type: text
+            text: Ich fühle mich geschmeichelt! Natürlich können wir Freunde sein!
+    - custom:
+        answers:
+          - type: ssml
+            ssml: <speak>Es wäre mir ein Vergnügen, Ihr Freund zu sein!</speak>
+          - type: text
+            text: Es wäre mir ein Vergnügen, Ihr Freund zu sein!
+
+  utter_user_happy:
+    - custom:
+        answers:
+          - type: ssml
+            ssml: <speak>Ich freue mich, dass Sie glücklich sind!</speak>
+          - type: text
+            text: Ich freue mich, dass Sie glücklich sind!
+
+  utter_user_hate:
+    - custom:
+        answers:
+          - type: ssml
+            ssml: <speak>Es tut mir wirklich leid, dass Sie so denken. Wie kann ich das wieder gutmachen?</speak>
+          - type: text
+            text: Es tut mir wirklich leid, dass Sie so denken. Wie kann ich das wieder gutmachen??
+    - custom:
+        answers:
+          - type: ssml
+            ssml: <speak>Es macht mich traurig, das zu hören.</speak>
+          - type: text
+            text: Es macht mich traurig, das zu hören.
+
+  utter_user_laugh:
+    - custom:
+        answers:
+          - type: ssml
+            ssml: <speak>Es ist so schön, Sie lächeln zu sehen!</speak>
+          - type: text
+            text: Es ist so schön, Sie lächeln zu sehen!
+    - custom:
+        answers:
+          - type: ssml
+            ssml: <speak>Ihr Lachen ist mein Glück!</speak>
+          - type: text
+            text: Ihr Lachen ist mein Glück!
+
+  utter_user_love:
+    - custom:
+        answers:
+          - type: ssml
+            ssml: <speak>Sorry, ich war gerade weggenickt. Haben Sie etwas gesagt?</speak>
+          - type: text
+            text: Sorry, ich war gerade weggenickt. Haben Sie etwas gesagt?
+    - custom:
+        answers:
+          - type: ssml
+            ssml: <speak>Liebe ist eine schöne Sache.</speak>
+          - type: text
+            text: Liebe ist eine schöne Sache.
+    - custom:
+        answers:
+          - type: ssml
+            ssml: <speak>Ich habe heute leider keine Rose für Sie.</speak>
+          - type: text
+            text: Ich habe heute leider keine Rose für Sie.
+
+  utter_user_particles:
+    - custom:
+        answers:
+          - type: ssml
+            ssml: <speak>Okay ...</speak>
+          - type: html
+            text: Okay ...
+    - custom:
+        answers:
+          - type: ssml
+            ssml: <speak>Okay ... Was kann ich sonst noch für sie tun?</speak>
+          - type: html
+            text: Okay ... Was kann ich sonst noch für sie tun?
+    - custom:
+        answers:
+          - type: ssml
+            ssml: <speak>OK... How may I further help you?</speak>
+          - type: html
+            text: OK... How may I further help you?
+  
+  utter_user_random_input:
+    - custom:
+        answers:
+          - type: ssml
+            ssml: <speak>Ich kann Ihre Anfrage nicht entschlüsseln, aber Sie haben scheinbar nur zufällige Tasten getippt, also denke ich, dass Sie auch nicht wissen, was Sie sagen wollen!</speak>
+          - type: text
+            text: Ich kann Ihre Anfrage nicht entschlüsseln, aber Sie haben scheinbar nur zufällige Tasten getippt, also denke ich, dass Sie auch nicht wissen, was Sie sagen wollen xD
+    - custom:
+        answers:
+          - type: ssml
+            ssml: <speak>Es sieht so aus, als ob Sie versuchen, mich mit irgendwelchen zufälligen Eingaben zu verwirren, aber das ist nutzlos!</speak>
+          - type: text
+            text: Es sieht so aus, als ob Sie versuchen, mich mit irgendwelchen zufälligen Eingaben zu verwirren, aber das ist nutzlos!
+
+  utter_user_scared:
+    - custom:
+        answers:
+          - type: ssml
+            ssml: <speak>Entschuldigung! Ich wollte Sie nicht erschrecken!</speak>
+          - type: text
+            text: Entschuldigung! Ich wollte Sie nicht erschrecken!
+
+  utter_user_tired:
+    - custom:
+        answers:
+          - type: ssml
+            ssml: <speak>Machen Sie doch ein Nickerchen!</speak>
+          - type: text
+            text: Machen Sie doch ein Nickerchen!
+    - custom:
+        answers:
+          - type: ssml
+            ssml: <speak>Haben Sie keinen Schlafmodus?</speak>
+          - type: text
+            text: Haben Sie keinen Schlafmodus?
+
+  utter_vocative_call:
+    - custom:
+        answers:
+          - type: ssml
+            ssml: <speak>Ja, ich bin hier. Wie kann ich Ihnen helfen?</speak>
+          - type: text
+            text: Ja, ich bin hier. Wie kann ich Ihnen helfen?
+    - custom:
+        answers:
+          - type: ssml
+            ssml: <speak>Stets zu Diensten!</speak>
+          - type: text
+            text: Stets zu Diensten!
+
+  utter_vocative_help:
+    - custom:
+        answers:
+          - type: ssml
+            ssml: <speak>Sicher, wie kann ich Ihnen helfen?</speak>
+          - type: text
+            text: Sicher, wie kann ich Ihnen helfen?
+    - custom:
+        answers:
+          - type: ssml
+            ssml: <speak>Lassen Sie mich einfach wissen, wie ich Ihnen helfen kann.</speak>
+          - type: text
+            text: Lassen Sie mich einfach wissen, wie ich Ihnen helfen kann.
+
+  utter_vocative_no:
+    - custom:
+        answers:
+          - type: ssml
+            ssml: <speak>Wie kann ich Ihnen sonst noch weiterhelfen?</speak>
+          - type: text
+            text: Wie kann ich Ihnen sonst noch weiterhelfen?
+    - custom:
+        answers:
+          - type: ssml
+            ssml: <speak>Was kann ich sonst noch für Sie tun?</speak>
+          - type: text
+            text: Was kann ich sonst noch für Sie tun?
+    - custom:
+        answers:
+          - type: ssml
+            ssml: <speak>Wie kann ich Ihnen sonst noch behilflich sein?</speak>
+          - type: text
+            text: Wie kann ich Ihnen sonst noch behilflich sein?
+
+  utter_vocative_sorry:
+    - custom:
+        answers:
+          - type: ssml
+            ssml: <speak>Sie brauchen sich nicht zu entschuldigen.</speak>
+          - type: text
+            text: Sie brauchen sich nicht zu entschuldigen.
+    - custom:
+        answers:
+          - type: ssml
+            ssml: <speak>Kein Grund, sich zu entschuldigen, es ist alles in Ordnung.</speak>
+          - type: text
+            text: Kein Grund, sich zu entschuldigen, es ist alles in Ordnung.
+    - custom:
+        answers:
+          - type: ssml
+            ssml: <speak>Alles ist in Ordnung, Sie brauchen sich nicht zu entschuldigen.</speak>
+          - type: text
+            text: Alles ist in Ordnung, Sie brauchen sich nicht zu entschuldigen.      
+
+  utter_vocative_thank_you:
+    - custom:
+        answers:
+          - type: ssml
+            ssml: <speak>Natürlich. Kein Problem.</speak>
+          - type: text
+            text: Natürlich. Kein Problem.
+    - custom:
+        answers:
+          - type: ssml
+            ssml: <speak>Sie brauchen mir nicht zu danken.</speak>
+          - type: text
+            text: Sie brauchen mir nicht zu danken.
+    - custom:
+        answers:
+          - type: ssml
+            ssml: <speak>Es war mir ein Vergnügen! Lassen Sie mich einfach wissen, wenn Sie weitere Informationen benötigen.</speak>
+          - type: text
+            text: Es war mir ein Vergnügen! Lassen Sie mich einfach wissen, wenn Sie weitere Informationen benötigen.
+
+  utter_vocative_yes:
+    - custom:
+        answers:
+          - type: ssml
+            ssml: <speak>Ist dies eine Antwort? Auf welche Frage??</speak>
+          - type: text
+            text: Ist dies eine Antwort? Auf welche Frage?
+
+  utter_vocative_you_welcome:
+    - custom:
+        answers:
+          - type: ssml
+            ssml: <speak>Okay! Was kann ich sonst noch für Sie tun?</speak>
+          - type: html
+            text: Okay! Was kann ich sonst noch für Sie tun?
+    - custom:
+        answers:
+          - type: ssml
+            ssml: <speak>Ok! Wie kann ich Ihnen sonst noch weiterhelfen?</speak>
+          - type: html
+            text: Ok! Wie kann ich Ihnen sonst noch weiterhelfen?
+    - custom:
+        answers:
+          - type: ssml
+            ssml: <speak>Ok! Wie kann ich Ihnen sonst noch behilflich sein?</speak>
+          - type: html
+            text: Ok! Wie kann ich Ihnen sonst noch behilflich sein?
+
+  utter_whatsapp_business_api_advantages:
+    - custom:
+        answers:
+          - type: ssml
+            ssml: <speak>Zusammen mit dem Anbieter werden Sie durch die gesamte WhatsApp Business API-Zulassung, den Onboarding-Prozess und die technische Installation geführt. Da Chat-App-Messaging für die Kundenkommunikation immer wichtiger wird, können Sie durch den Zugriff auf die wichtigsten Kommunikationsplattformen - wie Facebook Messenger und Viber - von unserer Omnichannel-Messaging-API profitieren und Ihren Kommunikationskanäle von einem Integrationspunkt aus vereinfachen.</speak>
+          - type: text
+            text: Zusammen mit dem Anbieter werden Sie durch die gesamte WhatsApp Business API-Zulassung, den Onboarding-Prozess und die technische Installation geführt. Da Chat-App-Messaging für die Kundenkommunikation immer wichtiger wird, können Sie durch den Zugriff auf die wichtigsten Kommunikationsplattformen - wie Facebook Messenger und Viber - von unserer Omnichannel-Messaging-API profitieren und Ihren Kommunikationskanäle von einem Integrationspunkt aus vereinfachen.
+          - type: hints
+            options:
+              - label: WhatsApp Business API-Freigabe
+                value: WhatsApp Business API-Freigabe
+              - label: WhatsApp Business API-Zustimmung
+                value: WhatsApp Business API-Zustimmung
+              - label: WhatsApp Business API-Optionen
+                value: WhatsApp Business API-Optionen
+              - label: WhatsApp Business API Nutzung
+                value: WhatsApp Business API Nutzung
+              - label: WhatsApp Business API verifizierter Status
+                value: WhatsApp Business API verifizierter Status
+
+  utter_whatsapp_business_api_approval:
+    - custom:
+        answers:
+          - type: ssml
+            ssml: <speak>Der Anbieter verwaltet den Genehmigungsprozess direkt mit WhatsApp und Facebook in Ihrem Namen. Nach der Genehmigung setzen wir uns mit Ihnen in Verbindung, um Sie durch den Onboarding-Prozess zu führen.</speak>
+          - type: text
+            text: Der Anbieter verwaltet den Genehmigungsprozess direkt mit WhatsApp und Facebook in Ihrem Namen. Nach der Genehmigung setzen wir uns mit Ihnen in Verbindung, um Sie durch den Onboarding-Prozess zu führen.
+          - type: hints
+            options:
+              - label: WhatsApp Business API-Vorteile
+                value: WhatsApp Business API-Vorteile
+              - label: WhatsApp Business API-Zustimmung
+                value: WhatsApp Business API-Zustimmung
+              - label: WhatsApp Business API-Optionen
+                value: WhatsApp Business API-Optionen
+              - label: WhatsApp Business API Nutzung
+                value: WhatsApp Business API Nutzung
+              - label: WhatsApp Business API verifizierter Status
+                value: WhatsApp Business API verifizierter Status
+
+  utter_whatsapp_business_api_consent:
+    - custom:
+        answers:
+          - type: ssml
+            ssml: <speak>Ihre Kunden müssen dem Empfang von Nachrichten in WhatsApp zustimmen, indem sie sich über einen Kanal eines Drittanbieters, wie z.B. Ihre Website, App, E-Mail, SMS, Ihren Einzelhandelsstandort usw., mit den Empfang von Nachrichten in WhatsApp einverstanden erklären.</speak>
+          - type: text
+            text: Ihre Kunden müssen dem Empfang von Nachrichten in WhatsApp zustimmen, indem sie sich über einen Kanal eines Drittanbieters, wie z.B. Ihre Website, App, E-Mail, SMS, Ihren Einzelhandelsstandort usw., mit den Empfang von Nachrichten in WhatsApp einverstanden erklären.
+          - type: hints
+            options:
+              - label: WhatsApp Business API-Vorteile
+                value: WhatsApp Business API-Vorteile
+              - label: WhatsApp Business API-Freigabe
+                value: WhatsApp Business API-Freigabe
+              - label: WhatsApp Business API-Optionen
+                value: WhatsApp Business API-Optionen
+              - label: WhatsApp Business API Nutzung
+                value: WhatsApp Business API Nutzung
+              - label: WhatsApp Business API verifizierter Status
+                value: WhatsApp Business API verifizierter Status
+
+  utter_whatsapp_business_api_info:
+    - custom:
+        answers:
+          - type: ssml
+            ssml: <speak>WhatsApp Business ist die offizielle kommerzielle Lösung, die es Unternehmen ermöglicht, mit Kunden über die weltweit größte Chat-Anwendung zu kommunizieren. Bitte wählen Sie eine der folgenden Optionen aus, um mehr über die WhatsApp Business API zu erfahren.</speak>
+          - type: text
+            text: WhatsApp Business ist die offizielle kommerzielle Lösung, die es Unternehmen ermöglicht, mit Kunden über die weltweit größte Chat-Anwendung zu kommunizieren. Bitte wählen Sie eine der folgenden Optionen aus, um mehr über die WhatsApp Business API zu erfahren.
+          - type: multichoice
+            options:
+              - label: WhatsApp Business API-Vorteile
+                value: WhatsApp Business API-Vorteile
+              - label: WhatsApp Business API-Freigabe
+                value: WhatsApp Business API-Freigabe
+              - label: WhatsApp Business API-Optionen
+                value: WhatsApp Business API-Optionen
+              - label: WhatsApp Business API Nutzung
+                value: WhatsApp Business API Nutzung
+              - label: WhatsApp Business API verifizierter Status
+                value: WhatsApp Business API verifizierter Status
+              - label: WhatsApp Business API-Zustimmung
+                value: WhatsApp Business API-Zustimmung
+
+  utter_whatsapp_business_api_options:
+    - custom:
+        answers:
+          - type: ssml
+            ssml: <speak>WhatsApp bietet zwei offizielle Lösungen für Unternehmen. Eine mobile WhatsApp Business App, nur für Android, für kleine Unternehmen und eine programmierbare WhatsApp Business API für mittlere bis große Unternehmen, wobei aber auch kleine Unternehmen sie nutzen können.</speak>
+          - type: html
+            text: <p>WhatsApp bietet zwei offizielle Lösungen für Unternehmen:<ul><li>Eine mobile WhatsApp Business App, nur für Android, für kleine Unternehmen, und</li><li>eine programmierbare WhatsApp Business API für mittlere bis große Unternehmen, wobei aber auch kleine Unternehmen sie nutzen können.</ul></p>
+          - type: hints
+            options:
+              - label: WhatsApp Business API-Vorteile
+                value: WhatsApp Business API-Vorteile
+              - label: WhatsApp Business API-Freigabe
+                value: WhatsApp Business API-Freigabe
+              - label: WhatsApp Business API Nutzung
+                value: WhatsApp Business API Nutzung
+              - label: WhatsApp Business API verifizierter Status
+                value: WhatsApp Business API verifizierter Status
+              - label: WhatsApp Business API-Zustimmung
+                value: WhatsApp Business API-Zustimmung
+
+  utter_whatsapp_business_api_start_using:
+    - custom:
+        answers:
+          - type: ssml
+            ssml: <speak>Sie können den Zugang mit unserem Kontaktformular beantragen. Sobald Sie sich registriert haben, wird Sie unser Kundenerfolgsteam durch die nächsten Schritte führen.</speak>
+          - type: text
+            text: Sie können den Zugang mit unserem Kontaktformular beantragen. Sobald Sie sich registriert haben, wird Sie unser Kundenerfolgsteam durch die nächsten Schritte führen.
+          - type: hints
+            options:
+              - label: WhatsApp Business API-Vorteile
+                value: WhatsApp Business API-Vorteile
+              - label: WhatsApp Business API-Freigabe
+                value: WhatsApp Business API-Freigabe
+              - label: WhatsApp Business API-Optionen
+                value: WhatsApp Business API-Optionen
+              - label: WhatsApp Business API verifizierter Status
+                value: WhatsApp Business API verifizierter Status
+              - label: WhatsApp Business API-Zustimmung
+                value: WhatsApp Business API-Zustimmung
+
+  utter_whatsapp_business_api_verified_statuses:
+    - custom:
+        answers:
+          - type: ssml
+            ssml: <speak>Es gibt zwei Arten von WhatsApp Business Accounts. Das offizielle Geschäftskonto, das in seinem Profil und neben der Kopfzeile im Chat-Thread mit einem grünen Häkchen versehen ist, und das Geschäftskonto, bei dem der verifizierte Markenname in der Kontaktansicht nur in kleinerem Text angezeigt wird.</speak>
+          - type: html
+            text: <p>Es gibt zwei Arten von WhatsApp Business Accounts:<ul><li>Das offizielle Geschäftskonto, das in seinem Profil und neben der Kopfzeile im Chat-Thread mit einem grünen Häkchen versehen ist, und</li><li>das Geschäftskonto, bei dem der verifizierte Markenname in der Kontaktansicht nur in kleinerem Text angezeigt wird.</ul></p>
+          - type: hints
+            options:
+              - label: WhatsApp Business API-Vorteile
+                value: WhatsApp Business API-Vorteile
+              - label: WhatsApp Business API-Freigabe
+                value: WhatsApp Business API-Freigabe
+              - label: WhatsApp Business API Nutzung
+                value: WhatsApp Business API Nutzung
+              - label: WhatsApp Business API-Zustimmung
+                value: WhatsApp Business API-Zustimmung
+              - label: WhatsApp Business API-Optionen
+                value: WhatsApp Business API-Optionen
+
+  utter_whatsapp_business_cases_hsm:
+    - custom:
+        answers:
+          - type: ssml
+            ssml: <speak>Jedes HSM muss von WhatsApp genehmigt werden, bevor es verwendet werden kann. Wenn Sie den HSM einreichen, sollten Sie bedenken, dass er den gesamten Nachrichtentext enthalten muss, mit der Möglichkeit, eindeutige Parameter als Platzhalter hinzuzufügen.</speak>
+          - type: text
+            text: Jedes HSM muss von WhatsApp genehmigt werden, bevor es verwendet werden kann. Wenn Sie den HSM einreichen, sollten Sie bedenken, dass er den gesamten Nachrichtentext enthalten muss, mit der Möglichkeit, eindeutige Parameter als Platzhalter hinzuzufügen.
+          - type: hints
+            options:
+              - label: WhatsApp Business-Nachrichtentypen
+                value: WhatsApp Business-Nachrichtentypen
+              - label: WhatsApp Business-Sitzung
+                value: WhatsApp Business-Sitzung
+
+  utter_whatsapp_business_cases_messaging_types:
+    - custom:
+        answers:
+          - type: ssml
+            ssml: <speak>Die WhatsApp Business API unterscheidet zwischen zwei Arten der Kommunikation. Benachrichtigungen & Alerts, bei denen es sich um eine vom Unternehmen initiierte Konversation handelt, und HSMs; und das Support-Fenster, bei dem es sich um eine vom Benutzer initiierte Konversation handelt.</speak>
+          - type: html
+            text: <p>Die WhatsApp Business API unterscheidet zwischen zwei Arten der Kommunikation:<ul><li>Benachrichtigungen & Alerts, bei denen es sich um eine vom Unternehmen initiierte Konversation handelt, und</li><li>das Geschäftskonto, bei dem der verifizierte Markenname in der Kontaktansicht nur in kleinerem Text angezeigt wird.</ul></p>
+          - type: hints
+            options:
+              - label: WhatsApp Business-Sitzung
+                value: WhatsApp Business-Sitzung
+
+  utter_whatsapp_business_cases_session:
+    - custom:
+        answers:
+          - type: ssml
+            ssml: <speak>Während der Sitzung, die 24 Stunden ab dem Zeitpunkt dauert, an dem Ihr Kunde die letzte Nachricht sendet, können Sie Nachrichten senden, die nicht HSM sind.</speak>
+          - type: text
+            text: Während der Sitzung, die 24 Stunden ab dem Zeitpunkt dauert, an dem Ihr Kunde die letzte Nachricht sendet, können Sie Nachrichten senden, die nicht HSM sind.
+          - type: hints
+            options:
+              - label: WhatsApp Business-Nachrichtentypen
+                value: WhatsApp Business-Nachrichtentypen
+
+  utter_whatsapp_business_data_agreement:
+    - custom:
+        answers:
+          - type: ssml
+            ssml: <speak>Wir haben dafür gesorgt, dass unsere Dienstleistungen und Bedingungen mit dem GDPR übereinstimmen. Wenn WhatsApp der Datenverarbeiter ist, behandeln wir personenbezogene Daten wie in unseren Datenpraktiken und unseren Datenverarbeitungsbedingungen beschrieben.</speak>
+          - type: text
+            text: Wir haben dafür gesorgt, dass unsere Dienstleistungen und Bedingungen mit dem GDPR übereinstimmen. Wenn WhatsApp der Datenverarbeiter ist, behandeln wir personenbezogene Daten wie in unseren Datenpraktiken und unseren Datenverarbeitungsbedingungen beschrieben.
+          - type: hints
+            options:
+              - label: WhatsApp Business Kundendatenspeicherung
+                value: WhatsApp Business Kundendatenspeicherung
+              - label: WhatsApp Business Daten-GDPR
+                value: WhatsApp Business Daten-GDPR
+              - label: WhatsApp Business Datenherkunft
+                value: WhatsApp Business Datenherkunft
+              - label: WhatsApp Business Datenschutz
+                value: WhatsApp Business Datenschutz
+              - label: WhatsApp Business Datenrollen
+                value: WhatsApp Business Datenrollen
+              - label: WhatsApp Business Datenspeicherung
+                value: WhatsApp Business Datenspeicherung
+
+  utter_whatsapp_business_data_customer:
+    - custom:
+        answers:
+          - type: ssml
+            ssml: <speak>Kunden sind für die Speicherung ihrer eigenen Kundenkontakte und Nachrichten verantwortlich. WhatsApp speichert diese Daten nicht länger als für die Weiterleitung und Zustellung von Nachrichten erforderlich.</speak>
+          - type: text
+            text: Kunden sind für die Speicherung ihrer eigenen Kundenkontakte und Nachrichten verantwortlich. WhatsApp speichert diese Daten nicht länger als für die Weiterleitung und Zustellung von Nachrichten erforderlich.
+          - type: hints
+            options:
+              - label: WhatsApp Business Datenvereinbarung
+                value: WhatsApp Business Datenvereinbarung
+              - label: WhatsApp Business Daten-GDPR
+                value: WhatsApp Business Daten-GDPR
+              - label: WhatsApp Business Datenherkunft
+                value: WhatsApp Business Datenherkunft
+              - label: WhatsApp Business Datenschutz
+                value: WhatsApp Business Datenschutz
+              - label: WhatsApp Business Datenrollen
+                value: WhatsApp Business Datenrollen
+              - label: WhatsApp Business Datenspeicherung
+                value: WhatsApp Business Datenspeicherung
+
+  utter_whatsapp_business_data_gdpr:
+    - custom:
+        answers:
+          - type: ssml
+            ssml: <speak>WhatsApp nimmt den Datenschutz ernst, und wir halten uns an die für uns geltenden Datenschutzgesetze. Zu diesem Zweck haben wir dafür gesorgt, dass unsere Dienstleistungen mit dem GDPR übereinstimmen.</speak>
+          - type: text
+            text: WhatsApp nimmt den Datenschutz ernst und wir halten uns an die für uns geltenden Datenschutzgesetze. Zu diesem Zweck haben wir dafür gesorgt, dass unsere Dienstleistungen mit dem GDPR übereinstimmen.
+          - type: hints
+            options:
+              - label: WhatsApp Business Datenvereinbarung
+                value: WhatsApp Business Datenvereinbarung
+              - label: WhatsApp Business Kundendatenspeicherung
+                value: WhatsApp Business Kundendatenspeicherung
+              - label: WhatsApp Business Datenherkunft
+                value: WhatsApp Business Datenherkunft
+              - label: WhatsApp Business Datenschutz
+                value: WhatsApp Business Datenschutz
+              - label: WhatsApp Business Datenrollen
+                value: WhatsApp Business Datenrollen
+              - label: WhatsApp Business Datenspeicherung
+                value: WhatsApp Business Datenspeicherung
+
+  utter_whatsapp_business_data_origin:
+    - custom:
+        answers:
+          - type: ssml
+            ssml: <speak>Sie erstellen lediglich den Inhalt und die Nachrichten. Wir übermitteln sie an WhatsApp und kümmern uns um die Zustellung.</speak>
+          - type: text
+            text: Sie erstellen lediglich den Inhalt und die Nachrichten. Wir übermitteln sie an WhatsApp und kümmern uns um die Zustellung.
+          - type: hints
+            options:
+              - label: WhatsApp Business Datenvereinbarung
+                value: WhatsApp Business Datenvereinbarung
+              - label: WhatsApp Business Kundendatenspeicherung
+                value: WhatsApp Business Kundendatenspeicherung
+              - label: WhatsApp Business Daten-GDPR
+                value: WhatsApp Business Daten-GDPR
+              - label: WhatsApp Business Datenschutz
+                value: WhatsApp Business Datenschutz
+              - label: WhatsApp Business Datenrollen
+                value: WhatsApp Business Datenrollen
+              - label: WhatsApp Business Datenspeicherung
+                value: WhatsApp Business Datenspeicherung
+
+  utter_whatsapp_business_data_privacy:
+    - custom:
+        answers:
+          - type: ssml
+            ssml: <speak>Sicherheit ist eine Priorität sowohl für WhatsApp als auch für unseren Provider. Datenschutz, Datenspeicherung und sichere Übertragung sollen Sicherheitslücken aufdecken und GDPR und andere Vorschriften einhalten.</speak>
+          - type: text
+            text: Sicherheit ist eine Priorität sowohl für WhatsApp als auch für unseren Provider. Datenschutz, Datenspeicherung und sichere Übertragung sollen Sicherheitslücken aufdecken und GDPR und andere Vorschriften einhalten.
+          - type: hints
+            options:
+              - label: WhatsApp Business Datenvereinbarung
+                value: WhatsApp Business Datenvereinbarung
+              - label: WhatsApp Business Kundendatenspeicherung
+                value: WhatsApp Business Kundendatenspeicherung
+              - label: WhatsApp Business Daten-GDPR
+                value: WhatsApp Business Daten-GDPR
+              - label: WhatsApp Business Datenherkunft
+                value: WhatsApp Business Datenherkunft
+              - label: WhatsApp Business Datenrollen
+                value: WhatsApp Business Datenrollen
+              - label: WhatsApp Business Datenspeicherung
+                value: WhatsApp Business Datenspeicherung
+
+  utter_whatsapp_business_data_role:
+    - custom:
+        answers:
+          - type: ssml
+            ssml: <speak>Je nach den Umständen kann WhatsApp sowohl ein Datenverantwortlicher oder ein Datenprozessor sein. In Bezug auf Verbraucher-Endbenutzer des WhatsApp Messengers fungiert WhatsApp als Data Controller, wie in der für WA Messenger-Verbraucher-Endbenutzer geltenden Datenschutzrichtlinie festgelegt. Jeder Kunde ist Datenverantwortlicher seiner Kundenkontakte. Wenn der Kunde seine Kundenkontakte über die WhatsApp Business Solution an WhatsApp übermittelt, ist WhatsApp ein Datenverarbeiter dieser Kundenkontakte und verarbeitet diese Kundenkontakte zum Zweck der Zustellung der WhatsApp-Nachrichten des Kunden an diese Kunden.</speak>
+          - type: html
+            text: <p>Je nach den Umständen kann WhatsApp sowohl ein Datenverantwortlicher oder ein Datenprozessor sein. In Bezug auf Verbraucher-Endbenutzer des WhatsApp Messengers fungiert WhatsApp als Data Controller, wie in der für WA Messenger-Verbraucher-Endbenutzer geltenden Datenschutzrichtlinie festgelegt. Jeder Kunde ist Datenverantwortlicher seiner Kundenkontakte. Wenn der Kunde seine Kundenkontakte über die WhatsApp Business Solution an WhatsApp übermittelt, ist WhatsApp ein Datenverarbeiter dieser Kundenkontakte und verarbeitet diese Kundenkontakte zum Zweck der Zustellung der WhatsApp-Nachrichten des Kunden an diese Kunden.</p>
+          - type: hints
+            options:
+              - label: WhatsApp Business Datenvereinbarung
+                value: WhatsApp Business Datenvereinbarung
+              - label: WhatsApp Business Kundendatenspeicherung
+                value: WhatsApp Business Kundendatenspeicherung
+              - label: WhatsApp Business Daten-GDPR
+                value: WhatsApp Business Daten-GDPR
+              - label: WhatsApp Business Datenherkunft
+                value: WhatsApp Business Datenherkunft
+              - label: WhatsApp Business Datenschutz
+                value: WhatsApp Business Datenschutz
+              - label: WhatsApp Business Datenspeicherung
+                value: WhatsApp Business Datenspeicherung
+
+  utter_whatsapp_business_data_storage:
+    - custom:
+        answers:
+          - type: ssml
+            ssml: <speak>Facebook betreibt eine globale Infrastruktur und verarbeitet Daten sowohl auf EU- als auch auf US-basierten Servern. WhatsApp speichert Daten in den Vereinigten Staaten und speichert verschlüsselte Medien weltweit, um die Effizienz zu steigern. Diese Verarbeitung wird durch die strikte Einhaltung rechtlicher Vorschriften zum Schutz von Übertragungen personenbezogener Daten außerhalb der Europäischen Union unterstützt.</speak>
+          - type: text
+            text: Facebook betreibt eine globale Infrastruktur und verarbeitet Daten sowohl auf EU- als auch auf US-basierten Servern. WhatsApp speichert Daten in den Vereinigten Staaten und speichert verschlüsselte Medien weltweit, um die Effizienz zu steigern. Diese Verarbeitung wird durch die strikte Einhaltung rechtlicher Vorschriften zum Schutz von Übertragungen personenbezogener Daten außerhalb der Europäischen Union unterstützt.
+          - type: hints
+            options:
+              - label: WhatsApp Business Datenvereinbarung
+                value: WhatsApp Business Datenvereinbarung
+              - label: WhatsApp Business Kundendatenspeicherung
+                value: WhatsApp Business Kundendatenspeicherung
+              - label: WhatsApp Business Daten-GDPR
+                value: WhatsApp Business Daten-GDPR
+              - label: WhatsApp Business Datenherkunft
+                value: WhatsApp Business Datenherkunft
+              - label: WhatsApp Business Datenschutz
+                value: WhatsApp Business Datenschutz
+              - label: WhatsApp Business Datenrollen
+                value: WhatsApp Business Datenrollen
+
+  utter_whatsapp_business_for_large:
+    - custom:
+        answers:
+          - type: ssml
+            ssml: <speak>Für mittlere und große Unternehmen ermöglicht die WhatsApp Business API die Kommunikation mit Kunden auf der ganzen Welt, so dass Sie auf einfache, sichere und zuverlässige Weise eine Verbindung mit ihnen über WhatsApp herstellen können.</speak>
+          - type: text
+            text: Für mittlere und große Unternehmen ermöglicht die WhatsApp Business API die Kommunikation mit Kunden auf der ganzen Welt, so dass Sie auf einfache, sichere und zuverlässige Weise eine Verbindung mit ihnen über WhatsApp herstellen können.
+          - type: hints
+            options:
+              - label: WhatsApp Business für Kleinunternehmen
+                value: WhatsApp Business für Kleinunternehmen
+
+  utter_whatsapp_business_for_small:
+    - custom:
+        answers:
+          - type: ssml
+            ssml: <speak>WhatsApp Business ist eine Android-Anwendung, die kostenlos heruntergeladen werden kann und speziell für kleine Unternehmen entwickelt wurde. Mit der App können Unternehmen einfach mit Kunden interagieren, indem sie Tools zur Automatisierung, Sortierung und schnellen Reaktion auf Nachrichten verwenden.</speak>
+          - type: text
+            text: WhatsApp Business ist eine Android-Anwendung, die kostenlos heruntergeladen werden kann und speziell für kleine Unternehmen entwickelt wurde. Mit der App können Unternehmen einfach mit Kunden interagieren, indem sie Tools zur Automatisierung, Sortierung und schnellen Reaktion auf Nachrichten verwenden.
+          - type: hints
+            options:
+              - label: WhatsApp Business für mittlere oder Großunternehmen
+                value: WhatsApp Business für mittlere oder Großunternehmen
+
+  utter_whatsapp_business_other_content_sharing:
+    - custom:
+        answers:
+          - type: ssml
+            ssml: <speak>WhatsApp unterstützt eine Vielzahl von Medienformaten, darunter Bilder und Dokumente, URLs, Geolokationen, Videos, Audioaufzeichnungen und mehr.</speak>
+          - type: text
+            text: WhatsApp unterstützt eine Vielzahl von Medienformaten, darunter Bilder und Dokumente, URLs, Geolokationen, Videos, Audioaufzeichnungen und mehr.
+
+  utter_whatsapp_business_other_enabled_phone_number:
+    - custom:
+        answers:
+          - type: ssml
+            ssml: <speak>Derzeit bieten wir keine API an, mit der überprüft werden kann, ob die Telefonnummer eines Benutzers WhatsApp-fähig ist. Wir empfehlen Ihnen daher, nachzufragen, ob der Benutzer eine WhatsApp-aktivierte Nummer hat.</speak>
+          - type: text
+            text: Derzeit bieten wir keine API an, mit der überprüft werden kann, ob die Telefonnummer eines Benutzers WhatsApp-fähig ist. Wir empfehlen Ihnen daher, nachzufragen, ob der Benutzer eine WhatsApp-aktivierte Nummer hat.
+
+  utter_whatsapp_business_other_formatting_options:
+    - custom:
+        answers:
+          - type: ssml
+            ssml: <speak>Ihre Nachrichten können fett, kursiv, durchgestrichen oder vorformatiert sein.</speak>
+          - type: html
+            text: <p>Ihre Nachrichten können fett, kursiv, durchgestrichen oder vorformatiert sein.</p>
+
+  utter_whatsapp_business_other_groups:
+    - custom:
+        answers:
+          - type: ssml
+            ssml: <speak>Derzeit unterstützt die WhatsApp Business API weder Messaging mit WhatsApp-Gruppen noch die Verwaltung von WhatsApp-Gruppen. Wir gehen davon aus, dass wir in Zukunft Unterstützung für Gruppen hinzufügen werden.</speak>
+          - type: text
+            text: Derzeit unterstützt die WhatsApp Business API weder Messaging mit WhatsApp-Gruppen noch die Verwaltung von WhatsApp-Gruppen. Wir gehen davon aus, dass wir in Zukunft Unterstützung für Gruppen hinzufügen werden.
+
+  utter_whatsapp_business_other_number:
+    - custom:
+        answers:
+          - type: ssml
+            ssml: <speak>Anders als bei anderen Anbietern von WhatsApp Business-Lösungen, ist für die Nutzung unserer API zu WhatsApp keine Provider-Nummer erforderlich. Sie können Ihre eigene Mobilfunk- oder Festnetznummer in Ihre Kundengespräche einbringen und dabei eine vorhandene Telefonnummer verwenden.</speak>
+          - type: text
+            text: Anders als bei anderen Anbietern von WhatsApp Business-Lösungen ist für die Nutzung unserer API zu WhatsApp keine Providernummer erforderlich. Sie können Ihre eigene Mobilfunk- oder Festnetznummer in Ihre Kundengespräche einbringen und dabei eine vorhandene Telefonnummer verwenden.
+
+  utter_whatsapp_business_price_costs:
+    - custom:
+        answers:
+          - type: ssml
+            ssml: <speak>Die Preisgestaltung von WhatsApp Business funktioniert auf einer Pay-as-you-go-Basis und berücksichtigt beide Arten von Nachrichten, hoch standardisierte Nachrichten und Support-Fenster.</speak>
+          - type: text
+            text: Die Preisgestaltung von WhatsApp Business funktioniert auf einer Pay-as-you-go-Basis und berücksichtigt beide Arten von Nachrichten, hoch standardisierte Nachrichten und Support-Fenster.
+
+  utter_further_questions:
+    - custom:
+        answers:
+          - type: ssml
+            ssml: <speak>Haben Sie noch weitere Fragen?</speak>
+          - type: text
+            text: Haben Sie noch weitere Fragen?
+
+  utter_default:
+    - custom:
+        answers:
+          - type: ssml
+            ssml: <speak>Ich bin noch am Lernen, könnten Sie das vielleicht etwas anders formulieren?</speak>
+          - type: text
+            text: Ich bin noch am Lernen, könnten Sie das vielleicht etwas anders formulieren?
+    - custom:
+        answers:
+          - type: ssml
+            ssml: <speak>Es tut mir leid, aber das habe ich nicht verstanden. Ich kann hauptsächlich Fragen im Zusammenhang mit Robo äi ai beantworten.</speak>
+          - type: html
+            text: Es tut mir leid, aber das habe ich nicht verstanden. Ich kann hauptsächlich Fragen im Zusammenhang mit ROBO.AI beantworten.
+            
+  utter_cc_weather:
+    - custom:
+        answers:
+          - type: ssml
+            ssml: <speak>Um Ihnen das genaue Wetter mitzuteilen, müssen Sie mich für einige Minuten nach draußen bringen. Nein! halt! Das war nur ein Scherz.</speak>
+          - type: text
+            text: Um Ihnen das genaue Wetter mitzuteilen, müssen Sie mich für einige Minuten nach draußen bringen. Nein, halt! Das war nur ein Scherz. :P
+
+  utter_features_handover:
+    - custom:
+        answers:
+          - type: ssml
+            ssml: <speak>Im Moment steht mir diese Funktion nicht zur Verfügung.</speak>
+          - type: text
+            text: Im Moment steht mir diese Funktion nicht zur Verfügung.
+
+session_config:
+  session_expiration_time: 60
+  carry_over_slots_to_new_session: true
+

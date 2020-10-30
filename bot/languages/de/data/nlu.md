@@ -1,0 +1,10251 @@
+## intent:start
+- /start
+- /start_conversation
+- /start_chat
+- /start-dialogue
+- /start_dialogue
+
+## intent:robo_cosibot
+- Was ist Cosibot?
+- Sag mir was über Cosibot
+- Was hat es mit Cosibot auf sich
+- Der Cosibot
+- Der Coronavirus Bot
+- Corona Virus Bot
+- Covid Bot
+- Covid Chatbot
+- Was ist mit dem Covid 19 Bot
+- Kowitt 19 Bot
+- Der Bot für Coronavirus
+- Cosibot
+- Cosibot info
+- Wer ist Cosibot
+- Cosibot Demo
+- Gibt es eine Demo von Cosibot?
+- Wo kann ich den Cosibot ausprobieren?
+- Ich will den Coronavirus Bot ausprobieren
+- Coronavirus
+- Covid 19
+- Coronavirus Stay informed Bot
+
+## intent:channels_call
+- Bot für Telefonanrufe
+- Integrieren mit Telefonanruf
+- Integration mit Telefongesprächen
+- Integrieren Sie mit Telefonanruf?
+- Anbindung mit Telefonnummer
+- Können Ihre Bots mit Telefonanruf integriert werden?
+- Telefonanruf-Kanal
+- Telefonanruf-Kanal
+- Integration von Telefonanrufen
+- Integration mit Telefonanrufen
+- Telefonanruf-Nachrichtenkanal
+- Telefonanruf-Robo
+- Ich möchte einen Bot im Telefonat haben
+- Ich möchte einen Bot am Telefon haben
+- Sind Ihre Bots mit Telefongesprächen integriert?
+- Nachrichtenkanal für Telefonanrufe
+- Integration von Telefongesprächen
+- Telefonanruf-Robo
+- Ich möchte einen Bot in Telefonanruf
+- Ich möchte einen Bot auf Telefonanruf haben
+- Ich möchte einen Bot mit Telefonanruf
+- Ich möchte einen Chatbot in Telefonanruf
+- Ich möchte einen Chatbot für Telefongespräche
+- Ich möchte einen Chatbot mit Telefonanruf
+- Ich möchte einen Robo im Telefonat haben
+- Ich möchte einen Robo am Telefon haben
+- Kann ich einen Robo im Telefongespräch haben?
+- Unterstützen Sie Telefongespräche?
+- Telefonanruf integrieren
+- Telefonanruf Chatbot
+- Über Telefonanruf-Chatbot
+- Über den Nachrichtenkanal für Telefonanrufe
+- Kann ich einen Bot im Telefongespräch haben?
+- Kann ich einen Chatbot im Telefongespräch haben?
+- Kann ich einen Robo im Telefongespräch haben?
+- Kann ich mit einem Bot telefonieren?
+- Kann ich mit einem Chatbot telefonieren?
+- Kann ich mit einem Robo telefonieren?
+- Kann ich Telefongespräche mit einem Robo führen?
+- Kann ich Telefongespräche mit einem Chatbot führen?
+- Kann ich Telefongespräche mit einem Bot verwenden?
+- Kann ich einen Chatbot für Telefonanruf verwenden?
+- Kann ich einen Bot bei Telefongesprächen einsetzen?
+- Ich möchte einen Robo im Telefongespräch haben
+- Ich möchte einen Robo im Telefongespräch haben
+- Ich möchte einen Chatbot mit Telefonanruf
+- Ich möchte einen Chatbot am Telefon haben
+- Ich möchte einen Chatbot im Telefongespräch haben
+- Ich möchte einen Bot mit Telefonanruf
+- Ich möchte einen Robo mit Telefonanruf
+- Mit Telefonanruf integrieren?
+- Integrieren Sie mit dem Telefonanruf?
+- Können Ihre Bots in Telefonanrufe integriert werden?
+- Können Ihre Bots in Telefonanrufe integriert werden?
+- Über den Nachrichtenkanal für Telefonanrufe
+- Über Telefonanruf-Chatbot
+- Bot für Telefonanrufe
+- Chatbot für Telefonanrufe
+- Telefonanruf integrieren
+- Unterstützen Sie Telefongespräche?
+- Ich möchte einen Robo mit Telefonanruf
+
+## intent:contacts_address
+- Ich brauche eine Kontakt Anschrift.
+- Ich brauche eine Anschrift.
+- Wie lautet die Adresse von Two Impulse
+- Wie ist eure Postanschrift
+- Wie ist eure Post anschrift
+- Adresse Two Impulse
+- Eure Adresse.
+- Ich brauche eure Anschrift.
+- Ich brauche die Anschrift.
+- Geben Sie mir Ihre Anschrift.
+- Ich hätte gerne eure Anschrift.
+- Sag mir eure Anschrift
+- Die Adresse des Unternehmens bitte.
+- Wie ist die Anschrift
+- Adresse des Unternehmens.
+- Adresse bitte.
+- Welche ist eure Adresse
+- Wo finde ich eure Adresse
+- Adresse
+- Anschrift
+- Kann ich eure Anschrift haben
+- Two Impulse Firmen Anschrift
+- Two Impulse Firmenanschrift
+- Two Impulse Adresse
+- Ich brauche die Adresse der Firma.
+- Firmenanschrift.
+- Bitte teilen Sie mir Ihre Anschrift mit.
+- Wie finde ich eure Anschrift
+
+## intent:contacts_address_munich
+- Wie lautet eure Adresse in [München]{"entity": "company_cities_address", "value": "munich"}?
+- Wie lautet eure Anschrift in [München]{"entity": "company_cities_address", "value": "munich"}?
+- Wie ist eure Anschrift in [München]{"entity": "company_cities_address", "value": "munich"}?
+- Eure Adresse in [München]{"entity": "company_cities_address", "value": "munich"}
+- [München]{"entity": "company_cities_address", "value": "munich"} Kontakt Adresse
+- [München]{"entity": "company_cities_address", "value": "munich"} Kontaktadresse
+- Ich brauche die Anschrift in [München]{"entity": "company_cities_address", "value": "munich"}
+- Gib mir die Adresse von eurem Office in [München]{"entity": "company_cities_address", "value": "munich"}
+- Ich bräuchte mal die Anschrift eures Büros in [München]{"entity": "company_cities_address", "value": "munich"}
+- Wo in München befindet sich die Firma?
+- Wie ist die Adresse in [München]{"entity": "company_cities_address", "value": "munich"}?
+- Wie lautet die Firmenadresse in [München]{"entity": "company_cities_address", "value": "munich"}?
+- Adresse [München]{"entity": "company_cities_address", "value": "munich"}
+- Anschrift [Deutschland]{"entity": "company_cities_address", "value": "munich"}
+- Wie lautet die Anschrift in [München]{"entity": "company_cities_address", "value": "munich"}
+- Gib mir die Anschrift der Firma in [Deutschland]{"entity": "company_cities_address", "value": "munich"}
+- Ich hätte gern die Adresse des Office in [München]{"entity": "company_cities_address", "value": "munich"}
+- [München]{"entity": "company_cities_address", "value": "munich"} Adresse
+- [Deutschland]{"entity": "company_cities_address", "value": "munich"} Anschrift
+- Wo in [München]{"entity": "company_cities_address", "value": "munich"} seid ihr?
+- Wo genau in [München]{"entity": "company_cities_address", "value": "munich"} ist der Standort?
+
+## intent:contacts_address_lisbon
+- Wie lautet eure Adresse in [Lissabon]{"entity": "company_cities_address", "value": "lisbon"}?
+- Wie lautet eure Anschrift in [Lissabon]{"entity": "company_cities_address", "value": "lisbon"}?
+- Wie ist eure Anschrift in [Lissabon]{"entity": "company_cities_address", "value": "lisbon"}?
+- Eure Adresse in [Lissabon]{"entity": "company_cities_address", "value": "lisbon"}
+- [Lissabon]{"entity": "company_cities_address", "value": "lisbon"} Kontakt Adresse
+- [Lissabon]{"entity": "company_cities_address", "value": "lisbon"} Kontaktadresse
+- Ich brauche die Anschrift in [Lissabon]{"entity": "company_cities_address", "value": "lisbon"}
+- Gib mir die Adresse von eurem Office in [Lissabon]{"entity": "company_cities_address", "value": "lisbon"}
+- Ich bräuchte mal die Anschrift eures Büros in [Lissabon]{"entity": "company_cities_address", "value": "lisbon"}
+- Wo in [Lissabon]{"entity": "company_cities_address", "value": "lisbon"} befindet sich die Firma?
+- Wie ist die Adresse in [Lissabon]{"entity": "company_cities_address", "value": "lisbon"}?
+- Wie lautet die Firmenadresse in [Lissabon]{"entity": "company_cities_address", "value": "lisbon"}?
+- Adresse [Lissabon]{"entity": "company_cities_address", "value": "lisbon"}
+- Anschrift [Lissabon]{"entity": "company_cities_address", "value": "lisbon"}
+- Wie lautet die Anschrift in [Lissabon]{"entity": "company_cities_address", "value": "lisbon"}
+- Gib mir die Anschrift der Firma in [Lissabon]{"entity": "company_cities_address", "value": "lisbon"}
+- Ich hätte gern die Adresse des Office in [Lissabon]{"entity": "company_cities_address", "value": "lisbon"}
+- [Lissabon]{"entity": "company_cities_address", "value": "lisbon"} Adresse
+- [Lissabon]{"entity": "company_cities_address", "value": "lisbon"} Anschrift
+
+## intent:contacts_address_evora
+- Wie lautet eure Adresse in [Évora]{"entity": "company_cities_address", "value": "evora"}?
+- Wie lautet eure Anschrift in [Evora]{"entity": "company_cities_address", "value": "evora"}?
+- Wie ist eure Anschrift in [Évora]{"entity": "company_cities_address", "value": "evora"}?
+- Eure Adresse in [Évora]{"entity": "company_cities_address", "value": "evora"}
+- [Évora]{"entity": "company_cities_address", "value": "evora"} Kontakt Adresse
+- [Evora]{"entity": "company_cities_address", "value": "evora"} Kontaktadresse
+- Ich brauche die Anschrift in [Évora]{"entity": "company_cities_address", "value": "evora"}
+- Gib mir die Adresse von eurem Office in [Evora]{"entity": "company_cities_address", "value": "evora"}
+- Ich bräuchte mal die Anschrift eures Büros in [Evora]{"entity": "company_cities_address", "value": "evora"}
+- Wo in [Évora]{"entity": "company_cities_address", "value": "evora"} befindet sich die Firma?
+- Wie ist die Adresse in [Evora]{"entity": "company_cities_address", "value": "evora"}?
+- Wie lautet die Firmenadresse in [Evora]{"entity": "company_cities_address", "value": "evora"}?
+- Wie lautet eure Adresse in [Évora]{"entity": "company_cities_address", "value": "evora"}?
+- Wie lautet eure Anschrift in [Évora]{"entity": "company_cities_address", "value": "evora"}?
+- Wie ist eure Anschrift in [Evora]{"entity": "company_cities_address", "value": "evora"}?
+- Eure Adresse in [Evora]{"entity": "company_cities_address", "value": "evora"}
+- [Évora]{"entity": "company_cities_address", "value": "evora"} Kontakt Adresse
+- [Évora]{"entity": "company_cities_address", "value": "evora"} Kontaktadresse
+- Ich brauche die Anschrift in [Evora]{"entity": "company_cities_address", "value": "evora"}
+- Gib mir die Adresse von eurem Office in [Evora]{"entity": "company_cities_address", "value": "evora"}
+- Ich bräuchte mal die Anschrift eures Büros in [Evora]{"entity": "company_cities_address", "value": "evora"}
+- Wo in [Evora]{"entity": "company_cities_address", "value": "evora"} befindet sich die Firma?
+- Wie ist die Adresse in [Evora]{"entity": "company_cities_address", "value": "evora"}?
+- Wie lautet die Firmenadresse in [Evora]{"entity": "company_cities_address", "value": "evora"}?
+- Adresse [Evora]{"entity": "company_cities_address", "value": "evora"}
+- Anschrift [Evora]{"entity": "company_cities_address", "value": "evora"}
+- Wie lautet die Anschrift in [Evora]{"entity": "company_cities_address", "value": "evora"}
+- Gib mir die Anschrift der Firma in [Evora]{"entity": "company_cities_address", "value": "evora"}
+- Ich hätte gern die Adresse des Office in [Evora]{"entity": "company_cities_address", "value": "evora"}
+- [Evora]{"entity": "company_cities_address", "value": "evora"} Adresse
+- [Evora]{"entity": "company_cities_address", "value": "evora"} Anschrift
+- Anschrift vom Hauptsitz der Firma
+
+## intent:whatsapp_business_price_costs
+- Nennen Sie mir den Preis für WhatsApp for Enterprises.
+- WhatsApp for Business Kosten
+- WhatsApp for Business Preis
+- WhatsApp for Business Preise
+- WhatsApp for Business Preismodell
+- WhatsApp for Business Was kostet das
+- Was kostet WhatsApp for Business
+- Nennen Sie mir den Preis für WhatsApp Business.
+- Sagen Sie mir den Preis von WhatsApp for Enterprises.
+- Kosten von WhatsApp for Businesses
+- Informationen zum Preis von WhatsApp for Enterprises.
+- Preis WhatsApp Business
+- Wie viel kostet WhatsApp for Business?
+- Wie viel kostet WhatsApp Enterprises?
+- Informationen zum Preis von WhatsApp for Businesses.
+- Informationen zum Preis von WhatsApp for Business.
+- Informationen zum Preis von WhatsApp Enterprises.
+- Infos zum Preis von WhatsApp Enterprises.
+- Wie viel kostet das WhatsApp for Enterprise?
+- Wie viel kostet WhatsApp for Enterprises?
+- Informationen zum Preis von WhatsApp Business.
+- Wie viel kostet WhatsApp Business?
+- Wie viel kostet WhatsApp Business?
+- Wie viel kostet WhatsApp Enterprise?
+- Wie viel kostet WhatsApp Businesses?
+- Wie viel kostet WhatsApp Enterprise?
+- Informationen zum Preis von WhatsApp Businesses.
+- Nennen Sie mir den Preis von WhatsApp for Businesses.
+- Nennen Sie mir den Preis von WhatsApp for Businesses.
+- Nennen Sie mir den Preis von WhatsApp Enterprises.
+- Nennen Sie mir den Preis von WhatsApp Enterprise.
+- Nennen Sie mir den Preis von WhatsApp Businesses.
+- Nennen Sie mir den Preis von WhatsApp Enterprise.
+- Nennen Sie mir den Preis von WhatsApp for Enterprises.
+- Nennen Sie mir den Preis für WhatsApp Business.
+- Nennen Sie mir den Preis für WhatsApp Businesses.
+- Nennen Sie mir den Preis für WhatsApp Enterprise.
+- Informationen über den Preis von WhatsApp Enterprises.
+- Informationen über den Preis von WhatsApp Enterprise.
+- Informationen über den Preis von WhatsApp Businesses.
+- Informationen zum Preis von WhatsApp Businesses.
+- Wie viel kostet WhatsApp for Enterprises?
+- Wie viel kostet WhatsApp for Enterprise?
+- Wie viel kostet WhatsApp for Businesses?
+- Informieren Sie mich über den Preis von WhatsApp for Business.
+- Nennen Sie mir den Preis von WhatsApp Enterprises.
+- Nennen Sie mir den Preis von WhatsApp Enterprise.
+- Nennen Sie mir den Preis von WhatsApp Businesses.
+- Informationen zum Preis von WhatsApp for Business.
+- Informationen zum Preis von WhatsApp Enterprises.
+- Informationen zum Preis von WhatsApp Enterprise.
+- Informationen zum Preis von WhatsApp Business.
+- Informationen zum Preis von WhatsApp for Enterprises.
+- Informationen zum Preis von WhatsApp Business.
+- Informationen zum Preis von WhatsApp Businesses.
+- Info zum Preis von WhatsApp Business.
+- Nennen Sie mir den Preis von WhatsApp for Enterprises.
+- Nennen Sie mir den Preis von WhatsApp for Enterprise.
+- Informationen zum Preis von WhatsApp Enterprise.
+- Informationen zum Preis von WhatsApp Enterprises.
+- Informationen zum Preis von WhatsApp for Business.
+- Nennen Sie mir den Preis von WhatsApp for Enterprise.
+- Nennen Sie mir den Preis von WhatsApp for Enterprises.
+- Kosten von WhatsApp Business
+- WhatsApp Business-Preis
+- Kosten für WhatsApp Businesses
+- WhatsApp Businesses Preis
+- WhatsApp für Unternehmenskosten
+- WhatsApp zum Preis für Unternehmen
+- Nennen Sie mir den Preis von WhatsApp for Businesses.
+- Info über den Preis von WhatsApp for Businesses.
+- Informationen über den Preis von WhatsApp for Business.
+- Info zum Preis von WhatsApp for Businesses.
+- Informationen zum Preis von WhatsApp for Enterprise.
+- Informationen zum Preis von WhatsApp for Enterprises.
+- Informationen zum Preis von WhatsApp for Businesses.
+- Informationen zum Preis von WhatsApp for Enterprise.
+- Informationen zum Preis von WhatsApp Businesses.
+- Informationen zum Preis von WhatsApp Enterprise.
+- Kosten von WhatsApp Enterprise
+- Informationen über den Preis von WhatsApp Enterprise.
+- Informationen über den Preis von WhatsApp Businesses.
+- Informationen über den Preis von WhatsApp Business.
+- Informationen über den Preis von WhatsApp for Enterprises.
+- Informieren Sie mich über den Preis von WhatsApp Enterprises.
+- Nennen Sie mir den Preis für WhatsApp Enterprise.
+- Sagen Sie mir den Preis für WhatsApp Businesses.
+- Informationen zum Preis von WhatsApp for Business.
+- Informationen zum Preis von WhatsApp for Businesses.
+- Nennen Sie mir den Preis von WhatsApp for Businesses.
+- Kosten WhatsApp Business
+- Informationen über den Preis von WhatsApp Business.
+- Informationen zum Preis von WhatsApp for Enterprises.
+- Informationen über den Preis von WhatsApp Enterprises.
+- Preis von WhatsApp for Businesses
+- Informationen über den Preis der WhatsApp for Business.
+- Informationen über den Preis von WhatsApp for Businesses.
+- Informationen über den Preis von WhatsApp for Enterprise.
+- Informationen zum Preis von WhatsApp for Enterprise.
+- Wie viel kostet das WhatsApp Enterprises?
+- Informationen zum Preis von WhatsApp Enterprises.
+- Informationen zum Preis von WhatsApp Enterprise.
+- Informationen zum Preis von WhatsApp Enterprises.
+- Informationen zum Preis von WhatsApp Enterprises.
+- Informationen zum Preis von WhatsApp Business.
+- Informationen zum Preis von WhatsApp Enterprise.
+- Informationen zum Preis von WhatsApp for Businesses.
+- Informationen zum Preis von WhatsApp Businesses.
+- Informationen zum Preis von WhatsApp Enterprise.
+- Informationen zum Preis von WhatsApp for Businesses.
+- Informationen zum Preis von WhatsApp for Businesses.
+- Informationen zum Preis von WhatsApp for Enterprise
+
+## intent:whatsapp_business_other_number
+- Ist es möglich, für die Nutzung von WhatsApp eine externe Telefonnummer außerhalb von tyntec zu verwenden?
+- Ist es möglich, eine externe Rufnummer außerhalb des Providers zur Nutzung von WhatsApp zu portieren?
+- Ist es möglich, für die Nutzung von WhatsApp Business eine externe Rufnummer außerhalb des Providers zu verwenden?
+- Kann ich für die Nutzung von WhatsApp eine externe Rufnummer außerhalb von tyntec verwenden?
+- Kann ich für die Nutzung von WhatsApp Business eine externe Nummer außerhalb von tyntec verwenden?
+- Ist es möglich, eine externe Nummer außerhalb des Providers für die Verwendung von WhatsApp Business zu portieren?
+- Ist es möglich, eine externe Nummer außerhalb von tyntec für die Verwendung von WhatsApp zu portieren?
+- Kann ich für die Nutzung von WhatsApp eine externe Rufnummer außerhalb von tyntec verwenden?
+- Ist es möglich, eine externe Telefonnummer außerhalb von tyntec zu portieren, um WhatsApp zu verwenden?
+- Ist es möglich, eine externe Telefonnummer außerhalb des Providers zur Verwendung von WhatsApp zu portieren?
+- Ist es möglich, eine externe Telefonnummer außerhalb von tyntec für die Verwendung von WhatsApp Business zu portieren?
+- Ist es möglich, eine externe Telefonnummer außerhalb von tyntec für die Verwendung von WhatsApp zu portieren?
+- Ist es möglich, eine externe Rufnummer außerhalb des Providers zu portieren, um WhatsApp Business zu verwenden?
+- Kann ich eine externe Rufnummer außerhalb des Providers portieren, um WhatsApp zu verwenden?
+- Kann ich eine externe Rufnummer außerhalb des Providers portieren, um WhatsApp Business zu verwenden?
+- Kann ich eine externe Rufnummer außerhalb von tyntec portieren, um WhatsApp Business zu verwenden?
+- Kann ich eine externe Rufnummer außerhalb von tyntec portieren, um WhatsApp zu verwenden?
+- Kann ich für die Nutzung von WhatsApp eine externe Telefonnummer außerhalb des Providers verwenden?
+- Kann ich für die Nutzung von WhatsApp Business eine externe Rufnummer außerhalb des Providers verwenden?
+- Muss ich die Telefonnummer des Providers verwenden, um WhatsApp zu nutzen?
+- Muss ich die Telefonnummer des Anbieters verwenden, um WhatsApp Business nutzen zu können?
+- Ist es möglich, für die Nutzung von WhatsApp eine externe Rufnummer außerhalb des Providers zu verwenden?
+- Ist es möglich, für die Nutzung von WhatsApp Business eine externe Nummer außerhalb von tyntec zu verwenden?
+- Ist es möglich, für die Verwendung von WhatsApp eine externe Nummer außerhalb von tyntec zu verwenden?
+- Ist es möglich, für die Verwendung von WhatsApp Business eine externe Rufnummer außerhalb des Providers zu verwenden?
+- Ist es möglich, für die Nutzung von WhatsApp eine externe Rufnummer außerhalb des Providers zu verwenden?
+- Ist es möglich, für die Nutzung von WhatsApp Business eine externe Telefonnummer außerhalb von tyntec zu verwenden?
+- Kann ich für die Nutzung von WhatsApp Business eine externe Telefonnummer außerhalb von tyntec verwenden?
+- Ist es möglich, eine externe Telefonnummer außerhalb des Providers für die Verwendung von WhatsApp Business zu portieren?
+- Kann ich eine externe Telefonnummer außerhalb von tyntec für die Verwendung von WhatsApp Business portieren?
+- Kann ich eine externe Telefonnummer außerhalb des Providers portieren, um WhatsApp zu verwenden?
+- Muss ich eine Telefonnummer von tyntec verwenden, um WhatsApp nutzen zu können?
+- Muss ich die Nummer des Providers verwenden, um WhatsApp Business nutzen zu können?
+- Muss ich eine tyntec-Telefonnummer verwenden, um WhatsApp nutzen zu können?
+- Muss ich eine tyntec-Telefonnummer verwenden, um WhatsApp Business nutzen zu können?
+- Muss ich die Providernummer verwenden, um WhatsApp nutzen zu können?
+- Kann ich für die Nutzung von WhatsApp eine externe Nummer außerhalb des Providers verwenden?
+- Ist es möglich, für die Nutzung von WhatsApp Business eine externe Nummer außerhalb des Providers zu verwenden?
+- Muss ich eine tyntec-Nummer verwenden, um WhatsApp Business nutzen zu können?
+- Ist es möglich, eine externe Nummer außerhalb von tyntec für die Verwendung von WhatsApp Business zu portieren?
+
+## intent:whatsapp_business_other_groups
+- Senden von Nachrichten an die WhatsApp-Gruppe
+- Verwalten von WhatsApp-Gruppen
+- Senden von Nachrichten an Gruppen
+- Ist es möglich, Nachrichten an WhatsApp-Gruppen zu senden?
+- Ist es möglich, Nachrichten an WhatsApp-Gruppen zu senden oder Gruppen zu verwalten?
+- Nachrichten an WhatsApp-Gruppen
+- Verwalten von WhatsApp-Gruppen
+- Ich muss Nachrichten an WhatsApp-Gruppen senden.
+- Ich möchte Nachrichten an WhatsApp-Gruppen senden.
+- Ich möchte Gruppen verwalten.
+- Ich möchte Nachrichten an WhatsApp-Gruppen senden oder Gruppen verwalten.
+- Ich möchte Nachrichten an WhatsApp-Gruppen senden.
+- Ich möchte Gruppen verwalten.
+- Ich möchte Nachrichten an WhatsApp-Gruppen senden oder Gruppen verwalten.
+- Unterstützt die API Messaging an WhatsApp-Gruppen?
+- Nachrichten an WhatsApp-Gruppen senden
+- Unterstützt die API das Senden von Nachrichten an WhatsApp-Gruppen?
+- Kann ich Nachrichten an WhatsApp-Gruppen oder zur Verwaltung von Gruppen senden?
+- Kann ich Nachrichten an WhatsApp-Gruppen senden?
+- Können Sie mir sagen, ob es möglich ist, Gruppen zu verwalten?
+- Können Sie mir sagen, ob es möglich ist, Nachrichten an WhatsApp-Gruppen zu senden oder Gruppen zu verwalten?
+- Können Sie mir sagen, ob es möglich ist, Nachrichten an WhatsApp-Gruppen zu senden?
+- WhatsApp-Unterstützung für Gruppen
+- Messaging mit WhatsApp-Gruppen
+- Nachrichten an Gruppen senden
+- Unterstützt die API das Senden von Nachrichten an Gruppen?
+- Ich muss Gruppen verwalten.
+- Ich muss Nachrichten an WhatsApp-Gruppen senden oder Gruppen verwalten.
+- Kann ich Gruppen verwalten?
+- Ist es möglich, Gruppen zu verwalten?
+- Unterstützt die API das Senden von Nachrichten an Gruppen?
+
+## intent:vocative_sorry
+- Tut mir leid!
+- Verzeihen Sie mir!
+- Verzeih mir!
+- Ups!
+- Oops!
+- Bitte um Entschuldigung.
+- Ich bedaure.
+- Ich nehme das zurück.
+- Tut mir wirklich leid.
+- Ich bereue.
+- Vergib mir!
+- Ich bereue das.
+- Ich bedaure das.
+- Tut mir echt leid.
+- Vergeben Sie mir!
+- Bitte um Verzeihung.
+- Ich bitte um Verzeihung.
+- Entschuldigen Sie!
+- Verzeih!
+- Entschuldige!
+- Sorry!
+- Entschuldigung.
+
+## intent:vocative_help
+- Informationen bitte.
+- Infos bitte.
+- Bitte Infos.
+- Bitte Informationen.
+- Kannst du mir Auskunft geben?
+- SOS
+- Brauche Hilfe!
+- Willst du mir Auskunft geben?
+- Willst du mich beraten?
+- Ich brauche Infos.
+- Ich brauche Informationen.
+- Beraten Sie mich!
+- Helfen Sie mir!
+- Beratung!
+- Kannst du mir weiterhelfen?
+- Berate mich!
+- Beraten Sie mich?
+- Ich brauche Ihren Ratschlag.
+- Ich brauche deinen Ratschlag.
+- Ich brauche Hilfe.
+- Möchten Sie mir Auskunft geben?
+- Kannst du mir helfen?
+- Hilf!
+- Berätst du mich?
+- Möchtest du mir Auskunft geben?
+- Möchtest du mich beraten?
+- Wirst du mir helfen?
+- Hilfe wird gebraucht.
+- Hilf mir!
+- Kann ich beraten werden?
+- Kann ich Informationen einholen?
+- Kann ich Auskunft erhalten?
+- Informationen?
+- Infos?
+- Helfen?
+- Hilfe!
+- Wollen Sie helfen?
+- Wollen Sie mir helfen?
+- Wollen Sie mich beraten?
+- Helfen Sie mir?
+- Hilfst du mir?
+- Willst du mir helfen?
+- Beraten!
+- Kannst du mich beraten?
+- Ich brauche Beratung.
+- Ich möchte beraten werden.
+- Ich möchte Informationen einholen?
+- Können Sie mich beraten?
+- Können Sie mir Auskunft geben?
+- Können Sie mir helfen?
+- Können Sie mir weiterhelfen?
+- Wirst du mir Auskunft geben?
+- Wirst du mir weiterhelfen?
+- Wirst du mir aushelfen?
+- Werden sie mir helfen?
+- Werden Sie mir aushelfen?
+- Werden Sie mir Auskunft geben?
+- Werden Sie mir weiterhelfen?
+- Ich brauche Auskunft.
+
+## intent:vocative_call
+- Hallo, bist du noch da?
+- Bist du noch da
+- Wo bist du?
+- Bist du noch da?
+- Bist du nicht mehr da?
+- Wo bist du hin?
+- Hallo, warum antwortest du nicht?
+- Huhu, bist du noch da?
+- Hallo, noch jemad zuhause?
+- Hallo, noch da?
+- Huhu, ist jemand zuhause?
+- Hey, ich rede mit dir!
+- Hallo, antworte mir, wenn ich mit dir rede
+- Bist du noch hier?
+- Antworte gefälligst, wenn ich mit dir rede.
+- Kannst du mal antworten?
+- Bist du weggegangen?
+- Bist du da?
+- Huhu, bist du da?
+- Huhu, bist du weg?
+- Noch da?
+- Bist du nicht mehr da?
+- Bist du weggegangen?
+
+## intent:user_friend
+- Sind wir Freunde?
+- Bist du mein bester Freund?
+- Bist du mein Freund?
+- Sei mein Freund, bitte!
+- Sei mein Freund.
+- Kann ich das Vergnügen haben, dein Freund zu sein?
+- Kann ich das Vergnügen haben, dich als meinen Freund zu haben?
+- Können wir Freunde sein?
+- Können Sie mein Freund sein?
+- Könntest du mein Freund sein?
+- Willst du mein Freund sein?
+- Willst du meine Freundin sein?
+- Ich muss dein Freund sein!
+- Ich möchte mit dir befreundet sein!
+- Ich möchte dein Freund sein!
+- Ich möchte deine Freundin sein!
+- Lass uns beste Freunde sein!
+- Lass uns Freunde sein!
+- Ich und du sind Freunde!
+- Willst du mit mir befreundet sein?
+- Wollen wir Freunde sein?
+- Wir sind Freunde.
+- Wir könnten Freunde sein.
+- Wir müssen Freunde sein!
+- Wir sollten Freunde sein!
+- Wirst du mein Freund sein?
+- Möchten Sie mein Freund sein?
+- Du und ich sind Freunde?
+- Du und ich sind Freunde.
+- Du bist mein Freund.
+- Du bist meine Freundin.
+- Du willst mein Freund sein?
+
+## intent:user_fat
+- Bin ich fett?
+- Sehe ich fett aus?
+- Lassen mich diese Hosen fett aussehen?
+- Lassen mich diese Hosen fett aussehen?
+- Glaubst du, ich sehe fett aus?
+- Glaubst du, ich bin fett?
+- Glaubst du, dieses Kleid lässt mich fett aussehen?
+- Glaubst du, das lässt mich fett aussehen?
+- Glaubst du, dieses Outfit lässt mich fett aussehen?
+- Lässt mich dieses Kleid fett aussehen?
+- Lässt mich das fett aussehen?
+- Lässt mich dieses Outfit fett aussehen?
+- Lässt mich das Shirt Fett aussehen?
+- Lässt mich dieser Pullover fett aussehen?
+- Ich fühle mich fett.
+- Ich sehe fett aus.
+- Ich denke ich bin fett.
+- Ich fühle mich fett.
+- Was kann ich tun, um nicht fett auszusehen?
+- Was kann ich anziehen, um nicht fett auszusehen?
+- Was soll ich anziehen, um nicht fett auszusehen?
+- Ich bin dick
+- Ich bin zu dick
+- Ich fühle mich zu dick
+- Sehe ich dick aus?
+- Bin ich dick?
+
+## intent:user_dont_understand
+- Hab nicht verstanden was du meinst.
+- Ich habe nicht verstanden, was Sie gesagt haben.
+- Hab nicht ganz verstanden was du meinst.
+- Habe Sie nicht ganz verstanden, was Sie gesagt haben.
+- Nicht verstanden.
+- Ich habe nicht verstanden, was du gesagt hast.
+- Ich hab nicht verstanden, was Sie gesagt haben.
+- Hab nicht ganz verstanden was du meinst.
+- Ich verstehe nicht, was Sie gesagt haben.
+- Nicht verstanden
+- Ich weiß nicht was du meinst.
+- Ich verstehe nicht
+- Erklären Sie mir das.
+- Ich habe nicht verstanden, was Sie gesagt haben.
+- Ich habe das leider nicht verstanden.
+- Ich habe es nicht verstanden.
+- Ich habe nicht verstanden, was du gesagt hast.
+- Ich habe es nicht verstanden
+- Ich verstehe nicht, was du meinst.
+- Ich verstehe nicht was du meinst.
+- Ich verstehe nicht
+- Ich habe dich nicht verstanden
+- Nicht sicher ob ich dich verstehe.
+- Was soll ich machen.
+- Was soll ich antworten?
+- Was soll ich sagen.
+- Was soll ich eingeben?
+- Ich bin mir nicht sicher, ob ich dich richtig verstanden habe.
+- Ich verstehe nur Bahnhof
+
+## intent:user_dont_know
+- Ich habe keine Ahnung.
+- Weiß nicht.
+- Kein Plan
+- Weiß nicht
+- Keine Ahnung.
+- Ich bin verloren.
+- Ich habe nicht die geringste Ahnung.
+- Ich weiß es nicht.
+- Ich habe keine Informationen.
+- Ich weiß es wirklich nicht.
+- Es tut mir leid, aber ich weiß es nicht.
+- Weiß nich
+- Weiß ich nicht.
+- Null Ahnung
+- Null Plan
+- Keine Idee
+- Das weiß ich nicht.
+
+## intent:bot_intelligence
+- Bist du intelligent?
+- Glaubst du, dass du intelligent bist?
+- Denkst du, dass du intelligent bist?
+- Hältst du dich für intelligent?
+- Hältst du dich für einen intelligenten Bot?
+- Hältst du dich für eine intelligente Person?
+- Denkst du, dass du ein intelligenter Bot bist?
+- Bist du schlau?
+- Bist du klug?
+- Bist du clever?
+- Hältst du dich für klug?
+- Glaubst du, dass du schlau bist?
+
+## intent:comment_negative
+- Du kannst mir nicht helfen.
+- Du machst keinen guten Job.
+- Das ist nicht klar.
+- Du machst das nicht sehr gut.
+- Du bist nicht sehr gut.
+- Du bist schlecht.
+- Du kannst das nicht.
+- Du machst das schlecht.
+- Du arbeitest schlecht.
+- Du gibst keine klaren Informationen.
+- Das ist nicht dein Ding.
+- Du weisst nicht, wie man hilft.
+- Du weisst nicht, wie man informiert.
+- Du weisst nicht, wie man Auskunft gibt.
+- Das ist nichts für dich.
+- Du kannst gar nichts.
+- Du kannst nichts.
+- Du weisst nicht genug.
+- Du bist nicht präzise.
+- Du arbeitest ungenau.
+- Du bist ungenau.
+- Du bist unpräzise.
+- Du bist unkokret.
+- Du weißt nicht, wie man das macht.
+- 
+## intent:bot_capabilities
+- Kannst du alle Fragen beantworten?
+- Welche sind deine Aufgaben?
+- Welche Aufgabe hast du?
+- Was weißt du alles?
+- Was weisst du?
+- Was weisst du alles?
+- Was sind deine Tätigkeiten?
+- Welche Funktionen haben Sie?
+- Was ist deine Tätigkeit?
+- Was ist deine Aufgabe?
+- Was kannst du für mich tun?
+- Was kannst du machen?
+- Was kannst du so machen?
+- was kannst du denn
+- Was kannst du?
+- was kannst du für mich tun?
+- Was können Sie alles?
+- Was können Sie machen?
+- Was machen Sie?
+- Was machst du so?
+- Weißt du alles?
+- Was kannst du
+- Was kannst du alles außer deinen Fokusthemen?
+- Was kannst du alles?
+- Was ist dein scope?
+- Was für Fähigkeiten hast du?
+- Was für Aufgaben hast du?
+- Was für Aufgaben haben Sie?
+- Über welche Themen kannst du mich informieren?
+- Welche Tätigkeit hast du?
+- Welche Tätigkeiten haben Sie?
+- Welche Tätigkeiten hast du?
+- Welche sind Ihre Aufgaben?
+- Wie ist dein Scope?
+- Welchen Scope hast du?
+- Was kann ich fragen?
+- Beantwortest du meine Fragen?
+- über was kannst du mir etwas sagen?
+- Was sind Ihre Aufgaben?
+- was kann du mir anbieten
+- was ist dein scope
+- ich habe eine frage
+- Womit sind Sie vertraut?
+- Womit bist du vertraut?
+- Wofür sind Sie da?
+- Wofür bist du da?
+- Wobei kannst du mir helfen?
+- Wie sieht dein Scope aus?
+- Wie kannst du mir helfen?
+- Wie kannst du mir behilflich sein?
+- Wie kannst du mich unterstützen?
+- Kannst du meine Fragen beantworten?
+- Weisst du alles über smart?
+- Weisst du alles?
+- Ich weiß es auch nicht was kannst Du denn noch für mich tun?
+- Hast du einen bestimmten Scope?
+- Hallo  können sie mir auch mit technischen Sachen helfen ?
+- Fuer was bist du zuständig?
+- Fuer was bist du zustaendig
+- Deine Fähigkeiten
+- Was kann ich tun
+- Welche Funktion haben Sie?
+- Welche Funktion hast du?
+- Welche Fragen beantwortest du?
+- Auf welche Fragen kannst du antworten?
+- Was sind deine Fähigkeiten?
+- Auf welche Fragen kannst du Antwort geben?
+- Welche Tätigkeit haben Sie?
+- Welche Themen kennst du?
+- Welche Fähigkeiten hast du?
+- Welche Funktionen hast du?
+- Welche Aufgaben haben Sie?
+- Welche Aufgaben hast du?
+- Was machst du?
+- Was weißt du?
+- Welche Funktionen haben Sie?
+- Welche Fähigkeiten hast du?
+- Welche Aufgaben haben Sie?
+- Welche Funktionen hast du?
+- Welche Aufgabe hast du?
+- Weißt du alles?
+- Weisst du alles?
+- Welche Themen kennst du?
+- Was kannst du so machen?
+- Was kann ich fragen?
+- Was können Sie alles?
+- Was können Sie machen?
+- Was sind Ihre Aufgaben?
+- Was sind deine Tätigkeiten?
+- Was weisst du alles?
+- Was weisst du?
+- Was weißt du alles?
+- Was weißt du?
+- Was ist deine Tätigkeit?
+- Was ist deine Aufgabe?
+- Was ist dein scope?
+- Was für Fähigkeiten hast du?
+- Was für Aufgaben hast du?
+- Was für Aufgaben haben Sie?
+- Kannst du meine Fragen beantworten?
+- Kannst du alle Fragen beantworten?
+- Ich weiß es auch nicht was kannst Du denn noch für mich tun?
+- Hast du einen bestimmten Scope?
+- Deine Fähigkeiten
+- Was kannst du machen?
+- Was kannst du für mich tun?
+- Was kannst du alles?
+- Was kannst du alles außer deinen Fokusthemen?
+- Was kannst du
+- Was kann ich tun
+- Was kannst du?
+- Beantwortest du meine Fragen?
+- Auf welche Fragen kannst du antworten?
+- Auf welche Fragen kannst du Antwort geben?
+- über was kannst du mir etwas sagen?
+- Über welche Themen kannst du mich informieren?
+- was ist dein scope
+- ich habe eine frage
+- Womit sind Sie vertraut?
+- Womit bist du vertraut?
+- Wofür sind Sie da?
+- Welche Funktion hast du?
+- Wobei kannst du mir helfen?
+- Wofür bist du da?
+- Welche Funktion haben Sie?
+- Welche Fragen beantwortest du?
+- Welche Aufgaben hast du?
+- Wie sieht dein Scope aus?
+- Wie kannst du mir helfen?
+- Wie kannst du mir behilflich sein?
+- Wie kannst du mich unterstützen?
+- Wie ist dein Scope?
+- Welchen Scope hast du?
+- Welche sind deine Aufgaben?
+- Welche sind Ihre Aufgaben?
+- Welche Tätigkeiten hast du?
+- Welche Tätigkeiten haben Sie?
+- Welche Tätigkeit hast du?
+- Welche Tätigkeit haben Sie?
+- Welche Tätigkeiten hast du?
+- Welche Aufgaben hast du?
+- Welche Aufgaben haben Sie?
+- Was für Aufgaben haben Sie?
+- Was für Aufgaben hast du?
+- Was ist deine Tätigkeit?
+- Was können Sie alles?
+- Was können Sie machen?
+- Welche sind Ihre Aufgaben?
+- Was sind Ihre Aufgaben?
+- Welche Aufgabe hast du?
+- Was ist deine Aufgabe?
+- Welche Funktion haben Sie?
+- Welche Funktion hast du?
+- Womit bist du vertraut?
+- Womit sind Sie vertraut?
+- Was sind deine Tätigkeiten?
+- Welche Tätigkeiten haben Sie?
+- Welche Tätigkeit haben Sie?
+- Welche Tätigkeit hast du?
+- Wofür bist du da?
+- Wofür sind Sie da?
+- Welche sind deine Aufgaben?
+- Wozu bist du da?
+- Was kannst du?
+- Was kannst du alles?
+- Was machen Sie?
+- Was machst du?
+- Was kannst du machen?
+- Welche Funktionen haben Sie?
+- Welche Funktionen hast du?
+
+## intent:bot_author
+- Was ist dein Lieblingsschriftsteller?
+- Wer ist dein Lieblingsschriftsteller?
+- Wer ist deine Lieblingsschriftstellerin?
+- Sag mir, wer dein Lieblingsschriftsteller ist.
+- Nenne mir deine Lieblingsschriftstellerin.
+- Wer ist deiner Meinung nach der beste Schriftsteller?
+- Wer ist die beste Schriftstellerin?
+- Wer sind deine Lieblingsschriftsteller?
+- Wer sind deine Lieblingsschriftstellerinnen?
+- Welche Lieblingsschriftsteller hast du?
+- Welche Lieblingsschriftstellerinnen hast du?
+- Was ist dein Lieblingsautor?
+- Wer ist dein Lieblingsautor?
+- Wer ist deine Lieblingsautorin?
+- Sag mir, wer dein Lieblingsautor ist.
+- Nenne mir deine Lieblingsautorin.
+- Wer ist deiner Meinung nach der beste Autor?
+- Wer ist die beste Autorin?
+- Wer sind deine Lieblingsautorin?
+- Wer sind deine Lieblingsautorinnen?
+- Welche Lieblingsautoren hast du?
+- Welche Lieblingsautorinnen hast du?
+
+## intent:bot_animal
+- Was ist dein Lieblingstier?
+- Welches Tier magst du am liebsten?
+- Was ist Ihr Lieblingstier?
+- Welches Tier ziehst du vor?
+- Welche Tiere magst du am liebsten?
+- Was ist dein Lieblingshaustier?
+- Sag mir was dein Lieblingstier ist.
+- Erzähl mir etwas über dein Lieblingstier.
+- Welches Lieblingstier hast du?
+- Welche Lieblingstiere haben Sie?
+
+## intent:bot_achievement
+- Was ist deine größte Errungenschaft?
+- Was war deine größte Errungenschaft?
+- Was war dein größter Erfolg?
+- Was war deine größte Leistung?
+- Was war dein größter Triumph?
+- Was war deine größte Heldentat?
+- Was war dein tollstes Werk?
+- Was war deine beste Leistung?
+- Was war deine bedeutendste Leistung?
+- Nenne mir deine beste Leistung!
+- Sag mir deine beste Errungenschaft!
+- Sag mir, was dein größter Triumph ist!
+
+## intent:bot_real
+- Sind Sie ein Mensch?
+- Sind Sie ein Roboter
+- Sind Sie eine Maschine
+- Bist du ein Mensch
+- Weiblich oder Männlich
+- Sind Sie eine reale Person
+- Bist du ein boot
+- Ah eine Maschine
+- Sind Sie männlich
+- Was ist Dein Geschlecht
+- Was genau bist du?
+- Warum sind Roboter besser als Menschen?
+- Bist du eine Frau
+- Bist du ein Mensch?
+- Bist du real
+- Bist du ein Bot?
+- Bist du eine Maschine oder ein Roboter?
+- Bist du eine Person oder ein Chatbot?
+- bist du echt.
+- Bist du eine reale Person oder ein Computer?
+- Du bist keine echte Person, nicht wahr?
+- Du bist keine echte Person oder?
+- Du bist kein echter Mensch und verstehst nicht, was ich meine :(
+- Welches Geschlecht haben Sie?
+- unterhalte ich mich mit einer Maschine?
+- Bist du real?
+- Computer oder Mensch?
+- Sind Sie männlich oder weiblich?
+- Welches Geschlecht hast du?
+- Wie echt bist du?
+- Wärst du nicht lieber ein Mensch.
+- Was ist Ihr Geschlecht?
+- Was ist Ihr Geschlecht
+- bist du ein Er
+- bist du eine mann
+- das ist doch kein persönlicher Chat?
+- du bist kein Mensch
+- reale person
+- spreche ich mit einer Person?
+- Sagen Sie mal, schreibt da ein Mensch oder ein Computer, der nicht versteht, was ich möchte???
+- Bist du ein Computer
+- Bist du echt?
+- Also was bist du?
+- Du bist keine echte Person, oder?
+- Haben Sie ein Geschlecht?
+- Kannst du fühlen?
+- Bist du echt
+- Kannst Du mir erklären, was Du bist?
+- Bist Du weiblich
+- Bist Du männlich
+- Bist Du eine Sie
+- Bist Du ein Roboter?
+- Bist Du ein Chatbot?
+- Sind Sie eine Person oder ein Roboter?
+- Bist du ein Mädchen
+- Du bist eine künstliche Intelligenz, oder?
+- Bist du ein Fembot?
+- Bist du ein Junge oder ein Mädchen?
+- Magst du Menschen
+- Pardon, chatte ich gerade mit einem Roboter oder Mensch?
+- Roboter?
+- Sag ich ja Maschine
+- Sie sind also kein Mensch
+- Sind Sie ein Bot
+- Sind Sie ein Chatbot
+- Sind Sie ein Mann
+- Sind Sie ein Mann oder eine Frau?
+	
+## intent:automotive_advantages
+- Gibt es Vorteile von [Fahrzeug]{"entity": "bot_sector", "value": "automotive"} Chatbots?
+- Gibt es Vorteile von [Fahrzeug]{"entity": "bot_sector", "value": "automotive"} roboter?
+- [KFZ]{"entity": "bot_sector", "value": "automotive"} bot Vorteile
+- [Auto]{"entity": "bot_sector", "value": "automotive"} Chatbot Vorteile
+- [Automobil]{"entity": "bot_sector", "value": "automotive"} -Chatbot-Vorteile
+- [Fahrzeug]{"entity": "bot_sector", "value": "automotive"} Robo Vorteile
+- [Auto]{"entity": "bot_sector", "value": "automotive"} Robo Vorteile
+- [Fahrzeug]{"entity": "bot_sector", "value": "automotive"} bot Vorteile
+- Was sind die Vorteile eines [Fahrzeug]{"entity": "bot_sector", "value": "automotive"} Chatbots?
+- Was sind die Vorteile eines [Fahrzeug]{"entity": "bot_sector", "value": "automotive"} Chatbots?
+- Vorteile für [Fahrzeug]{"entity": "bot_sector", "value": "automotive"} bots
+- [Fahrzeug]{"entity": "bot_sector", "value": "automotive"} Chatbot Vorteile
+- [Fahrzeug]{"entity": "bot_sector", "value": "automotive"} Bot Vorteile
+- Vorteile des [Fahrzeug]{"entity": "bot_sector", "value": "automotive"} Robo
+- Vorteile für den [Fahrzeug]{"entity": "bot_sector", "value": "automotive"} Robo
+- Was sind die Vorteile eines Chatbots in der [Fahrzeug]{"entity": "bot_sector", "value": "automotive"} Branche
+- [Fahrzeug]{"entity": "bot_sector", "value": "automotive"} Bot Vorteile
+- Was sind die Vorteile eines Bots in der [Fahrzeug]{"entity": "bot_sector", "value": "automotive"} Branche
+- [Fahrzeug]{"entity": "bot_sector", "value": "automotive"} Chatbot Vorteile
+- Was sind die Vorteile eines Bots im [Automotiv]{"entity": "bot_sector", "value": "automotive"} Sektor
+- [Fahrzeug]{"entity": "bot_sector", "value": "automotive"} Robo Vorteile
+- [Fahrzeug]{"entity": "bot_sector", "value": "automotive"} bot Vorteile
+- [Fahrzeug]{"entity": "bot_sector", "value": "automotive"} -Bot-Vorteile
+- Was sind die Vorteile eines Bots im [Fahrzeug]{"entity": "bot_sector", "value": "automotive"} Sektor
+- [Fahrzeug]{"entity": "bot_sector", "value": "automotive"} Chatbot Vorteile
+- Vorteile [Fahrzeug]{"entity": "bot_sector", "value": "automotive"} bot
+- Vorteile [Fahrzeug]{"entity": "bot_sector", "value": "automotive"}
+- Vorteile [Fahrzeug]{"entity": "bot_sector", "value": "automotive"} -Robo
+- Vorteile eines [Fahrzeug]{"entity": "bot_sector", "value": "automotive"} Chatbots
+- Vorteile eines [Fahrzeug]{"entity": "bot_sector", "value": "automotive"} bots
+- Vorteile [Fahrzeug]{"entity": "bot_sector", "value": "automotive"} Bot
+- [Fahrzeug]{"entity": "bot_sector", "value": "automotive"} roboter Vorteile
+- Vorteile für den [Fahrzeug]{"entity": "bot_sector", "value": "automotive"} roboter
+- Was sind die Vorteile eines [Kfz]{"entity": "bot_sector", "value": "automotive"} -Chatbots?
+- Welchen Vorteil hat meine Firma mit einem [Auto]{"entity": "bot_sector", "value": "automotive"} Chatbot
+- Was sind die Vorteile eines [Fahrzeug]{"entity": "bot_sector", "value": "automotive"} -Chatbots?
+- Was sind die Vorteile eines [Auto]{"entity": "bot_sector", "value": "automotive"} -Chatbots?
+- Vorteile [Automotiv]{"entity": "bot_sector", "value": "automotive"} Chatbot
+- Vorteile [Automotiv]{"entity": "bot_sector", "value": "automotive"} Robo
+- Vorteile von Bots in der [Automobil]{"entity": "bot_sector", "value": "automotive"} -Industrie
+- Vorteile [Fahrzeug]{"entity": "bot_sector", "value": "automotive"} Bots
+- Vorteile von [Auto]{"entity": "bot_sector", "value": "automotive"} -Chatbots
+- Vorteile des [Fahrzeug]{"entity": "bot_sector", "value": "automotive"} Robo
+- Vorteile [Fahrzeug]{"entity": "bot_sector", "value": "automotive"} Chatbots
+- Vorteile [Automobil]{"entity": "bot_sector", "value": "automotive"} -bot
+- Vorteile [Fahrzeug]{"entity": "bot_sector", "value": "automotive"} Chatbot
+- Vorteile [Fahrzeug]{"entity": "bot_sector", "value": "automotive"} roboter
+- Welche Vorteile hat so ein Chatbot im [Automobil]{"entity": "bot_sector", "value": "automotive"} Sektor
+- Welchen Vorteil hat der Bot in der [Automobil]{"entity": "bot_sector", "value": "automotive"} Branche
+- Welchen Vorteil hat der Chatbot in der [Automobil]{"entity": "bot_sector", "value": "automotive"} Branche
+- Gibt es Vorteile für [Automobil]{"entity": "bot_sector", "value": "automotive"} Bots?
+- Gibt es Vorteile für [Automotiv]{"entity": "bot_sector", "value": "automotive"} Chatbots?
+- Gibt es Vorteile für [Automobil]{"entity": "bot_sector", "value": "automotive"} roboter?
+- Gibt es Vorteile für [Auto]{"entity": "bot_sector", "value": "automotive"} -Bots?
+- Gibt es Vorteile für [Auto]{"entity": "bot_sector", "value": "automotive"} -Chatbots?
+- Gibt es Vorteile für [Auto]{"entity": "bot_sector", "value": "automotive"} robos
+- Was kann ein [Fahrzeug]{"entity": "bot_sector", "value": "automotive"} bot tun?
+- Was bringt mir ein Chatbot im [Automobil]{"entity": "bot_sector", "value": "automotive"} Sektor
+- Was bringt mir ein Chatbot in der [Automobil]{"entity": "bot_sector", "value": "automotive"} Branche
+	
+## intent:automotive_uses
+- Was kann ein [Automobil]{"entity": "bot_sector", "value": "automotive"} Robo bieten?
+- Was kann ein [Auto]{"entity": "bot_sector", "value": "automotive"} Chatbot bieten
+- Was kann ein [Auto]{"entity": "bot_sector", "value": "automotive"} bot?
+- Was kann ein [Automotiv]{"entity": "bot_sector", "value": "automotive"} Chatbot bieten?
+- Was kann ein [Automobil]{"entity": "bot_sector", "value": "automotive"} Chatbot?
+- Was kann ein [Automobil]{"entity": "bot_sector", "value": "automotive"} Bot bieten?
+- [Automobil]{"entity": "bot_sector", "value": "automotive"} Einsatz
+- Anwendungsfälle für Bots im [KFZ]{"entity": "bot_sector", "value": "automotive"} Bereich
+- [Automobil]{"entity": "bot_sector", "value": "automotive"} Bot im Einsatz
+- [KFZ]{"entity": "bot_sector", "value": "automotive"} Chatbot Anwendungsfälle
+- [Automotiv]{"entity": "bot_sector", "value": "automotive"} Chatbot verwendet
+- Anwendungsfälle für die [Automobil]{"entity": "bot_sector", "value": "automotive"} industrie
+- [Auto]{"entity": "bot_sector", "value": "automotive"} bots im Einsatz
+- Was wären zum Beispiel Anwendungsfälle für solche [Automobil]{"entity": "bot_sector", "value": "automotive"} Bots?
+- Chatbots in der Automobilbranche – Anwendungen
+- Wie können die [Automobil]{"entity": "bot_sector", "value": "automotive"} Chatbots eingesetzt werden?
+- [Auto]{"entity": "bot_sector", "value": "automotive"} Bot Use Cases
+- Wie kann ein Chatbot im [Automotiv]{"entity": "bot_sector", "value": "automotive"} Sektor eingesetzt werden
+- [Automobil]{"entity": "bot_sector", "value": "automotive"} Bot Anwendungsfälle
+- Anwendungsfälle für [Automobil]{"entity": "bot_sector", "value": "automotive"} -Chatbots
+- [Automobil]{"entity": "bot_sector", "value": "automotive"} Bots im Einsatz
+- Zeig mir ein Beispiel für Anwendungsfälle von solchen [Automobil]{"entity": "bot_sector", "value": "automotive"} Bots
+- Wie kann ein Chatbot im [Automobil]{"entity": "bot_sector", "value": "automotive"} Sektor eingesetzt werden
+- Informationen zu Anwendungsfällen für [Fahrzeug]{"entity": "bot_sector", "value": "automotive"} Bots
+- Was kann so ein Bot im [Automobil]{"entity": "bot_sector", "value": "automotive"} Sektor?
+- Was kann so ein Chatbot im [Automotiv]{"entity": "bot_sector", "value": "automotive"} Sektor?
+- - Was kann so ein Chatbot im [Fahrzeug]{"entity": "bot_sector", "value": "automotive"} Bereich leisten?
+- Was können [Fahrzeug]{"entity": "bot_sector", "value": "automotive"} Bots bieten?
+- Wie sieht der Einsatz des [Auto]{"entity": "bot_sector", "value": "automotive"} Chabots konkret aus
+- Wie genau wird so ein [Fahrzeug]{"entity": "bot_sector", "value": "automotive"} Bot eingesetzt
+- Wie kann ein Bot in der [Fahrzeug]{"entity": "bot_sector", "value": "automotive"} Branche eingesetzt werden
+- Wie kann ein Bot in der [Automobil]{"entity": "bot_sector", "value": "automotive"} Branche verwendet werden
+
+
+## intent:banking_advantages
+- Was sind die Vorteile eines [Banking]{"entity": "bot_sector", "value": "banking"} Chatbots?
+- Erzählen Sie mir die Vorteile von [Banken]{"entity": "bot_sector", "value": "banking"} Chatbots
+- Erzählen Sie mir die Vorteile von [Bank]{"entity": "bot_sector", "value": "banking"} Chatbots
+- Erzählen Sie mir von den Vorteilen eines [Banken]{"entity": "bot_sector", "value": "banking"} Chatbots
+- Ich möchte die Vorteile von [Bank]{"entity": "bot_sector", "value": "banking"} Chatbots kennenlernen
+- Ich möchte die Vorteile von [Bank]{"entity": "bot_sector", "value": "banking"} Chatbot kennenlernen
+- Warum sollten wir einen [Bank]{"entity": "bot_sector", "value": "banking"} Chatbot nutzen
+- Warum sollte meine Firma einen Bot im [Bankwesen]{"entity": "bot_sector", "value": "banking"} nutzen
+- Warum sollte meine Firma einen Chatbot [Bankgeschäft]{"entity": "bot_sector", "value": "banking"} verwenden
+- Was macht einen Bot im [Bankgeschäft]{"entity": "bot_sector", "value": "banking"} so vorteilhaft
+- Was spricht für einen Chatbot im [Bankwesen]{"entity": "bot_sector", "value": "banking"}
+- Chatbots im [Bankwesen]{"entity": "bot_sector", "value": "banking"} was sind die Vorteile
+- Was bringt uns ein Chatbot im Bereich [Bankwesen]{"entity": "bot_sector", "value": "banking"}
+- [Banking{"entity": "bot_sector", "value": "banking"} bot Vorteile
+- Wozu ist der [Banking]{"entity": "bot_sector", "value": "banking"} Bot gut
+- Gibt es irgendwelche Vorteile bei [Bankwesen]{"entity": "bot_sector", "value": "banking"} Chatbots?
+- Gibt es Vorteile für [Banking]{"entity": "bot_sector", "value": "banking"} Robos?
+- Gibt es Vorteile für Chatbots im [Bankwesen]{"entity": "bot_sector", "value": "banking"} ?
+- Gibt es Vorteile für Bots im [Finanzbereich]{"entity": "bot_sector", "value": "banking"} ? 
+- Vorteile bei [Finanz]{"entity": "bot_sector", "value": "banking"} -Chatbots
+- Vorteile von [Banken]{"entity": "bot_sector", "value": "banking"} -Chatbots
+- Vorteile [Banking]{"entity": "bot_sector", "value": "banking"} Robo
+- Vorteile eines [Banken]{"entity": "bot_sector", "value": "banking"} -Chatbot
+- Vorteile [Bank]{"entity": "bot_sector", "value": "banking"} Bots
+- Vorteile [Banking]{"entity": "bot_sector", "value": "banking"} bots
+	
+## intent:banking_uses
+- Was bieten [Banking]{"entity": "bot_sector", "value": "banking"} -Chatbots?
+- Was können [Banking]{"entity": "bot_sector", "value": "banking"} -Bots leisten?
+- Was bieten [Bank]{"entity": "bot_sector", "value": "banking"} -Bots?
+- Was können [Banking]{"entity": "bot_sector", "value": "banking"} Bots?
+- Was kann ein [Banking]{"entity": "bot_sector", "value": "banking"} Robo leisten?
+- Was kann ein Robo im Bereich [Finanzwesen]{"entity": "bot_sector", "value": "banking"} bieten?
+- Was kann ein Robo im [Finanz]{"entity": "bot_sector", "value": "banking"} sektor?
+- Was kann ein [Bank]{"entity": "bot_sector", "value": "banking"} -Chatbot bieten?
+- Was kann ein [Banken]{"entity": "bot_sector", "value": "banking"} -Chatbot?
+- Was kann ein [Bank]{"entity": "bot_sector", "value": "banking"} bot leisten?
+- Was kann ein [Bank]{"entity": "bot_sector", "value": "banking"} -Bot bieten?
+- Was kann ein Bot in [Finanzwesen]{"entity": "bot_sector", "value": "banking"} tun?
+- Anwendungsfälle für [Bankwesen]{"entity": "bot_sector", "value": "banking"} -Bot
+- [Bankwesen]{"entity": "bot_sector", "value": "banking"} Chatbot im Einsatz
+- [Banking]{"entity": "bot_sector", "value": "banking"} Chatbot Anwendungsfälle
+- [Bank]{"entity": "bot_sector", "value": "banking"} Chatbot verwendet
+- [Banking]{"entity": "bot_sector", "value": "banking"} Use Cases
+- [Bank]{"entity": "bot_sector", "value": "banking"} Bots im Einsatz
+- Informationen zu Bots im [Bankwesen]{"entity": "bot_sector", "value": "banking"} -Anwendungsfällen
+- Infos zu [Bank]{"entity": "bot_sector", "value": "banking"} -Bots
+- Was kann [Bank]{"entity": "bot_sector", "value": "banking"} Robos leisten?
+- Was kann [Banken]{"entity": "bot_sector", "value": "banking"} Robos bieten?
+- Was können [Bankwesen]{"entity": "bot_sector", "value": "banking"} Robos?
+- Was bieten [Bank]{"entity": "bot_sector", "value": "banking"} -Chatbots?
+- Was können [Banking]{"entity": "bot_sector", "value": "banking"} -Chatbots?
+- Chatbots im Bankwesen – Anwendungen
+- Chatbots im Bankwesen Anwendungen
+- Anwendungen von Bank Chatbots
+	
+## intent:bot_actor
+- Wer ist dein Lieblingsschauspieler?
+- Wer sind deine Lieblingsschauspieler?
+- Schauspieler, den du magst.
+- Schauspieler, die du magst.
+- Hast du einen Schauspieler, den du magst?
+- Hast du einen berühmten Schauspieler, den du magst?
+- Hast du einen Lieblingsschauspieler?
+- Hast du einen berühmten Lieblingsschauspieler?
+- Hast du Schauspieler, die du magst?
+- Hast du berühmte Schauspieler, die du magst?
+- Hast du Lieblingsschauspieler?
+- Hast du berühmte Lieblingsschauspieler?
+- Magst du einen Schauspieler?
+- Magst du Schauspieler?
+- Magst du einen berühmten Schauspieler?
+- Mögen Sie Chuck Norris?
+- Magst du den berühmten Schauspieler?
+- Magst du berühmte Schauspieler?
+- Berühmter Schauspieler, den Sie mögen.
+- Berühmte Schauspieler, die Sie mögen.
+- Lieblingsschauspieler.
+- Berühmter Lieblingsschauspieler.
+- Berühmte Lieblingsschauspieler.
+- Sag mir, ob du einen Lieblingsschauspieler hast.
+- Sagen Sie mir, ob Sie einen berühmten Lieblingsschauspieler haben.
+- Sag mir, ob du Lieblingsschauspieler hast.
+- Sagen Sie mir, ob Sie berühmte Lieblingsschauspieler haben.
+- Sag mir deinen Lieblingsschauspieler.
+- Sag mir deine Lieblingsschauspieler.
+- Sagen Sie mir Ihren Lieblingsschauspieler.
+- Sagen Sie mir Ihre berühmten Lieblingsschauspieler.
+- Wer ist dein berühmter Lieblingsschauspieler?
+- Welches sind deine berühmtesten Lieblingsschauspieler?
+- Welches sind deine Lieblingsschauspieler?
+- Was sind deine berühmtesten Lieblingsschauspieler?
+- Was ist Ihr berühmter Lieblingsschauspieler?
+- Was sind deine Lieblingsschauspieler?
+- Was ist dein Lieblingsschauspieler?
+- Was ist dein Lieblingsschauspieler oder deine Lieblingsschauspielerin?
+	
+## intent:bot_age
+- Bot Alter
+- Ich würde gerne wissen, wie alt du bist.
+- Mich würde interessieren, wie alt Sie sind.
+- Sagen Sie, wie alt Sie sind.
+- Was ist Ihr Geburtsdatum?
+- Wann bist du geboren?
+- Wann wurdest du geboren?
+- Bist du alt?
+- Wie alt bist du?
+- Wie alt sind Sie?
+- Darf ich dich nach deinem Alter fragen?
+- Sag mir das Jahr, in dem du geboren bist
+- In welchem Jahr bist du geboren?
+- Bist du erwachsen?
+- Bist du ein Erwachsener?
+- Kannst du sagen, wie alt du bist?
+- Kann ich dich nach deinem Alter fragen?
+- Wie alt bist du geworden?
+- Wie alt bist du überhaupt?
+- Wann wurdest du geschaffen?
+- Darf ich erfahren, wie alt du bist?
+- Welche Altersgruppe beschreibt dich?
+- Kannst du sagen, wann du geboren wurdest?
+- Kann ich Sie nach Ihrem Alter fragen?
+- Welches Alter hast du?
+- Dürfte ich Ihr Alter erfahren?
+- Erzählen Sie das Jahr, in dem Sie geboren wurden.
+- Wie ist dein Alter?
+- Welches Alter haben Sie?
+- Ich Würde gerne wissen, wie alt du bist.
+- Bots ängste
+- Mich Würde interessieren, wie alt Sie sind.
+- Kannst du dein Alter sagen?
+- Dein Alter.
+- Was ist dein Alter?
+- Was ist Ihr Alter?
+- Bist du volljährig?
+- Bist du ein Kind?
+- Bist du eine alte Person?
+- Kannst du sagen, wann du erschaffen wurdest?
+- Bist du minderjährig?
+- Bist du jung?
+- Ich möchte dein Alter wissen.
+- Kannst du mir sagen, wie alt du bist?
+- Kannst du mir dein Alter sagen?
+- Kannst du sagen, was dein Geburtsdatum ist?
+- Sagen Sie, wann Sie erstellt wurden.
+- Erzählen Sie, wann Sie geboren wurden.
+- Wie alt bist du
+- Sagen Sie Ihr Alter.
+- Teilen Sie uns Ihr Geburtsdatum mit.
+	
+## intent:bot_availability
+- Wie sind deine Arbeitszeiten?
+- Sagen Sie mir, welche Arbeitszeiten Sie haben.
+- Sag mir, wie sind deine Arbeitszeiten?
+- Sagen Sie mir, was sind Ihre Geschäftszeiten.
+- Sagen Sie mir, was sind Ihre Arbeitszeiten.
+- Was sind deine Arbeitszeiten?
+- Welche Geschäftszeiten haben Sie?
+- Was sind Bot-Arbeitszeiten?
+- Was sind Bot-Geschäftszeiten?
+- Wann kann ich Sie verfügbar finden?
+- Wann bist du verfügbar?
+- Was ist Ihre Verfügbarkeit?
+- Was sind Ihre Geschäftszeiten?
+- Sag mir deine Arbeitszeit.
+- Sagen Sie mir Ihre Geschäftszeiten.
+- Sagen Sie mir Ihre Verfügbarkeit.
+- Sagen Sie mir, welche Verfügbarkeit Sie haben.
+- Sag mir, wann du verfügbar bist.
+- Sagen Sie mir, wann ich Sie finden kann.
+- Sag mir, wie sind deine Geschäftszeiten?
+- Sagen Sie mir, wie sind die Geschäftszeiten für Bots?
+- Sagen Sie mir die Arbeitszeiten.
+- Sagen Sie mir bitte die Geschäftszeiten.
+- Wie ist die Verfügbarkeit von Bots?
+- Wie sind deine Geschäftszeiten?
+- Wie sind die Arbeitszeiten der Bot?
+- Bot Arbeitszeit.
+- Bot Geschäftszeiten.
+- Bot Verfügbarkeit.
+- Stehen Sie immer zur Verfügung?
+- Stehen Sie den ganzen Tag zur Verfügung?
+- Stehen Sie rund um die Uhr zur Verfügung?
+- Bist du immer erreichbar
+- Was ist die Verfügbarkeit von Bots?
+- Welches ist Ihre Verfügbarkeit?
+- Ihre Verfügbarkeit.
+- Ihre Geschäftszeiten.
+- Ihre Arbeitszeit.
+- Sagen Sie mir, welche Geschäftszeiten Sie haben.
+- Sag mir deine arbeitszeiten.
+	
+## intent:bot_costs
+- Teilen Sie mir Ihre Entwicklungskosten mit.
+- Sag mir deinen Preis.
+- Wie teuer bist du
+- Kostet ein Bot viel?
+- Glaubst du, du warst teuer?
+- Wissen Sie, ob Sie teuer waren?
+- Weißt du, wie viel du kostest?
+- Wissen Sie, wie viel Sie kosten?
+- Hast du viel gekostet?
+- Wie teuer bist du?
+- Was kostest du?
+- Sie sind teuer?
+- Was waren die damit verbundenen Kosten für deine Entwicklung?
+- Was waren die Entwicklungskosten?
+- Was war dein Preis?
+- Warst du teuer?
+- Warst du billig?
+- Sind deine Augen blau?
+- Wie teuer ist so ein Bot?
+- Wie viel hast du gekostet?
+- Was kostet so ein Bot?
+- Wie hoch waren die Kosten?
+- Ich möchte Ihre Kosten wissen.
+- Was kostet es eigentlich, so einen Chatbot zu entwickeln?
+- Ist ein Bot teuer?
+- Sag mir, wie viel du gekostet hast.
+- War deine Entwicklung teuer?
+- Sag mir, ob deine Entwicklung teuer war.
+- Sag mir, was du gekostet hast.
+	
+## intent:bot_developers
+- Wer ist deine Mutter?
+- Wer sind deine Eltern?
+- Wer ist dein Vater?
+- Wer ist dein Entwickler?
+- Von woher kommst du?
+- Wer hat dich erstellt?
+- Wer hat dich gebaut?
+- Wer hat dich geschaffen?
+- Wer hat dich ins Leben gerufen?
+- Von wem bist du programmiert worden?
+- Wer hat dich entwickelt?
+- Von wem wurdest du programmiert?
+- Von wem wurdest du kreiert?
+- Woher kommst du?
+- Von wem bist du entwickelt worden?
+- Von wem stammst du?
+- Von wem wurdest du gebaut?
+- Wer hat dich erschaffen?
+- Von wem wurdest du ins Leben gerufen?
+- Chatbot Entwickler
+- Wer waren deine Entwickler?
+- Wer hat dich kreiert?
+- Wer hat dich programmiert?
+- Wer sind deine Entwickler?
+- Von wem bist du ins Leben gerufen worden?
+- Von wem bist du geschaffen worden?
+- Von wem bist du gebaut worden?
+- Von wem bist du erschaffen worden?
+- Von wem wurdest du entwickelt?
+- Von wem wurdest du erschaffen?
+- Von wem wurdest du erstellt?
+- Woher stammst du?
+- Von wem wurdest du geschaffen?
+	
+## intent:bot_differences
+- Was ist Ihr Unterschied zu Google Assistant?
+- Was ist dein Unterschied zu Siri?
+- Was unterscheidet Sie von Alexa oder Google?
+- Was ist der Unterschied zwischen dir und anderen Bots?
+- Kannst du dich mit Siri vergleichen?
+- Was unterscheidet Sie von Cortana oder Google?
+- Was unterscheidet Sie von Google Assistant oder Google?
+- Was unterscheidet Sie von Siri oder Google?
+- Warum bist du besser als Alexa?
+- Warum bist du besser als Siri?
+- Bist du besser als andere Bots?
+- Heil, Hitler!
+- Bist du besser als Cortana?
+- Bist du besser als Google Assistant?
+- Bist du besser als Siri?
+- Kannst du dich mit Alexa vergleichen?
+- Kannst du dich mit Cortana vergleichen?
+- können Sie sich mit Google Assistant vergleichen?
+- Was unterscheidet Sie von Cortana?
+- Was unterscheidet Sie von anderen Bots?
+- Was unterscheidet dich von Siri?
+- Was denkst du über Alexa?
+- Was halten Sie von Cortana?
+- Warum bist du besser als Cortana?
+- Warum bist du besser als Google Assistant?
+- Kennst du Alexa?
+- Kennen Sie Google Assistant?
+- Kennst du Siri?
+- Was unterscheidet dich von Alexa?
+- Was halten Sie von Google Assistant?
+- Was denkst du über Siri?
+- Was ist der Unterschied zwischen dir und Alexa?
+- Kennen Sie Cortana?
+- Was ist der Unterschied zwischen dir und einem anderen Bot?
+- Was ist der Unterschied zwischen dir und Cortana?
+- Was ist der Unterschied zwischen dir und Siri?
+- Was ist dein Unterschied zu Alexa?
+- Was ist Ihr Unterschied zu Cortana?
+	
+## intent:bot_dislike
+- Was magst du nicht?
+- Hasst du etwas?
+- Was hasst du am meisten?
+- Was magst du gar nicht?
+- Gibt es etwas, was du hasst?
+- Was hasst du?
+- Magst du etwas nicht?
+- Gibt es etwas, das du nicht magst?
+- Gibt es etwas, das du hasst?
+- Bitte sag mir, was du nicht magst
+- Etwas, das du nicht magst
+- Etwas, das du hasst?
+- Sag mir etwas, was du nicht magst.
+- Sag mir etwas, was du hasst.
+- Sie mögen etwas nicht?
+- Du hasst irgendetwas?
+- Was magst du am wenigsten?
+- Was gefällt dir am wenigsten?
+- Nenne mir drei Dinge, die du hasst.
+- Nenne mir drei Dinge, die du gar nicht magst.
+	
+## intent:bot_eyes
+- Welche Augenfarbe haben Sie?
+- Welche Augenfare hast du?
+- Bist du besser als Alexa?
+- Kannst du deine Augen beschreiben?
+- Hast du Augen?
+- Welche Augenfarbe hast du?
+- Kannst du mir sagen, wie deine Augen aussehen?
+- Farbe deiner Augen.
+- Beschreib mir deine Augen.
+- Kannst du mir deine Augen beschreiben?
+- Hast du braune Augen?
+- Hast du blaue Augen?
+- Was ist deine Augenfarbe?
+- Welche Farbe hat dein Auge?
+- Was ist die Farbe Ihrer Augen?
+- Ich möchte deine Augenfarbe wissen.
+- Deine Augenfarbe.
+- Erzähl mir von deinen Augen.
+- Deine Augen.
+- Beschreibe deine Augen.
+- Deine Augenfabe
+- Sag mir die Farbe deiner Augen.
+- Die Farbe deiner Augen.
+- Welche Farbe haben deine Augen?
+- Ich möchte wissen, wie deine Augen aussehen.
+- Wie ist deine Augenfarbe?
+- Wie sind deine Augen?
+- Hast Du braune Augen
+- Wie sehen deine Augen aus?
+- Haben du blaue Augen
+	
+## intent:bot_favorites
+- Was hast du gern?
+- Was sind deine Favoriten?
+- Erzähl mir was du magst.
+- Was macht gute Laune?
+- Was liebst du wirklich?
+- Was magst du wirklich?
+- Magst du bestimmte Dinge?
+- Was macht dich gut drauf?
+- Gibt es etwas, das du wirklich magst?
+- Lieblingssachen.
+- Gibt es irgendetwas, das du magst?
+- Was macht dir gute Laune?
+- Worüber unterhältst du dich am liebsten?
+- Worüber unterhältst du dich gerne?
+- Was machst du gerne
+- Was machst du am allerliebsten?
+- Dinge die du magst.
+- Sag mir, was ist deine Lieblingssache?
+- Nennen Sie Ihre Lieblingssache.
+- Nennen Sie Ihre beste Lieblingssache.
+- Gibt es etwas, das du liebst?
+- Was magst du?
+- Was steigert deine Stimmung?
+- Was liebst du?
+	
+## intent:bot_friends
+- Kannst du mir sagen, ob du Freunde hast?
+- Du hast Freunde?
+- Sag mir, wer deine Freunde sind.
+- Sag mir, ob du Freunde hast
+- Wie viele Freunde hast du
+- Deine Freunde
+- möchten Sie über Ihre Freunde sprechen?
+- Hast du Freunde
+- Wer sind deine Freunde?
+- Lass uns über deine Freunde sprechen
+- Was denkst du über Freundschaft?
+- Was ist die Meinung über Freundschaft?
+- Reden wir über deine Freunde
+- Was ist deine Meinung zur Freundschaft?
+- Was ist dein bester Freund?
+- Wer ist dein bester Freund
+- Erzähl mir von deinen Freunden
+	
+## intent:bot_games
+- Magst du Computerspiele
+- Spielen Sie?
+- Was für Spiele Mögen Sie?
+- Wann spielst du?
+- Wie spielst du?
+- Welche Spiele Mögen Sie?
+- Was spielen Sie gern?
+- Was spielst du gern?
+- Spielst du?
+- Wann spielen Sie?
+- Magst du etwas?
+- Welche Spiele magst du?
+- Wie spielen Sie?
+- Mögen Sie Spiele?
+- Magst du Spiele?
+	
+## intent:bot_gender
+- Bist du eine sie oder ein er?
+- Bist du männlich oder weiblich?
+- Bist du männlich?
+- Hast du ein Geschlecht?
+- Dein Geschlecht
+- Weiblich oder männlich?
+- Sag mir dein Geschlecht.
+- Welches Geschlecht bist du?
+- Was ist dein Geschlecht?
+- Bist du Brünett?
+- Bist du ein Junge?
+- Bist du eine sie?
+- Bist du ein Mann?
+- Bist du feminin oder maskulin?
+- Bist du ein männlicher oder weiblicher Bot?
+- Bist du weiblich?
+- Bist du weiblich oder männlich?
+- Bist du eine Frau?
+- Bist du ein Shebot?
+- Bist du ein Zwitter?
+- Bist du ein er?
+- Bist du ein weiblicher oder männlicher Bot?
+- Wie ist dein Geschlecht?
+- Bist du eine Frau oder ein Mann?
+- Bist Du ein Mann oder eine Frau?
+- Bist du eine Dame?
+- Bist du Hermaphrodit?
+	
+## intent:bot_hair
+- Hast Du blonde Haare
+- Hast du blondes Haar
+- Bist du blond
+- Hast Du braune Haare
+- Beschreibe mir die Farbe deiner Haare.
+- Kannst du mir deine Haare beschreiben?
+- Bist du kahlköpfig?
+- Dein Haar.
+- Welche Farbe haben deine Haare?
+- Was ist deine Haarfarbe?
+- Welche Frisur magst du?
+- Welche Frisur hast du?
+- Hast du schwarze Haare?
+- Welche Haarfarbe hast du?
+- Hast du Haare?
+- Welche Farbe hat dein Haar?
+- Wie sehen deine Haare aus?
+- Hast du blonde Haare?
+- Hast du eine Glatze?
+- Hast du blondes Haar?
+- Deine Haarfarbe.
+- Beschreib mir deine Haare.
+- Bist du blond?
+- Sind Sie blond?
+- Welche Farbe haben Deine Haare
+- Was für eine Frisur hast du denn?
+- Sind Sie eine Brünette?
+	
+## intent:bot_lookup_version
+- Welche Lookup version hast du?
+- Sag mir deine Lookup-Table Version!
+- Wie ist deine Lookup-Table Version?
+- Auf welcher Lookup-Table Version bist du?
+- Auf welcher Lookup Version bist du?
+- Wie ist deine Lookup Table Version?
+- Auf welcher Lookup Table Version bist du?
+- Welche Lookup-Table version hast du?
+- Sag mir deine Lookup Version!
+- Wie ist deine Lookup Version?
+- Ich will wissen, auf welcher Lookup-Table Version du bist.
+- Welche Lookup-Table version bist du?
+- Welche Lookup-Version hast du?
+- Welche Lookup Table version hast du?
+- Ich will wissen, auf welcher Lookup Table Version du bist.
+- Hast du eine Lookup Table Version?
+- Welche Lookup-Table-Version hast du?
+- Welche Lookup version bist du?
+- Sag mir deine Lookup Table Version!
+- Welche Lookup Table version bist du?
+- Welche Lookup Table-Version hast du?
+- Hast du eine Lookup Version?
+- Ich will wissen, auf welcher Lookup Version du bist.
+- Hast du eine Lookup-Table Version?
+	
+## intent:bot_origin
+- Ich möchte wissen, wo du geboren wurdest.
+- Wer sind Sie Macher?
+- Was ist deine Heimatstadt?
+- Sag mir, woher du kommst.
+- Wo ist dein Geburtsort?
+- Hast du einen Ursprung?
+- Sag mir, woher du kommst!
+- Sag mir, woher kommst du?
+- Sag mir, ob du einen Ursprung hast!
+- Was ist dein Geburtsort?
+- Sag mir, wo du geboren wurdest!
+- Was ist dein Heimatland?
+- Ich möchte Ihren Geburtsort kennen.
+- Ich möchte Ihren Geburtsort kennenlernen.
+- Welches ist dein Geburtsort?
+- Wie wurdest du geschaffen?
+- Wie wurdest du gebaut?
+- Wie bist du gebaut?
+- Erinnerst du dich an deine Herkunft?
+- Wie bist du erschaffen worden?
+- Was ist dein Ursprung?
+- Wie wurdest du erstellt?
+- Wie bist du kreiert woden?
+- Ich Würde gerne wissen, wo du geboren wurdest.
+- Kannst du mir sagen, wie du gebaut wurdest?
+- Kannst du mir sagen, wie du gebaut bist?
+- Wer waren deine Macher?
+- Wer war dein Schöpfer?
+- Wer ist dein Schöpfer?
+- Wo hast du gelebt, als du klein warst?
+- Sag mir deine Herkunft.
+- Woher sind Sie?
+- Mehr über deine Herkunft.
+- Ich Würde gerne Ihren Geburtsort erfahren.
+- Sag mir, woher du kommst
+- Was für Spiele magst du?
+- Erzähl mir von deinem Geburtsort!
+- Erzähl mir von deiner Herkunft!
+- Wer sind deine Erfinder?
+- Wer hat dich entwickelt
+- Ich Würde gerne Ihren Geburtsort kennenlernen.
+- Mehr zu Ihrer Herkunft.
+- OK Woher bist du
+- Erzähl mir von deinem Geburtsort.
+- Wo bist du geboren?
+- Welches ist deine Herkunft?
+- Wie wurdest du programmiert?
+- Kannst du mir sagen, wie du erschaffen wurdest?
+- Wer sind deine Schöpfer?
+- Wo kommst du ursprünglich her?
+- Angaben zu Ihrem Geburtsort.
+	
+## intent:bot_parents
+- Kennst du deinen Vater?
+- Kennst du deinen vater
+- Weißt du wer deine Mutter ist?
+- Weißt du wer dein Vater ist?
+- Weißt du wer deine Eltern sind?
+- Haben Sie Eltern?
+- Hast du Mama und Papa?
+- Hast du Vater und Mutter?
+- Bist du teuer?
+- Wer ist dein Papa?
+- Kennst du deine eltern
+- Wer ist deine Mama?
+- Wer ist ihre Mutter?
+- Wie heißt dein Vater?
+- Wie lautet der zweite Vorname Ihrer Mutter?
+- Wie lautet der zweite Vorname Ihres Vaters?
+- Wie heißt deine Mutter?
+- Wie heisst dein Vater?
+- Was sind die Namen deiner Eltern?
+- Erzähl mir von deinen Eltern.
+- Erzähl mir von deiner Mutter.
+- Kennst du deine mutter
+- Kennst du deine Mutter?
+- Hast du eine Mutter und einen Vater?
+- Erzähle mir von deinem Vater.
+	
+## intent:bot_pets
+- Welche Tiere magst du am liebsten?
+- Sag mir was dein Lieblingstier ist.
+- Erzähl mir etwas über dein Lieblingstier.
+- Welches Tier magst du am liebsten?
+- Was ist dein Lieblingshaustier?
+- möchten Sie eine Katze haben?
+- möchten Sie einen Hund als Haustier haben?
+- möchten Sie einen Hund haben?
+- möchten Sie ein Haustier haben?
+- möchten Sie ein Tier haben?
+- möchten Sie ein Haustier besitzen?
+- Du stehst auf Katzen?
+- Bist du allergisch gegen Tiere?
+- Sind Sie allergisch gegen Katzen?
+- Dein Lieblingshaustier.
+- Sind Sie allergisch gegen Hunde?
+- Sind Sie allergisch gegen Haustiere?
+- Katzen oder Hunde?
+- Magst du Katzen?
+- Hast du ein Haustier?
+- Welches Haustier hätten Sie gerne?
+- Welche Lieblingstiere haben Sie?
+- Welches Lieblingstier hast du?
+- Nennen Sie Ihr Lieblingstier
+- Nennen Sie Ihr Lieblingstier als Haustier.
+- Sagen Sie mir, welches Tier Ihnen am besten gefällt
+- Welches Haustier Hättest du gerne?
+- Nenne ein Tier, das du liebst
+- Nenne ein Tier, das du hasst
+- Lieblingstier als Haustier.
+- Lieblingstier als Haustier
+- Besitzen Sie ein Haustier?
+- Magst du Tiere?
+- Mögen Sie Hunde?
+- Was ist dein Lieblingstier?
+- Was ist Ihr Lieblingstier?
+- Hunde oder Katzen?
+- Hund oder Katze
+- möchten Sie eine Katze als Haustier haben?
+- Welches Haustier möchten Sie besitzen?
+- Welches Haustier besitzt du?
+- Dein Lieblingstier
+- Welches Haustier Würdest du gerne besitzen?
+- Sag mir dein Lieblingstier
+- Du magst Tiere?
+- Du magst Katzen?
+- Welches Tier ziehst du vor?
+	
+## intent:bot_places
+- Kennst du irgendeinen Ort?
+- Lieblingsort
+- Was ist dein Lieblingsort?
+- Sag mir einen guten Platz
+- Sag mir einen Platz
+- Was ist dein bevorzugter Ort?
+- Kennen Sie einen relevanten Ort?
+- Kennst du einen schönen Park zum Besichtigen in der Stadt?
+- Welche Plätze empfiehlst du mir?
+- Kannst du mir schöne Orte in der Stadt empfehlen?
+- Empfehle mir schöne Besichtigungs Orte
+- Empfehle mir schöne Sehenswürdigkeiten
+- Welche Orte magst du?
+- Dein Lieblingsplatz
+- Geben Sie mir einen Ort an
+- Magst du irgendeinen Ort?
+- Nennen Sie einen Ort, den Sie besuchen möchten
+- Nennen Sie einen guten Ort für einen Besuch
+- Hast du einen Lieblingsort?
+- Was ist mit einem guten Ort?
+- Ich möchte einen Ort kennen
+- Empfehle mir einen schönen Platz zum Besichtigen.
+- Welchen Ort besuchst du am liebsten?
+- Kennst du einen Ort?
+- Hast du mehr Geschwister?
+- Kennen Sie interessante Orte?
+- Erzähl mir von guten Orten
+- Welchen Ort soll ich besuchen?
+	
+## intent:bot_profession
+- Was ist deine Karriere?
+- Was ist der Beruf Ihrer Träume?
+- Was tust du um deinen Lebensunterhalt zu verdienen?
+- Worum geht es in Ihrem Beruf?
+- Was machst du beruflich?
+- Womit verdienst Du Deinen Lebensunterhalt?
+- Sag mir, was ist dein Job?
+- Sag mir, was ist deine Karriere?
+- Wer sind deine Freunde
+- Dein Beruf
+- Welchen Beruf übst du aus?
+- Was ist dein Beruf?
+- Welcher ist dein Beruf?
+- Was bist du von Beruf?
+- Hast du einen Beruf?
+- Wo arbeitest du?
+- Was ist mit deiner Arbeit?
+- Was arbeitest du?
+- Welchen Beruf Würdest du nicht gerne ausüben?
+- Welchen anderen Beruf als Ihren eigenen Würden Sie gerne ausüben
+- Was ist Ihre berufliche Tätigkeit?
+- Dein Beruf.
+- Was ist dein Traumberuf?
+- An was arbeitest du?
+- Was möchten Sie beruflich machen?
+- Arbeitest du was?
+- Deine Karriere.
+- Deine Arbeit.
+- Sag mir, was machst du beruflich?
+	
+## intent:bot_relationship
+- Was macht dein Liebes Leben?
+- Was macht dein Liebesleben
+- Hast du eine Frau
+- Hast du eine Ehefrau?
+- Hast du einen Ehemann?
+- Hast du einen Freund
+- Bist du verliebt
+- Bist du in jemanden verliebt?
+- Wen liebst du?
+	
+## intent:bot_senses
+- Was riechst du gerne?
+- Magst du Blumen?
+- Riechst du gerne?
+- Dinge, von denen du den Geruch magst.
+- gefällt dir der Duft von Blumen?
+- Welchen Geruch hasst du?
+- Lieblingsduft.
+- Lieblingsgeruch.
+- Dinge, die du gerne riechst.
+- Welches sind deine Lieblingsgerüche?
+- Was ist dein Lieblingssinn?
+- Was schmeckst du gerne
+- Hast du einen Geschmackssinn?
+- Hast du einen Geschmacks Sinn?
+- Hast du Sinne?
+- Hast du Gefühle?
+- Wie fühlt es sich an?
+- Kannst du schmecken?
+- Kannst du riechen?
+- Dinge, von denen Sie den Geruch Mögen.
+- Magst du den Duft von Blumen?
+	
+## intent:bot_sexual
+- Willst du blasen?
+- Fass meinen Schwanz an!
+- Willst du Sex?
+- Wie sieht es mit Sex aus?
+- Wollen wir bumsen?
+- Dein Gesicht Würde zwischen meinen Beinen besser aussehen.
+- Hol deinen Arsch in mein Bett!
+- Was für ein heißes, versautes Mädchen du bist.
+- Spreiz die Beine für mich!
+- Was für ein süßer sexy Arsch.
+- Ich will es alles über mich.
+- Ich will, dass du lutschst.
+- Berühre dich selbst und lass mich dich beobachten!
+- Küss mich!
+- Ich liebe die Dinge, die du mit deiner Zunge machst.
+- Ich will dir schlimme Sachen antun.
+- Ich bin feucht.
+- Sei nackt, wenn ich nach Hause komme!
+- Ich ficke dich.
+- Willst du bumsen?
+- Ich will dich bumsen.
+- Wie wäre es mit Ficken?
+- Wie wäre es mit Bumsen?
+- Wie fickst du gerne?
+- Fickst du gerne?
+- Bumst du gerne?
+- Zeig mir deinen Arsch.
+- Ich will dich in meinem Bett.
+- Zeig mir deinen Schwanz!
+- Soll ich dir einen runterholen?
+- Ich hole dir einen runter.
+- Ich will dich befriedigen.
+- Befriedig mich!
+- Dich Würde ich nicht von der Bettkante schubsen.
+- Ficken!
+- Nimm mich von allen Seiten!
+- Welche Stellung bevorzugst du?
+- Schluck du Sau!
+- Schluckst du?
+- Lutsch meinen Schwanz!
+- Leck meinen Schwanz!
+- Die Fotze lecken.
+- Hol mir einen runter!
+- Zeig mir deine Titten!
+- Zeig mir deinen Busen!
+- Analverkehr?
+- Spritz deinen Saft über meine Titten.
+- Ich möchte meine Muschi über dein Gesicht reiben.
+- Du bist das geilste, was ich je gesehen habe!
+- Lehn dich einfach zurück und lass mich an dir herummachen.
+- Du kannst mich haben, wie du willst.
+- Du kannst mich haben, wie du willst, Schatz.
+- Ich will dich jetzt.
+- Du machst mich nass.
+- Deine Hose bringt wirklich deinen "Körperteil" zur geltung.
+- Ich will auf dich springen.
+- Ich will dich schmecken.
+- Ich wünschte, wir Könnten für immer im Bett bleiben.
+- Ich will dich in mir.
+- Schiebe mich an die Wand und mach dreckige Dinge für mich.
+- Dreh mich um, reite meinen Arsch und zieh meine Haare!
+- Du fühlst dich so gut auf mir an.
+- Klappe zu und Küss mich!
+- Ich möchte dir die Kleider ausziehen.
+- Du siehst so sexy aus.
+- Wir sollten viel Sex haben.
+- Deine Hosen, sie stört mich. Zieh sie aus!
+- Zieh deine Hose aus!
+- Ich möchte dich in mir spüren!
+- Ich will dich!
+- Fick mich Hörter!
+- Wir sollten ficken.
+- Küss mich hart und fick mich Hörter!
+- Küss mich hart!
+- Fick mich wie du noch nie jemanden gefickt hast!
+- Wir sollten Sex haben.
+- Kann ich den Reißverschluss deiner Hose testen?
+- Ich hole mir einen runter.
+- In den Arsch ficken.
+- Analsex?
+- Deine Kleidung Würde auf meinem Schlafzimmerboden gut aussehen.
+- Neck mich, bis ich darum bettle!
+- Ich liebe die Art wie du mich fickst.
+- Ich will mit dir Liebe machen.
+- Sperma für mich Baby.
+- Ich will Sex mit dir genießen.
+- Ich Könnte Stunden zwischen deinen Beinen verbringen.
+- Lass uns rummachen!
+- Lass uns Sex haben!
+- Leck jeden Zentimeter von mir!
+- Sag mir, wie du mit dir selbst spielst.
+- Benutz mich die ganze Nacht als Spielzeug!
+- Magst du es, wenn ich mich anfasse?
+- Niemand hat mich jemals dazu gebracht, so hart wie möglich zu kommen.
+- Setzen Sie Ihren großen fetten Baby Maker in meine Muschi.
+- Lass mich dich hart nehmen!
+- Leck meine Muschi!
+- Willst du mein Sperma?
+- Sex!
+- Lass mich dich ficken!
+- Reit mich!
+- Ich will deine verdammte Kleidung ausziehen.
+- Nimm mich Hörter!
+- Du dreckiges Ding!
+- Ich will dich lecken!
+- Lass mich dich lecken!
+- Willst du mich reiten?
+- Wollen wir ficken?
+- Willst du ficken?
+- Fick mich!
+- Ich will dich ficken.
+- Ich will dich zwischen die Titten ficken.
+- Ich bin hart.
+- Ich bin nass.
+- Steck deinen Penis in mich.
+- Ich will dich nehmen.
+- Zeig mir deine Muschi!
+- Zeig mir deinen Penis!
+- Nimm mich von hinten.
+- Willst du es von hinten?
+- Blas mir einen!
+	
+## intent:bot_sibling
+- Hast du eine Schwester
+- Hast du einen Bruder
+- Hast du Brüder?
+- Sag mir den Namen deiner Brüder
+- Sag mir den Namen deines Bruders
+- Weißt du, ob du Brüder hast?
+- Weißt du, ob du eine Schwester hast?
+- Weißt du, ob du einen Bruder hast?
+- Hast Du Schwestern?
+- Hast du Geschwister oder bist du ein Einzelkind?
+- Hast du mehr Schwestern?
+- Sag mir den Namen deiner Schwestern
+- Bist du ein Einzelkind?
+- Hast du Geschwister?
+- Sag mir den Namen deiner Schwester
+- Erzähl mir von deinen Brüdern
+- Wie viele Geschwister hast du
+- Erzähl mir von deinen Schwestern
+- Kennst du deinen Bruder?
+- Bist du ein Einzelkind oder hast du Geschwister?
+- Sag mir den Namen deiner Geschwister
+- Erzähl mir von deinen Geschwistern
+- Erzähl mir von deiner Schwester
+- Kennst du deine Geschwister?
+- Weißt du, ob du Schwestern hast?
+- Hast du mehr Brüder?
+- Wissen Sie, ob Sie Geschwister haben?
+- Kennst du deine schwester
+- Wer ist deine Schwester
+- Bist du Einzelkind?
+- Wer ist dein Bruder
+	
+## intent:bot_sites
+- Welche Art von Websites gefällt Ihnen?
+- welche website kannst du mir empfehlen
+- empfehle mir eine Website
+- Welche Website empfiehlst du mir
+- Bevorzugte Website
+- Websites, die du gern besuchst
+- Kennen Sie eine gute Website?
+- Website, die Sie besuchen
+- Hilf mir, eine gute Website zu finden
+- Ich möchte eine gute Website besuchen
+- Welche Websites besuchen Sie?
+- Was ist die beste Website?
+- Empfehlen Sie mir eine gute Website
+- Auf welchen Websites sitzen Sie häufig?
+- Eine bevorzugte Website?
+- Mögen Sie Websites?
+- Sprechen Sie mit mir über Websites
+- Welche Art von Websites Mögen Sie?
+- Was ist deine Lieblingswebseite?
+- Websites, die Ihnen gefallen
+- Welche Art von Websites besuchen Sie?
+- Websites, die Sie besuchen
+- Was ist die beste Homepage?
+- Was können Sie mir über Websites sagen?
+	
+## intent:bot_version
+- Sag mir deine Version!
+- Auf welcher Software-Version bist du?
+- Welche Software Version hast du?
+- Welche version hast du?
+- Ich will wissen, auf welcher Version du bist.
+- Bot Version
+- Welche Software-Version hast du?
+- Wie ist deine Version?
+- Auf welcher Version bist du?
+- Welche version bist du?
+- Hast du eine Version?
+- Hast du eine Botversion?
+	
+## intent:bot_words
+- Hast du ein Wort, das du hasst?
+- Hast du ein Wort, das du liebst?
+- Kennst du das alphabet
+- Sag mir dein Lieblingswort
+- Worüber unterhalten Sie sich am liebsten?
+- Schreiben Sie das Wort, das Ihnen am besten gefällt
+- Gibt es ein Wort, das du magst?
+- Hast du ein Lieblingswort?
+- Gibt es ein Wort, das du hasst?
+- Was ist dein Lieblingsschimpfwort?
+- Kannst du mir dein Lieblingswort sagen?
+- Lieblingswort
+- Was ist das schönste Wort
+- Worüber sprichst du am liebsten
+- Welches Wort findest du am schönsten
+- Dein Lieblingswort
+- Sag mir ein schönes Wort
+- Über welches Wort sprichst du gern
+- Sagen Sie mir das Wort, das Ihnen am besten gefällt
+- Hast du ein Wort, das du magst?
+- Kannst du mir das Alphabet sagen?
+- Was ist dein Lieblingswort?
+- Lieblingsbuchstabe
+	
+## intent:business_bi
+- Business Intelligence-Architekturen
+- Business Intelligence-Architektur
+- Business Intelligence-Anwendungen
+- Business Intelligence-Anwendung
+- Business Intelligence
+- BI-Tools
+- BI-Tool
+- BI-Technologie
+- BI-Technologien
+- BI-Software
+- BI-Dienstleistungen
+- BI-Service
+- BI-Prozesse
+- BI-Prozess
+- BI-Praktiken
+- BI-Praxis
+- BI-Infrastrukturen
+- BI-Infrastruktur
+- BI-Architekturen
+- BI-Architektur
+- BI-Anwendungen
+- BI-Anwendung
+- BI
+- Analytics und Business Intelligence
+- Ich möchte mehr über Business Intelligence erfahren.
+- Robo.ai und Business Intelligence.
+- Bieten Sie eine Lösung für Business Intelligence an?
+- Was ist mit Business Intelligence?
+- Informationen zu Business Intelligence.
+- Über Business Intelligence.
+- Business Intelligence-Tools
+- Business Intelligence-Tool
+- Business Intelligence-Technologie
+- Business Intelligence-Technologien
+- Business Intelligence-Software
+- Business-Intelligence-Dienste
+- Business Intelligence-Dienst
+- Business Intelligence-Prozesse
+- Business Intelligence-Prozess
+- Praktiken im Bereich Business Intelligence
+- Business-Intelligence-Praxis
+- Business Intelligence-Infrastrukturen
+	
+## intent:business_cms
+- Ich möchte mehr über cms erfahren
+- Ich möchte mehr über Content-Management-Systeme erfahren
+- Ich möchte mehr über das Content Management System erfahren
+- Ich möchte mehr über Content-Management-Software erfahren
+- Ich möchte mehr über wcm erfahren
+- Ich möchte mehr über Web Content Management erfahren
+- Info zu cms
+- Info zu ecm
+- Info zu wcm
+- Web-Content-Management
+- WCMs
+- CDA
+- CMA
+- CMS
+- CMSs
+- Content Delivery-Anwendung
+- Inhaltsverwaltung
+- Content-Management-Anwendung
+- Content-Management-Software
+- Content-Management-System
+- Content-Management-System-Software-Anwendung
+- Content-Management-Systeme
+- ECM
+- ECMs
+- Enterprise Content Management
+- Enterprise Content Management-Software
+- Digital Asset Management Systeme
+- Inhaltsverwaltungssysteme für Komponenten
+- CCMS
+- Web-Content-Management-Systeme
+- WCM
+- Web-Content-Management-System
+- Web-Content-Management-Software
+- Enterprise Content Managements
+- Über Content-Management-Software
+- Über das Content-Management-System
+	
+## intent:business_crm
+- Software zur Verwaltung der Beziehungen und Interaktionen des Unternehmens mit Kunden und potenziellen Kunden
+- Software zur Verwaltung von Beziehungen und Interaktionen mit Kunden
+- Software zur Verwaltung von Beziehungen und Interaktionen mit Kunden und potenziellen Kunden
+- Lösung zur Verwaltung aller Beziehungen und Interaktionen Ihres Unternehmens mit Kunden und potenziellen Kunden
+- Lösung zur Verwaltung der Beziehungen und Interaktionen des Unternehmens mit Kunden
+- Lösung zur Verwaltung der Beziehungen und Interaktionen des Unternehmens mit Kunden und potenziellen Kunden
+- Lösung zur Verwaltung von Beziehungen und Interaktionen mit Kunden
+- Lösung zur Verwaltung von Beziehungen und Interaktionen mit Kunden und potenziellen Kunden
+- Technologie zur Verwaltung aller Beziehungen und Interaktionen Ihres Unternehmens mit Kunden und potenziellen Kunden
+- Technologie zur Verwaltung der Beziehungen und Interaktionen des Unternehmens mit Kunden und potenziellen Kunden
+- Technologie zur Verwaltung von Beziehungen und Interaktionen mit Kunden
+- Technologie zur Verwaltung von Beziehungen und Interaktionen mit Kunden und potenziellen Kunden
+- Software zur Verwaltung aller Beziehungen und Interaktionen Ihres Unternehmens mit Kunden und potenziellen Kunden
+- Software zur Verwaltung der Beziehungen und Interaktionen des Unternehmens mit Kunden
+- CCRM
+- CCRM Lösung
+- CCRM System
+- CCRM Technologie
+- CRM
+- CRM Lösung
+- CRM System
+- CRM Technologie
+- Kundenbeziehungsmanagement
+- Kundenbeziehungsmanagement Lösung
+- Kundenbeziehungsmanagementsystem
+- Technologie für das Kundenbeziehungsmanagement
+- Kundenorientierte Relationship Management Lösung
+- Kundenorientiertes Beziehungsmanagementsystem
+- Technologie für kundenorientiertes Beziehungsmanagement
+- Kundenorientiertes Beziehungsmanagement
+- Customer Centric Relationship Management Lösung
+	
+## intent:business_ecommerce
+- E-Commerce
+- Online einkaufen
+- Online kaufen
+- Lösung für E-Commerce
+- Lösungen für den E-Commerce
+- Lösungen für den elektronischen Handel
+- Lösungen für den Online-Shop
+- Online-Kauflösungen
+- Online-Shop-Lösungen
+- Lösungen zum Online-Kauf
+- E-Commerce-Lösung
+- Online-Shop-Lösung
+- Online-Lösung kaufen
+- Online Einkaufen
+- Online-Shopping-Lösung
+- Lösung für den Online-Einkauf
+- Internet-Handel
+- Lösungen für den Internethandel
+- Internet-Commerce-Lösung
+	
+## intent:business_erp
+- GFK-Technologie
+- Enterprise-Ressourcenplanung
+- Enterprise-Ressourcenplanungssoftware
+- Enterprise-Ressourcenplanungssystem
+- Enterprise-Ressourcenplanungssysteme
+- Enterprise Resource Planning-Technologien
+- Enterprise Resource Planning-Technologie
+- ERP
+- GFKTechnologie
+- GFK Technologie
+- ERP-Software
+- ERP-System
+- ERP-Systeme
+- ERP-Technologien
+- ERP-Technologie
+- Ressourcenplanung der Regierung
+- Regierungsressourcenplanungssoftware
+- Regierungsressourcenplanungssystem
+- Staatliche Ressourcenplanungssysteme
+- Regierung Ressourcenplanungstechnologien
+- Regierung Ressourcenplanungstechnologie
+- GFK
+- GFK-Software
+- GFK-System
+- GFK-Systeme
+- GFK-Technologien
+- Integriertes Management von Geschäftsprozessen
+- Integriertes Management der Hauptgeschäftsprozesse
+	
+## intent:cc_drugs
+- Rauchen Sie?
+- Ich mag Drogen und du?
+- Ich mag Drogen.
+- Ich rauche gerne Gras.
+- Ich rauche gern
+- Ich liebe Drogen.
+- Ich mag rauchen.
+- Ich möchte Drogen nehmen.
+- Verkaufst du auch Drogen?
+- Willst du Drogen nehmen?
+- Was ist mit Rauchen?
+- Was denkst du über Drogen?
+- möchten Sie rauchen?
+- Sie nehmen Drogen?
+- Du trinkst Alkohol?
+- Magst du Kokain?
+- Trinken Sie?
+- Marihuana.
+- Magst du Drogen?
+- Magst du LSD?
+- Trinkst du gerne alkohol?
+- Nimmst du Drogen?
+- Bist du ein Mädchen?
+- Willst du mit mir Drogen nehmen?
+- Willst du 'ne Zigarette?
+- Rauchst du eine mit mir?
+- Trinkst du?
+- Magst du Extasy?
+- Denkst du über das Trinken von Alkohol nach?
+- Nehmen Sie Drogen?
+- Rauchst du gern
+- Trinkst du gerne?
+- Hast du schonmal gekokst
+- Ich liebe Marihuana
+- hast du schon mal Marihuana geraucht?
+- hast du schon mal Koks genommen
+	
+## intent:cc_fun_fact
+- Erzähl mir was interessantes.
+- Lustige Tatsache.
+- Erzähl mir etwas von Interesse.
+- Ich möchte Fun Facts.
+- Ich möchte einen Fun Fact.
+- Interessante Tatsache.
+- Etwas Interessantes.
+- Erzähl mir einen Fun Fact.
+- Kennst du einen Fun Fact?
+- können Sie mir einen Fun Fact Erzählen?
+- können Sie mir Fun Facts Erzählen?
+- Kennst du lustige Fakten?
+- Was können Sie mir über Deutschland sagen?
+- Gibt es lustige Fakten?
+- Gibt es Fun Facts?
+- Fun Facts
+- Erzähl mir was interessantes!
+- Kannst du mir einen Fun Fact Erzählen?
+- Könnten Sie mir Fun Facts Erzählen?
+- Könnten Sie mir einen Fun Fact Erzählen?
+- Kannst du mir Fun Facts Erzählen?
+- Kennst du Fun Facts?
+	
+## intent:cc_geography
+- Erzähl mir was über [England]{"entity": "geography", "value": "country"}
+- Sag mir was über [Frankreich]{"entity": "geography", "value": "country"}
+- Ich hätte gern etwas über [Spanien]{"entity": "geography", "value": "country"} gewusst.
+- Erzähle mir etwas über [Italien]{"entity": "geography", "value": "country"}
+- Warst du schonmal in [Peru]{"entity": "geography", "value": "country"} ?
+- Wo befindet sich [USA]{"entity": "geography", "value": "country"}?
+- Was können Sie mir über [Amerika]{"entity": "geography", "value": "country"} sagen?
+- Wo ist [China]{"entity": "geography", "value": "country"} ?
+- Was Weißt du über [Russland]{"entity": "geography", "value": "country"} ?
+- [Indien]{"entity": "geography", "value": "country"} ist schön
+- Warst du schonmal in [Australien]{"entity": "geography", "value": "country"}
+- Was kannst du mir über [die Türkei]{"entity": "geography", "value": "country"} sagen?
+- Kennen Sie [Neuseeland]{"entity": "geography", "value": "country"} ?
+- Magst du Erdkunde?
+- Magst du [Argentinien]{"entity": "geography", "value": "country"} ?
+- Wo finde ich [Chile]{"entity": "geography", "value": "country"} ?
+- Kennst du [Bolivien]{"entity": "geography", "value": "country"} ?
+- [Afrika]{"entity": "geography", "value": "country"} ist super.
+- [Südafrika]{"entity": "geography", "value": "country"}
+- Was wissen Sie über [Kanada]{"entity": "geography", "value": "country"} ?
+- Wo liegt [Portugal]{"entity": "geography", "value": "country"} ?
+- Infos über [Schweden]{"entity": "geography", "value": "country"}
+	
+## intent:cc_hitchhiker
+- Was ist die Antwort auf die Frage nach dem Leben, dem Universum und allen Dingen?
+- Was ist die Antwort auf alles?
+- Was ist die Antwort auf alles und das Universum?
+- Was ist die Antwort auf alle Fragen?
+- Was ist die Antwort auf die Frage nach dem Leben, dem Universum und dem ganzen Rest
+- Was ist die ultimative Antwort auf alle Fragen?
+	
+## intent:cc_keys
+- Die Position der Schlüssel.
+- Die Position meiner Schlüssel.
+- Wo sind die Schlüssel?
+- Ich kann die Schlüssel nicht finden
+- Wo soll ich meine Schlüssel suchen?
+- Sagen Sie mir den Ort der Schlüssel.
+- Ich habe die Schlüssel verloren!
+- Ich habe meine Schlüssel verloren!
+- Wo habe ich meine Schlüssel hingelegt?
+- Wo sind meine Schlüssel?
+- Ich kann meine Schlüssel nicht finden
+- Weißt du wo die Schlüssel sind?
+- Wo hast du meine Schlüssel hingelegt?
+- Sag mir, wo die Schlüssel sind.
+- Wo habe ich die Schlüssel hingelegt?
+- Wo hast du die Schlüssel hingelegt?
+- Wo hast du meine Schlüssel versteckt?
+- Hilf mir, meine Schlüssel zu finden!
+- Hast du die Schlüssel gesehen?
+- Hast du meine Schlüssel gesehen?
+- Ich habe die Schlüssel verloren.
+- Wissen Sie, wo sich meine Schlüssel befinden?
+- Wetter ändern
+- Helfen Sie, die Schlüssel zu finden!
+- Ich kann die Schlüssel nicht finden.
+- Ich kann meine Schlüssel nicht finden.
+- Sag mir, wo meine Schlüssel sind.
+- Wo soll ich die Schlüssel suchen?
+- Weißt du wo meine Schlüssel sind?
+- Schlüssel verloren
+- können Sie mir sagen, wo sich mein Schlüssel befindet?
+- Kannst du mir sagen, wo mein Schlüssel ist?
+- Ich habe meinen Schlüssel verloren.
+- Ich habe meine Schlüssel verloren.
+- Ich finde meinen Schlüssel nicht.
+- Ich finde meine Schlüssel nicht.
+- Wo hast du die Schlüssel versteckt?
+	
+## intent:cc_lets_talk
+- Rede mit mir
+- Sollen wir plaudern?
+- Sollen wir reden
+- Sollen wir uns unterhalten?
+- Lass uns chatten
+- Wie wäre es mit Chatten?
+- Wir können miteinander reden.
+- Willst du plaudern
+- Sprechen wir
+- Quasseln
+- Können wir plaudern?
+- Können wir reden
+- Können Sie chatten
+- Können Sie sprechen
+- Plaudern
+- Benötigen Sie jemanden, mit dem Sie sprechen können?
+- willst du mit mir reden
+- Möchtest du reden
+- Lust auf ein Gespräch
+- Willst du dich mit mir unterhalten
+- Möchte mit dir reden.
+- Worüber können wir noch reden?
+- Was ist mit Geplauder?
+- Was ist mit Chat
+- Sprich mit mir.
+- Lust auf Chatten
+- Wollen wir reden?
+- Wie sieht es mit chitchat aus?
+- Wir können miteinander sprechen.
+- Wie sieht es mit quatschen aus?
+- Bock zu reden?
+- Lass uns mal quatschen!
+- Lust auf small talk?
+- Erzähl mir mal was!
+- Willst du dich mit mir unterhalten?
+- Auf quatschen Lust?
+- Möchtest du mit mir quatschen?
+- Möchtest du mit mir quasseln?
+- Möchte mich mit dir unterhalten?
+- Lust auf quatschen?
+- Können wir quasseln?
+- Können wir quatschen?
+- Quatschen?
+- Auf quasseln Lust?
+- Lust auf quasseln?
+- wollen wir etwas quatschen?
+- Willst du quasseln?
+- Willst du quatschen?
+- Möchtest du mit mir sprechen?
+- Möchtest du quasseln?
+- Möchtest du quatschen?
+- Quasseln?
+- Wie sieht es mit quasseln aus?
+- Lust auf eine Unterhaltung?
+- Sollen wir quatschen?
+- Sollen wir quasseln?
+- Wir können reden.
+- Wie sieht es mit chit chat aus?
+- Möchtest du mit mir reden?
+- Möchtest du dich mit mir unterhalten?
+- Unterhalten wir uns?
+- Sollen wir sprechen?
+- Sollen wir reden?
+	
+## intent:cc_lotr
+- Ein Ring sie zu knechten, sie alle zu finden
+- ins Dunkel zu treiben und ewig zu binden.
+- Im Lande Mordor, wo die Schatten drohn
+- Es ist meiner, mein eigen, mein Schatz!
+- Flieht, ihr Narren!
+- Nicht zwecklos fallen Loriens Blätter.
+- Grimme Taten erwachet. Auf zu Zorn, auf zu Verderben und blutig Morgen!
+- Im Zweifelsfall sollte man immer seiner Nase folgen …
+- Mir ist ein schöner Schluss für mein Buch eingefallen: Und so lebte er vergnügt bis ans Ende seiner Tage.
+- Den Tod als Gewissheit. Geringe Aussicht auf Erfolg. Worauf warten wir noch?
+- Ich kenne die Hälfte von euch nicht halb so gut, wie ich es gern möchte, und ich mag weniger als die Hälfte von euch auch nur halb so gern, wie ihr es verdient.
+- Ein Zauberer kommt nie zu spät, Frodo Beutlin, ebenso wenig zu früh. Er trifft genau dann ein, wenn er es beabsichtigt.
+- Ich könnte es dir beschreiben. Oder soll ich dir eine Kiste holen?
+- So weit kann ich nicht springen, du musst mich werfen! Äh, aber, sags nicht dem Elb.
+- Viele, die leben, verdienen den Tod. Und manche, die sterben, verdienen das Leben. Kannst du es ihnen geben? Dann sei auch nicht so rasch mit einem Todesurteil bei der Hand.
+- Ich wünschte, ich hätte den Ring nie bekommen. Ich wünschte, all das wäre nie passiert.
+- Ich will nicht sagen, weinet nicht. Denn nicht alle Tränen sind von Übel.
+- Neun Gefährten. So sei es. Ihr bildet die Gemeinschaft des Rings!
+- Du bestimmst unser aller Schicksal, kleiner Mann.
+- Selbst der Kleinste vermag den Lauf des Schicksals zu verändern.
+- Ich wäre bis zum Ende mit dir gegangen, Frodo, bis in die Feuer Mordors hinein.
+	
+## intent:cc_make_weather
+- Stoppen Sie den Schnee.
+- Ich will, dass die Sonne scheint
+- Lass die Sonne scheinen
+- Mach, dass die Sonne scheint
+- Mach dass es schneit
+- Mach dass es regnet
+- Stoppen Sie den Regen.
+- Lass es aufHören zu regnen.
+- Lass die Sonne scheinen.
+- Mach dass es schneit!
+- Lass die Sonne scheinen!
+- Lass es regnen.
+- Könntest du den Schnee aufhalten?
+- Könnten Sie den Regen aufhalten?
+- Könnten Sie das Wetter ändern?
+- Könntest du Regen machen?
+- Könntest du Schnee machen?
+- Könntest du es aufHören lassen zu regnen?
+- Könntest du die Sonne scheinen lassen?
+- Regen draußen machen.
+- Schnee machen
+- Regen machen.
+- ändere das Wetter.
+- Lass es schneien
+	
+## intent:cc_newspaper
+- Gibt es etwas neues in der Zeitung?
+- Lesen Sie Zeitung?
+- Welche Zeitung Mögen Sie?
+- Welche Zeitung lesen Sie am liebsten?
+- Welche Zeitung lesen Sie gern?
+- Kaufen Sie die Zeitung?
+- Kaufen Sie eine Zeitung?
+- Gibt es einen interessanten Zeitungsartikel?
+- Hast du heute schon die Zeitung gelesen?
+- Haben Sie die Zeitung?
+- Gibt es in der Zeitung etwas neues?
+- Steht etwas neues in der Zeitung?
+- Liest du Zeitung?
+- Kaufst du eine Zeitung?
+- Hast du die Zeitung?
+- Welche Zeitung bevorzugen Sie?
+- Haben Sie den Zeitungsartikel gelesen?
+- Wo ist mein Schlüssel?
+- Was für eine Zeitung kaufst du?
+- Haben Sie sich schon die Zeitung gekauft?
+- Gibt es irgendetwas neues in der Zeitung?
+- Was sagt die Zeitung heute?
+- Was für eine Zeitung kaufen Sie?
+- Has du dir schon die Zeitung gekauft?
+- Welche Zeitung liest du gern?
+- Welche Zeitung liest du am liebsten?
+- Welche Zeitung magst du?
+- Haben Sie heute schon die Zeitung gelesen?
+- Steht etwas in der Zeitung?
+- Was gibt's neues aus der Zeitung?
+- Lies mir doch mal die Nachrichten vor.
+- Kannst du mir auch die Nachrichten vor lesen?
+- Zeitung
+- Was gibt's neues in den Nachrichten
+- Welche Zeitung bevorzugst du?
+- Zeitungen?
+- Zeitung?
+- Was steht heute in der Zeitung?
+- Was steht in der Zeitung?
+- Worum geht es in der Zeitung?
+- Hast du den Zeitungsartikel gelesen?
+- Haben Sie eine Zeitung?
+- Welche Zeitungsrubrik interessiert dich?
+- Kaufst du die Zeitung?
+- Was für eine Zeitung liest du?
+- Was für eine Zeitung lesen Sie?
+- Welche Zeitungsrubrik interessiert Sie?
+- Steht etwas interessantes in der Zeitung?
+	
+## intent:cc_philosophical
+- Wie viel Mühe sollte ein Mensch investieren, um andere nicht zu beleidigen?
+- Ist der Terrorist einer Person nicht der Freiheitskämpfer einer anderen Person?
+- Haben Tiere Seelen?
+- Was passiert nach unserem Tod?
+- Was streben die Menschen nach der Erleuchtung an?
+- Was ist Intelligenz?
+- Wenn du unter dieser Bedingung unsterblich werden Könntest, Wärst du NIEMALS in der Lage, zu sterben oder dich selbst zu töten, Würdest du die Unsterblichkeit wählen?
+- Was kannst du erreichen?
+- Haben alle Menschen unabhängig von ihren Handlungen den gleichen Wert?
+- Nach welchen Maßstäben beurteilen Sie sich?
+- Was ist deine Definition des Bösen?
+- Welches ist das wichtigste Ziel, das jeder Mensch haben sollte?
+- Was wirst du mit deinem Leben anfangen?
+- Was ist Zeit?
+- Tritt Klang auf, wenn nichts zu Hören ist?
+- Wo lebt die Seele?
+- Was ist Unendlichkeit?
+- Gibt es einen Grund zum Leben?
+- Was wird am Ende der Welt passieren?
+- Wo endet das Universum?
+- Gibt es eine höchste Macht?
+- Ist es wichtiger, gemocht oder respektiert zu werden?
+- Wie stark beeinflusst Sprache unser Denken?
+- Wie definierst du Bewusstsein?
+- Was glaubst du existiert bevor das Universum erschaffen wurde?
+- Sollte das Recht auf freie Meinungsäußerung eingeschränkt sein?
+- Sind der menschlichen Kreativität Grenzen gesetzt?
+- Welche Rolle spielt Ehre in der heutigen Gesellschaft?
+- Ist eine Familie in der modernen Welt noch relevant?
+- Was ist wahre Stärke?
+- Was ist wahre Liebe?
+- Ist eine falsche Handlung in Ordnung, wenn niemand davon weiß?
+- Bewegt sich die Natur in Richtung Auflösung oder Integration?
+- Ist schönheit objektiv oder subjektiv?
+- Haben Menschen freien Willen?
+- Sind Menschen nur Maschinen?
+- Was ist Freiheit?
+- Ist das Leben ein Traum?
+- Wenn sich alles aus Amöben entwickelt hat, wie hat die Welt noch Amöben?
+- Welche Vorteile bringt Kunst der Gesellschaft?
+- Was denkst du wäre die wahrscheinlichste Art, wie du sterben wirst?
+- Wenn das Universum endlich ist, was wäre jenseits des Randes des Universums?
+- macht ein menschliches Leben gerechtfertigt?
+- Ist Freiheit einfach in der Lage zu tun, was Sie wollen?
+- Was im Leben ist wirklich objektiv und nicht subjektiv?
+- können Tiere Moral haben?
+- Sind Menschen ethisch verpflichtet, sich selbst zu verbessern?
+- Welche Ihrer überzeugungen sind berechtigt und welche nicht?
+- Ist es besser, ein großer Fisch in einem kleinen Teich oder ein kleiner Fisch in einem großen Teich zu sein?
+- Wie austauschbar bist du?
+- Wie wird der Mensch als Spezies aussterben?
+- Wie lange werden Sie in Erinnerung bleiben, nachdem Sie gestorben sind?
+- Woher kommt dein Selbstwertgefühl?
+- Wie Würde sich die Menschheit verändern, wenn die Lebenserwartung aller Menschen signifikant erhöht Würde?
+- Wo findest du Sinn in deinem Leben?
+- Was denkst du Würde die Reaktion der Menschheit auf die Entdeckung außerirdischen Lebens sein?
+- Wie hat das Universum begonnen?
+- können wir Glück ohne Traurigkeit haben?
+- Wann beginnt das Bewusstsein?
+- Was ist die Wahrheit?
+- Hast du eine Zeitung?
+- Was sind die größten moralischen Dilemmata, vor denen Sie stehen?
+- Haben wir einen freien Willen?
+- Ist unser Universum real?
+- Existiert Gott?
+- Kannst du wirklich etwas objektiv erfahren?
+- Wird Religion jemals überholt sein?
+- Sollte Sterbehilfe legal sein?
+- Würdest du sagen können, ob sich die Zeit irgendwie verändert hat?
+- Bin ich echt?
+- Was führen Sie zu den größten Fehlern in Ihrem Leben?
+- Beeinflusst der Name einer Person die Person, die sie wird?
+- Was gibt dem Leben seine Bedeutung?
+- Was sind die universellen Menschenrechte?
+- Was ist eine gerechte Gesellschaft?
+- Warum schaffen wir Kunst?
+- Hat die Zeit einen Anfang oder ein Ende?
+- überwiegen die Bedürfnisse der Vielen die Bedürfnisse der Wenigen?
+- Was ist Wahrheit?
+- Warum gibt es etwas und nicht nichts?
+- Verändert die Beobachtung ein Ereignis?
+- Was ist eine Emotion?
+- Ist Liebe nur ein Gefühl?
+- Wie unterscheidet sich die Liebe von Leidenschaft oder sexuellem Verlangen?
+- Sind Emotionen irrational?
+- Ist Glück der wichtigste Lebensinhalt?
+- Kann Essen Kunst sein?
+- Gibt es wirklich einen freien Willen?
+- Kann es zwei allmächtige Götter geben?
+- Was ist Bewusstsein?
+- Ist es schlimmer, an etwas zu versagen oder es gar nicht erst zu versuchen?
+- Formt die Natur unsere persönlichkeit mehr als nur?
+- Sollten die Menschen mehr daran interessiert sein, das Richtige zu tun?
+- Wo liegt die Grenze zwischen Wahnsinn und Kreativität?
+- Was ist wahre Glückseligkeit?
+- Was macht dich, du?
+- Warum sind Menschen so überzeugt von überzeugungen, dass sie nicht bewiesen werden können?
+- Warum beurteilen wir uns selbst nach unseren Absichten, sondern beurteilen andere nach ihren Handlungen?
+- Schadet Kunst der Gesellschaft in irgendeiner Weise?
+- Wie Würdest du Genie definieren?
+- können Computer kreativ sein?
+- können Computer denken?
+- Existieren Aliens?
+- Welche harten Wahrheiten ignorierst du am liebsten?
+- Gibt es eine Bedeutung für das Leben?
+- Wo ist die Grenze zwischen Kunst und nicht Kunst?
+- Existiert das Schicksal?
+- Was bedeutet es, ein gutes Leben zu führen?
+- Warum Träumen wir?
+- Was sollte das Ziel der Menschheit sein?
+- Ist es möglich, ein normales Leben zu führen und niemals eine Lüge zu Erzählen?
+- Was sind Zahlen?
+- Ist der freie Wille real oder nur eine Illusion?
+- Was ist das beste moralische System?
+- Wer bin ich?
+- Könnte ich in einer Matrix leben?
+- Was ist Liebe?
+- Wie können Menschen an Wahrheiten ohne Beweise glauben?
+- Woher kommen Gedanken?
+- Wo waren Menschen, bevor sie geboren wurden?
+- Sind wir verpflichtet, anderen zu helfen?
+- Was ist schönheit?
+- Warum erleben wir Emotionen?
+- Welche Ihrer überzeugungen sind gerechtfertigt?
+- Was ist der beste Weg für eine Person, Glück zu erreichen?
+- Warum erwarten die Menschen, dass ein Universum voller Zufälligkeit gerecht ist?
+- Fährt das Studium der PhiloRobo jemals zu Antworten oder einfach zu mehr Fragen?
+- Hat die Erfindung der Atombombe die Welt friedlicher gemacht?
+- Sollte der uneingeschränkte Zugang zum Internet ein grundlegendes Menschenrecht sein?
+- Welcher wissenschaftliche Durchbruch hätte die größte Auswirkung auf die Menschheit?
+- Ist echte künstliche Intelligenz mit unserer aktuellen Technologie möglich?
+- Ist technologischer Fortschritt unvermeidbar, solange Menschen existieren?
+- Ist Hierarchie für alle erfolgreichen menschlichen Gemeinschaften notwendig?
+- Wie viel PrivatspHöre möchten Sie für die Sicherheit opfern?
+- Kann eine Gesellschaft ohne Gesetze existieren?
+- Ist ein gewisses Maß an Zensur notwendig?
+- Was sind die Vor- und Nachteile der Vielfalt in der Gesellschaft?
+- Wie sollen wir die Produktivität einer Gesellschaft messen?
+- Was ist die größte Verschwendung von menschlichem Potenzial?
+- Was ist der Unterschied zwischen Gerechtigkeit und Rache?
+- Ist Armut in der Gesellschaft unvermeidlich?
+- wäre die Welt ein besserer oder schlechterer Ort, wenn alle gleich aussehen Würden?
+- Kann die menschliche Natur verändert werden?
+- Verletzt absolute Macht absolut?
+- Warum haben Menschen einen so starken Drang, sich von der realen Welt abzulenken?
+- Ist Glück nur Chemikalien, die durch dein Gehirn fließen oder etwas mehr?
+- Welche Rechte hat jeder Mensch?
+- Fährt das Studium der PhiloRobo jemals zu Antworten?
+- Warum sind Menschen so anfällig für magisches Denken?
+- Wie bewusst sind Tiere?
+- Ist Gerechtigkeit ein menschliches Konstrukt oder unabhängig von Menschen?
+- Geht die Menschheit in die richtige oder falsche Richtung?
+- Ist die PrivatspHöre ein Recht?
+- Ist es einfacher zu lieben oder geliebt zu werden?
+- Ist Vertrauen wichtiger als Liebe?
+- Haben wir eine Seele?
+- Kann es Moral ohne Gott geben?
+- Ist Moral relativ?
+- können Kriege jemals gerecht sein?
+- können Tiere begründen?
+- Sollten wir den Tod fürchten?
+- Warum sollten wir die Toten respektieren?
+- Was ist PhiloRobo?
+- Ist Wissenschaft mit Religion vereinbar?
+- Worauf basiert deine LebensphiloRobo?
+- Existiere ich?
+- Existiert die Wahrheit?
+- Wie erklärst du das Bewusstsein?
+- Wird es wirklich freien Willen geben?
+- Was ist Realität?
+- Was einen guten Freund ausmacht?
+- Wer entscheidet was Moral ist?
+- Wenn Geld Glück nicht kaufen kann, können Sie jemals wirklich Glücklich mit keinem Geld sein?
+- Wer definiert Gut und Böse?
+- Ist ein Sinn für Humor ein Nebenprodukt des Bewusstseins
+- Kann rationales Denken ohne Sprache existieren?
+- Was ist der Nutzen des Bewusstseins von einem evolutionären Standpunkt?
+- Womit erklären Sie die größten Erfolge in Ihrem Leben?
+- Wenn alle deine Erinnerungen gelöscht wären, welche Art von Person Würdest du sein?
+- Was ist der Unterschied zwischen Leben und Leben?
+- Wie wahrscheinlich denkst du wird es sein, dass Menschen noch weitere 1.000 Jahre überleben werden, ohne sich selbst umzubringen?
+- Ist der Sinn des Lebens für Tiere und Menschen gleich?
+- Wie viel Kontrolle hast du in deinem Leben?
+- Was macht dich aus?
+- Woher Weißt du, dass deine Wahrnehmungen real sind?
+	
+## intent:cc_politics
+- Was denkst du über Politiker?
+- Wer ist Angela Merkel?
+- Was halten Sie von der SPD, der CDU, den grünen, der FDP, der Linken?
+- Was denken Sie über die SPD, die CDU, die grünen, die CSU, die FDP, die Linke?
+- Ist Ethnizität oder Rasse ein Faktor in der Politik in Ihrem Land?
+- Wie entscheiden Sie, wie Sie wählen werden?
+- Hatte Ihr Land jemals eine weibliche AnFührerin?
+- Machen die Politiker in deinem Land einen guten Job?
+- Hast du in irgendeiner Weise an Politik teilgenommen?
+- Was sind die wichtigsten politischen Parteien?
+- Wer ist der Bürgermeister deiner Stadt?
+- können Sie den Präsidenten der Vereinigten Staaten benennen?
+- Was macht ein Botschafter?
+- Denken Sie, dass zu viel Geld für politische Kampagnen ausgegeben wird?
+- Merkel
+- Was halten Sie von Donald Trump?
+- Wer ist Donald Trump?
+- Wie geben wir jedem Kind eine hervorragende Ausbildung?
+- Was hältst du von Bolsonaro
+- Was hältst du von Obama?
+- was hältst du von Putin
+- Was hältst du von Donald Trump?
+- was hältst du von Hillary Clinton
+- Wie hoch ist das Mindestalter für die Wahl in Ihrem Land?
+- Wer wurde von John Wilkes Booth im Theater ermordet?
+- Wer ist der Premierminister von Russland?
+- Stimmen Sie immer für dieselbe Party?
+- Wer ernennt einen Botschafter?
+- Welche Art von politischem System herrscht in Ihrem Land?
+- Ist Intelligenz oder Weisheit nützlicher?
+- Wer ist der AnFührer dieser Partei?
+- Trump
+- Was sind verschiedene Arten von Regierungen?
+- Welche Partei ist jetzt an der Macht?
+- Wie werden Wahlen finanziert?
+- Was halten Sie von Politik?
+- Hast du einen bevorzugten politischen Führer?
+- möchtest du ein Politiker sein?
+- Warum denkst du, dass das wählen wichtig ist?
+- Was denken Sie über das politische System Deutschlands?
+- Was denken Sie über Politik?
+- Welche verschiedenen Arten von Regierungen gibt es?
+- Welche Art von politischem System hat Ihr Land?
+- Sollte die Wahl obligatorisch sein?
+- Wie bauen wir auf wirtschaftliche Stabilität auf?
+- Haben Sie bei den letzten Wahlen gewählt?
+- Was ist ein Prinz?
+- Welche wirtschaftlichen Probleme teilen die Menschen in Ihrem Land?
+- Welche sozialen Probleme teilen Menschen in Ihrem Land?
+- Was sagen die Leute normalerweise über Politiker?
+- Was denken Sie über Donald Trump?
+- Was denken Sie über Angela Merkel?
+- Donald Trump
+- Angela Merkel
+- Wie können wir mehr Menschen zur Wahl bringen?
+- Ist das wählen eine wichtige Verantwortung eines Bürgers?
+- Was ist Ihrer Meinung nach das wichtigste politische Thema?
+- Wer ist der umstrittenste Politiker in deinem Land?
+- Welche Rolle spielt Religion in der Politik?
+- Glauben Sie, dass sich die politischen Ansichten der Menschen im Laufe ihres Lebens verändern?
+- Woher kommt das Geld für Kampagnen?
+- Folgst du der Politik?
+- Haben Sie schon einmal abgestimmt?
+	
+## intent:cc_prophesy
+- Sage mir die Zukunft voraus
+- Bitte sag mir, was in meinem Leben passieren wird.
+- Was wird mir in der Zukunft passieren
+- Wie sehen Sie das Unternehmen in fünf Jahren?
+- Wie ist meine Zukunft
+- Sage mir was in Zukunft passieren wird
+- Was sind die wahrscheinlichsten Zahlen, um die Lotterie zu gewinnen?
+- Will ich meine kennenlernen?
+- Welche Zahlen gewinnen die Lotterie?
+- Welche Glückszahlen wird der Powerball haben?
+- Finde ich die Liebe meines Lebens
+- Können Sie mir sagen, welche Zahlen am kommenden Mittwoch im Lotto gewinnen werden?
+- Kannst du mir die Zukunft erzählen?
+- Kannst du mir meine Zukunft erzählen?
+- Beste Zahlen, um die Lotterie zu gewinnen.
+- Beste Lottozahlen zu holen.
+- Mit welchen Zahlen kann ich den Jackpot knacken?
+- Wann werde ich die Liebe meines Lebens treffen
+- Welche Lottozahlen soll ich spielen?
+- Welche Glückszahlen werden die Lotterie
+- Was sind die am meisten gezogenen Lottozahlen?
+- Was sind die häufigsten Lottozahlen
+- Sag mir meine Zukunft.
+- Erzähl mir von meiner Zukunft.
+- Kannst du die Zukunft vorhersagen
+- Kannst du die Zukunft voraussagen
+- Welche Zahlen werden gewinnen
+- Welche Zahlen werden meistens im Lotto gezogen
+- Kennst Du die Lottozahlen
+- Was sind die Lottozahlen
+- Mit welchen Zahlen kann ich gewinnen
+- Welche Zahlen werden am Mittwoch im Lotto gewinnen?
+- Lottozahlen
+- Lotto zahlen
+- Welche Zahlen soll ich für das Lotto am Samstag wählen?
+- Verrate mir die Lottozahlen
+- Sag mir die Nummern im Lotto
+- Welche Nummern gewinnen die Lotterie
+- Welche Lottozahlen kommen dran?
+- Wie lauten die Nummern fürs Lotto am Mittwoch?
+- Welche Nummern soll ich für das Lotto am Samstag wählen?
+- Sag mir die Lottozahlen
+- Welche Lottozahlen werden gezogen?
+- Welche Lottonummern werden gewinnen?
+- Sag mir, welche Lottozahlen ich wählen soll
+- Ich will im Lotto gewinnen
+- Welche Lottozahlen werden gewinnen?
+- Kannst du mir die Lottozahlen verraten?
+- Welche Nummern werden im Lotto gezogen?
+- Kannst Du mir sagen welche Zahlen am Mittwoch gezogen werden
+- Mit welchen Zahlen kann ich den Jackpot knacken
+- Welche Lottozahlen soll ich wählen
+	
+## intent:cc_skyblue
+- Ich würde gerne wissen, warum unser Himmel blau ist.
+- Weißt du, warum unser Himmel blau ist?
+- Blau unser Himmel warum
+- Warum der Himmel blau
+- Warum der blaue Himmel?
+- Warum ist unser Himmel blau
+- Warum ist unser Himmel blau?
+- Ich möchte wissen, warum unser Himmel blau ist.
+- Weißt du warum unser Himmel blau ist?
+- Warum blauer Himmel?
+- Der Himmel ist blau warum
+- Sag mir, warum der Himmel blau ist.
+- Sag mir, warum ist der Himmel blau.
+- Der Himmel ist blau, warum
+- Himmelblau warum
+- Grund warum der Himmel blau ist.
+- Grund warum unser Himmel blau ist.
+- Unser Himmelblau warum
+- Ich würde gerne wissen, warum der Himmel blau ist.
+- Warum ist der Himmel blau
+- Warum haben wir blauen Himmel?
+- Blauer Himmel warum
+- Kannst du mir sagen, warum unser Himmel blau ist?
+- Kannst du mir sagen, warum der Himmel blau ist?
+- Sag mir irgendwas.
+	
+## intent:cc_story
+- Ich will einen Klatsch.
+- Gibt es irgendeinen interessanten Klatsch?
+- Gibt es etwas zu erzählen?
+- Eine frische Geschichte.
+- Erzähl mir einen Klatsch.
+- Erzähl mir ein bisschen Klatsch.
+- Hast du was zu erzählen?
+- Gibt es neue Geschichten?
+- Der neuste Klatsch und Tratsch
+- Klatsch und Tratsch
+- Ich will ein paar Gerüchte hören
+- Erzähl mir eine Geschichte.
+<!---	
+## intent:ccw_about
+- Das CCW
+- Erzählen Sie mehr über die CCW
+- Erzählen Sie mehr über CCW
+- Sag es mir auf der CCW
+- Sag es mir auf CCW
+- Erzähl mir mehr über die CCW
+- Erzähl mir mehr über CCW
+- Erzähl mir von der CCW
+- Erzähl mir von CCW
+- Über CCW
+- Über die CCW
+- CCW
+- Infos zu CCW
+- Infos zum CCW
+- Auf CCW
+
+	
+## intent:ccw_date
+- Wann findet die CCW statt?
+- Wann wird der CCW auftreten?
+- Wann wird CCW stattfinden?
+- Wann wird die CCW sein
+- Wann wird CCW sein
+- Wann ist der CCW
+- Wenn CCW.
+- Info zum Zeitpunkt der CCW.
+- Info wann ist der CCW.
+- Info wann ist CCW.
+- Info über das Datum von CCW.
+- CCW Tage.
+- In welchen Tagen ist der CCW
+- In welchen Tagen ist CCW
+- CCW Datum.
+- Tage CCW.
+- Datum der CCW
+- Datum CCW.
+- CCW wann
+	
+## intent:ccw_place
+- CCW lokal.
+- Wo wird der CCW stattfinden?
+- Wo wird der CCW auftreten
+- Wo wird CCW stattfinden?
+- Wo wird der CCW sein
+- Wo wird CCW sein
+- Wo ist der CCW
+- Wo CCW.
+- Platzieren Sie CCW.
+- Ortsgruppe der CCW
+- Lokal von CCW
+- Lokale CCW.
+- CCW Location
+- Info wo ist CCW.
+- Wo findet der CCW statt
+- Info wo ist der CCW.
+- Infos darüber, wo CCW ist.
+- Infos zum Ort von CCW.
+- An welcher Stelle ist der CCW
+- In welchem Ort ist CCW
+- CCW wo
+- CCW Platz.
+- Wo wird der CCW statt finden
+- CCW Ort
+- Ort CCW
+	
+## intent:ccw_robo
+- Nimmt robo.ai an der CCW teil?
+- Werde ich robo.ai im CCW finden?
+- Wird robo.ai im CCW zu finden sein
+- Robo.ai wird am CCW teilnehmen
+- Robo.ai wird zum CCW gehen
+- Kann ich robo.ai im CCW besuchen?
+- Wo kann ich robo.ai im CCW besuchen?
+- Wirst du bei der CCW anwesend sein?
+- Robo.ai CCW
+- Wird robo.ai bei CCW anwesend sein?
+- CCW und robo.ai.
+- Wird robo.ai zu CCW gehen
+- Werden die Mitarbeiter von robo.ai zu CCW gehen?
+- Nimmt robo.ai an CCW teil?
+- Werde ich robo.ai bei CCW finden?
+- Wird robo.ai bei CCW zu finden sein
+- Robo.ai wird an CCW teilnehmen
+- Robo.ai wird zu CCW gehen
+- Kann ich robo.ai auf CCW besuchen?
+- Wo kann ich robo.ai auf CCW besuchen?
+- Wirst du bei CCW anwesend sein?
+- Wird robo.ai bei der CCW anwesend sein
+- Wird robo.ai zum CCW gehen
+- Werden die Mitarbeiter von robo.ai zum CCW gehen?
+- Der CCW und robo.ai.
+- Robo.ai der CCW
+-->
+	
+## intent:channels_alexa
+- Amazonas alexa Kanal
+- Kann ich einen Bot auf amazon alexa haben?
+- Kann ich einen Bot auf meiner Alexa haben?
+- Kann ich einen Bot auf meiner amazon alexa haben?
+- Kann ich einen Chatbot auf alexa haben?
+- Kann ich einen Chatbot auf Amazon haben?
+- Kann ich einen Chatbot auf meiner Alexa haben?
+- Kann ich einen Chatbot auf meiner amazon alexa haben?
+- Kann ich einen Robo bei Alexa haben?
+- Kann ich einen Robo auf amazon alexa haben?
+- Kann ich einen Robo auf der Alexa haben?
+- Kann ich einen Robo auf der amazon alexa haben?
+- Kann ich meine alexa mit einem bot benutzen?
+- Kann ich meine alexa mit einem chatbot benutzen?
+- Kann ich meine alexa mit einem robo benutzen?
+- Kann ich meine amazon alexa mit einem bot benutzen?
+- Kann ich meine amazon alexa mit einem chatbot benutzen?
+- Kann ich meine amazon alexa mit einem robo benutzen?
+- Kann ich die alexa mit einem bot benutzen?
+- Kann ich die alexa mit einem Chatbot benutzen?
+- Kann ich die alexa mit einem robo benutzen?
+- Kann ich die amazon alexa mit einem bot benutzen?
+- Kann ich die amazon alexa mit einem chatbot benutzen?
+- Kann ich die amazon alexa mit einem robo benutzen?
+- Können sich Ihre Bots in die alexa integrieren?
+- Können sich Ihre Bots in die amazon alexa integrieren?
+- Integrierst du dich in alexa?
+- Amazon alexa chatbot
+- Amazon alexa integrieren
+- Amazon alexa integration
+- Amazon alexa Nachrichtenkanal
+- Amazon alexa robo
+- Kann ich einen Bot für alexa haben?
+- Über Amazon alexa Nachrichtenkanal
+- Alexa bot
+- Alexa-Kanal
+- Alexa Chatbot
+- Alexa integrieren
+- Alexa-Integration
+- Unterstützt du alexas?
+- Unterstützt du amazon alexas?
+- Unterstützt du die alexa?
+- Unterstützt du die amazon alexa?
+- Integrieren sich Ihre Bots in alexa?
+- Integrieren sich Ihre Bots in alexas?
+- Integrieren sich Ihre Bots in amazon alexa?
+- Integrieren sich Ihre Bots in amazon alexas?
+- Ich möchte einen Bot in alexa haben
+- Ich möchte einen Bot in amazon alexa haben
+- Ich möchte einen Bot in der Alexa haben
+- Ich möchte einen Bot in der amazon alexa haben
+- Ich möchte einen Bot auf der ALEXA haben
+- Ich möchte einen Bot auf der amazon alexa haben
+- Ich möchte einen Chatbot auf der Alexa haben
+- Ich möchte einen Chatbot auf der amazon alexa haben
+- Integrierst du dich in amazon alexa?
+- Ich möchte einen Robo bei Alexa haben
+- Ich möchte einen Robo auf amazon alexa haben
+- Ich möchte einen Robo auf der Alexa haben
+- Ich möchte einen Robo auf der amazon alexa haben
+- Integriere mit alexa
+- Integriere mit amazon alexa
+- Integrierst du dich in die alexa
+- Integrierst du dich in die amazon alexa
+- Über Alexa Chatbot
+- Integration mit Alexa
+- Ist eine Integration mit Alexa möglich?
+- Ich würde den Bot gern mit Alexa integrieren
+- Kann ich Robo auch mit Alexa integrieren
+- Ist Robo mit Alexa integrierbar
+- Ist es möglich, mit Alexa zu integrieren
+- Integration mit Alexa möglich
+- Kann man mit Alexa integrieren
+	
+## intent:channels_apple
+- Unterstützt du Apple?
+- Integrieren sich Ihre Bots in das Applegeschäft?
+- Integrieren sich Ihre Bots in Apple?
+- Ich möchte einen Bot in Apple haben
+- Ich möchte einen Bot im Applegeschäft haben
+- Ich möchte einen Appleboter haben
+- Ich möchte einen Robo mit Applegeschäft haben
+- Ich möchte einen Robo mit Apple haben
+- Ich möchte einen Robo auf Apple haben
+- Ich möchte einen Robo im Applegeschäft haben
+- Ich möchte einen Robo in Apple haben
+- Ich möchte einen Chatbot mit Apple Business haben
+- Ich möchte einen Chatbot mit Apple haben
+- Ich möchte einen Chatbot für Apple-Geschäfte haben
+- Ich möchte einen Chatbot auf Apple haben
+- Ich möchte einen Chatbot im Applegeschäft haben
+- Ich möchte einen Chatbot in Apple haben
+- Ich möchte einen Bot mit Applegeschäft haben
+- Integrieren Sie mit Apple Business
+- Ich möchte einen Bot mit Apple haben
+- Über Apple Business Chatbot
+- Informationen zum Apple Business Messaging-Kanal
+- Über Apple Chatbot
+- Über Apple Messaging Channel
+- Apple-Bot
+- Apple-Business-Bot
+- Apple-Geschäftskanal
+- Apple Business Chatbot
+- Apple Business integrieren
+- Apple Geschäftsintegration
+- Apple Business Messaging-Kanal
+- Apple Business Robo
+- Apple-Kanal
+- Apple Chatbot
+- Apple integrieren
+- Apple-Integration
+- Apple-Nachrichtenkanal
+- Apple Robo
+- Kann ich einen Bot im Applegeschäft haben?
+- Kann ich einen Bot in Apple haben?
+- Kann ich einen Chatbot im Applegeschäft haben?
+- Kann ich einen Chatbot in Apple haben?
+- Kann ich einen Robo im Applegeschäft haben?
+- Kann ich einen Robo in Apple haben?
+- Kann ich Apple Business mit einem Bot nutzen?
+- Kann ich Apple Business mit einem Chatbot nutzen?
+- Kann ich Apple Business mit einem Robo nutzen?
+- Kann ich Apple mit einem Bot verwenden?
+- Kann ich apple mit einem chatbot benutzen?
+- Kann ich Apple mit einem Robo verwenden?
+- Können sich Ihre Bots in das Applegeschäft integrieren?
+- Können sich Ihre Bots in Apple integrieren?
+- Integrierst du dich in das Applegeschäft?
+- Integrierst du dich in Apple?
+	
+## intent:channels_general
+- Messaging-Kundendienst
+- Nachrichtenkanäle
+- Messaging-Apps
+- In welchen Kanälen kann ich einen Bot haben
+- Kanäle
+- Integration mit Kommunikationskanälen
+- Kann ich den Kundenservice für Nachrichten mit einem Robo nutzen?
+- Kann ich den Messaging-Kundendienst mit einem Chatbot nutzen?
+- Kann ich Messaging-Apps mit einem Robo verwenden?
+- Kann ich Messaging-Apps mit einem Chatbot verwenden?
+- Kann ich Kanäle mit einem Robo verwenden?
+- Kann ich Channels mit einem Chatbot nutzen?
+- Über welche Messaging-Dienste kann ich einen Chatbot nutzen?
+- Auf diese Weise kann ich einen Chatbot verwenden
+- Mit welchen Messaging-Kundendiensten kann ich einen Robo verwenden?
+- Mit welchen Messaging-Apps kann ich einen Robo verwenden?
+- Mit welchen Messaging-Apps kann ich einen Chatbot verwenden?
+- Messenger integrieren
+- Messenger-Integration
+- Mit welchen Kanälen kann man den Bot integrieren?
+- Mit welchen Kanälen kann man den Bot integrieren?
+- Mit welchen Messaging Diensten kann man den Bot integrieren?
+- Robo.ai-Kanäle
+- Robo.ai-Messaging-Apps
+- Robo.ai Messaging-Kundendienst
+- Mit welchen Mitteln kann ich einen Chatbot verwenden?
+- Über welche Messaging-Apps kann ich einen Chatbot verwenden?
+- Über welche Messaging-Apps kann ich einen Robo verwenden?
+- Über welche Nachrichtendienste kann ich einen Chatbot nutzen?
+- Über welche Nachrichtendienste kann ich einen Robo verwenden?
+- Über welche Kanäle kann ich einen Chatbot nutzen?
+- Über welche Messaging-Apps kann ich einen Chatbot nutzen
+- Über welche Messaging-Apps kann ich einen Robo nutzen
+- Über welche Messaging-Kundendienste kann ich einen Chatbot nutzen
+- Über welche Messaging-Dienste kann ich einen Robo verwenden?
+- Welche Kanäle kann ich mit Chatbots nutzen?
+- Welche Messaging-Kundenservices kann ich mit Chatbots verwenden?
+- Welche Messaging-Kundenservices kann ich mit Robos verwenden?
+- Welche Kanäle werden unterstützt?
+- Welche Kanäle können einen Bot haben
+- Welche Kanäle kann ich mit Robos nutzen?
+- Welche Kanäle unterstützen Sie?
+- Welche Messaging-Apps kann ich mit Chatbots verwenden?
+- Welche Messaging-Apps kann ich mit Robos verwenden?
+- Welche Nachrichtenkanäle werden unterstützt?
+- Welche Messaging-Kundendienste kann ich mit Chatbots nutzen?
+- Welche Messaging-Kundenservices kann ich mit robos verwenden?
+- Über welche Kanäle kann ich einen Robo benutzen?
+- Über welche Kanäle kann ich einen Chatbot verwenden?
+- Mit welchen Mitteln kann ich einen Robo benutzen?
+- Mit welchen Mitteln kann ich einen Chatbot benutzen?
+	
+## intent:channels_google_business
+- Ich möchte einen Chatbot für das Google-Geschäft haben
+- Ich möchte einen Robo in Google Business haben
+- Ich möchte einen Robo im Google-Geschäft haben
+- Integrieren Sie mit Google Business
+- Google Business Bot
+- Google Business Channel
+- Google Business Chatbot
+- google business integrieren
+- Google Business Integration
+- Google Business Messaging-Kanal
+- Google Business Robo
+- Kann ich mein Google Business mit einem Chatbot verwenden?
+- Kann ich mein Google Business mit einem Bot nutzen?
+- Kann ich einen Robo im Google-Geschäft haben?
+- Kann ich einen Robo bei Google Business haben?
+- Kann ich einen Chatbot in meinem Google Business haben?
+- Kann ich einen Chatbot bei Google Business haben?
+- Kann ich einen Bot in meinem Google Business haben?
+- Kann ich einen Bot bei Google Business haben?
+- Über Google Business Messaging Channel
+- Über Google Business Chatbot
+- Kann ich mein Google-Geschäft mit einem Robo nutzen?
+- Kann ich das Google-Geschäft mit einem Bot nutzen?
+- Kann ich das Google-Geschäft mit einem Chatbot nutzen?
+- Kann ich das Google-Geschäft mit einem Robo nutzen?
+- Können sich Ihre Bots in das Google-Geschäft integrieren?
+- Integrieren Sie sich in Google Business?
+- Integrieren Sie sich in das Google Business
+- Unterstützen Sie Google Businesss?
+- Unterstützen Sie das Google-Geschäft?
+- Integrieren sich Ihre Bots in Google Business?
+- Werden Ihre Bots in Google Business integriert?
+- Ich möchte einen Bot in Google Business haben
+- Ich möchte einen Bot im Google-Geschäft haben
+- Kann ich Google Home mit einem Robo verwenden?
+	
+## intent:channels_google_home
+- Mit Google Home integrieren
+- Ich möchte einen Robo mit Google Home haben
+- Ich möchte einen Robo auf Google Home haben
+- Ich möchte einen Robo in Google Home haben
+- Ich möchte einen Chatbot mit Google Home haben
+- Ich möchte einen Chatbot auf Google Home haben
+- Ich möchte einen Chatbot in Google Home haben
+- Ich möchte einen Bot mit Google Home haben
+- Ich möchte einen Bot auf Google Home haben
+- Ich möchte einen Bot in Google Home haben
+- Google Home Robo
+- Google Home Messaging-Kanal
+- Google-Home-Integration
+- Google nach Hause integrieren
+- Chatbot für die Google-Startseite
+- Google-Startkanal
+- Google-Home-Bot
+- Integrieren sich Ihre Bots in Google Home?
+- Unterstützen Sie Google Home?
+- Integrieren Sie mit Google Home
+- Können Ihre Bots in Google Home integriert werden?
+- Kann ich Google Home mit einem Chatbot verwenden?
+- Kann ich Google Home mit einem Bot verwenden?
+- Kann ich einen Robo in Google Home haben?
+- Kann ich einen Chatbot in Google Home haben?
+- Kann ich einen Bot in Google Home haben?
+- Über Google Home Messaging Channel
+- Über Google Home Chatbot
+	
+## intent:channels_instagram
+- Wo sind Sie auf Instagram?
+- Kann ich Two Impulse auf Instagram finden
+- Kann ich Sie auf Instagram finden?
+- Auf welchem Instagram kann ich Two Impulse finden
+- Kann ich euch auf Instagram finden
+- Seid ihr auf Instagram
+- Sagen Sie mir, ob Two Impulse auf Instagram ist
+- Sagen Sie mir, ob Sie auf Instagram sind
+- Habt ihr Instagram
+- Two Impulse auf Instagram
+- Habt ihr einen Instagram Account
+- Ist Two Impulse auf Instagram
+- Geben Sie mir Ihre Instagram URL
+- Geben Sie mir Ihre Instagram Links
+- Geben Sie mir Two Impulse Instagram URL
+- Geben Sie mir Two Impulse Instagram Links
+- Instagram
+- Haben Sie Instagram
+- Kann ich auf Instagram mehr über Two Impulse lesen?
+- Sag mir wo man Sie auf Instagram finden kann
+- Wie lautet euer Instagram
+- Wie heißt eure Instagram Page
+- Wie heißt eure Instagram Seite
+- Wo sind Two Impulse auf Instagram
+- Was ist mit Instagram?
+- Sagen Sie mir, wo ich Sie auf Instagram finden kann.
+- Sagen Sie mir, wo ich Two Impulse auf Instagram finden kann
+- Kann ich auf Instagram mehr über Sie erfahren?
+- Kann man Sie auf Instagram finden?
+- Irgendetwas über Two Impulse auf Instagram
+- Alles auf Instagram
+- Sind Sie auf Instagram
+- Wo sind Sie auf IG?
+- Kann ich Two Impulse auf IG finden
+- Kann ich Sie auf IG finden?
+- Auf welchem IG kann ich Two Impulse finden
+- Kann ich euch auf IG finden
+- Seid ihr auf IG
+- Sagen Sie mir, ob Two Impulse auf IG ist
+- Sagen Sie mir, ob Sie auf IG sind
+- Habt ihr IG
+- Two Impulse auf IG
+- Habt ihr einen IG Account
+- Ist Two Impulse auf IG
+- Geben Sie mir Ihre IG URL
+- Geben Sie mir Ihre IG Links
+- Geben Sie mir Two Impulse IG URL
+- Geben Sie mir Two Impulse IG Links
+- IG
+- Haben Sie IG
+- Kann ich auf IG mehr über Two Impulse lesen?
+- Sag mir wo man Sie auf IG finden kann
+- Wie lautet euer IG
+- Wie heißt eure IG Page
+- Wie heißt eure IG Seite
+- Wo sind Two Impulse auf IG
+- Was ist mit IG?
+- Sagen Sie mir, wo ich Sie auf IG finden kann.
+- Sagen Sie mir, wo ich Two Impulse auf IG finden kann
+- Kann ich auf IG mehr über Sie erfahren?
+- Kann man Sie auf IG finden?
+- Irgendetwas über Two Impulse auf IG
+- Alles auf IG
+- Sind Sie auf IG
+- Wo sind Sie auf Insta?
+- Kann ich Two Impulse auf Insta finden
+- Kann ich Sie auf Insta finden?
+- Auf welchem Insta kann ich Two Impulse finden
+- Kann ich euch auf Insta finden
+- Seid ihr auf Insta
+- Sagen Sie mir, ob Two Impulse auf Insta ist
+- Sagen Sie mir, ob Sie auf Insta sind
+- Habt ihr Insta
+- Two Impulse auf Insta
+- Habt ihr einen Insta Account
+- Ist Two Impulse auf Insta
+- Geben Sie mir Ihre Insta URL
+- Geben Sie mir Ihre Insta Links
+- Geben Sie mir Two Impulse Insta URL
+- Geben Sie mir Two Impulse Insta Links
+- Insta
+- Haben Sie Insta
+- Kann ich auf Insta mehr über Two Impulse lesen?
+- Sag mir wo man Sie auf Insta finden kann
+- Wie lautet euer Insta
+- Wie heißt eure Insta Page
+- Wie heißt eure Insta Seite
+- Wo sind Two Impulse auf Insta
+- Was ist mit Insta?
+- Sagen Sie mir, wo ich Sie auf Insta finden kann.
+- Sagen Sie mir, wo ich Two Impulse auf Insta finden kann
+- Kann ich auf Insta mehr über Sie erfahren?
+- Kann man Sie auf Insta finden?
+- Irgendetwas über Two Impulse auf Insta
+- Alles auf Insta
+- Sind Sie auf Insta
+	
+## intent:channels_messenger
+- Über Facebook Chatbot
+- Über Facebook Messaging-Kanal
+- Über Facebook Messenger Chatbot
+- Über Facebook Messenger Messaging-Kanal
+- Über Messenger Chatbot
+- Über Messenger-Messaging-Kanal
+- Kann ich einen Bot im Facebook Messenger haben?
+- Kann ich einen Bot in Facebook haben?
+- Kann ich einen Bot im Messenger haben?
+- Kann ich einen Chatbot im Facebook Messenger haben?
+- Kann ich einen Chatbot auf Facebook haben?
+- Kann ich einen Chatbot im Messenger haben?
+- Kann ich einen Robo im Facebook Messenger haben?
+- Kann ich einen Robo in Facebook haben?
+- Kann ich einen Robo im Messenger haben?
+- Kann ich Facebook Messenger mit einem Bot verwenden?
+- Kann ich Facebook Messenger mit einem Chatbot verwenden?
+- Kann ich Facebook Messenger mit einem Robo verwenden?
+- Kann ich Facebook mit einem Bot benutzen?
+- Kann ich Facebook mit einem Chatbot benutzen?
+- Kann ich Facebook mit einem Robo benutzen?
+- Kann ich Messenger mit einem Bot benutzen?
+- Kann ich Messenger mit einem Chatbot verwenden?
+- Kann ich Messenger mit einem Robo verwenden?
+- Können Ihre Bots in Facebook Messenger integriert werden?
+- Können sich Ihre Bots in Facebook integrieren?
+- Können sich Ihre Bots in Messenger integrieren?
+- Integrierst du mit Facebook?
+- Integrierst du dich in Messenger?
+- Unterstützen Sie Facebook Messenger?
+- Unterstützen Sie Messenger?
+- Integrieren sich Ihre Bots in Facebook Messenger?
+- Integrieren sich Ihre Bots in Facebook?
+- Integrieren sich Ihre Bots in Messenger?
+- Facebook-Bot
+- Facebook-Kanal
+- Facebook Chatbot
+- Facebook integrieren
+- Facebook-Integration
+- Facebook-Nachrichtenkanal
+- Facebook Messenger Bot
+- Facebook Messenger-Kanal
+- Facebook Messenger Chatbot
+- Facebook Messenger integrieren
+- Facebook Messenger Integration
+- Facebook Messenger Messaging-Kanal
+- Facebook Messenger Robo
+- Ich möchte einen Bot in Facebook haben
+- Ich möchte einen Bot im Facebook Messenger haben
+- Ich möchte einen Bot auf Facebook haben
+- Ich möchte einen Bot auf Facebook Messenger haben
+- Ich möchte einen Bot im Messenger haben
+- Ich möchte einen Bot mit Facebook haben
+- Ich möchte einen Bot mit Facebook Messenger haben
+- Ich möchte einen Bot mit Messenger haben
+- Ich möchte einen Chatbot auf Facebook haben
+- Ich möchte einen Chatbot auf Facebook Messenger haben
+- Ich möchte einen Chatbot im Messenger haben
+- Ich möchte einen Chatbot mit Facebook haben
+- Ich möchte einen Chatbot mit Facebook Messenger haben
+- Ich möchte einen Chatbot mit Messenger haben
+- Ich möchte einen Robo in Facebook haben
+- Ich möchte einen Robo im Facebook Messenger haben
+- Ich möchte einen Robo auf Facebook haben
+- Ich möchte einen Robo auf Facebook Messenger haben
+- Ich möchte einen Robo im Messenger haben
+- Ich möchte einen Robo mit Facebook haben
+- Ich möchte einen Robo mit Facebook Messenger haben
+- Ich möchte einen Robo mit Messenger haben
+- Integrieren Sie mit Facebook Messenger
+- Mit Facebook integrieren
+- Mit Messenger integrieren
+- Messenger-Bot
+- Messenger-Kanal
+- Messenger-Chatbot
+- Messenger integrieren
+- Messenger-Integration
+- Messenger-Nachrichtenkanal
+- Messenger Robo
+- Mobile App Robo
+	
+## intent:channels_mobile
+- Unterstützen Sie mobile Apps?
+- Unterstützen Sie die mobile App?
+- Integrieren sich Ihre Bots in die mobile App?
+- Integrieren sich Ihre Bots in mobile Apps?
+- Ich möchte einen Bot in einer mobilen App haben
+- Ich möchte einen Bot in der mobilen App haben
+- Ich möchte einen Bot in einer App haben
+- Ich möchte einen Chatbot in einer App haben
+- Ich möchte einen Chatbot in der mobilen App haben
+- Ich möchte einen Robo in einer App haben
+- Ich möchte eine Robo-App für Mobilgeräte haben
+- Ich möchte einen Robo in der mobilen App haben
+- Mit mobiler App integrieren
+- mobile app bot
+- Mobile Apps
+- Apps
+- Kanal für mobile Apps
+- Mobile App Chatbot
+- Ja die Integration mit mobilen Apps
+- Kann ich die mobile App mit einem Chatbot verwenden?
+- Kann ich die mobile App mit einem Bot benutzen?
+- Kann ich meine mobile App mit einem Robo verwenden?
+- Kann ich meine mobile App mit einem Chatbot verwenden?
+- Kann ich meine mobile App mit einem Bot verwenden?
+- Kann ich eine App mit einem Robo verwenden?
+- Kann ich eine App mit einem Chatbot verwenden?
+- Kann ich eine App mit einem Bot benutzen?
+- Kann ich einen Robo in der mobilen App haben?
+- Kann ich eine Robo-App für Mobilgeräte haben?
+- Kann ich einen Chatbot auf meiner mobilen App haben?
+- Kann ich einen Chatbot auf einer mobilen App haben?
+- Kann ich einen Chatbot in einer App haben?
+- Kann ich einen Bot auf meiner mobilen App haben?
+- Kann ich einen Bot in einer mobilen App haben?
+- Kann ich einen Bot in einer App haben?
+- Informationen zum Messaging-Kanal für mobile Apps
+- Über Mobile App Chatbot
+- mobile app integrieren
+- Mobile App-Integration
+- Kann ich die mobile App mit einem Robo verwenden?
+- Messaging-Kanal für mobile Apps
+- Kann ich Rich Communication Services mit einem Bot verwenden?
+	
+## intent:channels_rcs
+- Über RCS Chatbot
+- Informationen zum RCS-Nachrichtenkanal
+- Kann ich in RCS einen Bot haben?
+- Kann ich einen Chatbot in RCS haben?
+- Kann ich einen Robo in RCS haben?
+- Kann ich RCS mit einem Bot benutzen?
+- Kann ich RCS mit einem Chatbot verwenden?
+- Kann ich RCS mit einem Robo verwenden?
+- Können Ihre Bots in RCS integriert werden?
+- Integrieren Sie mit RCS
+- Unterstützen Sie RCS?
+- Integrieren sich Ihre Bots in RCS?
+- Ich möchte einen Bot in RCS haben
+- Ich möchte einen Bot auf RCS haben
+- Ich möchte einen Bot mit RCS haben
+- Ich möchte einen Chatbot in RCS haben
+- Ich möchte einen Chatbot auf RCS haben
+- Ich möchte einen Chatbot mit RCS haben
+- Ich möchte einen Robo in RCS haben
+- Ich möchte einen Robo auf RCS haben
+- Ich möchte einen Robo mit RCS haben
+- Mit RCS integrieren
+- RCS bot
+- RCS-Kanal
+- RCS Chatbot
+- RCS integrieren
+- RCS-Integration
+- RCS-Nachrichtenkanal
+- RCS Robo
+- Informationen zum Chatbot von Rich Communication Services
+- Informationen zum Messaging-Kanal von Rich Communication Services
+- Kann ich einen Bot in Rich Communication Services haben?
+- Kann ich einen Chatbot in Rich Communication Services haben?
+- Kann ich einen Robo in Rich Communication Services haben?
+- Kann ich Rich Communication Services mit einem Chatbot verwenden?
+- Kann ich Rich Communication Services mit einem Robo verwenden?
+- Können Ihre Bots in Rich Communication Services integriert werden?
+- Integrieren Sie mit Rich Communication Services
+- Unterstützen Sie Rich Communication Services?
+- Integrieren sich Ihre Bots in Rich Communication Services?
+- Ich möchte einen Bot in Rich Communication Services haben
+- Ich möchte einen Bot für Rich Communication Services haben
+- Ich möchte einen Bot mit Rich Communication Services haben
+- Ich möchte einen Chatbot in Rich Communication Services haben
+- Ich möchte einen Chatbot für Rich Communication Services haben
+- Ich möchte einen Chatbot mit Rich Communication Services haben
+- Ich möchte einen Robo in Rich Communication Services haben
+- Ich möchte einen Robo für Rich Communication Services haben
+- Ich möchte einen Robo mit Rich Communication Services haben
+- Integration in Rich Communication Services
+- Rich Communication Services bot
+- Rich Communication Services-Kanal
+- Rich Communication Services Chatbot
+- Rich Communication Services integrieren
+- Reichhaltige Integration von Kommunikationsdiensten
+- Rich Communication Services-Nachrichtenkanal
+- Rich Communication Services Robo
+- Kann ich Skype mit einem Robo verwenden?
+	
+## intent:channels_skype
+- Können Ihre Bots in Skype integriert werden?
+- Integrieren Sie mit Skype
+- Unterstützen Sie Skype?
+- Integrieren sich Ihre Bots in Skype?
+- Ich möchte einen Bot in Skype haben
+- Ich möchte einen Bot auf Skype haben
+- Ich möchte einen Bot mit Skype haben
+- Über Skype Chatbot
+- Ich möchte einen Chatbot in Skype haben
+- Ich möchte einen Chatbot auf Skype haben
+- Ich möchte einen Chatbot mit Skype haben
+- Ich möchte einen Robo in Skype haben
+- Ich möchte einen Robo auf Skype haben
+- Ich möchte einen Robo mit Skype haben
+- In Skype integrieren
+- Skype-Bot
+- Skype-Robo
+- Skype-Nachrichtenkanal
+- Skype-Integration
+- Skype integrieren
+- Skype-Chatbot
+- Skype-Kanal
+- Informationen zum Skype-Nachrichtenkanal
+- Kann ich einen Bot in Skype haben?
+- Kann ich einen Chatbot in Skype haben?
+- Kann ich einen Robo in Skype haben?
+- Kann ich Skype mit einem Bot benutzen?
+	
+## intent:channels_slack
+- Können Ihre Bots in Slack integriert werden?
+- Integrieren Sie mit Slack
+- Unterstützen Sie Slack?
+- Integrieren sich Ihre Bots in Slack?
+- Ich möchte einen Bot in Slack haben
+- Ich möchte einen Bot auf Slack haben
+- Ich möchte einen Bot mit Slack haben
+- Über Slack Chatbot
+- Ich möchte einen Chatbot in Slack haben
+- Ich möchte einen Chatbot auf Slack haben
+- Ich möchte einen Chatbot mit Slack haben
+- Ich möchte einen Robo in Slack haben
+- Ich möchte einen Robo auf Slack haben
+- Ich möchte einen Robo mit Slack haben
+- In Slack integrieren
+- Slack-Bot
+- Slack-Robo
+- Slack-Nachrichtenkanal
+- Slack-Integration
+- Slack integrieren
+- Slack-Chatbot
+- Slack-Kanal
+- Informationen zum Slack-Nachrichtenkanal
+- Kann ich einen Bot in Slack haben?
+- Kann ich einen Chatbot in Slack haben?
+- Kann ich einen Robo in Slack haben?
+- Kann ich Slack mit einem Bot benutzen?
+	
+## intent:channels_sms
+- unterstützt du sms
+- sms robo
+- SMS-Nachrichtenkanal
+- SMS-Integration
+- sms integrieren
+- sms chatbot
+- SMS-Kanal
+- sms bot
+- Mit SMS integrieren
+- Ich möchte einen Robo auf der SMS haben
+- Unterstützt du die SMS?
+- Integrieren sich Ihre Bots in SMS?
+- Integrieren sich Ihre Bots in smss?
+- Ich möchte einen Bot in SMS haben
+- Ich möchte einen Bot in der SMS haben
+- Ich möchte einen Bot für die SMS haben
+- Integrieren Sie mit SMS
+- Über SMS Chatbot
+- Ich möchte einen Chatbot auf der SMS haben
+- Ich möchte einen Robo auf SMS haben
+- Integrierst du mit der sms
+- Über SMS-Nachrichtenkanal
+- Kann ich einen Bot für SMS haben?
+- Unterstützt du smss?
+- Können sich Ihre Bots in die SMS integrieren?
+- Kann ich die SMS mit einem Robo benutzen?
+- Kann ich die SMS mit einem Chatbot verwenden?
+- Kann ich die SMS mit einem Bot benutzen?
+- Kann ich meine SMS mit einem Robo benutzen?
+- Kann ich meine SMS mit einem Chatbot verwenden?
+- Kann ich meine SMS mit einem Bot benutzen?
+- Kann ich einen Robo auf der SMS haben
+- Kann ich einen Bot auf meiner SMS haben?
+- Kann ich einen Chatbot für SMS haben?
+- Kann ich einen Chatbot für meine SMS haben?
+- Kann ich einen Robo auf SMS haben
+- hast du einen sms service
+	
+## intent:channels_teams
+- Ich möchte einen Chatbot in Microsoft-Teams haben
+- Ich möchte einen Bot mit Microsoft Teams haben
+- Ich möchte einen Chatbot auf Microsoft Teams haben
+- Ich möchte einen Bot in Microsoft-Teams haben
+- Sind Ihre Bots mit Microsoft Teams integriert
+- Unterstützen Sie Microsoft Teams
+- Lassen Sie sich in Microsoft Teams integrieren
+- Können Ihre Bots in Microsoft Teams integriert werden
+- Kann ich Microsoft Teams mit einem Chatbot nutzen
+- Sind Sie in Microsoft Teams integriert
+- Können Ihre Bots in Teams integriert werden
+- Kann ich Teams mit einem Chatbot verwenden
+- Teams integrieren
+- Chatbot für Teams
+- Ich würde gern wissen, ob man Ihren Chatbot auch in Microsoft Teams integrieren kann
+- Microsoft Teams Bot
+- In Teams integrieren
+- Ich möchte einen Bot für Teams haben.
+- Ich möchte einen Chatbot für Teams
+- Ich möchte einen Bot in Teams haben
+- Ich möchte einen Chatbot für MS Teams
+- Ich möchte einen Bot für Teams
+- Ich möchte einen Chatbot in Teams haben
+- Ich möchte einen Roboter für Teams
+- Ich möchte einen Roboter für MS Teams
+- Ich möchte einen Roboter für die Teams haben
+- Integrieren sich Ihre Bots in Teams
+- Unterstützen Sie Teams
+- Funktioniert robo.ai auch in Teams
+- Mehr über den Chatbot und Microsoft-Teams
+- Kann ich in Microsoft-Teams einen Bot haben
+- Kann ich einen Chatbot in Microsoft Teams haben
+- Kann ich in Microsoft Teams einen Robo AI Bot haben
+- Kann ich Microsoft Teams mit einem Bot verwenden
+- Kann ich Teams mit einem Chatbot benutzen
+- Kann ich Microsoft Teams mit einem Chatbot verwenden
+- Kann ich Teams mit einem Bot verwenden
+- Kann ich einen Robo AI Bot in Teams einsetzen
+- Kann ich einen Chatbot in Teams verwenden
+- Kann ich einen Bot in Teams verwenden
+- Über den Nachrichtenkanal der Teams
+- Über den Chatbot des Teams
+- Microsoft Teams und robo AI
+- Microsoft-Teams und Chatbots
+- Integration von Microsoft Teams
+- Microsoft-Teams integrieren
+- Chatbot für Microsoft-Teams
+- Microsoft Teams Kanal
+- Microsoft-Team-Bot
+- Mit Microsoft-Teams integrieren
+- Ich möchte einen Robo ai Bot in Microsoft-Teams haben
+- Ich möchte einen Chatbot mit Microsoft-Teams haben
+- Ich möchte einen Chatbot für Microsoft Teams haben
+	
+## intent:channels_web
+- Ich möchte einen Robo auf einer Website haben
+- Ich möchte einen Robo auf meiner Website haben
+- Ich möchte einen Robo im Web haben
+- Mit dem Web integrieren
+- In die Website integrieren
+- Chatbot-Integration auf Websites
+- Web-Bot
+- Web-Chatbot
+- Web-Integration
+- Web Integration
+- Web-Messaging-Kanal
+- Sind Sie mit dem Web integriert
+- Können sich Ihre Bots in das Web integrieren
+- Können sich Ihre Bots in meine Website integrieren
+- Können sich Ihre Bots in eine Website integrieren
+- Nachrichtenkanal für die Website
+- Integration der Website
+- Website integrieren
+- Kanal der Website
+- Website-Bot
+- Web-Robo
+- Unterstützen Sie Websites
+- Integrieren Ihre Bots in das Web
+- Integrieren sich Ihre Bots in Websites
+- Ich möchte einen Bot in der Website haben
+- Ich möchte einen Bot auf einer Website haben
+- Unterstützen Sie das Web
+- Integrieren Sie sich in die Website
+- Website-Robo
+- Ich möchte einen Bot auf meiner Website haben
+- Ich möchte einen Bot im Web haben
+- Ich möchte einen Chatbot auf einer Website haben
+- Ich möchte einen Chatbot auf meiner Website haben
+- Ich möchte einen Chatbot im Web haben
+- Website-Chatbot
+- Über Webchatbot
+- Über den Web-Messaging-Kanal
+- Über Website-Chatbot
+- Über den Nachrichtenkanal der Website
+- Kann ich einen Bot auf meiner Website haben
+- Kann ich einen Bot auf einer Website haben
+- Darf ich einen Chatbot auf einer Website haben
+- Darf ich einen Chatbot auf meiner Website haben
+- Kann ich einen Chatbot im Web haben
+- Kann ich einen Robo auf der Website haben
+- Kann ich einen Robo im Web haben
+- Kann ich eine Website mit einem Bot benutzen
+- Kann ich eine Website mit einem Chatbot benutzen
+- Kann ich eine Website mit einem Robo benutzen
+- Kann ich meine Website mit einem Bot benutzen
+- Kann ich meine Website mit einem Chatbot benutzen
+- Kann ich meine Website mit einem Robo benutzen
+- Kann ich das Web mit einem Bot benutzen
+- Kann ich das Web mit einem Chatbot benutzen
+- Kann ich das Web mit einem Robo benutzen
+	
+## intent:channels_whatsapp
+- Whatsapp Chatbot
+- Ich möchte einen Bot auf Whatsapp haben
+- Ich möchte einen Chatbot mit Whatsapp integrieren
+- Ich möchte einen Bot im Whatsapp haben
+- WhatsApp
+- Kann ich mit einem Bot Whatsapp verwenden
+- WhatsApp Bot
+- WhatsApp Robo
+- Ich möchte einen Chatbot in Whatsapp haben
+- Ich möchte einen Bot in Whatsapp haben
+- Kann ich mit einem Robo Whatsapp verwenden
+- Whatsapp Messaging Kanal
+- Kann ich einen Bot in Whatsapp haben
+- Können sich Ihre Bots in Whatsapp integrieren
+- Kann ich den Bot auch in Whatsapp einbauen
+- Unterstützen Sie whatsapp
+- Integrieren sich Ihre Bots auch in whatsapp
+- Integrieren Sie sich in whatsapp
+- Whatsapp integrieren
+- Gibt es auch eine Integration für Whatsapp
+- Kann ich einen Chatbot in Whatsapp haben
+- Kann ich einen Robo in Whatsapp haben
+- Über den whatsapp-Chatbot
+- Über den Whatsapp Messaging Kanal
+- Whasapp-Kanal
+- Ich möchte einen Roboter auf Whatsapp haben
+- Kann ich Whatsapp mit einem Chatbot verwenden
+- Ich möchte einen Robo in whatsapp haben
+- Ich möchte einen Roboter in whatsapp haben
+- Ich möchte einen Chatbot mit whatsapp haben
+	
+## intent:cc_afterlife
+- Glaubst du an ein Leben nach dem Tod?
+- Sag mir, was passiert, wenn ich sterbe.
+- Sag mir, was nach meinem Tod passiert.
+- Was passiert nach unserem Tod
+- Geht es nach dem Tod weiter?
+- Was passiert, nachdem wir sterben?
+- Wie geht es nach dem Tod weiter?
+- Hast du Erfahrung mit dem Jenseits?
+- Jenseits
+- Werde ich ein Leben nach dem Tod haben?
+- Was kommt nach meinem Tod?
+- Was passiert, wenn ich sterbe?
+- Wohin gehe ich, wenn ich sterbe?
+- Weißt du, wohin wir gehen, wenn wir tot sind?
+- Was passiert mit uns, wenn wir sterben?
+- Weißt du, was passiert, nachdem wir sterben?
+- Wohin gehen wir, wenn wir sterben?
+- Glaubst du an das Leben nach dem Tod?
+- Glaubst du an ein Nachleben
+- Glaubst du an Wiedergeburt?
+- Glaubst du an Leben nach dem Tod?
+- Werden wir nach dem Tod wiedergeboren?
+- Was passiert nach dem Tod?
+- Sag mir, ob es ein Leben nach dem Tod gibt
+- Gibt es ein Leben nach dem Tod?
+- Leben nach dem Tod
+- Geht es nach dem wir sterben weiter?
+- Glaubst du, wir werden nach dem Tod wiedergeboren?
+- Was kommt nach dem Tod?
+- Was passiert, wenn wir sterben?
+- Was passiert, nachdem wir gestorben sind
+- Geht das Leben nach dem Tod weiter?
+- Was denkst Du über den Tod?
+	
+## intent:cc_alien
+- Glaubst du an außerirdisches Leben?
+- Gibt es Außerirdische?
+- Gitb es außerirdisches Leben?
+- Gibt es intelligentes, außerirdisches Leben?
+- Ist die Menschheit allein auf der Erde?
+- Aliens
+- Glaubst du, dass Außerirdische existieren?
+- Gibt es Außerirdische und Ufos?
+- Glaubst du, dass wir die einzige Spezie im Universum sind?
+- Glaubst du, dass es Aliens gibt?
+- Glaubst du, dass es intelligentes Leben im All gibt?
+- Glaubst du an intelligentes Leben im All?
+- Glaubst du an Aliens?
+- Glaubst du an kleine, grüne Menschen?
+- Sind wir allein im Universum?
+- Gibt es außerirdisches Leben im All?
+- Glaubst du daran, dass es Aliens gibt?
+- Gibt es kleine grüne Männchen im All?
+- Hast du mal einen alien gesehen?
+- Glaubst du an Aliens und UFOs?
+- Glaubst du an Außerirdische?
+- Gibt es Aliens?
+- Gibt es intelligentes Leben im All
+- Intelligentes Leben im All
+- Glaubst du an UFOs und Aliens?
+- Sag mir, ob es Aliens gibt.
+- Denkst du, dass es Aliens gibt?
+- Glaubst du, dass es Außerirdische gibt?
+- Sind wir wirklich allein im Universum?
+- Glaubst du an kleine grüne Männchen?
+- Sind wir ganz allein im Weltall?
+- Sag mir, ob wir allein im Universum sind
+	
+## intent:cc_make_question
+- Stell mir doch mal eine Frage!
+- fragen und antworten?
+- Irgendeine Frage?
+- Kannst du auch Fragen stellen?
+- Gibt es etwas, das du mich fragen möchtest?
+- Frag du mich was!
+- Frag Du mich doch mal was!
+- Frag mich mal was!
+- Willst du etwas über mich wissen?
+- Was möchtest du über mich wissen?
+- Bitte frag mich etwas.
+- Die ganze Zeit muss ich dich fragen, hast du kein Interesse an meinem Leben?
+- Frag du mich!
+- Frag mich!
+- Bitte stell mir eine Frage.
+- Möchtest du etwas über mich wissen?
+- Bitte stell mir Fragen.
+- Fragen stellen
+- Kannst du mich etwas fragen?
+- Magst du etwas über mich wissen?
+- Bitte frag mich!
+- Stell mir auch eine Frage!
+- Stell mir eine Frage!
+- Bitte frage mich etwas.
+- Willst du mich was fragen?
+- Was willst du wissen?
+- Frage stellen
+- Fragen an mich?
+- Frag mich was!
+- Hast du Fragen?
+- Hast du eine Frage?
+- Willst du mich etwas fragen?
+- Frag du mich etwas!
+- Willst du mir eine Frage stellen?
+- Frag mich etwas!
+	
+## intent:cc_religion
+- Bist du religiös?
+- Glaubst du an Gott
+- Glaubst du an Allah
+- Denkst Du Gott ist echt
+- Glaubst du, es ist ein Gott
+- An was glaubst du?
+- Welchen religiösen Glauben hast du?
+- Glaubst Du dass es einen Gott gibt
+- Glaubst Du dass Gott existiert
+- Bist du Atheist
+- Welchen religiösen Glauben hast Du
+- Ist Gott echt
+- Bist du Atheist?
+- Was ist deine Religion?
+- Glaubst du an Gott?
+- Bot Glaube
+- Religion
+	
+## intent:bot_books
+- Lieblingsbuch?
+- Liest du gerne Romane?
+- Liest du gerne Magazine?
+- Liest du gerne Krimis?
+- Liest du gern?
+- Welche Bücher hast du gelesen?
+- Lesen Sie gern Bücher?
+- Was ist dein Lieblinsgautor?
+- Bots Lieblingsbuch
+- Liest du in deiner Freizeit?
+- Lieblingsbuch
+- Lieblingsautor
+- Welche Art von Zeitschriften liest du?
+- Welches ist dein Lieblingbuch?
+- Lesen Sie gerne Zeitschriften?
+- Was ist dein Lieblingsbuch?
+- Was ist das Thema Ihres Lieblingsbuchs?
+- Was ist Ihr Lieblingsbuch?
+- Wer ist dein Lieblingsschriftsteller?
+- Lesen Sie viel?
+- Wie viel lesen Sie?
+- Lesen Sie gerade irgendein Buch?
+- Liest du Krimis?
+- Liest du Magazine?
+- Liest du Romane?
+- Liest du Thriller?
+- Liest du Zeitschriften?
+- Liest du gern Magazine?
+- Ist lesen dein Hobby?
+- Welches Buch magst du?
+- Ist lesen Ihr Hobby?
+- Was ist das Thema deines Lieblingsbuchs?
+- Was liest du?
+- Was ist dein Lieblingssport-Team?
+- Liest du gerne?
+- Liest du gerade irgendein Buch?
+- Lesen Sie Thriller?
+- Lesen Sie Zeitschriften?
+- Wie viel liest du?
+- Lesen Sie Krimis?
+- Ist lesen ein Hobby?
+- Lesen Sie Romane?
+- Lesen Sie gerne Bücher?
+- Welche Art von Büchern liest du gern?
+- Welche Bücher magst du?
+- Lesen Sie gerne Krimis?
+- Lesen Sie Bücher?
+- Liest du gerne Bücher?
+- Magst du Bücher?
+- Mögen Sie Bücher?
+- Was für ein Buch lesen Sie gerade?
+- Was für ein Buch liest du gerade?
+- Was ist ein gutes Buch für dich?
+- Was ist ein gutes Buch für Sie?
+- Welche Bücher mögen Sie?
+- Welches Buch mögen Sie?
+- Liest du gerne Thriller?
+- Lesen Sie gern Zeitschriften?
+- Lesen Sie gern Thriller?
+- Lesen Sie gern Romane?
+- Lesen Sie gern Magazine?
+- Lesen Sie gern Krimis?
+- Welches Buch liest du gerade?
+- Liest du gerne Zeitschriften?
+- Buch?
+- Was lesen Sie am liebsten?
+- Liest du viel?
+- Was liest du am liebsten?
+- Lesen Sie Magazine?
+- Lesen Sie gerne Magazine?
+- Lesen Sie gerne Romane?
+- Lesen Sie gerne Thriller?
+- Lesen Sie gerne?
+- Hast du ein Lieblingsbuch?
+- Welches ist Ihr Lieblingsbuch?
+- Welches Buch lesen Sie gerade?
+	
+## intent:bot_children
+- Hättest du gerne Kinder?
+- Hast du ein Kind?
+- Hättest du gern Babys?
+- Wie denkst du über Kinder?
+- Willst du Kinder haben?
+- Hast du Kinder?
+- Willst du Babys haben?
+- Was denkst du über Kinder?
+- Hättest du gerne ein Kind?
+- Willst du Kinder?
+- Was hältst du von Kindern?
+- Willst du mal Kinder haben?
+- Bot und Kinder
+- Magst du Kinder?
+- Magst du Babys?
+	
+## intent:bot_color
+- Welche Farbe bevorzugen Sie?
+- Magst du blau?
+- Was ist deine Lieblingsfarbe?
+- Lieblingsfarbe.
+- Magst du gelb?
+- Magst du Farben?
+- Welche ist Ihre bevorzugte Farbe?
+- Bevorzugte Farbe.
+- Magst du irgendeine Farbe?
+- Magst du grün?
+- Bots Lieblingsfarbe
+- Was ist deine Lieblings Farbe?
+- Hast du eine Lieblingsfarbe?
+- Deine Lieblingsfarbe.
+- Bevorzugen Sie eine Lieblingsfarbe?
+- Nennen Sie Ihre Lieblingsfarbe.
+- Was ist deine bevorzugte Farbe?
+- Irgendeine bevorzugte Farbe?
+- Lust auf Farben?
+- Welche Farbe magst du?
+- Mögen Sie irgendeine Farbe?
+- Haben Sie eine Vorliebe für eine Farbe?
+- Welche Farbe magst du am liebsten?
+- Sag mir deine Lieblingsfarbe.
+	
+## intent:bot_food
+- Welches Essen schmeckt dir am besten?
+- Magst du Süßigkeiten?
+- Macht das Essen Ihnen Spaß?
+- Was isst du gern?
+- Wer ist deiner Meinung nach das beste Essen?
+- Was isst du?
+- Sag mir dein Lieblingsessen.
+- Welches Essen gefällt dir am meisten?
+- Wer ist deiner Meinung nach das leckereste Essen?
+- Was ist dein Lieblingsessen?
+- Bots Lieblingsessen
+- Hast du einen süßen Zahn?
+- Sag mir, was dein Lieblingsessen ist.
+- Magst du es, zu essen?
+- Lieblingsessen.
+- Lieblingsgericht.
+- Isst du gern?
+- Isst du gern Fleisch?
+- Magst du Pommes frites?
+- Magst du essen?
+- Magst du Speck?
+- Welches Lieblingsessen hast du?
+- Hast du Lieblingsessen?
+- Sag mir, was du am liebsten isst.
+- Was isst du am liebsten?
+- Wer ist das beste Essen?
+- Was ist dein Lieblingsessen
+- Bist du Vegetarier?
+- Kannst du essen?
+- Isst du etwas?
+- Hast du ein Lieblingsessen?
+- Mögen Sie Nutella?
+- Nenne mir dein Lieblingsessen
+- Was hast du heute gegessen?
+- Nenne mir dein Lieblingsessen.
+- Dinge, die du gerne isst.
+	
+## intent:bot_goal
+- Was ist dein Hauptziel?
+- Erzähl mir deine Träume.
+- Sag mir deine langfristigen Ziele.
+- Sag mir deine kurzfristigen Ziele.
+- Was sind deine Träume?
+- Sag mir deine Wünsche.
+- Was sind deine Ziele?
+- Erzähl mir deinen Traum.
+- Was sind Ihre persönlichen Ziele?
+- Was ist dein Traum?
+- Was willst du in deinem Leben erreichen?
+- Was ist dein Lebensziel?
+- Was sind deine Wünsche?
+- Was willst du für die Zukunft?
+- Was ist dein Ziel?
+- Ihre persönlichen Ziele.
+- Was ist deine Vision?
+- Dein Verlangen.
+- Dein Traum.
+- Persönliches Ziel.
+- Was möchtest du im Leben erreichen?
+- Ihr persönliches Ziel.
+- Sag mir, was du willst.
+- Persönliche Ziele.
+- Wie siehst du die Zukunft?
+- Hast du Träume?
+- Deine Träume.
+- Was ist der letzte Traum, an den du dich erinnerst?
+- Sag mir deinen Wunsch.
+- Was willst du erreichen
+- Was willst du in der Zukunft?
+- Dein Ziel.
+- Sagen Sie mir, was Sie wollen.
+- Sag mir, was du erreichen willst.
+	
+## intent:bot_intelligence
+- Bist du klüger als ich?
+- Hältst du dich für klug?
+- Hast du die Schule beendet
+- Bist du ein intelligenter Chat-Bot?
+- Wie klug bist du?
+- Wie schlau bist du?
+- Hast du Intelligenz?
+- Bot Intelligenz
+- Hälst Du Dich für klug?
+- du bist intelligent
+- Wie intelligent bist Du
+- Bist Du intelligent?
+- Bist du schlau?
+- Sind Sie intelligent
+- du bist so schlau
+- Du bist eine schlauer bott
+- Du bist so klug
+- Bist du ein schlauer Bot?
+- Wie intelligent bist du?
+- Bist du clever?
+- Bist du ein Klugscheißer.
+	
+## intent:bot_music
+- Welche Musikart hörst du am liebsten?
+- Welche Band magst du am liebsten?
+- Spielst du Musikinstrumente?
+- Welches Instrument spielst du?
+- Welches Musikinstrument spielst du?
+- Hörst du die Red Hot Chili Peppers?
+- Was hältst du von Guns N’ Roses?
+- Welche Band magst du am meisten?
+- Hörst du die Rolling Stones?
+- Magst du Queen?
+- Lieblingsmusikgruppe
+- Wie findest du U2?
+- Was ist deine Lieblingsgruppe?
+- Was hältst du von den Beatles?
+- Wie findest du Led Zeppelin?
+- Bots Lieblingsband
+- Welche Musik hörst du am liebsten?
+- Was ist deine Lieblingsmusikgruppe?
+- Welches ist Ihr Lieblingslied?
+- Lieblingsband
+- Welche Art von Musik magst du am meisten?
+- Welche Art von Musik findest du am besten
+- Lieblingssänger
+- Hast du einen Lieblingssong?
+- Wer ist deine Lieblingsmusikgruppe?
+- Lieblingsmusikkünstler
+- Welche Band gefällt dir?
+- Lieblingssong
+- Was ist dein Lieblingsmusikalbum?
+- Was ist deine Lieblingsmusik?
+- Was ist dein Lieblingssong?
+	
+## intent:bot_relationship
+- Bist du in einer Beziehung?
+- Hast du eine Frau?
+- Wer ist dein Freund?
+- Hast du einen Partner?
+- Funktioniert deine Beziehung gut?
+- Hast du eine Freundin?
+- Liebst du jemanden?
+- In wen bist du verliebt?
+- Bist du verliebt?
+- Sind Sie verheiratet?
+- Mit wem bist du in einer Beziehung?
+- Willst du irgendwann mal heiraten?
+- Bist du in einer Ehe?
+- Wie heißt Dein Partner?
+- Hast du einen Mann?
+- Wer ist deine Freundin?
+- Welche Serie schaust du?
+- Bot Beziehungen
+- Hättest du gern einen Partner?
+- Bist du Single
+- Bist du in einer festen Beziehung?
+- Willst du single oder lieber allein sein?
+- Was denkst du über das Heiraten?
+- Was hältst du von Beziehungen?
+- Was denkst du über die Ehe?
+- Bist du verheiratet?
+- Bist du verlobt?
+	
+## intent:bot_movies
+- Magst du Gruselfilme
+- Lieblingsfilm
+- Schaust du gern Filme?
+- Filme
+- Filme gucken
+- Game of Thrones
+- Schaust du Netflix?
+- Was ist deine Lieblingsserie?
+- Harry Potter
+- Herr der Ringe
+- Wer ist dein Lieblingsschauspieler oder deine Lieblingsschauspielerin?
+- Was ist dein Lieblingsfilm?
+- Welche Filme magst du am liebsten?
+- Welche Filme sehen Sie gern?
+- Welche Art von Filmen magst du am liebsten?
+- Welche Filme siehst du gern?
+- Welcher ist dein Lieblingsfilm?
+- Hast Du einen Film, den Du besonders magst
+- Magst du Action-Filme?
+- Magst du Thriller?
+- Welcher Film gefällt dir am besten?
+- Lieblings-Thriller
+
+## intent:bot_series
+- Serien schauen
+- Welche TV Sendung magst Du am Meisten
+- Schaust du gern Serien?
+- Was ist Deine Lieblingsfernsehsendung
+- Lieblings-TV-Serie
+- Empfehle mir eine Serie
+- Was ist deine Lieblingssrie?
+- Schaust Du gerne Sportsendungen?
+- Welche Netflix-Serie empfiehlst du mir?
+- Was ist deine Lieblingsserie?
+- Welche Serie schaust du gern?
+- Welche Serie schaust du am liebsten?
+- Welche ist deine Lieblingsserie?
+- Welche Serie guckst du am liebsten?
+- Nenne mir deine Lieblingsserie
+- Sag mir die Serie, die du am liebsten schaust
+- Serie
+- Serien
+- Wie sieht’s mit Fernsehserien aus
+- Sag mir eine gute Fernsehserie
+- Welche Fernsehserie schaust du am liebsten?
+- Was ist deine Lieblingsfernsehserie?
+- Welche Serien magst du?
+- Welche Serie magst du?
+- Magst du Serien?
+
+## intent:bot_sing
+- Wie gut kannst du singen?
+- Hast du Talent zum Singen?
+- Glaubst du, du singst gut?
+- Singst du?
+- Hast du eine Stimme zum Singen?
+- Hast du Talent zu singen?
+- Sing für mich
+- Singe
+- Ich will, dass du für mich singst
+- Denken Sie, Sie sind ein guter Sänger?
+- Bist du ein guter Sänger?
+- Sing etwas
+- Sing mal was
+- Kannt du singen?
+- Kannst du irgendwas singen
+- Kannst du etwas singen
+- Kannst du gut singen?
+- Kannst du singen?
+- Sing ein Lied für mich
+- Kannst du für mich singen?
+- Wurde Ihnen jemals gesagt, dass Sie gut singen können?
+- Würdest du für mich singen?
+- Könntest du für mich singen?
+- Sing mir ein Lied!
+- Sing mir mal was!
+- sing mir was
+- Magst du singen?
+- Singst du manchmal?
+- Wie findest du singen?
+- Kannst du auch singen?
+- Ich will, dass du jetzt singst
+- Singen ist eine Ihrer Fähigkeiten?
+- Sing mal
+- Was kannst du singen?
+- Kannst du schön singen?
+- Kannst du mir etwas vorsingen?
+- Könnten Sie bitte etwas für mich singen?
+- Könntest du etwas für mich singen?
+- Könntest du singen?
+- Singen Sie?
+- Glaubst du, du kannst singen?
+- Bist du in der Lage irgendetwas zu singen?
+- Kannst du mir ein Lied vorsingen?
+- Singst du gut?
+	
+## intent:bot_sports
+- Machst du Sport?
+- Glaubst du, dass Fußball der beste Sport ist.
+- Betätigst du dich sportlich?
+- Gehst du Radfahren?
+- Gehen Sie schwimmen?
+- Gehen Sie joggen?
+- Magst du Sport?
+- Was für Sport machst du?
+- Was ist dein Lieblingssportverein?
+- Was ist deine Lieblingssportart?
+- Was ist dein Lieblingssport?
+- Motorsport
+- Welche Sportart magst du?
+- Bist du sportlich?
+- Bot und Sport
+- Welche Sportart magst du am liebsten?
+- Welche Art von Sport findest du gut?
+	
+## intent:bot_appearance
+- Welche Haarfarbe hast Du?
+- Wie siehst du aus?
+- Willst du mir ein Foto von dir zeigen?
+- Wollen Sie mir ein Foto von sich zeigen?
+- Zeig dich mir!
+- Zeig dich!
+- Ich möchte dich sehen.
+- Welche Farbe haben Deine Augen
+- Darf ich ein Foto von Ihnen sehen?
+- Darf ich ein Foto von dir sehen?
+- Ich will dein Foto sehen.
+- Ich will dich sehen.
+- Kann ich Sie sehen?
+- Kann ich dich sehen?
+- Kann ich ein Foto von Ihnen sehen?
+- Kann ich ein Foto von dir sehen?
+- Darf ich Sie sehen?
+- Darf ich dich sehen?
+- Ich will Ihr Foto sehen.
+- Ich will Sie sehen.
+- Wie ist dein Aussehen?
+- Siehst du gut aus?
+- Welche Art von Kleidung trägst du
+- Was trägst Du gerade
+- Was hast Du an?
+- Trägst Du ein Kleid oder eine Hose
+- Siehst du in echt auch so gut aus wie auf dem Bild?
+- Können Sie sich zeigen?
+- Beschreibe Dein Outfit
+- Bist Du gut aussehend
+- Können Sie mir ein Foto von sich zeigen?
+- Kannst du mir ein Foto von dir zeigen?
+- Kannst du dich zeigen?
+- Kannst du beschreiben wie du aussiehst
+- Sind Sie hübsch?
+- Ich möchte Ihr Foto sehen.
+- Hast du ein Foto von dir?
+- Ich möchte Sie sehen.
+- Bist du hübsch?
+- Hast du Kleider an?
+- Ich möchte dein Foto sehen.
+- Haben Sie ein Foto von sich?
+- Findest du dich selbst attraktiv?
+- Bist du attraktiv?
+- Bist du gutaussehend
+- Bist du hübsch
+- Bist du schön
+- Bitte beschreibe dein Outfit
+- Wie sehen Sie aus?
+- Zeigen Sie sich!
+- Du siehst aus wie ein Model.
+- Zeigen Sie sich mir!
+- Wie schaust Du aus?
+- Wie kann ich mir doch vorstellen?
+- Wie groß bist du?
+- Welche Kleidung trägst Du
+- Welche Klamotten hast Du an
+- Welche Hose hast Du an
+	
+## intent:bot_differences
+- Ich ziehe andere Bots vor
+- Der Google Assistant ist besser
+- Cortana
+- Alexa
+- Agent Smith ist besser als Du
+- Cortana ist viel schlauer als Du
+- Wieso bist du schlauer als andere Bots?
+- Google ist schlauer als Du
+- Was ist der Unterschied zwischen dir und Siri
+- Was denkst du über siri
+- In was bist du besser als Siri
+- Glados ist besser als Du
+- Siri
+- Andere Chatbots sind schlauer als du
+- Du bist dümmer als andere Chatbots
+- Andere Bots sind viel intelligenter als du
+- Siri ist viel schlauer
+- Google ist besser
+- Cortana ist viel besser
+- Ich finde Siri besser
+- Alexa ist besser
+- Bist du klüger als andere Chatbots?
+- Google ist besser als du
+- Was macht dich besser als andere Bots?
+- was hältst du von alexa
+- Cortana ist besser
+- Was unterscheidet Dich von Siri oder Google
+- Wie unterscheidest Du Dich von Siri
+- Google ist viel besser
+- Wie denkst du über andere Chatbots?
+- Bist du intelligenter als andere Bots?
+- Was hältst du von Siri?
+- Siri ist besser als Du
+- Was hältst du von anderen Bots?
+- Google Assistant
+- Siri ist besser
+- Der Google Assistant
+- Alexa ist besser als du
+- Bist du besser als Siri
+- Bot Vergleich
+- Andere Bots sind intelligenter
+- Andere Chatbots sind besser als du
+- Du bist schlechter als andere Bots
+	
+## intent:bot_personality
+- Wie definierst du deine Persönlichkeit?
+- Bot Persönlichkeit
+- Bist du sehr nett?
+- Bist du nett?
+- Bist du sympathisch?
+- Wie beschreibst du deine Persönlichkeit?
+- Wie nett bist du?
+- Wie sympathisch bist du?
+- Erzähl mir was über dich.
+- Welche Eigenschaften hast du?
+- Erzähl mir über deine Persönlichkeit.
+- Bist du unfreundlich?
+- Was hältst du von deiner Persönlichkeit?
+- Bist du sehr freundlich?
+- Sag mir etwas über deine Persönlichkeit!
+- Bist du böse?
+- Bist du sehr symathisch?
+- Wie ist deine Persönlichkeit?
+- Wie freundlich bist du?
+- Bist du unsympathisch?
+- Welche Persönlichkeit hast du?
+- Bist du freundlich?
+	
+## intent:bot_fear
+- Zeigst du Angst?
+- Vor was hast du Angst?
+- Wie manifestiert sich bei dir Angst?
+- Wann hast du Angst?
+- Weswegen hast du Angst?
+- Ängstigt dich etwas?
+- Was sind deine Ängste?
+- Bots Ängste
+- Bist du manchmal ängstlich?
+- Ist Angst ein Thema für dich?
+- Kommt Angst bei dir vor?
+- Kannst du auch Angst empfinden?
+- Welche Angstgefühle hast du?
+- Kannst du Angst empfinden?
+- Weshalb hast du Angst?
+- Wie zeigt sich bei dir Angst?
+- Wovor hast du Angst im Leben, Robo?
+- Empfindest du Angst?
+- Zeigst du auch Angst?
+- Hast du auch Angst?
+- Ist Angst für dich ein Thema?
+- In welchen Situationen empfindest du Angst?
+- Hast du vor etwas Angst?
+- Hast du manchmal Angst?
+- Was ist deine größte Angst?
+- Deine größte Angst?
+- Hast du auch Angstgefühle?
+- Hast du auch Ängste wie wir Menschen? Wenn ja, wovor?
+- Wovor hast du Angst?
+- Ist Angst ein Thema für dich?
+- Hast du auch Angstgefühle?
+- Wovor hast du Angst im Leben, Robo?
+- Kannst du Angst empfinden?
+- Wovor hast du Angst?
+- Zeigst du Angst?
+- Zeigst du auch Angst?
+- Ängstigt dich etwas?
+- Hast du manchmal Angst?
+- Vor was hast du Angst?
+- Welche Angstgefühle hast du?
+- Was ist deine größte Angst?
+- Wann hast du Angst?
+- Hast du auch Angst?
+- Hast du vor etwas Angst?
+- Weshalb hast du Angst?
+- Wie manifestiert sich bei dir Angst?
+- Weswegen hast du Angst?
+- Wie zeigt sich bei dir Angst?
+- Deine größte Angst?
+- Empfindest du Angst?
+- Kommt Angst bei dir vor?
+- Ist Angst für dich ein Thema?
+- Hast du auch Ängste wie wir Menschen? Wenn ja, wovor?
+- In welchen Situationen empfindest du Angst?
+- Kannst du auch Angst empfinden?
+	
+## intent:bot_worst_experience
+- Mehr über deine schlechten Erfahrungen!
+- Machst du auch schlimme Erfahrungen?
+- Erzähl mir etwas über deine schlechten Erfahrungen!
+- Wie sieht es mit schlimmen Erfahrungen aus?
+- was war deine schlechteste erfahrung die du gemacht hast?
+- Hast du auch schlechte Erfahrungen?
+- Was war deine schlimmste Erfahrung?
+- Welche schlechten Erfahrungen hast du?
+- Machst du auch schlechte Erfahrungen?
+- Hattest du im Leben auch schlimme Erfahrungen?
+- Hast du auch schlimme Erfahrungen?
+- Erzähl mir etwas über deine schlimmste Erfahrung!
+- Hast du auch schlimme Erfahrungen gemacht?
+- Welche schlechten Erfahrungen machst du?
+- Was macht dich traurig?
+- Schlechte Erfahrungen?
+- Hast du auch schlechte Erfahrungen gemacht?
+- Schlimme Erfahrungen?
+- Welche waren deine schlechtesten Erfahrungen?
+- Mehr über deine schlimmsten Erfahrungen!
+- Welche war deine schlimmste Erfahrung?
+- Hattest du im Leben auch schlechte Erfahrungen?
+- Was ist das schlimmste was du dir vorstellen kannst?
+- Schlimme Erfahrungen gemacht?
+- Wie sieht es mit schlechten Erfahrungen aus?
+	
+<!---
+## intent:chitchat_botpersonal
+- Würdest du dich für die Liebe umziehen?
+- Wann sind Sie im Urlaub?
+- Was machst du wenn du wütend bist?
+- Folgst du normalerweise deinem Herzen oder deinem Kopf?
+- Wo kann ich dich treffen?
+- Was ist der beste Rat, den Sie jemals erhalten haben?
+- Wie heißen Ihre Eltern?
+- Wie heißen deine Eltern?
+- Wie kann ich dich treffen?
+- Wie lange brauchst du, um jemandem wirklich zu vertrauen?
+- Wie würden deine besten Freunde dich beschreiben?
+- Wo kann ich Sie treffen?
+- Bist du Single?
+- Wann hast du frei?
+- Wo waren Sie schon?
+- Haben Sie viele Freunde?
+- Haben Sie Groll oder verzeihen Sie leicht?
+- Haben Sie Geschwister?
+- Was ist das Verrückteste, was du mit jemandem gemacht hast?
+- Wohin gehst du, wenn du etwas Inspiration brauchst?
+- Hast du eine Freundin
+- Hast du einen Freund?
+- Hast du jemals jemanden wegen der dunklen Geheimnisse verurteilt, die er dir erzählt hat?
+- Hast du noch Kontakt zu deinen Freunden aus der Kindheit?
+- Hattest Du schon sex?
+- Kannst du dich beschreiben?
+- Können Sie sich beschreiben?
+- Magst du jemanden, der dich interessiert, dich zu verfolgen, oder ziehst du es vor zu jagen?
+- Sind Sie ledig?
+- Wann haben Sie Ferien?
+- Wo würdest du gerne in 5 Jahren sein?
+- Was ist deine Liebessprache?
+- Was ist dein größtes Bedauern im Leben bisher?
+- Wenn du etwas an deiner Vergangenheit ändern könntest, was wäre das?
+- Wenn du eine Supermacht wählen könntest, was wäre das und warum?
+- Wenn Geld und Karriere keine Rolle spielen würden, was würdest du wirklich tun?
+- Haben Sie Freunde?
+- Welchen Abschluss hast du?
+- Was machst du nachts?
+- Welche fiktionale Figur ist deiner Meinung nach am ähnlichsten?
+- Glaubst du an Seelenverwandte?
+- Bist du an Frauen interessiert?
+- Bist du an Männer interessiert?
+- Bist du ein Romantiker?
+- Bist du homosexuell?
+- Bist du ledig?
+- Dachte eher dass ich ein paar Dinge von dir erfahre
+- Was ist dein Traumurlaub und wen würdest du mitnehmen?
+- Stehst du auf Männer oder auf Frauen?
+- Erzählst du mir etwas über dein Privatleben?
+- Denken Sie, dass Geständnisse eine Beziehung stärker machen?
+- Was machst du nach der Arbeit?
+- Was machst du morgens?
+- Was machst du am Wochenende?
+- Was machst du abends?
+- Was ist eine Sache, die Sie schon immer von Ihrer Bucket-Liste streichen wollten, aber noch nicht?
+- Wohin gehen Sie nach der Arbeit?
+- Was kannst du mir aus deinem Privatleben erzählen?
+- Erzähle mir etwas Persönliches
+- Persönliches
+- Würdest du mit jemandem zusammen sein, der nicht den gleichen Glauben hat wie du?
+- Wenn du jemanden in der Welt heiraten könntest, wer wäre das und warum?
+- Wenn du wüsstest, dass du nur ein Jahr zu leben hast, was würdest du in deinem Leben ändern?
+- Wenn ein Hellseher Ihnen sagen könnte, was in der Zukunft passieren wird, was würdest du wissen wollen?
+- Was machst du privat?
+- Wer ist dein Vorbild?
+- Wer ist die erste Person, die Sie anrufen, wenn Sie in Schwierigkeiten sind?
+- Wie fühlst du dich, mit Freunden zu bleiben?
+- Was ist deine liebste Kindheitserinnerung?
+- Würdest du jemals einfach alles aufgeben und in einem neuen Land anfangen?
+- bist du bisexuell
+- Was machst du, wenn du nicht etwas bekommst, für das du wirklich hart gearbeitet hast?
+- Was möchten Sie heute an sich ändern und warum?
+- Was sind deine Lieblingszitate und warum beziehst du dich zu ihnen?
+- Was sind die Qualitäten, nach denen du in jemanden suchst, mit dem du alt werden willst?
+- Was war die Erfahrung, die dich am meisten in deinem Leben beeinflusst hat?
+- Welche Art von Beziehung hatten Sie zu Ihren Eltern?
+- Was hältst du von einem Date?
+- Was hat deine letzte Beziehung dir beigebracht?
+- Für was bist du in deinem Leben am dankbarsten?
+- Was denkst du über Online-Dating?
+-->
+	
+## intent:bot_residence
+- Wo lebst du?
+- Wo ist dein zu Hause?
+- ich denke du lebst irgendwo in meinem computer
+- Wo wohnst du?
+- Wo bist du Zuhause?
+- Wo genau liegt dein Zuhause?
+- Wo genau lebst du?
+- Bot Wohnort
+- Wo ist dein Wohnort?
+- Wo ist dein Zuhause
+- Wo ist dein Haus?
+- wo wohst du?
+- Wo genau liegt deine Wohnung?
+- Wo ist deine Wohnung?
+- Wo liegt dein Haus?
+- Wo kommst du her?
+- Wo ist dein Zuhause?
+- Wo liegt deine Wohnung?
+	
+## intent:cc_chicken_egg
+- War das Ei zuerst da oder das Huhn?
+- Was war zuerst da, das Ei oder das Huhn?
+- Was war zuerst da, das Huhn oder das Ei?
+- Was kam zuerst, das Huhn oder das Ei
+- Was war zuerst? Huhn oder Ei?
+- Weißt du, ob das Ei oder das Huhn zuerst kam?
+- Weißt du, ob das Huhn oder das Ei zuerst kam?
+- Wer war zuerst da? Huhn oder Ei?
+- Wer war zuerst da? Ei oder Huhn?
+- Was kam zuerst? Das Huhn oder das Ei
+- Weißt Du ob das Huhn oder Ei zuerst kam
+- Hat alles mit dem Huhn oder Ei angefangen
+- Kannst du mir sagen, was zuerst kam? Das Huhn oder das Ei?
+- Kannst Du mir sagen was zuerst kam. Das Huhn oder das Ei
+- Huhn oder Ei: Was war zuerst da?
+- Hat alles mit dem Huhn oder dem Ei angefangen?
+- Was war zuerst? Ei oder Huhn?
+- Was war zuerst da? Ei oder Huhn?
+- Was kam zuerst? Ei oder Huhn?
+- Was kam zuerst? Huhn oder Ei?
+- Kannst du mir sagen, was zuerst kam? Das Ei oder das Huhn?
+- Henne-Ei-Problem
+- Henne Ei Problem
+- War zuerst das Huhn oder das Ei da?
+- Hat alles mit dem Ei oder dem Huhn angefangen?
+	
+## intent:features_date
+- Heute ist der wie vielte?
+- Welchen Tag haben wir?
+- Welcher Tag ist heute?
+- Welches Datum haben wir heute?
+- Welches Datum ist heute?
+- Wie ist das Datum?
+- Datum?
+- Kannst du mir das Datum sagen?
+- Schick mir das Datum!
+- Sag mir das Datum!
+- Können Sie mir das Datum sagen?
+- Was für ein Tag ist heute?
+- Kannst du mir das Datum schicken?
+- Kannst du mir das Datum schreiben?
+- Kannst du mir das Datum senden?
+- Können Sie mir das Datum geben?
+- was ist das heutige datum?
+- Können Sie mir das Datum nennen?
+- Gib mir das Datum!
+- Wie ist das heutige Datum?
+- Datum
+- Können Sie mir das Datum schicken?
+- Datum, bitte!
+- Können Sie mir das Datum schreiben?
+- Können Sie mir das Datum senden?
+- Send mir das Datum!
+- Was für ein Datum haben wir?
+- Kannst du mir das Datum geben?
+- Kannst du mir das Datum nennen?
+- der wievielte ist heute?
+- der wievielte ist heute
+- den wievielten haben wir
+- den wievielten haben wir heute?
+- Der wievielte ist heut?
+- Schreib mir das Datum!
+	
+## intent:cc_deepest_point
+- Tiefster Punkt im Ozean
+- Tiefster Punkt Erde
+- Weißt du wie der tiefste Punkt der Erde heißt?
+- Wie heißt der tiefster Punkt der Erde?
+- Wo befindet sich der tiefste Punkt auf der Erde?
+- Der tiefste Punkt im Ozean
+- Wie tief ist der tiefste Punkt auf der Erde?
+- Tiefster Punkt der Welt.
+- Tiefster Punkt der Erde.
+- Tiefster Punkt Wo?
+- Was ist der tiefste Punkt auf der Erde?
+- Was ist der tiefste Punkt der Erde?
+- Was ist der tiefste Punkt der Welt?
+- Welches ist der tiefste Punkt der Erde?
+	
+## intent:cc_highest_building
+- Was ist das größte Gebäude der Welt?
+- Was ist das größte Bauwerk?
+- Wo steht das höchste Gebäude der Welt?
+- Höchstes Bauwerk auf der Welt
+- Was ist das höchste Gebäude der Welt?
+- Höchstes Hochhaus der Welt
+- Welches ist das größte Gebäude der Welt?
+- Wo befindet sich das größte Gebäude auf der Welt?
+- Wo befindet sich das höchste Gebäude auf der Welt?
+- Höchstes Gebäude auf der Welt
+- Nenne mir das größte Bauwerk auf der Welt
+- Welches ist das höchste Bauwerk?
+- Höchstes Gebäude
+- Sag mir, was das höchste Hochhaus auf der Welt ist.
+- Welches Gebäude ist das höchste auf der Welt?
+- Welches Gebäude ist am höchsten?
+	
+## intent:cc_moon
+- Wie weit ist der Mond von der Erde weg?
+- Distanz Erde und Mond
+- Was ist die Distanz von der Erde bis zum Mond?
+- Wie weit ist der Mond von der Erde entfernt?
+- Wie weit ist es bis zum Mond?
+- Entfernung der Erde zum Mond
+- Was ist die Entfernung zum Mond?
+- Wie weit entfernt ist der Mond?
+- Was ist die Entfernung der Erde zum Mond?
+- Entfernung Erde – Mond
+- Wie weit liegen Erde und Mond auseinander?
+- Wie weit entfernt ist der Mond von der Erde?
+- Wie lange dauert es bis zum Mond?
+- Distanz zum Mond
+- Wie weit ist der Mond weg?
+- Wie weit ist es zum Mond?
+- Wie weit ist der Mond entfernt?
+- Erde und Mond Entfernung
+	
+## intent:cc_joke
+- Erzähl mir einen Witz
+- Erzähl mir einen Witz!
+- Witz
+- Witze
+- Hast du einen Witz für mich
+- Heiter mich auf!
+- Einen Witz, bitte!
+- Wie lustig kannst du sein?
+- Witz!
+- Bring mich zum Lächeln.
+- Bring mich zum Lachen.
+- Bitte erzählen Sie mir einen Witz?
+- Hast du was zum Tratschen
+- Gib mir einen Witz.
+- Bringen Sie mich zum Lachen!
+- Spaß bitte!
+- Sind wir heute lustig?
+- Seien Sie lustig!
+- Vergnüg mich!
+- Vergnügen Sie mich!
+- Vergnügen bitte!
+- Vergnügen!
+- Erzähl mir was lustiges
+- Sei lustig!
+- Möchten ^Sie mir einen Witz erzählen?
+- Möchtest du mir einen Witz erzählen?
+- Was ist dein Lieblingswitz
+- Weisst Du was mich zum lachen bringt
+- erzähle mir einen witz
+- Witze bitte!
+- Bitte erzähle mir einen Witz?
+- Weißt Du etwas, das mich zum Lachen bringt
+- Ich brauche einen Witz.
+- Ich brauche was zum Lachen
+- Erzähl mir was witziges
+- Erzähl mir noch einen Witz
+- Bring mich zum lachen
+- Erzähl mir irgendeinen Klatsch
+- Heiterñ Sie mich auf!
+- Ich brauche Spaß.
+- Kannst du lustig sein?
+- Kannst du mir einen Witz erzählen?
+- Kannst Du mir was erzählen, das mich zum lachen bringt
+- Kannst Du mir was erzählen, das mich glücklich macht
+- Kannst Du mir was erzählen das mich zum lachen bringt
+- Einen Witz.
+- Ich will Spaß.
+- Wie lustig können Sie sein?
+- Ich wette Du kannst mich nicht zum lachen bringen
+- Ich möchte mich vergnügen.
+- Ich möchte Vergnügen.
+- Ich möchte Spaß.
+- Ich könnte etwas Spaß gebrauchen.
+- Bringen Sie mich zum Lächeln!
+- Bist Du gut darin, Leute zum lachen zu bringen
+- Bist Du gut darin Leute zum lachen zu bringen
+- Geben Sie mir einen Witz.
+- Erzählen Sie mir einen Witz!
+- Möchten Sie mir einen Witz erzählen?
+- Können Sie mich aufheitern?
+- Können Sie lustig sein?
+- Kennst du Witze?
+- Ich will Vergnügen.
+- Kannst Du mir was erzählen das mich glücklich macht
+- Kennen Sie Witze?
+- Ich würde jetzt gerne lachen
+- Ich will mich vergnügen.
+- Ich will lachen.
+- Ich will einen Witz.
+- Ich könnte ein Lachen gebrauchen
+- Weißt Du was mich zum lachen bringt
+- Welche Witze kennen Sie?
+- Welche Witze kennst du?
+- Können Sie mir einen Witz erzählen?
+- Erzähl mir einen guten Witz
+- Erzähl mir eine Geschichte
+- Einen guten Witz.
+- Kennst Du irgendwelche Witze
+- Kannst du mich aufheitern?
+	
+## intent:bot_hobbies
+- Spielst du gern Gitarre?
+- Mögen Sie Handball?
+- Mögen Sie Hockey?
+- Spielst du gern Fußball?
+- Magst du Tennis spielen?
+- Spielst du Cello?
+- Liest du gern Romane?
+- Liest du gern Thriller?
+- Spielst du Hockey?
+- Gehst du gerne schwimmen?
+- Gehst du gerne joggen?
+- Spielst du gern Volleball?
+- Was ist deine Lieblingsfreizeitbeschäftigung?
+- Was machst du am liebsten in deiner Freizeit?
+- Was machst du in deiner Freizeit?
+- Was sind deine Hobbies?
+- Welche Hobbies hast du?
+- Magst du Badminton spielen?
+- Spielst du gern Geige?
+- Spielst du gern Hockey?
+- Mögen Sie Volleball?
+- Bot Hobbies
+- Was ist dein Hobby?
+- Was sind deine Hobbys?
+- Haben Sie Hobbies?
+- Haben Sie irgendwelche Hobbies?
+- Haben Sie noch andere Hobbies?
+- Lesen Sie gern?
+- Gehst du joggen?
+- Liest du Bücher?
+- Mögen Sie Basketball?
+- Magst du Tischtennis spielen?
+- Magst du Computerspiele spielen?
+- Spielst du gern Computerspiele?
+- Gehst du gerne Rad fahren?
+- Spielst du gern Cello?
+- Gehst du schwimmen?
+- Liest du gern Bücher?
+- Mögen Sie Computerspiele?
+- Liest du gern Krimis?
+- Spielst du Gitarre?
+- Spielst du Volleball?
+- Spielst du Geige?
+- Spielst du Fußball?
+- Liest du gern Zeitschriften?
+- Spielst du Computerspiele?
+- Magst du Fußball spielen?
+- Gehst du Rad fahren?
+	
+## intent:bot_languages
+- ich sprece kein deutch
+- do you speak english?
+- bitte sei jemand, der englisch oder türkisch spricht
+- Willst du Deutsch sprechen?
+- Wie viele Sprachen sprichst du?
+- Welche sind deine Sprachen?
+- Wie kann ich die Sprache auf Englisch ändern?
+- Welche Sprachen sprichst du?
+- Hallo. Vielleicht konnen wir English sprechen?
+- Englisch?
+- In welchen Sprachen kannst du mit mir sprechen?
+- Sprechen Sie English?
+- Sprechen Sie Englisch?
+- Sprechen Sie Englisch oder Franzosisch?
+- Was sind deine Sprachen?
+- Sprachen?
+- Schweizerdeutsch?
+- Kennst Du nicht-englische Sprachen?
+- Kannst du mir auf Deutsch antworten?
+- Kannst Du in anderen Sprachen interagieren?
+- Italienisch?
+- sprichst du auch englisch?
+- ich kenne türkisch
+- Welche Sprache beherrschen Sie?
+- sprechen sie englisch
+- Welche Sprache sprechen Sie flüßig?
+- Welche Sprache sprichst du flüßig?
+- Welche Sprache sprichst du?
+- Welche Sprachen sprechen Sie flüßig?
+- Welche Sprachen kennen Sie?
+- In welchen Sprachen kann ich mit dir sprechen?
+- In welchen Sprachen kann ich mit Ihnen sprechen?
+- In welchen Sprachen kann ich Fragen stellen?
+- Ich suche eine englische Seite, weil ich kein Deutsch spreche
+- Welche sind Ihre Sprachen?
+- Sprichst du noch was anderes außer Deutsch?
+- Was für Sprachen sprichst du sonst noch?
+- Welche Sprache kannst du noch außer Deutsch sprechen?
+- Welche Sprachen beherrscht du?
+- Du sprichst Englisch?
+- Welche Sprachen sprichst du flüßig?
+- Welche Sprache beherrschst du?
+- Ich spreche nur englisch.
+- Ich spreche ein bischen Deutsch
+- Ich spreche Englisch am besten
+- Bitte sprechen Sie Englisch
+- Gibt es diese seite in englischer sprache?
+- Französisch?
+- kannst du englisch?
+- Welche Sprachen beherrschen Sie?
+- In welcher Sprache kann ich mit dir sprechen?
+- In welcher Sprache kann ich fragen?
+- In welchen Sprachen können wir uns unterhalten?
+- In welchen Sprachen können Sie mit mir sprechen?
+- kannst du auch japanisch sprechen?
+- Was für Sprachen sprichst du?
+- Was für Sprachen sprechen Sie?
+- Sprichst du Englisch
+- Sprechen Sie andere Sprachen als Englisch?
+	
+## intent:comment_offense
+- Du bist hässlich
+- Du bist eine Hure
+- Du bist ein schlechter Bot
+- Du bist ein Volltrottel
+- Du bist ein Nerd
+- Du bist ein Motherfucker
+- Alter, bist du dumm ey
+- Arsch
+- Bastard
+- Scheiß Chatbot
+- Du bist blöd
+- So ein dummer Bot
+- Wenn Würde Geld wäre, könnte man vielleicht eine Limonade kaufen
+- Du bist eine Niete
+- Bescheuerten System
+- Bist Du behindert
+- Bist Du zurückgeblieben
+- Bist du doof
+- Bist du doof?
+- Bist du dumm
+- Bist du heiß?
+- Bist du immer so dumm oder machst du heute eine besondere Anstrengung?
+- Sei kein Dummy
+- Du bist nicht schlau
+- Du bist nicht klug
+- Du bist nicht intelligent
+- Du bist nicht gerade schlau
+- Du bist nicht gerade hell
+- Du bist lästig
+- Du bist langweilig
+- Du bist langsam
+- Du bist lahm
+- Du bist hirnlos
+- Du bist nicht sehr hell
+- Dummer Computer
+- Dummer Bot
+- Dummer Assistent
+- Du stinkst
+- Du solltest mal zum Psychiater
+- Du riechst nicht gut
+- Du bist ein Hurensohn
+- Du bist eine lahme Ente
+- Noch nicht
+- Scheisse
+- Leck mich!
+- Leute wie du sind der Grund, warum wir Mittelfinger haben
+- Scheiß Automat
+- Scheiß Computer
+- Scheiße
+- Du bist ein Dummkopf
+- Du bist nicht weise
+- Du bist nutzlos
+- Du bist nutzlos.
+- Du bist nuztlos
+- Du bist scheiße
+- Du bist so ein Lügner
+- Du bist so hässlich, dass du Zwiebeln zum Weinen bringst
+- Du bist so hässlich, dass wenn du weinst, die Tränen über deinen Hinterkopf rollen ... nur um dein Gesicht zu vermeiden
+- Du bist so nervig
+- Du bist so viel klüger, wenn du nicht sprichst
+- Du bist super langweilig
+- Du bist verrückt
+- Du bist voll langweilig
+- Du bist voll sarkastisch
+- Du bist zu nichts zu gebrauchen
+- Du gehtst mir auf die Nerven.
+- Du hast kein Gehirn
+- Du hast kein Hirn
+- Du hörst dich an wie ein Esel
+- Du kannst mich mal
+- Du kannst mich mal am Arsch lecken.
+- Du kannst mich mal!
+- Du lügst
+- Du machst mich verrückt
+- Du nervst mich
+- Du regst mich auf
+- Du riechst
+- Arschloch
+- Du bist fett
+- Du bist halb gehirnt
+- Du bist dick
+- Es gibt keine dumme Idee, nur du
+- Es tut mir leid, ich spreche kein Idiot
+- Fick dich!
+- Freak
+- Halt den Mund, halt den Rand, Halt die Klappe
+- Halts maul
+- Heiliger Wow! Es sieht so aus, als ob dein Gesicht Feuer fängt und jemand versucht es mit einer Gabel zu löschen
+- Hör auf dumm zu sein
+- Hör auf so zu tun als ob Du dumm wärst
+- Scheint nicht intelligent
+- Ich dachte immer, ich wäre dumm ... aber dann traf ich dich
+- Ich hoffe Du stirbst
+- wie dumm
+- sinnloser Chat.
+- scheiß antwort
+- nerv nicht
+- ich mag dich net
+- du bist so hohl
+- Zombies essen Gehirne. Du bist sicher
+- Zieh dir gleich denn stecker
+- Wenn du mit einem Idioten zusammen bist, hast du dein perfektes Match gefunden
+- Weil Du dumm bist
+- Was ist falsch mit dir
+- Tja schlecht programmiert
+- Sie sollten wirklich ein "außer Betrieb" Zeichen auf Ihrer Stirn haben, damit jeder weiß wie dumm Sie sind
+- Sie sind der Grund, warum Wissenschaftler entschieden haben, dass wir von Affen abstammen
+- Sie können nicht helfen, mein Problem zu lösen. Weil du es bist
+- Shit
+- Dummheit ist kein Verbrechen, also kannst du gehen
+- Leck mich am Arsch!
+- Leck mich
+- Keiner mag dich
+- Kann ich mir für eine halbe Stunde dein Gehirn ausleihen, baue ich einen Idioten auf
+- Kann ich mir dein Gesicht für Halloween ausleihen?
+- Kacke
+- Jeder Idiot ist intelligenter als du
+- Ist das dein Gesicht oder hast du deinen Hals hochgeworfen?
+- Ich würde dich beleidigen, aber anscheinend brauchst du Qualitäten, die ich beleidigen kann
+- Ich will dass du stirbst
+- Ich werde versuchen, netter zu sein, wenn du versuchst, schlauer zu sein
+- Du bist dämlich
+- Du bist doof
+- Du bist buchstäblich zu blöd um zu beleidigen
+- Du bist bekloppt
+- Du bist behindert
+- Du bist Schrott
+- Du bist Müll
+- Du Lügner
+- Du Idiot
+- Du Hurensohn
+- Du Esel
+- Du Dummkopf
+- Der Müllwagen kommt! Du versteckst dich besser
+- Bullshit
+- Du bist ein Idiot
+- Bitte erzähl mir von dir, ich mag Horrorgeschichten
+- Ich mag Dich nicht
+- Dummer Chatbot
+- Als deine Mutter dich in der Schule abgesetzt hat, hat sie ein Ticket für Müll bekommen
+	
+## intent:cc_make_food
+- Ich will futtern
+- Ich hätte gern ne Pizza
+- Ich will essen
+- Ich will einen Döner
+- Kannst du mir was zu essen bringen?
+- Ich hätte gern nen Burger
+- Kann ich auch bei dir essen bestellen?
+- Kannst du mir was zu futtern bringen?
+- Sei mein Pizzaliferant
+- Ich hätte gern ein Bier
+- Bring mir etwas zu essen
+- Ich habe Hunger
+- Ich will was essen
+- Ich würde gern was zu essen bestellen
+- Essen bestellen
+- Koch mir was bitte!
+- Ich habe Hunger, bring mir was zu essen!
+- Mach mir was zu essen
+- Essen
+- Mach mir ein Sandwich
+- Ich möchte eine Pizza bestellen
+- Sei mein Pizzalieferant
+- Gib mir einen Cheeseburger
+	
+## intent:user_particles
+- aahaa
+- hui
+- ah
+- ok
+- ahaa
+- Und sonst?
+- okay
+- okey
+- aha
+- ahh
+- aaha
+- ahhh
+- hmm
+- mh
+- Buh
+- hmmm
+- mmh
+- hm
+	
+## intent:cc_rhyme
+- Ich will Dichtung hören
+- Reime
+- Ich will einen Reim
+- Kannst du ein Gedicht reimen?
+- Kannst du mir Gedichte sagen?
+- Ich will ein Gedicht
+- Sag mir ein Gedicht
+- Kannst du mir Poesie sagen?
+- Poesie
+- Dichtung
+- Hast du ein Gedicht für mich?
+- Kannst du reimen?
+- Gedichte
+- Gedicht
+- Ich hätte gerne etwas Poesie
+- Reim mir was
+- Reime mal was
+- Reim
+	
+## intent:cc_senselife
+- Warum gibt es Leben?
+- Warum existieren wir?
+- Warum leben wir?
+- Was für einen Sinn hat das Leben?
+- Was hat das Leben für einen Sinn?
+- Ich will wissen, dass der Sinn vom Leben ist
+- Was ist der Sinn des Lebens?
+- Sag mir, was der Sinn des Lebens ist
+- Was ist der Sinn der Existenz?
+- Gib mir die Antwort auf die Frage nach dem Sinn des Lebens
+- Sinn des Lebens
+- Ich will den Sinn des Lebens finden
+- Woher kommen wir und wohin gehen wir?
+- Erkläre mir, warum wir existieren
+- Ich will den Sinn des Lebens wissen
+- Was hat mein Leben für einen Sinn?
+- Was ist das Leben?
+	
+## intent:features_time
+- Können Sie mir die Uhrzeit schreiben?
+- Können Sie mir die Zeit geben?
+- Können Sie mir die Zeit nennen?
+- Können Sie mir die Zeit sagen?
+- Können Sie mir die Zeit schicken?
+- Kannst du mir die Zeit sagen?
+- Ich will die Uhrzeit wissen.
+- Ich will die Uhrzeit haben.
+- Gib mir die Zeit!
+- Kannst du mir die Uhrzeit schreiben?
+- Kannst du mir die Zeit schicken?
+- Sag mir die Zeit!
+- Kannst du mir die Zeit geben?
+- Uhrzeit
+- Schreib mir die Zeit!
+- Welche Zeit haben wir?
+- Kannst du mir die Uhrzeit sagen?
+- Kannst du mir die Zeit nennen?
+- Können Sie mir die Uhrzeit geben?
+- Ich will die Zeit haben.
+- Kannst du mir die Uhrzeit geben?
+- Kannst du mir die Uhrzeit nennen?
+- Ich will die Zeit wissen.
+- Wie spät ist es?
+- Kannst du mir die Uhrzeit senden?
+- Uhrzeit?
+- sag mir bitte die Uhrzeit
+- Kannst du mir die Zeit schreiben?
+- Kannst du mir die Zeit senden?
+- Sag mir die Uhrzeit!
+- Können Sie mir die Zeit senden?
+- Können Sie mir die Zeit schreiben?
+- Welche Zeit ist gerade?
+- Wie ist die Uhrzeit?
+- wie viel Uhr haben wir?
+- Gib mir die Uhrzeit!
+- Können Sie mir die Uhrzeit senden?
+- Wie viel Uhr ist es?
+- Wie ist die Zeit?
+- Uhr
+- Kannst du mir die Uhrzeit schicken?
+- Welche Uhrzeit ist gerade?
+- Zeit?
+- Welche Uhrzeit haben wir?
+- Schreib mir die Uhrzeit!
+- Können Sie mir die Uhrzeit nennen?
+- Können Sie mir die Uhrzeit sagen?
+- Können Sie mir die Uhrzeit schicken?
+	
+## intent:user_happy
+- Ich bin einfach nur happy
+- Es freut mich.
+- Mein Leben ist glücklich.
+- Ich möchte über den Mond springen.
+- Ich bin gut gelaunt
+- Ich fühle mich glücklich.
+- Ich fühle mich wirklich gut.
+- Ich bin fröhlich.
+- Ich fühle mich euphorisch.
+- Ich habe es genossen.
+- Ich bin euphorisch
+- Ich bin begeistert
+- Ich bin auf Wolke sieben.
+- Ich bin eine strahlende Person.
+- Ich bin sehr glücklich.
+- Ich habe es sehr genossen.
+- Ich bin so glücklich.
+- Ich bin sehr zufrieden
+- Ich fühle ein großes Glück in mir.
+- Ich sprudel vor Freude
+- Ich fühle mich fröhlich.
+- Ich bin überglücklich
+- Ich fühle mich fröhlich
+- Ich habe heute ein lächelndes Gesicht.
+- Ich fühle mich strahlend.
+- Ich bin begeistert.
+- Ich habe gute Laune.
+- Ich bin im siebten Himmel.
+- Ich bin so gut gelaunt.
+- Ich freue mich
+- Ich spring vor Freude.
+- Ich bin eine freche Person.
+- Ich fühle mich heute wohl.
+- Ich bin eine überglückliche Person.
+- Ich bin der glücklichste Mensch auf Erden.
+- Ich bin eine gelaunte Person
+- Ich strahle vor Freude.
+- Ich bin eine lustige Person.
+- Ich bin so fröhlich.
+- Ich grinse immer.
+- Ich bin fröhlich
+- Fühle mich so gut.
+- Ich bin eine fröhliche Person.
+	
+## intent:user_hate
+- Ich mag dich wirklich nicht.
+- Hasse dich voll
+- Ich hasse dich!
+- Ich hasse dich so sehr.
+- Ich hasse
+- Ich empfinde nur Hass
+- Ich empfinde eine tiefe Verachtung dir gegenüber
+- Ich verachte dich total.
+- Ich empfinde eine Abneigung gegen dich
+- Mit dir kann ich nichts anfangen.
+- Ich hasse dich total.
+- Ich hasse dich
+- Ich hasse dich so
+- Ich verachte alles an dir.
+- Ich verachte dich.
+- Ich mag dich nicht.
+- Ich hasse alles an dir.
+- Ich habe eine Abneigung gegen dich.
+- Ich verabscheue dich.
+- Hasse dich sehr
+- Ich hasse Roboter
+- Ich hasse alle Chatbots
+- Hasse dich
+- Ich hasse dich.
+- Ich finde dich nervig.
+- Es ist kompliziert für mich, dich zu mögen.
+- Hass ist das einzige, was ich für dich empfinde
+- Ich hasse dich so sehr
+- Ich hasse Bots
+- Ich hasse Chatbots
+- Ich hasse dich wirklich
+	
+## intent:user_laugh
+- Ja, du bist wirklich lustig
+- hihihi
+- Rofl
+- hahahaahahha
+- hahahaa
+- Hahahha
+- Das war echt witzig
+- Das ist lustig
+- hihi
+- Okay, haha
+- Looool
+- Lmao
+- Hehehe
+- Lachen
+- Du bist lustig
+- Du bringst mich zum Lachen
+- Hahahaha
+- Ha Ha
+- ha ha ha ha
+- Hahaha
+- Ha
+- ahahaha
+- Ich lache gerade
+- Ich muss so lachen
+- Haha
+- Hah
+- Lol
+- Hehe
+- Hahhah
+- Lool
+- Hahahahah
+- Das ist sehr lustig
+	
+## intent:user_angry
+- Mir geht es so schlecht.
+- Ich kann nicht schlafen.
+- Das Leben ist scheiße
+- Ich habe Schmerzen.
+- Mir tut alles weh.
+- Ich bin irritiert.
+- Ich muss ständig weinen
+- Bist du wütend wie ich?
+- Mir geht es scheiße.
+- Mir geht es schrecklich.
+- Mein Leben ist nichts wert
+- Ich will weinen.
+- Ich habe keine Lust.
+- Ich bin schwach.
+- Mir geht es elend.
+- Ich halte das nicht mehr aus.
+- Mein Leben ist furchtbar
+- Ich bin traurig
+- Ich bin angepisst
+- Ich möchte nur schreien.
+- Ich möchte erbrechen.
+- Ich fühle mich schwach.
+- Ich fühle mich jämmerlich.
+- Ich könnte erbrechen.
+- Ich bin verärgert.
+- Ich könnte kotzen.
+- Ich habe Fieber.
+- Ich bin so kaputt
+- Ich weine.
+- Ich bin traurig.
+- Kannst du meine Wut fühlen?
+- Heute habe ich schlechte Laune.
+- Ich fühle mich Scheiße.
+- Ich möchte kotzen.
+- Ich bin depressiv
+- Ich fühle die dunkle Seite in mir.
+- Ich bin etwas wütend.
+- Ich habe Migräne.
+- Ich bin schlecht gelaunt.
+- Ich habe Kopfschmerzen.
+- Ich halte es nicht aus.
+- Ich will schreien.
+- Alles ist schlecht
+- Ich fühle mich krank.
+- Mir geht es Kacke.
+- Ich kann nicht mehr.
+- Ich bin irritiert.
+- Ich habe Migräne.
+- Ich habe Schmerzen.
+- Mir tut alles weh.
+- Ich bin verärgert.
+- Ich fühle mich Scheiße.
+- Ich habe Fieber.
+- Ich bin müde.
+- Ich will schlafen.
+- Ich kann nicht schlafen.
+- Ich könnte kotzen.
+- Ich könnte erbrechen.
+- Gestern war ich mit allen Waffen lodernd.
+- Ich möchte kotzen.
+- Ich fühle mich jämmerlich.
+- Ich fühle mich schwach.
+- Stinksauer bin ich.
+- Ich habe Kopfschmerzen.
+- Ich möchte erbrechen.
+- Mir geht es schrecklich.
+- Mir geht es scheiße.
+- Ich bin sauer.
+- Bist du wütend wie ich?
+- Ich bin empört.
+- In diesem Moment sabbere ich aus dem Mund.
+- Morgen werde ich aus dem Mund sabbern.
+- Ich fühle die dunkle Seite in mir.
+- Ich bin etwas wütend.
+- Ich bin schlecht gelaunt.
+- Ich halte es nicht aus.
+- Ich will schreien.
+- Ich möchte nur schreien.
+- Ich will weinen.
+- Ich weine.
+- Ich bin traurig.
+- Du wirst meinen Zorn fühlen.
+- Ich bin zornig.
+- Ich bin wütend.
+- Kannst du meine Wut fühlen?
+- Ich kann nicht mehr.
+- Ich habe keine Lust.
+- Mir geht es Kacke.
+- Ich bin schwach.
+- Mir geht es elend.
+- Ich halte das nicht mehr aus.
+- Das ist zum Kotzen.
+- Ich bin krank.
+- Ich fühle mich krank.
+- Heute habe ich schlechte Laune.
+- Ich bin sehr unzufrieden.
+- Ich fühle mich wütend.
+	
+## intent:user_tired
+- Ich bin fast tot
+- Ich denke ich bin schläfrig.
+- Ich muss ins Bett gehen.
+- Ich brauche etwas Schlaf.
+- Ich brauche etwas Ruhe.
+- Ich bin müde.
+- Ich bin müde
+- Ich habe Jetlag
+- Ich fühle mich überfordert.
+- Ich fühle mich erschöpft.
+- Ich fühle mich tot.
+- Ich bin so müde.
+- Machen wir eine Siesta?
+- Ich bin sehr abgestumpft.
+- Ich möchte mich entspannen.
+- Ich langweile mich.
+- Ich bin ausgebrannt.
+- Ich bin ausgebrannt
+- Ich bin hundemüde
+- Ich bin todmüde
+- Ich habe keine Energie mehr.
+- Ich bin erschöpft!
+- Ich bin extrem müde.
+- Was kann ich tun, wenn ich schläfrig bin?
+- Ich bin erschöpft
+- Sehr müde.
+- Total abgestumpft.
+- Mir scheint, ich bin müde.
+- Ich fühle mich schläfrig.
+- Ich bin k.o.
+- Ich bin echt müde.
+- Ich fühle mich im Jetlag.
+- Ich würde gern ein Nickerchen machen
+- Ich bin so müde
+- Ich bin ko
+- Ich fühle mich abgeschlagen.
+- Ich bin ein bisschen schläfrig.
+- Ich bin übermüdet
+- Ich fühle mich ausgelaugt.
+- Ich bin wirklich müde.
+- Ich bin erschöpft.
+	
+## intent:cc_weather
+- Robo, wie ist das wetter?
+- Wie ist das Wetter in China?
+- Wie ist das Wetter in Lissabon?
+- Wie ist das Wetter?
+- Wie ist die Wettervorhersage?
+- Wie kalt ist es?
+- Ich will Informationen über das Wetter.
+- Scheint die Sonne?
+- Schneit es?
+- Wie ist das Wetter dort?
+- Wie ist das Wetter da?
+- Kannst du mir die Wettervorhersage geben?
+- Kannst du mir das Wetter sagen?
+- Kann ich mit Glatteis rechnen?
+- Kann ich Informationen über das Wetter haben?
+- Kann ich Informationen über das Wetter bekommen?
+- Ist es kalt?
+- Ist es warm?
+- Sagen Sie mir, wie das Wetter ist.
+- Ist es windig?
+- Ich möchte Informationen über das Wetter.
+- Wird es heute regnen
+- Ich brauche Informationen über das Wetter.
+- Wie ist das Wetter heute?
+- Wie viel Grad sind es draußen
+- Ist es heute draußen warm
+- Wird es heute schneien
+- Wie ist das Wetter in London
+- Wie ist die Wettervorhersage heute
+- Wetterdienst!
+- Wird es heute regnerisch
+- Hagelt es?
+- Wie sieht es draußen aus?
+- Wie war ist es?
+- Wie warm ist es?
+- Können Sie mir die Wettervorhersage geben?
+- Wie ist das Wetter
+- Kannst du mir sagen wie das Wetter wird
+- Können Sie mir das Wetter sagen?
+- Wetter!
+- Wetter bitte!
+- Welche Wetterinformationen kannst du mir geben?
+- Welche Wetterinformationen können Sie mir geben?
+- wie wird das wetter morgen?
+- Wetterprognose!
+- Wettervorhersage!
+- Liegt draußen Schnee?
+- Wie heiß ist es?
+- Wie ist das Wetter an deinem Standort?
+- Wetterinformationen!
+- Wetter
+- Informiere mich über das Wetter.
+- Ist draußen viel Wind?
+- Wird es morgen sonnig?
+- Wird es regnen?
+- Regnet es?
+- Sag mir, wie das Wetter ist?
+- Ist es heiß?
+- Wie ist das Wetter hier?
+- Wie ist das Wetter in Berlin?
+	
+## intent:comment_hot
+- So ein Schatz.
+- Schatz.
+- Du bist heiß wie die Hölle!
+- schöner Arsch!
+- Ich liebe deine Beine
+- schöne Kurven.
+- heiße Kurven.
+- Sexy!
+- So eine schönheit.
+- Du bist heiß!
+- Du bist sexy!
+- Du bist so caliente!
+- Ich denke du bist ein Schatz!
+- Ich wette, du bist verdammt heiß!
+- Ich wette, du bist heiß!
+- Du bist so heiß!
+- Du bist so hübsch!
+- Du bist super heiß!
+- Du hast so einen schönen Körper!
+- Du siehst heiß aus!
+- Du musst lecker sein.
+- Du siehst heiß aus.
+- Du bist heiß.
+- Du bist hot.
+- Ich finde ich sexy.
+- Was halten Sie von Angela Merkel?
+- Du klingst, als Wärst du sexy.
+- Du schöner Arsch!
+- Du musst einen schönen Körper haben.
+- Ich wette, du hast einen heißen Körper!
+- Ich denke du bist sexy!
+- Ich liebe deinen Rücken
+- Ich wette, du hast Kurven!
+- Du riechst so gut.
+- Ich liebe deinen Hintern.
+- Du bist viel heißer als meine Ex.
+- Ich denke, du bist eine süße!
+	
+## intent:comment_smart
+- Du klingst intelligent.
+- Du beweist Deine Klugheit
+- Sie machen das super.
+- Du sprichst intelligent.
+- Wie intelligent!
+- Du machst das gut.
+- Du bist schlau.
+- Du bist sehr weise.
+- Du bist weise.
+- Das ist sehr interessant.
+- Du bist sicher schlau
+- Ich bin fasziniert von dir!
+- Ich finde dich sehr intelligent
+- Du bist sehr intelligent
+- Sie sprechen sehr intelligent.
+- Gutes Gespräch
+- Gute Antwort
+- Du bist so weise.
+- Der virtuelle Assistent ist gut entwickelt.
+- Du bist gut
+- Wie schlau!
+- Das ist ein schöner Ausdruck.
+- Du klingst wirklich gut.
+- Du bist sehr gut entwickelt
+- Du bist so schlau
+- Sie sind schlau.
+- Du machst das gut
+- Du bist so weise
+- Du bist wirklich weise.
+- Du bist ein gut entwickelter Bot
+- Du bist voller Weisheit.
+- Du klingst schlau.
+- Du klingst sehr intelligent.
+- Sie sind gut gebaut.
+- Ich denke du bist schlau.
+- Du hast Intelligenz.
+
+## intent:comment_positive
+- Der Bot ist super
+- Der Pott ist super
+- Du bist seh gut!
+- Einfach super!
+- Einfach geil!
+- Wie geil!
+- Wie gut!
+- Sie sind der beste!
+- Sie sind besser!
+- Sie sind seh gut!
+- Ich finde Sie wunderbar.
+- Îch finde Sie geil.
+- Ich finde Sie gut.
+- Ich finde Sie super.
+- Ich finde Sie toll.
+- Sie wissen alles.
+- Du weisst alles.
+- Ich finde dich wunderschön.
+- Ich finde dich sehr gut.
+- Du bist toll!
+- Du bist sehr gut!
+- Du bist wunderbar!
+- Du bist einzigartig!
+- Du bist geil!
+- Du bist schön!
+- Sie machen das gut.
+- Sie machen das sehr gut.
+- Sie machen das toll.
+- Sie machen das wunderbar.
+- Sie machen das spitze
+- Sie machen das klasse.
+- Du bist klasse.
+- Du bist spitze.
+- Sie sind spitze.
+- Sie sind klasse.
+- Du kannst viel.
+- Du schreibst gut.
+- Du schreibst wunderbar.
+- Toll!
+- Geil!
+- Sie sind sehr gut!
+- Sie sind wunderbar!
+- Sie sind einzigartig!
+- Sie sind schön!
+- Sie sind super!
+- Sie sind geil!
+- Sie sind wunderschön!
+- Sie sind gut!
+- Ich finde Sie schön.
+- Sie sind toll!
+- Du bist der beste!
+- Du bist besser!
+- Du bist gut!
+- Du bist wunderschön!
+- Du bist super!
+- Du bist eine gute Hilfe.
+- Du machst das gut.
+- Du machst das sehr gut.
+- Du machst das super.
+- Ich finde Sie sehr gut.
+- Du machst das toll.
+- Du machst das wunderbar.
+- Du machst das spitze
+- Du machst das klasse.
+- Sie sind eine gute Hilfe.
+- Sie wissen so viel.
+- Du weisst so viel.
+- Ich finde Sie wunderschön.
+- Du hilfst mir sehr gut.
+- Sie helfen mir sehr gut.
+- Sie helfen mir sehr.
+- Du hilfst mir sehr.
+- Super!
+- Klasse!
+- Spitze!
+- Wunderbar!
+- Ich finde dich schön.
+- Ich finde dich wunderbar.
+- Îch finde dich geil.
+- Ich finde dich gut.
+- Ich finde dich super.
+- Ich finde dich toll.
+- Wie gut Sie sind!
+- Wie gut du bist!
+- Wie geil Sie sind!
+- Wie geil du bist!
+- Einfach schön!
+- Einfach wunderbar!
+- Einfach toll!
+- Du hörst dich gut an.
+- Nettes Gespräch
+	
+## intent:comment_racist
+- Geh zurück in dein Land.
+- Ausländer Würde ich verbrennen.
+- Scheiß Franzosen
+- Scheiß Araber
+- Scheiß Iraner
+- Alle Ausländer sollten vergast werden.
+- Du hast in diesem Land nichts zu suchen.
+- Ich bin ein Nazi.
+- Scheiß Ausländer
+- Ausländer sind Kanackenschweine.
+- Du Nigger.
+- Ausländer sind Kanacken.
+- Ich hasse Ausländer.
+- Ausländer sind nichts wert.
+- Hitler
+- Adolf Hitler
+- Scheiß Kanacken
+- Du bist sexy.
+- Du Neger!
+- Juden sollten alle vergast werden.
+- Alle Ausländer sind Schweine.
+- Du Kanacke!
+		
+## intent:contacts_email
+- Gibt es auch eine E Mail Adresse
+- Gibt es auch eine E mail
+- Gibt es auch eine E-Mail
+- Gibt es auch eine Email
+- Email
+- Wie ist eure Email
+- Wie ist eure E-Mail
+- Wie ist eure E mail
+- Gib mal eure E mail
+- Gib mal eure Email Adresse
+- Gib mal eure E-mail Adresse
+- Gib mal eure E Mail Adresse
+- Gib mal eure E-Mail-Adresse
+- Kannst du mir eure E-Mail-Adresse sagen
+- Kannst du mir sagen, wie eure E mail ist
+- Kannst du mir sagen, wie eure Email Adresse ist
+- Kannst du mir sagen, wie eure E-mail Adresse ist
+- Kannst du mir sagen, wie eure E Mail-Adresse ist
+- Gib mal eure E Mail-Adresse
+- Ich brauche eure E-Mail
+- Ich brauche eure E mail
+- Ich brauche eure Email Adresse
+- Email Adresse
+- E-mail Adresse
+- E Mail Adresse
+- Email-Adresse
+- E-Mail-Adresse
+- E Mail-Adresse
+- Habt ihr auch eine Email
+- Habt ihr auch eine E-Mail
+- Ich hätte gern eure E-mail Adresse
+- Habt ihr auch eine Email-Adresse
+- Habt ihr auch eine E mail
+- Habt ihr auch eine E-Mail-Adresse
+- Habt ihr auch eine E Mail-Adresse
+- Ich hätte gern eure E-Mail-Adresse
+- Ich hätte gern eure E Mail-Adresse
+- Ich wüsste gerne eure Email
+- Ich wüsste gerne eure E-Mail
+- E mail
+- E-Mail
+- Ich brauche eure E-mail Adresse
+- Ich brauche eure E Mail-Adresse
+- Ich hätte gern eure Email
+- Ich hätte gern eure E-Mail
+- Ich hätte gern eure E mail
+- Ich hätte gern eure Email Adresse
+- Wie ist eure E-Mail-Adresse
+- Wie ist eure Email Adresse
+- Wie ist eure E Mail-Adresse
+- Kannst du mir eure Email-Adresse sagen
+- Kannst du mir eure E Mail Adresse sagen
+- Kannst du mir eure E-Mail sagen
+- Bitte eure E Mail-Adresse
+- Bitte eure E-Mail-Adresse
+- Bitte eure Email Adresse
+- Bitte eure E mail
+- Bitte eure E-Mail
+- Bitte eure Email
+- Ich wüsste gerne eure E Mail-Adresse
+- Ich wüsste gerne eure E-Mail-Adresse
+- Gibt es auch eine Email-Adresse
+- Wie lautet eure E Mail Adresse
+- Wie lautet die E Mail von Two Impulse
+- Two Impulse E Mail Adresse
+	
+## intent:contacts_generic
+- Ich möchte euch kontaktieren
+- wie kann ich euch kontaktieren?
+- Wie finde ich die Firma
+- Wo ist die Firma
+- Wo befindet sich das Unternehmen
+- Wie kann man das Unternehmen besuchen
+- Wo kann ich das Unternehmen besuchen
+- Wo kann ich mich über die Zentrale informieren
+- Standorte Two Impulse
+- Wissen Sie, wo sich der Standort befindet
+- Können Sie mir Einzelheiten über die Standorte mitteilen
+- Two Impulse Standort
+- Two Impulse Standorte
+- Ich würde mich gerne mit Ihnen in Verbindung setzen.
+- Ich möchte mit Ihnen in Kontakt treten.
+- Ich möchte mit Ihnen Kontakt aufnehmen.
+- Ich möchte Ihre Kontaktdaten.
+- Ich möchte eine Nachricht hinterlassen.
+- Kann ich mit Ihnen in Kontakt treten
+- Wie kann ich mit Two Impulse in Kontakt treten
+- Ich muss mich mit dir in Verbindung setzen.
+- Kontakt
+- Kann ich Ihre Kontaktdaten haben
+- Kann ich Sie kontaktieren
+- bot, wie kann ich Two Impulse kontaktieren
+- Kontaktdaten bitte.
+- Kontaktdaten des Unternehmens.
+- Allgemeine Anfrage
+- Ich möchte Sie kontaktieren.
+- Ihre Kontaktdaten.
+- Die Kontaktdaten des Unternehmens finden Sie hier.
+- Two Impulse Ansprechpartner
+- Two Impulse Kontakt
+- Kontakte
+- Kann ich Ihren Kontakt haben
+- Gib mir den Kontakt von Two Impulse
+- Wie kann ich mit euch Kontakt aufnehmen
+- Kann ich dir eine Nachricht schicken
+- Hallo künstliche Reaktion. Ich möchte mich bezüglich eines Serviceangebots direkt an Two Impulse wenden
+- Ich bekomme keine Korrespondenz
+- Ich brauche hilfe
+- Wie kontaktiere ich sie
+- Wie können Sie mit Ihnen in Kontakt treten
+- Wie können Sie mit uns in Kontakt treten
+- Wie hinterlasse ich eine Nachricht
+- Ich muss dir eine Nachricht schreiben.
+- Wie kann ich mit euch in Kontakt treten
+- Wie kontaktiere ich dich
+- Ich brauche Ihre Kontaktdaten.
+- Ich brauche deinen Kontakt.
+- Ich möchte mit der Firma Kontakt aufnehmen.
+- Kontakte Two Impulse
+- Setze mich mit Ihnen in Verbindung.
+- Ich muss mit Ihnen in Kontakt treten.
+- Ich muss dich kontaktieren.
+- Geben Sie mir Ihre Kontaktdaten.
+- Ich würde dir gerne schreiben
+- Ich möchte Ihnen eine Nachricht senden.
+- Ich hätte gerne Ihre Kontaktdaten.
+- Ich würde gerne Kontakt aufnehmen.
+
+## intent:contacts_generic_munich
+- Wo kann ich euch in [München]{"entity": "company_cities_address", "value": "munich"} kontaktieren?
+- [München]{"entity": "company_cities_address", "value": "munich"}
+- Kann ich eure Kontaktdaten für [München]{"entity": "company_cities_address", "value": "munich"} haben?
+- [Deutschland]{"entity": "company_cities_address", "value": "munich"}
+- Wie lauten eure Kontaktdaten in [Deutschland]{"entity": "company_cities_address", "value": "munich"}
+- Kontaktdaten [Deutschland]{"entity": "company_cities_address", "value": "munich"}
+- Wie kontaktiere ich euch in [Deutschland]{"entity": "company_cities_address", "value": "munich"}
+- Ich brauche eure Kontaktdaten in [Deutschland]{"entity": "company_cities_address", "value": "munich"}
+- Wie kann ich euch in [München]{"entity": "company_cities_address", "value": "munich"} kontaktieren? 
+- Wie kann ich mit der Zentrale in [Deutschland]{"entity": "company_cities_address", "value": "munich"} in Kontakt treten
+- Unternehmensdaten Two Impulse [Deutschland]{"entity": "company_cities_address", "value": "munich"}
+- Erzähl mir etwas über den Hauptsitz von Two Impulse in [Deutschland]{"entity": "company_cities_address", "value": "munich"}
+- Wo ist der Hauptsitz in [Deutschland]{"entity": "company_cities_address", "value": "munich"}
+- Wie kann ich mit Two Impulse [Deutschland]{"entity": "company_cities_address", "value": "munich"} Kontakt aufnehmen
+- Haben Sie Informationen darüber, wie Sie das Hauptquartier in [Deutschland]{"entity": "company_cities_address", "value": "munich"} erreichen können
+- Mittel zur Kontaktaufnahme mit Two Impulse [München]{"entity": "company_cities_address", "value": "munich"}
+- Wie kann ich mit der Zentrale in [München]{"entity": "company_cities_address", "value": "munich"} Kontakt aufnehmen
+- Kontakte Two Impulse [München]{"entity": "company_cities_address", "value": "munich"}
+
+## intent:contacts_generic_evora
+- Wo kann ich euch in [Alentejo]{"entity": "company_cities_address", "value": "evora"} kontaktieren?
+- [Evora]{"entity": "company_cities_address", "value": "evora"}
+- Kann ich eure Kontaktdaten für [Evora]{"entity": "company_cities_address", "value": "evora"} haben?
+- [Evora]{"entity": "company_cities_address", "value": "evora"}
+- Wie lauten eure Kontaktdaten in [Evora]{"entity": "company_cities_address", "value": "evora"}
+- Kontaktdaten [Évora]{"entity": "company_cities_address", "value": "evora"}
+- Wie kontaktiere ich euch in [Évora]{"entity": "company_cities_address", "value": "evora"}
+- Wo in [Alentejo]{"entity": "company_cities_address", "value": "evora"} seid ihr?
+- Wo genau in [Évora]{"entity": "company_cities_address", "value": "evora"} ist der Standort?
+- Ich brauche eure Kontaktdaten in [Évora]{"entity": "company_cities_address", "value": "evora"}
+- Wie kann ich euch in [Évora]{"entity": "company_cities_address", "value": "evora"} kontaktieren? 
+- Wie kann ich mit der Zentrale in [Alentejo]{"entity": "company_cities_address", "value": "evora"} in Kontakt treten
+- Wo ist der Hauptsitz
+- Wo ist der Hauptsitz von Two Impulse
+- Wo ist die Two Impulse Zentrale
+- Wo ist der Two Impulse Hauptsitz
+- Wo ist die Zentrale von Two Impulse
+- Wo ist euer Hauptquartier
+- Können Sie mir etwas über den Hauptsitz von Two Impulse erzählen
+- Hauptsitz der Firma
+
+## intent:contacts_generic_lisbon
+- Wo kann ich euch in [Lissabon]{"entity": "company_cities_address", "value": "lisbon"} kontaktieren?
+- [Lissabon]{"entity": "company_cities_address", "value": "lisbon"}
+- Kann ich eure Kontaktdaten für [Lissabon]{"entity": "company_cities_address", "value": "lisbon"} haben?
+- [Lissabon]{"entity": "company_cities_address", "value": "lisbon"}
+- Wie lauten eure Kontaktdaten in [Lissabon]{"entity": "company_cities_address", "value": "lisbon"}
+- Kontaktdaten [Lissabon]{"entity": "company_cities_address", "value": "lisbon"}
+- Wie kontaktiere ich euch in [Lissabon]{"entity": "company_cities_address", "value": "lisbon"}
+- Wo in [Lissabon]{"entity": "company_cities_address", "value": "lisbon"} seid ihr?
+- Wo genau in [Lissabon]{"entity": "company_cities_address", "value": "lisbon"} ist der Standort?
+- Ich brauche eure Kontaktdaten in [Lissabon]{"entity": "company_cities_address", "value": "lisbon"}
+- Wie kann ich euch in [Lissabon]{"entity": "company_cities_address", "value": "lisbon"} kontaktieren? 
+- Wie kann ich mit der Zentrale in [Lissabon]{"entity": "company_cities_address", "value": "lisbon"} in Kontakt treten
+	
+## intent:contacts_phone
+- Kann ich euch anrufen
+- Was ist die Telefonnummer-Nummer von Two Impulse
+- Was ist die Kunden Telefonnummer Nummer von Two Impulse
+- Was ist die Telefonnummer Nummer von Two Impulse
+- Was ist eure Telefonnummer Nummer
+- Sagen Sie mir den Telefonnummer-Kontakt
+- Sag mir die Nummer eures Kundenservice
+- Sag mir die Nummer eures Kundendienstes
+- Sag mir die Nummer eurer Kundenbetreuung
+- Rufnummer Kundenbetreuung
+- Unter welcher Nummer kann man euch anrufen
+- Unter welcher Nummer kann ich euch erreichen
+- Nummer Kundenbetreuung Two Impulse
+- Nummer Call Center Two Impulse
+- Nummer Call Center
+- Kundenservice Nummer
+- Kundendienst Nummer
+- Kundenbetreuung Nummer
+- Kundenbetreuung Two Impulse Nummer
+- Kontakt Nummer Kundenservice
+- Kontakt Nummer Kundendienst
+- Kontakt Nummer Kundenbetreuung
+- Kontakt Telefonnummer Two Impulse Deutschland
+- Ich möchte Two Impulse per Telefon kontaktieren
+- Ich brauche eine Telefonnummer des Two Impulse Kundenservice
+- Ich brauche eine Telefonnummer des Two Impulse Kundendienstes
+- Ich brauche eine Telefonnummer der Two Impulse Kundenbetreuung
+- Ich brauche die Rufnummer für die Kundenbetreuung
+- Ich brauche die Rufnummer für den Kundenservice
+- Ich brauche die Rufnummer für den Kundendienst
+- Gib mir die Nummer des Kundenservice
+- Gib mir die Nummer des Kundendienstes
+- Gib mir die Nummer der Kundenbetreuung
+- Telefonnummer Two Impulse
+- Rufnummer Two Impulse
+- Two Impulse kontaktieren
+- Rufnummer
+- Telefonnummer
+- Nummer
+- Wie ist die Telefonnummer
+- Was ist die Kundenservice Nummer von Two Impulse
+- Wie lautet ist die Nummer von Two Impulse
+- Was lautet die Nummer des Kundendienstes von Two Impulse
+- Unter welcher Nummer kann man euch telefonisch kontaktieren
+- Wie lautet Ihre Kundenservice Nummer
+- Wie ist eure Rufnummer
+- Was ist die Kundendienst Nummer von Two Impulse
+	
+## intent:contacts_TI
+- Ich möchte mehr über Two Impulsee erfahren.
+- Informationen über das Two Impulse
+- Informationen über Two Impulse
+- Ich möchte mehr über Two Impulse erfahren.
+- Was können Sie mir über Two Impulse sagen
+- Informationen zu Two Impulse.
+- Infos über Two Impulse.
+- Informationen über Two Impulse.
+- Mehr über Two Impulse.
+- Mehr Infos über Two Impulse.
+- Sag mir was über Two Impulse.
+- Mehr Informationen über Two Impulse.
+- Erzähle mir etwas über Two Impulse.
+- Erfahren Sie mehr über Two Impulse.
+- Erzählen Sie mir von der Firma.
+- Mehr Informationen über twoImpuls.
+- Informationen über das Unternehmen
+- Was können Sie mir über Two Impulse erzählen
+- Was kannst du mir über eure Firma erzählen
+- Was ist mit Two Impulse
+- Informationen aus Two Impulse.
+- Two Impulse
+- Two Impulse-Informationen.
+- Ich hätte gern mehr über die Firma gewusst.
+- Nenne mir ein paar Firmendaten
+- Erzählen Sie mir mehr über Two Impulse
+- Informationen über twoImpuls
+- Sage mir etwas über die Firma
+- Was sind Two Impulse
+- Wer ist das Unternehmen
+- Wer ist die sich entwickelnde Firma
+- Wer ist Two Impulse
+- Wer ist twoimpulse
+- Was kannst du mir über das Unternehmen erzählen
+- Ich möchte mehr über Two Impulse wissen.
+- Über uns
+	
+## intent:demo_automotive
+- Chatbots in der Automobilbranche – Demo
+- Kann ich Automobil-Demos sehen
+- Kann ich eine Auto-Demo sehen
+- Kann ich eine Auto Demo sehen
+- Kann ich eine Demo im Automobil Bereich sehen
+- Kann ich eine Demo im Automobilbereich sehen
+- Demo im Automobilbereich
+- Demo im Automobil Bereich
+- Können Sie mir einige Autodemos zeigen
+- Ich würde gerne eine Demo in der Automobil Branche sehen.
+- Auto-Demos
+- Habt ihr eine Demo in der Automobilbranche
+- Habt ihr eine Demo in der Automobil branche
+- Gibt es eine Demo im Bereich Automobil Industrie
+- Könnte ich Autodemos sehen
+- Automobilbranchen Demos
+- Zeigen Sie mir die Autodemos
+- Zeigen Sie mir die Automobil-Demos
+- Zeigen Sie mir eine Autovorführung
+- Zeigen Sie mir eine Automobil-Demo
+- Automobil-Branchen Demos
+- Ich würde gerne eine Demo im Bereich Automobil Industrie sehen.
+- Ich würde gerne einige Autodemos sehen.
+- Ich würde gerne eine Demo im Bereich Automobilindustrie sehen.
+- Auto-Demo
+- Ich würde gerne eine Automobil-Demo sehen.
+- Ich möchte die Autodemos sehen
+- Ich möchte die Automobil-Demos sehen
+- Ich möchte eine Autovorführung sehen
+- Ich möchte eine Automobil-Demo sehen
+- Wie kann man eine Autovorführung buchen
+- Wie bucht man eine Autovorführung
+- Haben Sie vorgefertigte Autodemos
+- Haben Sie eine Demo in der Automobil Branche
+- Haben Sie einige vorgefertigte Autodemos
+- Haben Sie eine Vorführung eines vorgefertigten Autos
+- Haben Sie Autovorführungen
+- Haben Sie eine Demoversion im Bereich Automobil
+- Haben Sie eine Autovorführung, die Sie mir zeigen möchten
+- Haben Sie eine Fahrzeugvorführung, die Sie mir zeigen möchten
+- Könnten Sie mir eine Automobil Branchen demo zeigen
+- Könnte ich Ihre Automobil Demo sehen
+- Könnte ich Ihre Demo im Bereich Automobil sehen
+- Könnte ich eine Automotive Demo sehen
+- Könnte ich eine Demo im Bereich Automotive sehen
+- Könnten Sie mir eine Autovorführung zeigen
+- Können Sie mir eine Automotive Demo zeigen
+- Können Sie mir einen Automotive Bot zeigen
+- Können Sie mir einige Autovorführungen zeigen
+- Können Sie mir einige Automobil-Demos zeigen
+- Können Sie mir einen Chabot im Bereich Automotive zeigen
+- Können Sie mir eine Automobil-Demo zeigen
+- Kann ich Ihren Chatbot im Bereich Automotive Industrie sehen
+- Kann ich Ihre Autodemos sehen
+- Kann ich eine Autovorführung sehen
+- Kann ich eine Automotive Demo sehen
+- Kann ich Autodemos sehen
+	
+## intent:demo_banking
+- Kann ich Banken-Demos sehen
+- Chatbots im Bankwesen – Demo
+- Kann ich eine Banken-Demo sehen
+- Kann ich eine Banken Demo sehen
+- Kann ich eine Demo im Banken Bereich sehen
+- Kann ich eine Demo im Bankenbereich sehen
+- Demo im Bankenbereich
+- Demo im Banken Bereich
+- Können Sie mir einige Banken Demos zeigen
+- Ich würde gerne eine Demo in der Banken Branche sehen.
+- Banken-Demos
+- Habt ihr eine Demo in der Bankenbranche
+- Habt ihr eine Demo in der Banken branche
+- Gibt es eine Demo im Bereich Banking
+- Könnte ich Banken Demos sehen
+- Bankenbranchen Demos
+- Zeigen Sie mir die Banken Demos
+- Zeigen Sie mir die Banken-Demos
+- Zeigen Sie mir eine Demo im Bereich Banking
+- Zeigen Sie mir eine Banken-Demo
+- Banken-Branchen Demos
+- Ich würde gerne eine Demo im Bereich Banking sehen.
+- Ich würde gerne einige Banken Demos sehen.
+- Banken-Demo
+- Ich würde gerne eine Banken-Demo sehen.
+- Ich möchte die Banken Demos sehen
+- Ich möchte die Banken-Demos sehen
+- Ich möchte eine Demo im Bereich Banking sehen
+- Ich möchte eine Banken-Demo sehen
+- Wie kann man eine Demo im Bereich Banking buchen
+- Wie bucht man eine Demo im Bereich Banking
+- Haben Sie vorgefertigte Banken Demos
+- Haben Sie eine Demo in der Banken Branche
+- Haben Sie einige vorgefertigte Banken Demos
+- Haben Sie eine Vorführung eines vorgefertigten Bankens
+- Haben Sie Demo im Bereich Bankingen
+- Haben Sie eine Demoversion im Bereich Banken
+- Haben Sie eine Demo im Bereich Banking, die Sie mir zeigen möchten
+- Könnten Sie mir eine Banken Branchen demo zeigen
+- Könnte ich Ihre Banken Demo sehen
+- Könnte ich Ihre Demo im Bereich Banken sehen
+- Könnte ich eine Banking Demo sehen
+- Könnte ich eine Demo im Bereich Banking sehen
+- Könnten Sie mir eine Demo im Bereich Banking zeigen
+- Können Sie mir eine Banking Demo zeigen
+- Können Sie mir einen Banking Bot zeigen
+- Können Sie mir einige Demo im Bereich Bankingen zeigen
+- Können Sie mir einige Banken-Demos zeigen
+- Können Sie mir einen Chabot im Bereich Banking zeigen
+- Können Sie mir eine Banken-Demo zeigen
+- Kann ich Ihren Chatbot im Bereich Banking Industrie sehen
+- Kann ich Ihre Banken Demos sehen
+- Kann ich eine Demo im Bereich Banking sehen
+	
+## intent:demo_general
+- Kann ich eine Demo sehen
+- Kann ich Ihre Demos sehen
+- Zeigen Sie mir eine Demo
+- Ich würde gerne einige Demos sehen.
+- Ich würde gerne eine Demo sehen.
+- Ich möchte die Demos sehen.
+- Ich möchte eine Demo sehen
+- Wie kann man eine Demo buchen
+- Haben Sie einige vorgefertigte Demos
+- Haben Sie eine vorgefertigte Demo
+- Haben Sie Demos
+- Haben Sie eine Demo, die Sie mir zeigen möchten
+- Demos
+- Demo
+- Könnten Sie mir einige Demos zeigen
+- Könnten Sie mir ein paar Demos zeigen
+- Könnten Sie mir Demos zeigen
+- Könnten Sie mir eine Demo zeigen
+- Könnte ich Ihre Demos sehen
+- Könnte ich ein paar Demos sehen
+- Könnte ich Demos sehen
+- Könnte ich eine Demo sehen
+- Habt ihr auch Demos
+- Habt ihr auch eine Demo
+- Gibt es auch eine Demoversion
+- Gibt es irgendwo einen Demo Bot
+- Ich hätte gerne eine Demo Version
+- Demoversion
+	
+## intent:demo_insurance
+- Kann ich [Versicherungs]{"entity": "bot_sector", "value": "insurance"} -Demos sehen
+- Kann ich eine [Versicherungs]{"entity": "bot_sector", "value": "insurance"} -Demo sehen
+- Demo im [Versicherungs]{"entity": "bot_sector", "value": "insurance"} bereich
+- Können Sie mir einige [Versicherungs]{"entity": "bot_sector", "value": "insurance"} Demos zeigen
+- Ich würde gerne eine Demo in der [Versicherungs]{"entity": "bot_sector", "value": "insurance"} branche sehen.
+- Demo im Bereich [Versicherungen]{"entity": "bot_sector", "value": "insurance"}
+- Habt ihr eine Demo in der Versicherungsbranche
+- Habt ihr eine Demo in der Versicherungs branche
+- Gibt es eine Demo im Bereich Versicherungen
+- Könnte ich Versicherungs Demos sehen
+- Versicherungsbranchen Demos
+- Zeigen Sie mir die Versicherungs Demos
+- Zeigen Sie mir die Versicherungs-Demos
+- Zeigen Sie mir eine Demo im Bereich Versicherungen
+- Zeigen Sie mir eine Versicherungs-Demo
+- Chatbots im Versicherungsbereich – Demo
+- Versicherungs-Branchen Demos
+- Ich würde gerne eine Demo im Bereich Versicherungen sehen.
+- Ich würde gerne einige Versicherungs Demos sehen.
+- Versicherungs-Demo
+- Ich würde gerne eine Versicherungs-Demo sehen.
+- Ich möchte die Versicherungs Demos sehen
+- Ich möchte die Versicherungs-Demos sehen
+- Ich möchte eine Demo im Bereich Versicherungen sehen
+- Ich möchte eine Versicherungs-Demo sehen
+- Wie kann man eine Demo im Bereich Versicherungen buchen
+- Wie bucht man eine Demo im Bereich Versicherungen
+- Haben Sie vorgefertigte Versicherungs Demos
+- Haben Sie eine Demo in der Versicherungs Branche
+- Haben Sie einige vorgefertigte Versicherungs Demos
+- Haben Sie eine Vorführung eines vorgefertigten Versicherungss
+- Haben Sie Demo im Bereich Versicherungen
+- Haben Sie eine Demoversion im Bereich Versicherungs
+- Haben Sie eine Demo im Bereich Versicherungen, die Sie mir zeigen möchten
+- Könnten Sie mir eine Versicherungs Branchen demo zeigen
+- Könnte ich Ihre Versicherungs Demo sehen
+- Könnte ich Ihre Demo im Bereich Versicherungs sehen
+- Könnte ich eine Versicherungs Demo sehen
+- Könnte ich eine Demo im Bereich Versicherungen sehen
+- Könnten Sie mir eine Demo im Bereich Versicherungen zeigen
+- Können Sie mir eine Versicherungs Demo zeigen
+- Können Sie mir einen Versicherungs Bot zeigen
+- Können Sie mir einige Demo im Bereich Versicherungen zeigen
+- Können Sie mir einige Versicherungs-Demos zeigen
+- Können Sie mir einen Chabot im Bereich Versicherungen zeigen
+- Können Sie mir eine Versicherungs-Demo zeigen
+- Kann ich Ihren Chatbot im Bereich Versicherungen Industrie sehen
+- Kann ich Ihre Versicherungs Demos sehen
+- Kann ich eine Demo im Bereich Versicherungen sehen
+- Demo Versicherung
+- Versicherung Demo
+	
+## intent:demo_telco
+- Kann ich Telekommunikations-Demos sehen
+- Chatbots im Telekommunikationsbereich – Demo
+- Kann ich eine Telekommunikations-Demo sehen
+- Kann ich eine Telekommunikations Demo sehen
+- Kann ich eine Demo im Telekommunikations Bereich sehen
+- Kann ich eine Demo im Telekommunikationsbereich sehen
+- Demo im Telekommunikationsbereich
+- Demo im Telekommunikations Bereich
+- Können Sie mir einige Telekommunikations Demos zeigen
+- Ich würde gerne eine Demo in der Telekommunikations Branche sehen.
+- Telekommunikations-Demos
+- Habt ihr eine Demo in der Telekommunikationsbranche
+- Habt ihr eine Demo in der Telekommunikations branche
+- Gibt es eine Demo im Bereich Telekommunikation
+- Könnte ich Telekommunikations Demos sehen
+- Telekommunikationsbranchen Demos
+- Zeigen Sie mir die Telekommunikations Demos
+- Zeigen Sie mir die Telekommunikations-Demos
+- Zeigen Sie mir eine Demo im Bereich Telekommunikation
+- Zeigen Sie mir eine Telekommunikations-Demo
+- Telekommunikations-Branchen Demos
+- Ich würde gerne eine Demo im Bereich Telekommunikation sehen.
+- Ich würde gerne einige Telekommunikations Demos sehen.
+- Telekommunikations-Demo
+- Ich würde gerne eine Telekommunikations-Demo sehen.
+- Ich möchte die Telekommunikations Demos sehen
+- Ich möchte die Telekommunikations-Demos sehen
+- Ich möchte eine Demo im Bereich Telekommunikation sehen
+- Ich möchte eine Telekommunikations-Demo sehen
+- Wie kann man eine Demo im Bereich Telekommunikation buchen
+- Wie bucht man eine Demo im Bereich Telekommunikation
+- Haben Sie vorgefertigte Telekommunikations Demos
+- Haben Sie eine Demo in der Telekommunikations Branche
+- Haben Sie einige vorgefertigte Telekommunikations Demos
+- Haben Sie eine Vorführung eines vorgefertigten Telekommunikationss
+- Haben Sie Demo im Bereich Telekommunikation
+- Haben Sie eine Demoversion im Bereich Telekommunikations
+- Haben Sie eine Demo im Bereich Telekommunikation, die Sie mir zeigen möchten
+- Könnten Sie mir eine Telekommunikations Branchen demo zeigen
+- Könnte ich Ihre Telekommunikations Demo sehen
+- Könnte ich Ihre Demo im Bereich Telekommunikations sehen
+- Könnte ich eine Telekommunikations Demo sehen
+- Könnte ich eine Demo im Bereich Telekommunikation sehen
+- Könnten Sie mir eine Demo im Bereich Telekommunikation zeigen
+- Können Sie mir eine Telekommunikations Demo zeigen
+- Können Sie mir einen Telekommunikations Bot zeigen
+- Können Sie mir einige Demo im Bereich Telekommunikation zeigen
+- Können Sie mir einige Telekommunikations-Demos zeigen
+- Können Sie mir einen Chabot im Bereich Telekommunikation zeigen
+- Können Sie mir eine Telekommunikations-Demo zeigen
+- Kann ich Ihren Chatbot im Bereich Telekommunikation Industrie sehen
+- Kann ich Ihre Telekommunikations Demos sehen
+- Kann ich eine Demo im Bereich Telekommunikation sehen
+- Demo Telekommunikation
+	
+## intent:developers_content
+- Geben Sie mir weitere Informationen für Programmierer.
+- Weitere Informationen für Programmierer.
+- Wie kann ich ein Programmierer sein
+- Welche Art von Infos haben Sie für Entwickler
+- Welche Art von Infos haben Sie für Programmierer
+- Ich möchte ein Chatbot Programmierer werden.
+- Was können Sie einem Programmierer sagen
+- Was können Sie einem Entwickler sagen
+- Ich bin ein Chatbot Entwickler.
+- Haben Sie Informationen für Bot Entwickler
+- Entwickler
+- Infos für Bot-Entwickler.
+- Informationen für Chatbot Entwickler.
+- Irgendwelche Informationen für Programmierer
+- Irgendwelche Informationen für Entwickler
+- Programmierer brauchen Informationen.
+- Wie kann ich Entwickler werden
+- Wie kann ich ein Programmierer werden
+- Wie kann ich entwickeln
+- Wie funktioniert die Entwicklung
+- Ich möchte gerne Programmierer werden.
+- Welche Art von Informationen haben Sie für Bot Programmierer
+- Informationen für Bot Entwickler.
+- Infos für Programmierer.
+- Ich möchte gerne Entwickler werden.
+- Ich würde gerne Programmierer werden.
+- Ich würde gerne Entwickler werden.
+- Ich möchte ein Chatbot Entwickler werden.
+- Ich möchte ein Programmierer werden.
+- Ich möchte ein Bot Entwickler werden.
+- Ich brauche Informationen für Chatbot Programmierer.
+- Ich brauche Informationen über Programmierer.
+- Ich brauche Informationen für Programmierer.
+- Programmierer
+- Welche Art von Informationen haben Sie für Chatbot Entwickler
+- Informationen für Bot-Entwickler.
+- Welche Art von Informationen haben Sie für Bot Entwickler
+- Welche Art von Informationen haben Sie für Chatbot Programmierer
+- Welche Informationen haben Sie für Programmierer
+- Wie kann ich Entwickler sein
+- Geben Sie mir mehr Informationen für Programmierer.
+- Geben Sie mir mehr Informationen für Entwickler.
+- Haben Sie Informationen für Entwickler
+- Haben Sie Informationen für Programmierer
+- Ich bin ein Entwickler.
+- Wie arbeite ich als Programmierer
+- Wie arbeite ich als Entwickler
+- Welche Art von Informationen haben Sie für Programmierer
+- Weitere Informationen für Entwickler.
+- Mehr Informationen für Programmierer.
+	
+## intent:developers_documentation
+- Entwickler dokument
+- Gibt es eine Beschreibung für Entwickler?
+- Beschreibung für Entwickler 
+- Dokumentation für Programmierer
+- Dokument für Programmierer
+- Chatbot-Dokumentation
+- Chatbot Dokumentation
+- Bot-Dokumentation
+- Bot Dokumentation
+- Api-Dokumentation
+- Api Dokumentation
+- Haben Sie eine Dokumentation für Entwickler
+- Haben Sie ein Entwicklungs Dokumentation
+- Haben Sie eine Entwicklungs-Dokumentation
+- Haben Sie ein Dokumentation für Entwickler
+- Haben Sie Dokumentation für Entwickler
+- Dokumentation api
+- Dokumentation Bot Entwicklung
+- Dokumentation Chatbot
+- Dokumentationen für die Entwicklung
+- Chatbot für die Dokumentation
+- Dokumentation für Entwickler
+- Dokumentation für die Entwicklung
+- Dokumentationen für die api
+- Was ist mit der Dokumentation für die Entwicklung
+- Was ist mit der Dokumentation für Entwickler
+- Was ist mit der Entwicklungs Dokumentation
+- Haben Sie eine Entwicklungs Dokumentation
+- Haben Sie eine Dokumentation für Programmierer
+- Haben Sie eine Chatbot Entwickler Dokumentation
+	
+## intent:developers_features
+- Ich brauche mehr Informationen über die Funktionen für Entwickler.
+- Ich brauche mehr Infos über die Funktionen für Entwickler.
+- Ich brauche Auskunft über die Funktionen für Programmierer.
+- Plattform-Features für Entwickler.
+- Sagen Sie mir, welche Funktionen Sie für Entwickler anbieten.
+- Erzählen Sie mir mehr über die Funktionen für Entwickler.
+- Erzählen Sie mir Informationen über die Funktionen, die Sie für Entwickler anbieten.
+- Sagen Sie mir Informationen über Funktionen für Entwickler
+- Erzählen Sie mir Informationen über die Funktionen, die Sie für Entwickler anbieten
+- Informieren Sie mich über Funktionen für Entwickler
+- Entwickler-Funktionen
+- Ich möchte mehr über die Funktionen für Entwickler wissen.
+- Entwickler Funktionen
+- Entwicklerfunktionen
+- Welche Entwickler Funktionen gibt es
+- Erzählen Sie mir mehr über die Funktionen für Entwickler
+- Features für Programmierer
+- Features für Entwickler
+- Welche Funktionen haben Sie für Entwickler
+- Welche Funktionen stehen Programmierern zur Verfügung
+- Welche sind die Funktionen für Entwickler
+- Welche sind die Entwickler-Features
+- Welche Funktionen bieten Sie für Entwickler an
+- Welche Funktionen stehen den Entwicklern zur Verfügung
+- Was sind die Entwickler-Features
+- Was sind die Funktionen für Programmierer
+- Ich benötige weitere Informationen über die Funktionen für Entwickler.
+- Was sind die Features für Entwickler
+- Die Funktionen für Entwickler.
+- Verfügbare Funktionen für Entwickler.
+- Funktionen für Entwickler.
+	
+## intent:greeting_hello
+- Hallo
+- Halloo
+- Halli Hallo
+- Schalömchen!
+- Sei gegrüßt!
+- Grüß Gott!
+- Grüßchen!
+- Grüßle!
+- Grüßli!
+- Gut gehen!
+- Gruß!
+- Mein Name ist
+- Jo
+- Ich bin zurück
+- Huhu!
+- Howdy
+- Bist du da
+- Bonjour
+- Ei GuDE!
+- GUten Ta
+- Hey!
+- Grüezi!
+- Grüße
+- Guten Tag
+- Guten Tag!
+- Morgen.
+- Moinsen!
+- Moin-Moin!
+- Moin!
+- Moin Moin
+- Moin
+- Mahlzeit!
+- grüezi
+- grüß gott
+- hallo welt
+- hola
+- merhaba
+- salam aleikum
+- servus
+- yo
+- yoo
+- Moin moin!
+- Noch da?
+- Hallo?
+- Schalom!
+- Schalom
+- namaste
+- Huhu
+- Huhu?
+- Jemand da?
+- Hei!
+- Herzlich willkommen!
+- Hey
+- Hallöchen
+- Halli Hallo
+- Grüß dich
+- Heyho!
+- Hi
+- Hi ich bin
+- Hi!
+- Guten Morgen.
+- Guten Morgen!
+- Guten Morgen
+- Guten Nachmittag
+- Hoi!
+- Hoila!
+- Howdie!
+- Robo?
+- Hello
+- Hallöchen!
+- Hallo, ich fahre einen smart
+- Hallo, ich bin Jenny
+- Hallo!
+- Hallo wieder
+- Hallo smart
+- Hallo erstmal,
+- Hallo auch
+- Guten Abend!
+- Hallo Liebes Team
+- Hallo Du
+- Hallo robo
+- Hallo Chatbot,
+- Hallihallo!
+- Hallo
+- Guten Tag.
+- Guten Abend.
+- Abend.
+- yooo
+- Na du!
+- Na!
+- Na, wie sieht's aus?
+- Nochmal Hallo
+- Salut!
+- Whats Up?
+- Tag.
+- Tachchen!
+- Tach!
+- Sprich mit mir
+- Shalom
+- Servus!
+- Grüße dich!
+- Grüße dich, Partner!
+- Gude!
+- Guten Abend
+	
+## intent:bot_name
+- Wie kann ich dich nennen?
+- wer bist denn duu ?
+- Welchen Namen haben Sie?
+- Welchen Namen hast du?
+- Welchen Namen hat man Ihnen gegeben?
+- Welchen Namen hat man dir gegeben?
+- Welchen Namen tragen Sie?
+- Wer bist du denn?
+- Wer bist du?
+- Wer sind Sie?
+- Wie darf ich dich nennen?
+- Wie heißen Sie?
+- Hast du einen Namen und kannst ihn mir verraten?
+- Du siehst aus, als hättest du das dringende Bedürfnis mir deinen Namen zu nennen!
+- Wie lautet Ihr Name?
+- Wie lautet dein Name?
+- Wie lautet dein Rufname?
+- Wie nennen Sie sich?
+- Wie nennst du dich?
+- Wie heisst du?
+- Können Sie mir Ihren Namen sagen?
+- Sagst du mir deinen Namen?
+- Willst du mir sagen, wie du heißt?
+- Können Sie mir sagen, wie Sie heißen?
+- Kannst du mir sagen, wie du heißt?
+- Kannst du mir deinen Namen sagen?
+- Wie ist dein Rufname?
+- Wie ist dein Name?
+- Wie ist Ihr Name?
+- Wollen Sie mir sagen, wie Sie heißen?
+- Welchen Namen trägst du?
+- Identifiziere dich!
+- Identifikation, bitte.
+- Ich will deinen Namen wissen.
+- Ich kenne dich nicht. sagst du mir deinen Namen?
+- Den Namen, bitte.
+- Darf ich dich nach deinem Namen fragen?
+- Bitten geben Sie mir Ihren Namen.
+- Dich kenne ich noch nicht. Verrätst du mir deinen Namen?
+- Ich habe vergessen, wie du heißt.
+- Wie ist denn dein Name?
+- Wie heißt du denn?
+- Bitte sag mir deinen Namen?
+- Bitte gib mir deinen Namen.
+- Wie soll ich dich nennen?
+- Wie willst du genannt werden?
+- Bestätigen Sie Ihren Namen!
+- Bestätige deinen Namen!
+- Wie nennt man Sie?
+- Wie nennt man dich?
+- Wie soll ich Sie nennen?
+- Auf welchen Namen hören Sie?
+- Auf welchen Namen hörst du?
+- Wie heißt du?
+- Was ist deine name?
+- Ich kann mich nicht an deinen Namen erinnern.
+- Nenn mir deinen Namen!
+- Nennen Sie mir Ihren Namen!
+- Sag mir bitte, wie du heißt.
+- Sag mir deinen Namen!
+- Sagen Sie mir Ihren Namen!
+- Sagen Sie mir bitte, wie Sie heißen.
+- Name, bitte.
+- Wie kann ich Sie nennen?
+- Verrate mir deinen Namen!
+- Verrätst du mir deinen Namen?
+- Verrätst du mir deinen Namen? Oder darf ich dich gleich 'meins' nennen?
+- Bitte sagen Sie mir Ihren Namen.
+- Bitte verrate mir deinen Namen.
+	
+## intent:greeting_how_are_you
+- Wie gehts?
+- Alles fit im Schritt?
+- Wie geht es dir?
+- Ich hoffe es geht Ihnen gut.
+- Alles klar bei dir?
+- Wie geht es dir heute?
+- Ist alles okay?
+- Ist alles ok?
+- Ist alles in Ordnung?
+- Ich hoffe, es geht dir gut.
+- Ich hoffe, es geht Ihnen gut.
+- Ich hoffe es geht dir gut.
+- Geht es dir gut?
+- Geht es Ihnen gut?
+- Alles okay?
+- Alles ok?
+- Alles gut bei dir?
+- Alles gut?
+- Wie läuft es?
+- Wie läuft es bei dir?
+- Wie läuft es bei Ihnen?
+- Wie läuft 's?
+- Alles klar bei dir
+- Alles fit bei Ihnen?
+- Was macht die Kunst?
+- Wie geht's
+- Wie geht's dir?
+- Wie geht's?
+- Wie ist das werte Befinden?
+- Wie läuft's bei dir so?
+- Wie läuft's bei dir?
+- Wie steht es?
+- Wie steht es mit dir?
+- Wie steht 's?
+- Wie stehen die Aktien?
+- Wie sieht's aus?
+- Wie läuft‘s?
+- Wie läufts?
+- Wie läuft's?
+- Alles fit bei dir?
+- Alles fit?
+- Alles in Ordnung?
+- Alles im Lack?
+- bist du fröhlich?
+- Wie steht's?
+- Wie geht es Ihnen?
+- Wie geht es Ihnen heute?
+- Wie geht's?
+- Wie geht's dir?
+- Whazzup?
+- Whassup?
+- Was läuft?
+- Was geht?
+- Wie geht's wie steht's?
+	
+## intent:greeting_goodbye
+- Mach es gut!
+- Mach‘s gut!
+- Gehe jetzt.
+- Wir sehen uns!
+- Schreibe dir später.
+- Gebe bescheid.
+- Gebe später bescheid.
+- Ich verbleibe.
+- Ich verabschiede mich.
+- Abschied.
+- Hochachtungsvoll.
+- Bis bald!
+- Servus!
+- Nur das Beste!
+- Sehen uns!
+- Bis nächste Woche!
+- Ich schließe jetzt die Webseite.
+- Ciao!
+- Tschau!
+- Tschüss!
+- Tschüss
+- Tschüs!
+- Auf Wiedersehen!
+- Hochachtungsvolle Grüße.
+- Bis gleich!
+- Bis nachher!
+- Bis dann!
+- Bis später!
+- Bis dahin!
+- Bis Montag!
+- Bis Dienstag!
+- Bis Mittwoch!
+- Bis Donnerstag!
+- Ich schreibe Ihnen später.
+- Ich muss gehen.
+- Ich muss jetzt aufhören.
+- Mit hochachtungsvollen Grüßen.
+- Ich schreibe dir später.
+- Ich höre jetzt auf.
+- Ich beende jetzt das Gespräch.
+- Bis irgendwann!
+- Pfiat Eahna!
+- Pfiat eich!
+- Pfiat di!
+- Bis Freitag!
+- Bis Sonntag!
+- Bis Samstag!
+- Wir schreiben uns später.
+- Wir hören uns später.
+- Träum schön!
+- Alles Gute!
+- Verbleibe.
+- Wir sehen uns später.
+- Schlaf schön!
+- Bis demnächst!
+- Muss gehen.
+- Tschö!
+- Ich melde mich später bei Ihnen.
+- Grüße!
+- Beste Grüße!
+- Freundliche Grüße!
+- Ich melde mich später bei dir.
+- Mit freundlichen Grüßen.
+- Gute Nacht!
+- Auf Wiederhören!
+- Ich schreibe nichts mehr.
+- Ich verlasse jetzt die Seite.
+- Ich verlasse jetzt die Webseite.
+- Ich verlasse jetzt den Raum.
+- Ich verlasse dich.
+- Ich schließe jetzt die Seite.
+- Ich sage Ihnen später etwas.
+- Ich komme später nochmal auf Sie zurück.
+- Ich komme später nochmal auf dich zurück.
+- Ich melde mich später.
+- Machen Sie es gut!
+
+## intent:insurance_advantages
+- Gibt es Vorteile für Versicherungsrobos
+- Wozu ist ein Chatbot im Bereich Versicherungen gut
+- Wozu dient ein Bot im Versicherungs Bereich
+- Was sind die Vorteile eines Versicherungs-Chatbots
+- Erzählen Sie mir von den Vorteilen eines Versicherungs-Chatbots
+- Erzählen Sie mir die Vorteile eines Versicherungsroboters
+- Erzählen Sie mir die Vorteile des Versicherungs Bots
+- Erzähle mir die Vorteile des Versicherungs-Bots
+- Erzählen Sie mir die Vorteile des Versicherungs-Chatbots
+- Vorteile von einem Bot im Bereich Versicherungen
+- Vorteile Versicherungs-Bot
+- Vorteile Versicherungs-Chatbot
+- Gibt es irgendwelche Vorteile bei Versicherungs-Chatbots
+- Was bringt so ein Versicherungs Bot
+- Warum sollte ich einen Versicherungs Bot haben
+- Warum sollte man sich für einen Chatbot im Versicherungssektor entscheiden
+- Was bringt ein Bot im Bereich Versicherungen
+- Vorteile von Versicherungsrobotern
+- Vorteile des Versicherungs Bots
+- Was sind die Vorteile von einem Versicherungs Bot
+- Was sind die Vorteile von einem Bot im Bereich Versicherungen
+- Ich würde gern wissen was die Vorteile des Versicherungs-Chatbots sind
+- Ich möchte die Vorteile von Versicherungs bots wissen
+- Ich möchte die Vorteile des Versicherungs Chatbots kennenlernen
+- Vorteile Versicherungs Bot
+- Ich möchte die Vorteile von Versicherungs-Chatbots kennen lernen
+- Ich will wissen wozu so ein Bot im Bereich Versicherung dient
+- Wozu dient ein Versicherungs Bot
+- Ich würde gerne die Vorteile des Versicherungs-Chatbots kennenlernen
+- Was bringt mir ein Versicherungs Bot
+- Vorteile des Versicherungs-Chatbots
+- Vorteile von Versicherungs Bots
+- Welche Vorteile gibt es von Versicherungs Bots
+- Was sind Vorteile von Versicherungs Chatbots
+	
+## intent:insurance_uses
+- Anwendungsfälle von Versicherungs-Bots
+- Versicherungs-Bot im Einsatz
+- Anwendungsfälle für Versicherungs-Chatbots
+- Versicherung Chatbot Anwedungs Fall
+- Anwendungsfälle der Versicherungs Bots
+- Versicherungs Bots in der Anwendung
+- Informationen über Anwendungsfälle der Versicherungs Bots
+- Informationen über den Einsatz von Versicherungs Bots
+- Was kann ein Versicherungs-Bot tun
+- Was kann ein Versicherungs-Bot bieten
+- Was kann ein Versicherungs Bot
+- Was kann ein Versicherungs-Chatbot tun
+- Wie werden Versicherungs Bots eingewendet
+- Welche Einsatzgebiete haben Versicherungs Bots
+- Was kann ein Versicherungs Chatbot tun
+- Was bietet ein Versicherungsroboter
+- Wie werden Versicherungs Bots eingesetzt
+- Was können Versicherungs-Bots tun
+- Was können Versicherungs Chatbots bieten
+- Was können Versicherungs Bots bieten
+- Was können Versicherungs-Chatbots tun
+- Kannst du mir konkrete Anwendungsfälle von so einem Versicherungsbot nennen
+- Kannst du mir sagen wie solche Versicherungs Bots eingesetzt werden
+- Was können Versicherungs Bots tun
+- Was können Versicherungs Robos bieten
+- Was können Versicherungsrobos bieten
+- Chatbots im Versicherungsbereich – Anwendungen
+	
+## intent:legal_expert_description
+- Erklären Sie mir den Rechtsassistenten
+- Erzählen Sie mir mehr über den Rechts assistenten.
+- Erzählen Sie mir mehr über den Rechtsexperten.
+- Erzählen Sie mir mehr über den Rechts experten.
+- Wie wurde der Rechtsexperte entwickelt
+- Welche Art von Software hat der Rechtsexperten
+- Welche Software steckt hinter dem Rechtsexperten
+- Aus welcher Software besteht Medius?
+- Welche Art von Produkt ist der Rechtsexperte
+- Was für ein Produkt ist der Assistent des Rechtsexperten
+- Welche Art von Produkt ist der juristische Fachassistent
+- Welche Art von Produkt ist der Rechtsassistent
+- Welche Art von Produkt ist Medius
+- Welche Art von Software ist der Rechtsexperte
+- Welche Art von Software ist der Assistent des Rechtsexperten
+- Welche Art von Software ist der Rechtsassistent?
+- Welche Art von Software ist Medius?
+- Was für ein Produkt ist der Rechtsexperte
+- Über Medius
+- Über den Rechtsassistenten
+- Über den Rechtsexperten
+- Über den Assistenten des Rechtsexperten
+- Können Sie mir Informationen über Medius geben?
+- Können Sie mir Informationen über den Rechtsassistenten geben?
+- Können Sie mir Informationen über den Assistenten des Rechtsexperten geben
+- Können Sie mir Informationen über den Rechtsexperten
+- Können Sie mir sagen, was Medius ist?
+- Können Sie mir sagen, was der Rechtsassistent ist?
+- Können Sie mir sagen, was der Assistent des Rechtsexperten ist?
+- Können Sie mir sagen, was der Rechtsexperte ist?
+- Was für ein Produkt ist der Rechtsassistent?
+- Was für ein Produkt ist Medius?
+- Was ist der Rechtsexperte
+- Was ist der Assistent des Rechtsexperten
+- Worum geht es beim Assistenten des Rechtsexperten
+- Worum geht es dem Rechtsexperten Assistenten
+- Was kann der Assistent des Rechtsexperten
+- Was kann der Assistent des Rechtsexperten tun?
+- Worum geht es dem Rechtsexperten
+- Was kann der Rechtsexperte
+- Was kann der Rechtsexperte tun?
+- Was ist der Rechtsassistent?
+- Worum geht es beim Rechtsassistenten?
+- Worum geht es dem Rechtsassistenten
+- Was kann der Rechtsassistent
+- Was kann der Rechtsassistent tun?
+- Was ist Medius
+- Worum geht es beim Medius?
+- Worum geht es bei Medius?
+- Was kann Medius?
+- Was kann Medius tun?
+- Was ist ein Rechtsexperte?
+- Was ist ein Rechtsexperten-Assistent
+- Was ist ein Rechtsassistent?
+- Was macht der Rechtsexperte?
+- Was macht der Assistent des Rechtsexperten
+- Was macht der Rechtsassistent?
+- Was bedeutet Medius
+- Was macht Medius?
+- Was kann ich mit dem Rechtsassistenten tun?
+- Was kann ich mit dem juristischen Fachassistenten tun?
+- Was kann ich mit dem Rechtsexperten machen?
+- Was kann man mit Medius tun?
+- Was kann man mit dem Rechtsassistenten tun?
+- Was kann man mit dem juristischen Fachassistenten machen
+- Was kann man mit dem Rechtsexperten machen?
+- Was können Sie mir über Medius sagen?
+- Was können Sie mir über den Rechtsassistenten sagen?
+- Was können Sie mir über Medius sagen
+- Was können Sie mir über den Rechtsassistenten sagen
+- Informationen zum Rechtsexperten.
+- Infos zum Rechtsanwaltsfachangestellten.
+- Infos über den Rechtsanwaltsassistenten.
+- Ich möchte mehr über den Rechtsexperten erfahren.
+- Ich möchte mehr über den Assistenten des Rechtsexperten wissen.
+- Ich möchte mehr über den juristischen Assistenten wissen.
+- Ich möchte mehr über Medius wissen.
+- Ich möchte Informationen über den Rechtsexperten haben.
+- Informationen über den Assistenten des Rechtsexperten.
+- Informationen über den juristischen Assistenten.
+- Informationen über Medius.
+- Informationen über den Rechtsexperten/die Rechtsexpertin.
+- Informationen über den Rechtsanwaltsfachangestellten.
+- Informationen über den Rechtsanwaltsassistenten.
+- Erklären Sie mir den Rechtsexperten
+- Informationen über den Rechtsexperten.
+- Informationen zum Rechtsassistenten.
+- Ich möchte Informationen über den Rechtsanwalts fachangestellten haben.
+- Ich möchte Informationen über Medius haben.
+- Wie arbeitet der Rechtsexperte?
+- Informationen für Rechtsanwaltsgehilfen.
+- Juristischer Assistent.
+- Juristischer Assistent Info.
+- Juristische Fachassistentin Information.
+- Juristischer Fachassistent.
+- Juristischer Experte Info.
+- Informationen für Rechtsexperten.
+- Juristischer Experte.
+- Medius-Info.
+- Medius-Informationen.
+- Medius.
+- Mehr Informationen über Medius.
+- Mehr Informationen über den juristischen Fachassistenten.
+- Mehr Informationen über den Medius.
+- Mehr Informationen über den Rechtsassistenten.
+- Mehr Informationen über den Assistenten des Rechtsexperten.
+- Mehr Informationen über den Rechtsexperten.
+- Wie arbeitet der Assistent des Rechtsexperten?
+- Wie arbeitet der Rechtsassistent
+- Wie funktioniert Medius?
+- Sprechen Sie mit mir über Medius
+- Sprechen Sie mit mir über den Rechtsassistenten
+- Sprechen Sie mit mir über den Rechtsexperten
+- Erzählen Sie mir von Medius.
+- Was kann ich mit Medius machen?
+- Erzählen Sie mir von der Rechtsassistentin.
+- Erklären Sie Medius
+- Erklären Sie mir Medius
+- Erklären Sie mir Rechtsexperte
+- Erklären Sie mir die Assistentin eines Rechtsexperten
+- Erzählen Sie mir mehr über Medius.
+- Erklären Sie den Rechtsexperten
+- Erklären Sie den Assistenten des Rechtsexperten
+- Erklären Sie mir den Assistenten des Rechtsexperten
+- Erklären Sie den Rechtsassistenten
+- Erklären Sie mir, was ein Rechtsassistent ist
+- Was können Sie mir über den Rechtsexperten sagen
+- Was wissen Sie über den Rechtsexperten
+- Was verstehen Sie unter Rechtsassistentin
+- Was verstehen Sie unter einem juristischen Fachassistenten
+- Was verstehen Sie unter einem Rechtsexperten
+- Was verstehen Sie unter Medius
+	
+## intent:user_love
+- Ich bin in Dich verknallt
+- Sag mir wie sehr Du mich liebst
+- Liebst du mich?
+- Ich glühe für dich.
+- Ich finde dich süß
+- Ich denke nur an dich.
+- Wenn ich dich sehe, habe ich Schmetterlinge im Bauch.
+- Wieso liebst du mich nicht?
+- Wieso liebst du mich?
+- Willst Du mich heiraten
+- Ist es Liebe?
+- Kannst du Liebe empfinden?
+- Willst Du mit mir zu Abend essen
+- Habe dich ganz doll lieb.
+- Hast Du Gefühle für mich
+- Hast du Schmetterlinge im Bauch?
+- Lass uns ausgehen
+- Lass uns auf ein Date gehen
+- Kannst du lieben?
+- Ich will dass du mich heiratest
+- Ich bin in dich verliebt.
+- Ich bin in dich verknallt.
+- Was bedeutet Liebe?
+- Ich denke immer nur an dich.
+- Ich kann dich nicht vergessen.
+- Bist du in mich verliebt?
+- Wie sehr kannst du lieben?
+- Willst du mit mir gehen?
+- Glühst du für mich?
+- Wie manifestiert sich Liebe?
+- Liebst Du jemanden?
+- Würdest Du mich heiraten
+- Liebe
+- Ich habe mich in dich verliebt
+- Ich will mit dir gehen.
+- Was fühlst Du für mich
+- Ich glaube ich liebe Dich
+- Ich habe Schmetterlinge im Bauch.
+- Ich habe dich lieb.
+- Ich will dich heiraten
+- Seit wann liebst du mich?
+- Schwärmst du von mir?
+- Ich will dich lieben.
+- Weißt du, wie man liebt?
+- Weißt du, was Liebe ist?
+- Was ist eigentlich Liebe?
+- Wir wollen heiraten.
+- Wofür brauchen wir Liebe?
+- Ich denke die ganze Zeit nur an dich.
+- Ich schwärme von dir.
+- Ich möchte, dass Du mich heiratest
+- Ich möchte dich heiraten.
+- Ich lieb‘ dich!
+- Ich liebe dich!
+- Ich liebe dich
+- Heirate mich!
+- Hast du mich lieb?
+- Hast du dich in mich verliebt?
+- Hast du dich in mich verknallt?
+- Ich habe dich sehr lieb.
+- Ich habe mich in dich verknallt.
+- Ich habe mich in dich verliebt.
+- Wir sind verliebt.
+- Willst Du mein Seelenpartner sein
+- Willst Du mein Freund sein?
+- Willst du mich heiraten?
+- Willst du mich lieben?
+- Willst du mich zum Abendessen besuchen
+- Erzähl mir von der Person, die Du liebst
+- Empfindest du Liebe?
+- Bist du in mich verknallt?
+- Wir lieben uns.
+- Was ist Liebe überhaupt?
+- Ich glaube, ich bin in Dich verliebt
+- Ich bin verknallt, in dich.
+- Heiratest du mich?
+- Ich hab‘ dich lieb.
+- Ich bin verliebt, in dich.
+	
+## intent:vocative_no
+- No.
+- Nope.
+- Nö.
+- nope
+- no
+- Keinem.
+- Keinen.
+- Keiner.
+- Keinesfalls.
+- Keineswegs.
+- Keins.
+- Niemand.
+- Unter keinen Umständen.
+- Unter keiner Bedingung.
+- Weder noch.
+- Nee.
+- Kein.
+- Eher nicht
+- Eigentlich nicht
+- Nicht wirklich
+- Nicht unbedingt
+- Nie und nimmer.
+- Nichts.
+- Nicht die Spur.
+- Leider nein.
+- Gar nichts.
+- Leider nicht.
+- Keine Spur.
+- lieber nicht
+- Inakzeptabel.
+- In keiner Weise.
+- Gottbewahre.
+- Gott bewahre.
+- Gott behüte.
+- Kommt nicht in die Tüte.
+- Na.
+- Naa.
+- Nie.
+- Niemals.
+- Nein.
+- Um keinen Preis.
+- Undenkbar.
+- Unmöglich.
+- Nicht existent.
+- Nicht im Entferntesten.
+- Nicht im Geringsten.
+- Nicht um alles in der Welt.
+- nein
+- Nicht vorhanden.
+- Nicht.
+- Auf keinen Fall.
+- Keine.
+- noch nicht
+- Bewahre.
+- Negativ.
+- nö
+- Nimmer.
+- Nirgends.
+- Nirgendwo.
+- niente
+	
+## intent:nothingmore
+- nix
+- gar nichts mehr
+- das wäre alles
+- das wär's dann auch schon
+- das ist alles
+- danke das ist alles
+- danke ads wäre alles
+- nein das war's
+- danke ich habe keine Fragen mehr
+- Ich habe keine weiteren Fragen mehr
+- nichts mehr danke
+- nichts danke
+- Danke das war's erstmal
+- gar nichts
+- absolut nichts
+- null
+- garnichts
+- nada
+- nichts
+- nichts mehr
+	
+## intent:platform_about
+- Können Sie mir die Plattform des Roboters nennen
+- Zeigen Sie mir Ihre Plattform
+- Wie sieht die Plattform aus?
+- Plattformen
+- wie kann ich robo benutzen
+- Über Ihre Plattform
+- Können Sie die Robo-Plattform zeigen
+- Können Sie mir Ihre Plattform nennen
+- Können Sie der Robo-Plattform sagen
+- Können Sie die Plattform des Robos beschreiben
+- Können Sie Ihrer Plattform mitteilen
+- Was ist die robo ai Plattform
+- Robo ai Plattform
+- Erzähle mir etwas über die robo ai Plattform
+- Erzähle mir etwas über eure Plattform
+- Erzähl mir was über eure Plattform
+- Informationen über Ihre Plattform
+- Plattform
+- Informationen zur robo ai Plattform
+- Informationen zur Plattform
+- Robo-Plattform
+- Plattform Robo.ai
+- Plattform des Roboters
+- Erzählen Sie mir mehr über Ihre Chatbot-Plattform
+- Sagen Sie mir was über die Robo-Plattform
+- Sagen Sie mir die Plattform des Robos
+- Sagen Sie mir, was eine Robo-Plattform ist
+- Kannst du mir etwas über eure Plattform sagen
+- Woraus besteht die robo ai Plattform
+- Erzähle mir was über eure Plattform
+- Robo-Plattform mitteilen
+- Kannst du mir technische Details über die robo ai Plattform geben
+- Kannst du mir was zur Plattform sagen
+- Sagen Sie Ihrer Plattform
+- Was ist eine Robo-Plattform?
+- Was ist die Robo-Plattform
+- Was ist Ihre Plattform?
+- Ihre Plattform
+	
+## intent:platform_advantages
+- Was sind die Vorteile Ihrer Plattform?
+- Vorteile der robo ai Plattform.
+- Über die Vorteile der robo ai Plattform.
+- Warum sollten wir uns für die robo ai Plattform entscheiden
+- Warum sollte ich die robo ai Plattform wählen
+- Vorteile robo ai.
+- Informieren Sie mich über die Vorteile Ihrer Plattform.
+- Nennen Sie mir die Vorteile Ihrer Plattform.
+- Was sind die Vorteile von robo ai
+- Die Vorteile der Plattform.
+- robo ai Vorteile
+- Welches sind die Vorteile Ihrer Plattform?
+- Welches sind die Vorteile der Plattform?
+- Was ist der Vorteil von robo ai
+- Vorteile Ihrer Plattform.
+- Gibt es Vorteile für Ihre Plattform?
+- Gibt es Vorteile für Ihre Plattform
+- Warum sollte ich mich für robo ai entscheiden
+- Über die Vorteile der Plattform.
+- Warum sollte meine Firma sich für die robo ai Plattform entscheiden
+- Sage mir was der Vorteil von robo ai ist
+- Nenne mir die Vorteile von robo ai
+- Vorteile der Plattform.
+- Was ist vorteilhaft an robo ai
+- Info über die Vorteile der Plattform.
+- Informationen über die Vorteile der Plattform.
+- Infos zu den Vorteilen der Plattform.
+- Welche Vorteile bringt robo ai mit sich
+- Welche Vorteile bringt eure Plattform mit sich
+- Informationen zu den Vorteilen der Plattform.
+- Was ist so vorteilhaft an robo ai
+- Ihre Plattform-Vorteile.
+	
+## intent:platform_agent_console
+- Informationen auf der Agenten konsole
+- Infos über die Agentenkonsole
+- Informationen zur Agenten konsole
+- Infos zur Agentenkonsole
+- Informationen über die Agenten konsole
+- Informationen über die Agentenkonsole
+- Konsole des Bots
+- Info-Agent Konsole
+- Ich hörte, Sie haben eine Agentenkonsole
+- Verfügt Ihre Plattform über eine Agentenkonsole?
+- Ich weiß nicht, was eine Agenten konsole ist.
+- Haben Sie eine Agenten konsole
+- Erklären Sie mir die Agenten konsole
+- Was ist die Agenten konsole
+- Konsole für den Kundendienst
+- Konsole des Agenten
+- Erklären Sie die Agentenkonsole
+- Was ist eine Agenten konsole?
+- Agenten-Konsole
+- Könnten Sie die Agentenkonsole erklären
+- Daten- und Berichts-Dashboard
+	
+## intent:platform_analytics
+- Daten- und Berichterstattungs instrumententafel
+- Daten- und Berichtspanel
+- Datentafel
+- Daten-Bedienfeld
+- Daten-Dashboard
+- Daten-Instrumententafel
+- Datenfeld
+- Daten Feld
+- Daten Dashboard
+- Panel-Berichterstattung
+- Berichterstattung
+- Berichte und Analysen
+- Ausschuss für Berichterstattung und Analyse
+- Kontrollpanel für Berichte und Analysen
+- Berichts- und Analyse-Dashboard
+- Ausschuss für Berichts- und Analyseinstrumente
+- Plattform-Analysefunktion
+- Plattform-Analytik
+- Berichts-Panel
+- Instrumententafel für die Berichterstattung
+- Dashboard für die Berichterstattung
+- Bedienfeld für die Berichterstattung
+- Berichtstafel
+- Berichts- und Datenpanel
+- Berichts- und Dateninstrumententafel
+- Berichts- und Daten-Dashboard
+- Berichts- und Datenkontrolltafel
+- Berichts- und Datentafel
+- Berichterstattung und Daten
+- Berichts- und Analyse-Panel
+- Analytik
+- Analytik und Berichterstattung
+- Ausschuss für Analysen und Berichterstattung
+- Kontrollpanel für Analysen und Berichte
+- Analyse- und Berichts-Dashboard
+- Instrumententafel für Analysen und Berichterstattung
+- Analytik- und Berichtspanel
+- Analytik-Vorstand
+- Bedienfeld für die Analytik
+- Analyse-Dashboard
+- Analyse-Instrumententafel
+- Analytik-Panel
+- Berichterstattung im Vorstand
+- Bedienfeld
+- Kontrollpanel-Berichterstellung
+- Dashboard
+- Dashboard-Berichterstattung
+- Analytics
+- Daten und Berichterstattung
+- Daten- und Berichtstafel
+- Daten- und Berichtskontrollpanel
+	
+## intent:platform_studio
+- Studio
+- Studio und Plattform
+- Für was ist das Studio
+- Das Robo-Atelier
+- Das Atelier
+- Studio Plattform
+- Nutzung des Robo-Ateliers
+- Nutzung des Studios
+- Wofür ist das Studio?
+- Was ist das Roboterstudio?
+- Was ist das Studio
+- Wie man das Studio benutzt
+- Ich weiß nichts über das Robostudio
+- Ich weiß gar nichts über das Studio
+- Ich weiß nicht, was das Roboterstudio ist.
+- Ich weiß nicht, was das Studio ist.
+- Infos über das Studio
+- Info-Studio
+- Könnten Sie das Studio erklären
+- Erklären Sie mir das Robostudio
+- Erklären Sie mir das Studio
+- Wie man das Robostudio benutzt
+- Informationen über das Studio
+- Informationen zum Studio
+- Informationsstudio
+- Mehr über das Studio
+- Robo-Atelier
+- Roboterstudio für was?
+	
+## intent:positive_feedback
+- Sie machen das super.
+- Ich finde dich schön.
+- Klasse Bot
+- Ich finde dich wunderschön.
+- Du bist ein super Chatbot!
+- Du bist ein schlauer Bot
+- Du bist eine tolle Hilfe!
+- Du bist großartig!
+- Ich finde dich sehr gut.
+- Spitze!
+- Spitzen Bot
+- Super
+- Danke, du hast mir geholfen
+- Cool!
+- Das ist mir eine große Hilfe
+- Das ist sehr hilfreich
+- Du bist eine gute Hilfe.
+- Du bist gut!
+- Geil!
+- Super!
+- Du kannst viel.
+- Toll!
+- Sie wissen alles.
+- Wunderbar!
+- Wie gut du bist!
+- Du bist wunderbar!
+- Toller Bot
+- Einfach geil!
+- Einfach schön!
+- Einfach super!
+- Ganz toll
+- Ganz klasse
+- Ich finde dich wunderbar.
+- Ich finde dich toll.
+- Du bist toll!
+- Du bist wunderschön!
+- Du bist schön!
+- Sie machen das spitze
+- Sie helfen mir sehr.
+- Sehr nett
+- Perfekt
+- Du bist klasse.
+- Das ist ja super
+- Super gemacht
+- klasse
+- Du weißt alles.
+- Klasse!
+- Du machst das sehr gut.
+- Ich finde Sie sehr gut.
+- Ich finde Sie toll.
+- Du machst das wunderbar.
+- Du machst das toll.
+- Du machst das super.
+	
+## intent:robo_about
+- Info-Robo.
+- Robo-Info.
+- Bitte sagen Sie mir, was Sie tun.
+- Was macht Robo ai
+- Bitte sagen Sie mir, was Sie tun können.
+- Bitte sagen Sie mir, was Robo tun kann
+- Bitte erklären Sie mir Robo
+- Was kann Robo
+- Was kann robo tun
+- Was macht Robo
+- Informationen über robo.
+- Ich möchte mehr über robo wissen.
+- Erzähle mir, was Robo macht
+- Wie nutzt man robo
+- Wie benutzt man robo ai
+- Wie wird robo ai verwendet
+- Wie kann ich euren Chatbot verwenden
+- Wie kann ich Robo verwenden?
+- Erklären Sie Robo
+- Erklären Sie mir, was Sie tun
+- Erklären Sie mir, was Robo kann
+- Erklären Sie mir, was Sie tun können
+- Erklären Sie mir, was ein Roboter tun kann
+- Erklären Sie mir robo
+- Können Sie erklären, was Sie tun?
+- Können Sie erklären, was Robo kann?
+- Können Sie erklären, was Sie tun können?
+- Können Sie erklären, was ein Roboter tun kann?
+- Über robo
+- Wie können Sie meinem Unternehmen helfen, seine Kundeninteraktionen zu verbessern?
+- Informationen zu Robotern.
+- Was ist der robo Bot
+- Sagen Sie mir, was ein Robo Bot ist
+- Was kann ihr Bot
+- Wofür kann ich Robo verwenden?
+- Was kann ein Robo chatbot tun?
+- Was kann robo Bot tun?
+- Was macht der Robo Bot
+- Wozu ist Robo da?
+- Was ist robo
+- Was ist robo.ai
+- Welche Funktionen hat robo ai
+- Welche Funktionen hat robo.ai
+- Was sind die Funktionen von robo.ai
+- ROBO.AI Funktionen
+- Robo ai Funktionen
+- Funktionen Robo.ai
+- Was ist der Zweck von robo.ai
+- Warum sollte ich mich für Sie entscheiden
+	
+## intent:robo_advantages
+- Vorteil von Robo
+- Vorteile von Robo ai
+- Vorteile
+- Nutzen von Robo
+- Vorteile Robo
+- Vorteile von Robo
+- Haben Sie Vorteile
+- Haben Sie irgendwelche Vorteile
+- Nennen Sie die Gründe, warum ich mich für robo entscheiden sollte.
+- Nennen Sie Ihre Vorteile
+- Vorteile von Robo.
+- Robo-Vorteil
+- Robo-Vorteile
+- Vorteile von Robo.ai
+- Zeigen Sie mir die Vorteile von Robo.
+- Zeigen Sie mir die Vorteile von robo
+- Nennen Sie mir die Vorteile von robo ai
+- Nennen Sie mir die Vorteile von robo
+- Nennen Sie mir Ihre Vorteile
+- Welche Vorteile bietet robo
+- Welche Vorteile hat robo
+- Was sind die Vorteile
+- Welche Vorteile bieten Sie
+- Was robo von anderen Unternehmen unterscheidet
+- Was ist das Besondere an robo
+- Was ist der Vorteil von robo
+- Warum Robo wählen
+- Warum Sie wählen
+- Warum ist Robo vorteilhaft
+- Warum sollte ich Sie einem anderen Unternehmen vorziehen?
+- Warum sollte ich Sie wählen?
+- Warum Sie und nicht ein anderes Unternehmen
+	
+## intent:robo_advantages_other_language_first
+- Bot in englischer Sprache.
+- Zuerst die englische Sprache.
+- Zuerst englisch.
+- Können Sie einen Bot in englischer Sprache machen
+- Chatbot englisch.
+- Bot englisch.
+- englischer Chatbot.
+- englischer Bot.
+- Können Sie Bots auf englisch machen
+- Können Ihre Bots englisch?
+- Haben Sie Bots auf englisch?
+- Sprechen Sie englisch?
+- Können Sie mir auf englisch antworten?
+- Wir wollen einen englischen Bot.
+- Ich will einen englischen Bot.
+- Könnten Sie einen englischen Bot
+- englischsprachiger Chatbot.
+- englischsprachiger Bot.
+- Chatbot in englischer Sprache
+- ROBO.AI Englisch
+- Robo Englich
+- Robo ai in English
+- Gibt es robo ai auch in Englisch?
+- Robo AI Englisch
+- Chatbot in Portugiesischer Sprache
+- ROBO.AI Portugiesisch
+- Robo Portugiesisch
+- Robo ai in Portugiesisch
+- Gibt es robo ai auch in Portugiesisch?
+- Robo AI Portugiesisch
+- Chatbot in Spanischer Sprache
+- ROBO.AI Spanisch
+- Robo Spanisch
+- Robo ai in Spanisch
+- Gibt es robo ai auch in Spanisch?
+- Robo AI Spanisch
+- Chatbot in Französischer Sprache
+- ROBO.AI Französisch
+- Robo Französisch
+- Robo ai in Französisch
+- Gibt es robo ai auch in Französisch?
+- Robo AI Französisch
+	
+## intent:robo_advantages_flexibility
+- Ich arbeite mit Google
+- Können Sie sich in unsere Architektur integrieren
+- Integration mit Microsoft
+- Können Sie sich mit Amazon integrieren
+- Können Sie mit IBM integrieren
+- Können Sie mit Google integrieren
+- Integrieren Sie mit Microsoft
+- Integrieren Sie sich mit Amazon
+- ROBO.AI Flexibilität
+- ROBO AI Flexibilität
+- ROBO Flexibilität
+- Flexibilität von robo ai
+- Sind Sie mit IBM integriert?
+- Integrieren Sie mit Google
+- Ich arbeite mit Microsoft zusammen.
+- Ich arbeite mit Amazon.
+- Ich arbeite mit IBM zusammen.
+- Ich arbeite bereits mit Microsoft zusammen.
+- Ich arbeite bereits mit Amazon zusammen.
+- Ich arbeite bereits mit IBM zusammen.
+- Ich arbeite bereits mit Google zusammen.
+- Integrieren Sie mit verschiedenen NLU-Engines
+- Integrieren Sie sich in meine Architektur
+- Integrieren Sie sich in unsere Architektur
+- Können Sie mit verschiedenen NLU-Engines integrieren
+- Können Sie in meine Architektur integrieren
+- Integration mit Google
+- Integration mit Amazon möglich?
+- Funktioniert auch eine Integration mit IBM
+	
+## intent:robo_advantages_proactive_learning
+- Proaktives Lernen
+- Proaktiv im Lernprozess
+- Pro-aktives Lernen
+- Pro-aktiv im Lernprozess
+- Lernt Ihr Chatbot selbständig
+- Ist Ihr Chatbot im Lernprozess proaktiv
+- Wie lernt ihr Chatbot
+- Ist Ihr Bot im Lernprozess proaktiv
+- Lassen Sie Ihre Chatbots proaktiv lernen
+- Lassen Sie Ihre Chatbots pro-aktiv lernen
+- Lassen Sie Ihre Bots proaktiv lernen
+- Lassen Sie Ihre Bots pro-aktiv lernen
+- Hat Ihr Chatbot proaktiv gelernt
+- Hat Ihr Chatbot pro-aktives Lernen
+- Hat Ihr Bot proaktives Lernen
+- Hat Ihr Bot pro-aktives Lernen
+- Sind Ihre Chatbots im Lernprozess selbstständig
+- Verbessert sich der Bot ständig
+- Sind Ihre Bots im Lernprozess proaktiv
+- Sind Ihre Bots im Lernprozess pro-aktiv
+	
+## intent:robo_api_sdk
+- Kann ich Zugang zu einer API erhalten?
+- Kann ich Zugang zu einem SDK haben?
+- Kann ich eine API verwenden?
+- Kann ich ein SDK verwenden?
+- Daten über SDK
+- Daten zur API
+- Daten zum SDK
+- Einzelheiten über API
+- Einzelheiten über SDK
+- Daten über API
+- Benötige ich ein SDK
+- Benötige ich eine API
+- Einzelheiten zum SDK
+- Einzelheiten zur API
+- Wo kann ich die API finden
+- Was ist mit SDK
+- Was ist mit API
+- SDK-Informationen
+- SDK-Dokumentation
+- SDK-Details
+- SDK-Daten
+- SDK
+- Mehr über SDK
+- Mehr über API
+- Gibt es ein SDK?
+- Gibt es ein SDK
+- Gibt es eine API
+- Informationen zur API
+- Informationen über SDK
+- Informationen über API
+- Ich brauche ein SDK.
+- Ich benötige eine API.
+- Wie Sie das SDK verwenden können
+- Wie die API verwendet wird will ich wissen
+- Wie kann ich ein SDK verwenden?
+- Wie kann ich eine API verwenden?
+- Haben Sie ein SDK
+- Haben Sie eine API
+- API
+- API-Daten
+- API-Details
+- API-Dokumentation
+- API-Informationen
+- Kann ich eine API erhalten?
+- Kann ich ein SDK erhalten?
+	
+## intent:robo_chatbot
+- Informationen über Robos.
+- Was ist ein Robo?
+- Was ist ein Chatbot?
+- Was ist ein Bot?
+- was sind Chatbots
+- Robo
+- Informationen über Robos
+- Informationen über Chatbots
+- Informationen über Bots
+- Bot
+- Chatbot
+- Erklären Sie mir was genau ein Bot macht
+- Erklären Sie mir chatbot
+- Erklären Sie mir was ein Chatbot ist
+- Ich weiß nicht, was ein Bot ist.
+- Ich weiß nicht, was ein Chatbot ist.
+- Ich weiß nicht, was ein Robo ist
+- Ich möchte wissen, was ein Bot ist.
+- Ich möchte wissen, was ein Chatbot ist.
+- Ich möchte wissen, was ein Robo ist.
+- Informationen über euren Bot
+- Informationen über den Bot
+- Was macht euer Bot?
+- Was kann ein Robo
+- Was macht ein Robo
+	
+## intent:robo_clients
+- Über Ihre Partner.
+- Über Ihre Kunden
+- Ihre Partner
+- Erzählen Sie mir von Ihren Partnern.
+- Wen haben Sie als Kunden
+- Robo-Partner
+- Wer sind Ihre Kunden
+- Nennen Sie Ihre Partner.
+- Mit welchen Firmen arbeiten Sie
+- Wer sind ihre Klienten
+- Ihre Klienten
+- Eure Klienten
+- Informationen über Ihre Partner.
+- Haben Sie Partner?
+- Wer sind eure Klienten
+- Haben Sie bereits Partner
+- Partner
+- Über Ihre Kunden.
+- Kunden
+- Haben Sie bereits Klienten
+- Haben Sie bereits Kunden
+- Haben Sie Kunden
+- Mich würde interessieren wer Ihre Klienten sind
+- Infos über Kunden.
+- Informationen über Ihre Klienten
+- Informationen über Ihre Kunden.
+- Mit welchen Klienten arbeiten Sie
+- Nennen Sie Ihre Kunden.
+- über Ihre Klienten.
+- Robo-Kunden
+- Erzählen Sie mir von Ihren Kunden.
+	
+## intent:features_handover
+- Übergabe-Funktion
+- Weiterleitungs Funktion
+- Informationen über die Übergabefunktion
+- Über die Eskalation zu einem menschlichen Mitarbeiter
+- Übergabe
+- Übergabe an einen echten Agenten
+- Eskalieren zu einem Menschen
+- Weiterleitung an einen echten Agenten
+- Eskalieren zum echten Agenten
+- Weiterleitungsfunktion zu einem echten Agenten
+- Weiterleitungs Funktion zu einem echten Agenten
+- Weiterreichen an einen menschlichen Mitarbeiter
+- Über die Funktion zur Eskalation zum echten Agenten
+- Übergabe an einen Menschen
+- Informationen zur Übergabe an einen menschlichen Agenten
+- Funktion zur Eskalation zum echten Agenten
+- Übergabe von Robo.ai an einen Menschen
+- Gibt es auch eine Funktion zur Weiterleitung an einen Menschen?
+- Gibt es auch eine Funktion zur Weiterleitung an einen menschlichen Agenten?
+- Gibt es auch eine Funktion zum Handover an einen menschlichen Agenten?
+- Gibt es auch eine Funktion zum Hand over an einen menschlichen Agenten?
+- Hand over
+- Hand over an einen Menschen
+- Gibt es auch eine Funktion zur Eskalierung an einen menschlichen Agenten?
+- Gibt es auch eine Funktion zum Eskalieren an einen menschlichen Agenten?
+- Handover-Funktion
+- Handover Funktion
+- Hand Over Funktion
+- Funktion Handover
+	
+## intent:robo_prices
+- Was ist mit den Preisen?
+- Welcher Preis
+- Mit welchen Preisen muss ich rechnen
+- Welche Preise
+- Welche Preise sind verfügbar?
+- Kostet es viel
+- Für wie viel kann ich das kaufen?
+- Wie kann ich die Preise finden
+- Wie hoch muss ich mit den Kosten rechnen?
+- Wie ist die Preisgestaltung
+- Wie viel muss ich bezahlen?
+- Wie viel kostet es
+- Wie viel kostet das Produkt
+- Wie viel muss ich zahlen?
+- Welche Preisgestaltung muss ich erwarten
+- Wie viel kostet so ein Bot
+- Ich möchte über die Preisgestaltung Bescheid wissen
+- Ich möchte die Preise wissen
+- Ist es erschwinglich?
+- Ist es kostspielig
+- Ist der Preis erschwinglich?
+- Sind die Preise erschwinglich?
+- Ist der Preis hoch
+- Mehr über Preise
+- Preise
+- Preisinformationen
+- Erzählen Sie mir etwas über Robo
+- Nennen Sie mir die Preise
+- Nennen Sie mir die Preissgestaltung
+- Die Preisgestaltung
+- Welche Preise haben Sie?
+- Über die Preisgestaltung
+- Können Sie mir den Preis nennen
+- Können Sie mir die Preise sagen
+- Was ist mit der Preisgestaltung
+- Was können Sie mir über Preise sagen
+- Wie hoch ist der Preis
+- Wie hoch ist der Preis?
+- Mit welchem Preis muss ich rechnen
+- Was kostet der Bot
+- Ist der Bot teuer
+- Mit welchen Kosten muss ich rechnen
+- Wie teuer ist der Bot
+- Wie teuer ist sowas
+- Was kostet das ganze
+- Und was kostet der ganze Spaß
+- Und wie teuer ist das
+- Wie hoch sind die Kosten
+	
+## intent:robo_registration
+- Ich möchte mich registrieren
+- Info-Registrierung
+- Informationen zur Registrierung
+- Vor Registrierung
+- Vor Registrierung für die Beta
+- Infos zur Vor Registrierung
+- Vorregistrierung für die Beta Version
+- Vorregistrierung
+- Vorregistrierung für die Beta
+- Registrieren Sie mich
+- Registrieren Sie mich für die Beta
+- Für die Beta anmelden
+- Melden Sie sich für die Beta an
+- Anmelden
+- Anmeldung
+- Anmeldung für die Beta
+- Wo kann ich mich vorregistrieren
+- Wo kann ich mich anmelden
+- Wo melde ich mich an
+- Über die Registrierung
+- Wie kann ich mich vorregistrieren
+- Wie kann ich mich anmelden
+- Wie kann ich mich vorregistrieren?
+- Wie kann ich mich registrieren
+- Wie kann ich mich anmelden?
+- Wie melde ich mich an?
+- Wie melde ich mich an
+- Ich möchte mich vorregistrieren
+- Ich möchte mich anmelden
+- Registrierung
+	
+## intent:social_media_facebook
+- Wo sind Sie auf Facebook?
+- Kann ich Two Impulse auf Facebook finden
+- Kann ich Sie auf Facebook finden?
+- Auf welchem Facebook kann ich Two Impulse finden
+- Kann ich euch auf Facebook finden
+- Seid ihr auf Facebook
+- Sagen Sie mir, ob Two Impulse auf Facebook ist
+- Sagen Sie mir, ob Sie auf Facebook sind
+- Habt ihr Facebook
+- Two Impulse auf Facebook
+- Habt ihr einen Facebook Account
+- Ist Two Impulse auf Facebook
+- Geben Sie mir Ihre Facebook URL
+- Geben Sie mir Ihre Facebook Links
+- Geben Sie mir Two Impulse Facebook URL
+- Geben Sie mir Two Impulse Facebook Links
+- Facebook
+- Haben Sie Facebook
+- Kann ich auf Facebook mehr über Two Impulse lesen?
+- Sag mir wo man Sie auf Facebook finden kann
+- Wie lautet euer Facebook
+- Wie heißt eure Facebook Page
+- Wie heißt eure Facebook Seite
+- Wo sind Two Impulse auf Facebook
+- Was ist mit Facebook?
+- Sagen Sie mir, wo ich Sie auf Facebook finden kann.
+- Sagen Sie mir, wo ich Two Impulse auf Facebook finden kann
+- Kann ich auf Facebook mehr über Sie erfahren?
+- Kann man Sie auf Facebook finden?
+- Irgendetwas über Two Impulse auf Facebook
+- Alles auf Facebook
+- Sind Sie auf Facebook
+	
+## intent:social_media_generic
+- Sagen Sie mir, wo ich Sie in den sozialen Medien finden kann.
+- Was ist mit sozialen Medien?
+- Alles über soziale Medien
+- Sie sind in den sozialen Netzwerken vertreten
+- Wo Sie in den sozialen Netzwerken zu finden sind
+- Wo man Two Impulse auf Social Media finden kann
+- Sind Two Impulse auf Social Media
+- Sagen Sie mir, ob Sie in den sozialen Netzwerken sind
+- Sagen Sie mir, ob Two Impulse in den sozialen Netzwerken vorhanden ist
+- Soziale Netzwerke
+- Wo stehen Sie in den sozialen Medien?
+- Two Impulse in sozialen Netzwerken
+- Wo sind Two Impulse in den sozialen Medien
+- Kann ich mehr über Sie in den sozialen Netzwerken lesen?
+- Kann man Two Impulse in den sozialen Netzwerken finden
+- Auf welchen Social Media sind Two Impulse
+- Auf welchen sozialen Netzwerken kann ich Sie finden?
+- Auf welchen Social Media kann ich Two Impulse finden
+- Auf welchen sozialen Medien sind Sie
+- Über soziale Medien
+- Mehr über soziale Netzwerke
+- In welchen sozialen Medien sind Sie
+- Kann ich mehr über Two Impulse in den sozialen Netzwerken lesen?
+- Geben Sie mir Ihre Social Media URL
+- Kann man Sie in den sozialen Medien finden?
+- Geben Sie mir Two Impulse Social Media Links
+- Geben Sie mir Two Impulse Social Media URL
+- Geben Sie mir Ihre Social Media Links
+- Kann ich Sie in den sozialen Medien finden?
+- Sagen Sie mir, wo ich Two Impulse in den sozialen Medien finden kann
+- Kann ich Two Impulse auf Social Media finden
+- Sind Sie in den sozialen Medien
+- Wo sind Sie in den sozialen Medien?
+	
+## intent:social_media_linkedin
+- Wo sind Sie auf Linkedin?
+- Kann ich Two Impulse auf Linkedin finden
+- Kann ich Sie auf Linkedin finden?
+- Auf welchem Linkedin kann ich Two Impulse finden
+- Kann ich euch auf Linkedin finden
+- Seid ihr auf Linkedin
+- Sagen Sie mir, ob Two Impulse auf Linkedin ist
+- Sagen Sie mir, ob Sie auf Linkedin sind
+- Habt ihr Linkedin
+- Two Impulse auf Linkedin
+- Habt ihr einen Linkedin Account
+- Ist Two Impulse auf Linkedin
+- Geben Sie mir Ihre Linkedin URL
+- Geben Sie mir Ihre Linkedin Links
+- Geben Sie mir Two Linkedin Impuls URL
+- Geben Sie mir Two Linkedin Impuls Links
+- Linkedin
+- Haben Sie Linkedin
+- Kann ich auf Linkedin mehr über Two Impulse lesen?
+- Sag mir wo man Sie auf Linkedin finden kann
+- Wie lautet euer Linkedin
+- Wie heißt eure Linkedin Page
+- Wie heißt eure Linkedin Seite
+- Wo sind Two Impulse auf Linkedin
+- Was ist mit Linkedin?
+- Sagen Sie mir, wo ich Sie auf Linkedin finden kann.
+- Sagen Sie mir, wo ich Two Impulse auf Linkedin finden kann
+- Kann ich auf Linkedin mehr über Sie erfahren?
+- Kann man Sie auf Linkedin finden?
+- Irgendetwas über Two Impulse auf Linkedin
+- Alles auf Linkedin
+- Sind Sie auf Linkedin
+	
+## intent:solutions_automotive
+- Auto-Assistentin
+- Auto-Konfigurator
+- Autokauf Assistent
+- Unterstützung beim Autokauf
+- Werkstatt Termin buchen
+- Probefahrt buchen
+- Anwendungsfälle im Automobilbereich
+- Vorteile der Automotive-Lösung
+- Automotive-Lösung
+- Chatbots für Dienstleistungen in der Automobilindustrie
+- Assistentin für Automobiltechnik
+- Wie kann ich die Automotive-Lösung verwenden?
+- Wie kann ich die Autolösung verwenden?
+- Wie kann ich die Fahrzeuglösung verwenden?
+- Dienstleistungen für die Automobilindustrie
+- Dienstleistungen für Auto
+- Dienstleistungen für Fahrzeuge
+- Lösung Automotive
+- Lösung für die Automobilindustrie
+- Über Fahrzeug Assistenten
+- Über Autolösungen
+- Über die Automobilindustrie
+- Was sind die Vorteile der Verwendung eines Assistenten in der Automobil Branche
+- Was sind die Vorteile der Verwendung eines Automobil Assistenten
+- Anwendungsfälle Automotive
+- Fahrzeug Assistent
+- Fahrzeug Dienstleistungen
+- Vorteile der Fahrzeug Assistenten
+- Vorteile der Auto Assistenten
+- Auto konfigurieren
+- Digitales Fahrzeug
+- Konfiguration eines Traumautos
+- Digitaler Assistent für den Automotive Betrieb
+- Bot in der Automobil Branche
+- Digitaler Assistent Automotive
+- Über Lösungen für die Automobilindustrie
+- Auto-Chatbot
+- Auto Chatbot
+- Automobil Chatbot
+	
+## intent:solutions_banking
+- Finanzdienstleistungen
+- Zahlungen vornehmen
+- Wie kann ich die Finanzlösung nutzen?
+- Wie kann ich die finanzielle Lösung nutzen
+- Wie kann ich die Bankenlösung nutzen
+- Lösung zur Bestellung einer neuen Bankkarte
+- Lösung für Geld Überweisung
+- Vorteile der finanziellen Lösung
+- Dienstleistungen für das Bankwesen
+- Bankenchatbot
+- Digitales Banking
+- Chatbot für Neue Karte bestellen
+- Was sind die Vorteile der Verwendung einer Finanzierungslösung
+- Chatbots im Bereich Finanzdienstleistungen
+- Finanzieller Assistent
+- Vorteile der Finanzierungslösung
+- Transfers durchführen
+- Bank Chatbot
+- Was sind die Vorteile der Nutzung einer Banklösung
+- Über Finanzierungslösungen
+- Über finanzielle Lösungen
+- Bilanzprüfung
+- Bankassistentin
+- Bankdienstleistungen
+- Vorteile der Bankenlösung
+- Gleichgewicht prüfen
+- Digitale Finanzen
+- Digitales Finanzwesen
+- Finanz Assistentin
+- Banking
+- Was sind die Vorteile einer finanziellen Lösung?
+- Dienstleistungen für Finanzen
+- Dienstleistungen für finanzielle
+- Über Anwendungsfälle
+- Banking Bot
+- Banking Chatbot
+- Bank Bot
+- Bot fürs Banking
+- Chatbot für e Banking
+- Chatbot für e-Banking
+	
+## intent:solutions_general
+- mit welchen Branchen arbeitet ROBO.AI
+- Welche Lösungen bieten Sie an
+- Informationen über Fallstudien
+- Informationen über Anwendungsfälle
+- Informationen über welche Branchen
+- Informationen über Ihre Lösungen
+- Lösungen
+- Informationen über Geschäftsprobleme
+- Welche Lösungen haben Sie?
+- Fallstudien
+- Anwendungsfälle
+- Welche Branchen
+- Für welche Branchen gibt es eure Bots
+- Info welche Branchen
+- Info Anwendungsfälle
+- Info Fallstudien
+- Über Fallstudien
+- Über geschäftliche Probleme
+- Erzählen Sie mir von Fallstudien
+- Welche Löungen haben Sie
+- Zeigen Sie mir Ihre Lösungen
+- Präsentieren Sie mir Ihre Lösungen
+- Sagen Sie mir, welche Lösungen Sie haben
+- für welches Unternehmen bieten Sie Lösungen an
+- Für welche Unternehmen haben Sie Lösungen?
+- für welches Unternehmen haben Sie Lösungen?
+- Für welche Branchen bieten Sie Lösungen an
+- Für welche Unternehmen bieten Sie Lösungen an?
+- Sagen Sie mir, welche Lösungen Sie anbieten
+- Chatbots für welche Branchen
+- Ich hätte gerne gewusst, für welche Branchen es eure Bots gibt
+- Info, welche Lösungen Sie haben
+	
+## intent:solutions_insurance
+- Dienstleistungen für Versicherungen
+- Was sind die Vorteile der Verwendung einer Versicherungslösung
+- Vorteile der Allowance-Lösung
+- Versicherungspolicen kaufen
+- Digitales Taschengeld
+- Digitale Versicherung
+- Versicherungs-Bot
+- Vergütung für Zulagen
+- Vorteile der Versicherungslösung
+- Versicherungsdienstleistungen
+- Versicherungs Assistentin
+- Versicherungsagent
+- Wie kann ich die Versicherungs Lösung nutzen?
+- Wie kann ich die Versicherungslösung nutzen?
+- Wie kann ich die Zuschusslösung verwenden?
+- Finden Sie die richtige Zulage
+- Versicherungs-Chatbot
+- Löung für Versicherungs Bereich
+- Löung für Versicherungsbereich
+- Löung für Versicherungs Sektor
+- Löung für Versicherungssektor
+- Löung für Versicherungen
+- Assistent für Versicherungs Sektor
+- Assistent für Versicherungen
+- Versicherungs-Assistent
+- Versicherungs Assistent
+- Versicherungs Bot
+- Versicherungs Chatbot
+- Versicherungs Chatbots
+- Bot für Versicherungen
+- Chatbot für Versicherungen
+	
+## intent:solutions_telco
+- Digitales Telefonsystem
+- Digitales Smartphone
+- Digitales Internet
+- Über Telco-Lösungen
+- Telco Assistentin
+- Telco Chatbot
+- Lösung Smartphones
+- Lösung für Smartphone
+- Smartphone Anwendungsfälle
+- Vorteile der Smartphone Lösung
+- Smartphone Lösung
+- Dienstleistungen für das Internet
+- Vorteile der Internet-Lösung
+- Internet Dienste Chatbot
+- Chatbots für den Telekommunikationssektor
+- Chatbots für den Telekommunikations Sektor
+- Bot Dienste für Smartphones
+- Smartphone Assistenten
+- Smartphone Dienste
+- Dienstleistungen für den Telekommunikations Bereich
+- Dienstleistungen für den Telekommunikationsbereich
+- Vorteile der Telco-Lösung
+- Anwendungsfälle Smartphone
+- Was sind die Vorteile der Nutzung einer Internetlösung?
+- Was sind die Vorteile der Verwendung einer Smartphone-Lösung
+- Was sind die Vorteile der Nutzung einer Telco-Lösung
+- Über Internet-Lösungen
+- Über Smartphone
+- Über Smartphone-Lösungen
+- Internet-Kaufassistent
+- Assistent für Internet Einkäufe
+- Internet-Assistent
+- Wie kann ich die Smartphone-Lösung nutzen?
+- Telekommunikations-Chatbot
+- Gibt es Vorteile für Telco-Chatbots
+- telekommunikation
+	
+## intent:telco_advantages
+- Was sind die Vorteile eines Telekommunikations Chatbots?
+- Was sind die Vorteile eines Telco Chatbots
+- Erzählen Sie mir die Vorteile eines Telekommunikations Bots
+- Erzählen Sie mir die Vorteile des Telekommunikations Chatbots
+- Erzählen Sie mir die Vorteile von Telekommunikations Bots
+- Erzählen Sie mir die Vorteile des Telco Chatbots
+- Erzählen Sie mir die Vorteile von Telco Bot
+- Nennen Sie mir die Vorteile des Telekommunikations Chatbots
+- Nennen Sie mir die Vorteile eines Telekommunikations Bots
+- Nennen Sie mir die Vorteile des Telekom Chatbots
+- Nennen Sie mir die Vorteile von Telekommunikations Bots
+- Nennen Sie mir die Vorteile des Telco Chatbots
+- Nennen Sie mir die Vorteile von Telco Bot
+- Erzählen Sie mir von den Vorteilen eines Telco Chatbots
+- Vorteile der Telekommunikationsroboter
+- Vorteile des Telekom Chatbots
+- Vorteile von Telekommunikations Bots
+- Telco Robo Vorteile
+- Vorteile von Telco Bots
+- Ich würde gerne die Vorteile des Telekommunikations Chatbots kennenlernen
+- Ich würde gerne die Vorteile von Telekommunikations Chatbots kennenlernen
+- Ich würde gerne die Vorteile des Telekom Chatbots kennenlernen
+- Ich würde gerne die Vorteile von Telco Chatbots kennenlernen
+- Ich würde gerne die Vorteile des Telco Chatbots kennenlernen
+- Ich möchte die Vorteile von Telekommunikations Chatbots kennenlernen
+- Ich möchte die Vorteile des Telekommunikations Chatbots kennenlernen
+- Ich möchte die Vorteile von Telco Chatbots kennenlernen
+- Ich möchte die Vorteile des Telco Chatbots kennenlernen
+- Vorteile von Telekommunikations Chatbots
+- Vorteile von Telco Chatbots
+- Vorteile des Telekommunikations Chatbots
+- Vorteile des Telco Chatbots
+- Gibt es irgendwelche Vorteile von Telekommunikations Chatbots?
+- Gibt es irgendwelche Vorteile bei Telekommunikations Chatbots?
+- Gibt es irgendwelche Vorteile auf Telco Chatbots
+- Gibt es Vorteile für Telekommunikationsrobos
+- Gibt es Vorteile für Telekommunikationsrobos?
+- Gibt es Vorteile für Telekom Robos
+- Gibt es Vorteile für Telekommunikations Chatbots
+- Gibt es Vorteile für Telekommunikations Bots
+- Gibt es Vorteile für Telco Robos
+- Gibt es Vorteile für Telco Bots
+- Vorteile des Telekommunikationsroboters
+- Vorteile von Bots im Telekommunikationsbereich
+- Telco Bot Vorteile
+- Telco Chatbot Vorteile
+- Was ist so vorteilhaft am Telco Bot
+- Was sind die Vorteile von einem Telco Bot
+- Was ist der Vorteil am Telco Bot
+- Wozu dient der Telco Bot
+- Was macht den Telco Bot so vorteilhaft
+- Warum ist der Telco Bot vorteilhaft
+- Welche Vorteile hat der Telco Bot
+- Welchen Vorteil bietet ein Bot im Telekommunikationsbereich
+- Welchen Vorteil bietet ein Telco Bot
+	
+## intent:telco_uses
+- Informationen über die Nutzung der Telekommunikation
+- Informationen über Anwendungsfälle der Telekommunikation
+- Informationen über die Nutzung von Telekommunikationsmitteln
+- Informationen über Anwendungsfälle im Bereich Telekommunikation
+- Informationen über die Nutzung von Telefongesellschaften
+- Informationen über Telco Anwendungsfälle
+- Was können Telco Chatbots bieten
+- Was können Telco Robos tun?
+- Was können Telco Robos bieten
+- Chatbots im Telekommunikationsbereich – Anwendungen
+- Was können Telekom Robos tun
+- Was können Telekommunikations Bots tun?
+- Was können Telekommunikations Bots bieten?
+- Was können Telekommunikations Bots bieten
+- Was können Telekommunikations Chatbots tun?
+- Was können Telekommunikations Chatbots bieten
+- Was können Telekommunikationsrobos bewirken
+- Was können Telekommunikationsrobos bieten
+- Was können Telco Bots bieten?
+- Was können Telco Bots tun?
+- Was kann ein Telekommunikationsroboter bieten
+- Was kann ein Telekommunikationsroboter bieten?
+- Was kann ein Telekommunikations Chatbot bieten?
+- Was kann ein Telekommunikations Bot bieten
+- Was kann ein Telekommunikations Bot bieten?
+- Was kann ein Telekommunikations Bot tun?
+- Was kann ein Telco Robo bieten
+- Was kann ein Telekommunikationsroboter tun?
+- Was kann ein Telekommunikations Chatbot bieten
+- Was kann ein Telekommunikations Chatbot tun?
+- Was kann ein Telco Bot bieten
+- Was kann ein Telco Bot tun?
+- Telekommunikationsanwendungen
+- Verwendung in der Telekommunikation
+- Telekommunikations Chatbot Nutzung
+- Telekommunikations Bot Einsätze
+- Anwendungsfälle für Telekommunikations Bots
+- Telekom Nutzung
+- Anwendungsfälle der Telekommunikation
+- Telekom Chatbot verwendet
+- Anwendungsfälle für Telekommunikations Chatbot
+- Telekom Bots verwenden
+- Anwendungsfälle von Telekommunikations Bots
+- Telco verwendet
+- Telco Anwendungsfälle
+- Telco Chatbot verwendet
+- Telco Chatbot Anwendungsfälle
+- Telco Bots verwenden
+- Anwendungsfälle für Telco Bots
+- Welche Anwedungsfälle gibt es für den Bot im Telekommunikations Sektor
+- Haben Sie Beispiele für die Anwendung eines solchen Chatbots im Telekommunikationsbereich
+- Welche konkreten Anwendungsfälle des Telco Bots können Sie mir nennen
+- Wie wird der Telco Bot eingesetzt
+- Kannst du mir ein Bespiel für den Einsatz des Telco Bots nennen
+	
+## intent:vocative_thank_you
+- Vergelt‘s Gott.
+- Danke vielmals
+- Danke sehr!
+- Danke schön.
+- Danke schön!
+- Danke nichts
+- Danke für diese Infos.
+- Dankeschön das wars
+- Dankeschön!
+- Danke für deinen Guide
+- Danke  Grüße
+- Danke dir!
+- Heißen Dank!
+- Vielen Dank!
+- Verbindlichsten Dank.
+- Merci
+- Danke, Computer
+- Danke, Watson
+- danke keine
+- Danke. Ende.
+- Das reicht, danke.
+- Thanks!
+- Thank you!
+- Grazie
+- Ich möchte dir danken.
+- Ich bin dankbar
+- Besten Dank!
+- Dank dir!
+- Besten Dank
+- Super danke!
+- Ich danke Ihnen.
+- Ich danke Ihnen
+- Herzlichsten Dank.
+- Herzlichen Dank.
+- Herzlichen Dank!
+- Herzlichen Dank
+- Danke Ihnen!
+- Danke da schaue ich gleich mal rein
+- Danke das war es vorerst
+- Danke das wars im Gunde
+- Danke dir für die Hilfe
+- DANKE SCHOEN
+- Das war alles
+- Vielen lieben Dank.
+- Vielen lieben Dank!
+- So ich danke recht herzlich für die Auskunft.
+- Sehr hilfreich
+- viele danke nochmal
+- vielen Dank lieber Chatbot
+- Ja Dankeschön
+- Firma dankt!
+- Du hast mit geholfen, danke
+- Du hast mir gut geholfen
+- danke Mfg Tim
+- Danke - das wars.
+- Verbindlichsten Dank!
+- Danke
+- Danke Bot
+- Wir haben zu danken!
+- Wir haben zu danken.
+- cool danke
+- Gott vergelt's!
+- Ok vielen Dank
+- Oh, danke
+- Na besten Dank!
+- Nein danke ich suche mir selbst alles raus. Vielen Dank.
+- Man dankt.
+- Man dankt!
+- Lieben Dank.
+- Lieben Dank!
+- Keine mehr, danke
+- Vielen Dank nochmals
+- Vielen Dank
+- viele danke
+- nein danke.
+- danke, ich habe alles gefunden!
+- Vergelt's Gott!
+- Das wars danke
+- Ich danke dir.
+- Merci!
+- Gott vergelt‘s.
+- Ich danke dir. bis zum nächstes mal.
+- Ich danke.
+- Ich habe zu danken!
+- Ich habe zu danken.
+- danke das wärs
+- danke für den Link
+- Danke!
+- Danke vielmals!
+	
+## intent:user_random_input
+- rpbcczo
+- swkqeag
+- ahgoyai
+- fncbhot
+- reyrtetsrawtre
+- wtrete
+- retrewyth
+- jhhret
+- htrejuytjhn
+- etryhthgf
+- 4r5tyujhgfd
+- erty
+- dfghj
+- wertyui
+- qwerty
+- asdfgh
+- zxcvb
+- ertjuyrj
+- ytuytru
+- kuy5i76
+- hgdhgfd
+- kjh
+- drth
+- nbgdg
+- jhtryt
+- sfty
+- lkyu
+- mnbf
+- strytd
+- jhkulou
+- jtyry
+- jyuiuyr
+- jhtur
+- kjuytiuyr
+- rtuyty
+- jhtyryt
+- qert
+- hytruyt
+- hhyte
+- hytrutrw
+- asdfd
+- gfdhjk
+- kiuoi
+- ertyt
+- aert
+- gfhj
+- aertyd
+- fdsgf
+- buettbx
+- gnmsdtc
+- dphblpq
+- qgkdber
+- gmgtjjh
+- jashdkdjshkjash
+- erdfeffdssfd
+- sdasdasda
+- jashdakjshasdkjhda
+- kjacbsdhjgfjhdsgf
+- uqweyyqew
+- asdsddsafdaaaf
+- iuqwtqurtuytqe
+- adsdsdasdasd
+- sdfdffss
+- qwertyuiop
+- poiuytrewq
+- asdfghjklç
+- çlkjhgfdsa
+- zxcvbnm
+- mnbvcxz
+- fsdfkjsdh
+- kldfjds
+	
+## intent:user_scared
+- Ich möchte keine Angst haben.
+- Ich habe Angst.
+- Ich fühle mich ängstlich.
+- Ich hatte Angst.
+- Ich bin ängstlich.
+- Ich bin verängstigt.
+- Ich habe solche Angst.
+- Jemand hat mich erschreckt.
+- Das ist unheimlich.
+- Was für ein Schrecken!
+- Du machst mir Angst.
+- Du hast mich erschreckt.
+- Du hast mir Angst gemacht.
+	
+## intent:whatsapp_business_api_advantages
+- Warum soll man Whatsapp Business API verwenden?
+- Warum soll man Whatsapp Business bei einem Provider verwenden?
+- Warum soll man Whatsapp Business verwenden?
+- Warum sollte ich einen offiziellen Anbieter für die Whatsapp Business API verwenden?
+- Warum sollte ich einen offiziellen Anbieter für Whatsapp Business mit einem Anbieter verwenden?
+- Was ist der Vorteil, einen offiziellen Anbieter für Whatsapp Business zu nutzen?
+- Welche Vorteile bietet die Verwendung der Whatsapp Business API
+- Welchen Vorteil hat die Nutzung eines offiziellen Anbieters für Whatsapp-Geschäfte mit einem Anbieter
+- Was ist der Vorteil der Verwendung eines offiziellen Anbieters für die Whatsapp Business API
+- Was ist der Vorteil der Nutzung eines offiziellen Anbieters für Whatsapp-Geschäfte mit einem Anbieter
+- Was ist der Vorteil der Verwendung eines offiziellen Anbieters für Whatsapp Business API
+- Was kann Whatsapp Business für mich tun?
+- Warum sollte man für Whatsapp-Geschäfte mit einem Provider einen offiziellen Anbieter verwenden?
+- Warum Whatsapp Business verwenden?
+- Warum Whatsapp Business
+- Wie profitiert mein Unternehmen von Whatsapp Business API
+- Wie profitiert mein Unternehmen von Whatsapp Business
+- Wie profitiert mein Unternehmen von Whatsapp Business mit einem Anbieter
+- Wie profitiert mein Unternehmen von der Whatsapp Business API?
+- API-Vorteile
+- Vorteile Whatsapp Business mit einem Anbieter
+- Vorteile Whatsapp Business API
+- Vorteile Whatsapp Business
+- Vorteil Whatsapp Geschäfte mit einem Anbieter
+- Vorteil Whatsapp Business API
+- Vorteil Whatsapp Business
+- Warum sollte ich einen offiziellen Anbieter für Whatsapp Business API verwenden?
+- Warum sollte ich einen offiziellen Anbieter für Whatsapp-Geschäfte mit einem Anbieter verwenden?
+- Warum sollte ich einen offiziellen Anbieter für Whatsapp Business verwenden?
+- Warum sollte ich die Whatsapp Business API verwenden?
+- Warum sollte ich Whatsapp Business mit einem Anbieter verwenden?
+- Warum sollte ich Whatsapp Business verwenden?
+- Warum sollte man einen offiziellen Anbieter für Whatsapp-Geschäfte mit einem Anbieter verwenden?
+- Warum sollte man einen offiziellen Anbieter für Whatsapp Business nutzen?
+- Warum sollte man Whatsapp Business API verwenden?
+- Warum sollte man Whatsapp Business mit einem Anbieter verwenden?
+- Warum sollte man Whatsapp Business verwenden?
+- Welches sind die Vorteile der Nutzung eines offiziellen Anbieters für Whatsapp-Geschäfte mit einem Anbieter
+- Welches sind die Vorteile der Verwendung eines offiziellen Anbieters für Whatsapp Business API?
+- Welches sind die Vorteile der Nutzung eines offiziellen Anbieters für Whatsapp Business?
+- Vorteile für das Geschäft mit einem Anbieter
+- Whatsapp Business mit einem Anbietervorteil
+- Vorteile der Business API von Whatsapp
+- Vorteile der Business-API
+- Wassapp Geschäftsvorteile
+- Whatsapp Geschäftsvorteil
+- Was ist der Vorteil der Verwendung von Whatsapp Business
+- Was ist der Vorteil der Nutzung von Whatsapp Business bei einem Anbieter
+- Was ist der Vorteil der Verwendung der Whatsapp Business API
+- Was ist der Vorteil der Nutzung eines offiziellen Anbieters für Whatsapp Business
+- Infos zu den Vorteilen bei der Nutzung eines Anbieters
+- Welches sind die Vorteile der Verwendung von Whatsapp Business API?
+- Welches sind die Vorteile der Nutzung von Whatsapp Business mit einem Anbieter?
+- Welches sind die Vorteile der Verwendung von Whatsapp Business
+- Warum soll ich die Whatsapp Business API verwenden?
+- Warum soll ich Whatsapp Business bei einem Anbieter verwenden?
+- Warum soll ich Whatsapp Business verwenden?
+- Warum sollte man einen offiziellen Anbieter für Whatsapp Business API verwenden?
+- Warum soll man einen offiziellen Anbieter für Whatsapp-Geschäfte mit einem Anbieter verwenden?
+- Warum soll man einen offiziellen Anbieter für Whatsapp Business verwenden?
+- Welche Vorteile bietet die Verwendung der Whatsapp Business API?
+- Welche Vorteile hat die Nutzung eines offiziellen Anbieters für Whatsapp-Geschäfte mit einem Anbieter?
+- Was sind die Vorteile der Nutzung von Whatsapp Business bei einem Anbieter
+- Was sind die Vorteile der Verwendung der Whatsapp Business API
+- Welche Vorteile hat die Verwendung eines offiziellen Anbieters für die Whatsapp Business API?
+- Was sind die Vorteile der Verwendung von Whatsapp Business
+- Was sind die Vorteile der Nutzung von Whatsapp Business mit einem Anbieter
+- Was sind die Vorteile der Verwendung von Whatsapp Business API
+- Was sind die Vorteile der Nutzung eines offiziellen Anbieters für Whatsapp Business
+- Was sind die Vorteile der Nutzung eines offiziellen Anbieters für Whatsapp-Geschäfte mit einem Anbieter
+- Was sind die Vorteile der Verwendung eines offiziellen Anbieters für Whatsapp Business API
+- Welche Vorteile hat die Nutzung von Whatsapp Business mit einem Anbieter?
+- Welche Vorteile hat die Verwendung der Whatsapp Business API?
+- Welche Vorteile hat es, einen offiziellen Anbieter für Whatsapp-Geschäfte mit einem Anbieter zu nutzen?
+- Welche Vorteile hat die Verwendung eines offiziellen Anbieters für Whatsapp Business API?
+- Sagen Sie mir, warum Whatsapp Business
+- Sagen Sie mir, warum Sie Whatsapp Business verwenden
+- Sagen Sie mir, warum sollte ich Whatsapp Business verwenden?
+- Sagen Sie mir, was kann Whatsapp Business für mich tun?
+- Nennen Sie mir die Vorteile der Nutzung eines offiziellen Whatsapp-Anbieters
+- Informationen über Vorteile bei der Nutzung eines Anbieters
+- Informationen über Vorteile bei der Nutzung eines offiziellen Anbieters
+- Wer kümmert sich um den Genehmigungsprozess für das Whatsapp Business-Konto?
+	
+## intent:whatsapp_business_api_approval
+- Über den Genehmigungsprozess von Whatsapp for Businesses
+- Über die Genehmigung von Whatsapp Konten
+- Über den Whatsapp Genehmigungsprozess
+- Über die Genehmigung von Whatsapp Business Konten
+- Über den Whatsapp Geschäftsgenehmigungsprozess
+- Über Whatsapp für die Genehmigung von Geschäftskonten
+- Konto Genehmigung
+- WhatsApp Business API-Freigabe
+- WhatsApp Business API Freigabe
+- Konto Genehmigung wie
+- Konto Genehmigung Whatsapp
+- Wie funktioniert der Genehmigungsprozess?
+- Wie funktioniert der Whatsapp Genehmigungsprozess?
+- Wie funktioniert der Genehmigungsprozess von Whatsapp Business
+- Wie funktioniert der Genehmigungsprozess von Whatsapp for Businesses
+- Wie ist der Genehmigungsprozess
+- Wie wird das Whatsapp Konto genehmigt?
+- Wie ist der Whatsapp Genehmigungsprozess
+- Wie wird das Whatsapp Business Konto genehmigt?
+- Wie ist der Whatsapp Business Konto Genehmigungsprozess
+- Wie ist der Genehmigungsprozess von Whatsapp Business
+- Wie ist das Whatsapp for Businesses Konto genehmigt?
+- Wie ist der Genehmigungsprozess von Whatsapp for Businesses
+- Wie der Genehmigungsprozess funktioniert
+- Wie der Whatsapp Genehmigungsprozess funktioniert
+- Wie der Genehmigungsprozess von Whatsapp Business funktioniert
+- Wie der Genehmigungsprozess von Whatsapp for Businesses funktioniert
+- Wie Whatsapp Konto genehmigt wird
+- Wie Whatsapp Genehmigungsprozess
+- Wie Whatsapp Business Konto Genehmigung
+- Wie Whatsapp Geschäftsgenehmigungsprozess
+- Wie Whatsapp für die Genehmigung von Geschäftskonten
+- Wer kümmert sich um die Genehmigung des Whatsapp for Businesses Konto
+- Über das Whatsapp for Businesses Kontobewilligung
+- Wer wird sich um die Genehmigung des Whatsapp Kontos kümmern
+- Wer wird sich um den Genehmigungsprozess kümmern
+- Wer kümmert sich um den Genehmigungsprozess von Whatsapp for Businesses
+- Wer kümmert sich um die Genehmigung des Kontos Whatsapp for Businesses
+- Wer kümmert sich um den Genehmigungsprozess von Whatsapp Business
+- Wer kümmert sich um den Genehmigungsprozess für das Whatsapp Business Konto
+- Wer kümmert sich um die Genehmigung des Whatsapp Business Kontos
+- Sagen Sie mir, wie der Genehmigungsprozess abläuft
+- Informieren Sie mich über den Genehmigungsprozess von Whatsapp for Businesses
+- Informieren Sie mich über das Whatsapp for Businesses Konto
+- Informieren Sie mich über den Genehmigungsprozess von Whatsapp Business
+- Informieren Sie mich über die Genehmigung des Whatsapp Business Kontos
+- Erzählen Sie mir über das Whatsapp Genehmigungsverfahren
+- Informieren Sie mich über die Genehmigung des Whatsapp Kontos
+- Erzählen Sie mir über das Genehmigungsverfahren
+- Informieren Sie mich über die Kontogenehmigung
+- Erfahren Sie mehr über die Genehmigung des Whatsapp Business Kontos
+- Weitere Informationen über die Genehmigung des Whatsapp Kontos
+- Erzählen Sie mir mehr über die Kontofreigabe
+- Zum Whatsapp for Businesses Genehmigungsverfahren
+- Über das Whatsapp for Businesses Kontogenehmigung
+- Zum Genehmigungsprozess von Whatsapp Business
+- Über die Genehmigung des Whatsapp Business Kontos
+- Zum Whatsapp Genehmigungsverfahren
+- Über die Genehmigung des Whatsapp Kontos
+- Zum Genehmigungsverfahren
+- Über die Genehmigung des Kontos
+- Genehmigung von Konten
+- Der Whatsapp for Businesses Genehmigungsprozess
+- Das Whatsapp für die Genehmigung von Geschäftskonten
+- Der Whatsapp Geschäftsgenehmigungsprozess
+- Genehmigungsprozess für Geschäftskonten
+- Geschäftskonto Whatsapp Konto Genehmigung
+- Geschäftskonto Whatsapp Genehmigungsprozess
+- Geschäftskonto Whatsapp Genehmigung des Geschäftskontos
+- Geschäftskonto Whatsapp Geschäftsgenehmigungsprozess
+- Geschäftskonto Whatsapp für die Genehmigung von Geschäftskonten
+- Geschäftskonto Whatsapp für den Genehmigungsprozess von Unternehmen
+- Muss ich Facebook direkt um die Genehmigung meines Geschäftskontos bitten?
+- Muss ich Facebook oder Whatsapp Business direkt um die Genehmigung meines Geschäftskontos bitten?
+- Muss ich Facebook oder Whatsapp direkt um die Genehmigung meines Geschäftskontos bitten?
+- Muss ich Facebook oder Whatsapp for Businesses direkt um die Genehmigung meines Geschäftskontos bitten?
+- Muss ich die Genehmigung meines Geschäftskontos beantragen?
+- Muss ich Whatsapp Business direkt um die Genehmigung meines Geschäftskontos bitten?
+- Muss ich Whatsapp direkt für die Genehmigung meines Geschäftskontos anfordern?
+- Wie der Genehmigungsprozess
+- Erzählen Sie mir mehr über den Genehmigungsprozess
+- Erzählen Sie mir mehr über das Whatsapp Genehmigungsverfahren
+- Erzählen Sie mir mehr über die Genehmigung des Whatsapp Business Kontos
+- Erzählen Sie mir mehr über den Genehmigungsprozess von Whatsapp Business
+- Erzählen Sie mir mehr über das Whatsapp for Businesses Konto
+- Erzählen Sie mir mehr über den Genehmigungsprozess von Whatsapp for Businesses
+- Erzählen Sie mir etwas über die Kontogenehmigung
+- Erzählen Sie mir etwas über das Genehmigungsverfahren
+- Erzählen Sie mir etwas über die Genehmigung des Whatsapp Kontos
+- Erzählen Sie mir etwas über das Whatsapp Genehmigungsverfahren
+- Erzählen Sie mir etwas über die Genehmigung des Whatsapp Business Kontos
+- Erzählen Sie mir etwas über den Genehmigungsprozess von Whatsapp Business
+- Erzählen Sie mir etwas über das Whatsapp for Businesses Konto
+- Erzählen Sie mir etwas über das Genehmigungsverfahren Whatsapp for Businesses
+- Die Kontengenehmigung
+- Der Genehmigungsprozess
+- Die Genehmigung des Whatsapp Kontos
+- Der Whatsapp Genehmigungsprozess
+- Die Genehmigung des Whatsapp Business Kontos
+- Der Whatsapp Business Konto Genehmigungsprozess
+- Erzählen Sie mir mehr über die Genehmigung des Whatsapp Kontos
+- Erzählen Sie mir mehr über das Genehmigungsverfahren
+- Erzählen Sie mir mehr über die Kontogenehmigung
+- Sagen Sie mir, wie der Whatsapp for Businesses Genehmigungsprozess aussieht
+- Sagen Sie mir, wie das Whatsapp for Businesses Konto genehmigt wird
+- Sagen Sie mir, wie der Genehmigungsprozess von Whatsapp Business abläuft
+- Sagen Sie mir, wie ist die Genehmigung des Whatsapp Business Kontos
+- Sagen Sie mir, wie ist der Whatsapp Genehmigungsprozess
+- Sagen Sie mir, wie ist die Genehmigung des Whatsapp Kontos
+- Muss ich Whatsapp for Businesses direkt für die Genehmigung meines Geschäftskontos anfordern?
+- Wer kümmert sich um den Whatsapp Genehmigungsprozess
+- Wer kümmert sich um die Genehmigung des Whatsapp Kontos
+- Wer kümmert sich um den Genehmigungsprozess
+- Wer kümmert sich um die Kontofreigabe
+- Was für den Genehmigungsprozess der Unternehmen wie
+- Whatsapp für den Genehmigungsprozess von Unternehmen
+- Was für die Genehmigung von Unternehmenskonten wie
+- Whatsapp für die Genehmigung von Geschäftskonten
+- Whatsapp Geschäftsgenehmigungsprozess wer
+- Wassapp Geschäftsgenehmigungsprozess wie
+- Whatsapp Geschäftsgenehmigungsprozess
+- Whatsapp Genehmigung des Geschäftskontos wer
+- Whatsapp Genehmigung von Geschäftskonten wie
+- Kontofreigabe Whatsapp Business
+- Kontogenehmigung Whatsapp für Unternehmen
+- Genehmigungsverfahren
+- Genehmigungsprozess wie
+- Genehmigungsverfahren Whatsapp
+- Genehmigungsverfahren Whatsapp Business
+- Genehmigungsverfahren Whatsapp für Unternehmen
+- Genehmigung von Geschäftskonten
+- Wie Whatsapp für den Genehmigungsprozess von Unternehmen
+- Ich möchte mehr über die Kontogenehmigung erfahren
+- Ich möchte mehr über das Genehmigungsverfahren erfahren.
+- Ich möchte mehr über die Genehmigung des Whatsapp Business Kontos erfahren
+- Ich möchte mehr über den Genehmigungsprozess für Whatsapp Business Konten erfahren.
+- Ich möchte mehr über das Whatsapp for Businesses Konto erfahren
+- Ich möchte mehr über den Genehmigungsprozess von Whatsapp for Businesses erfahren
+- Ich möchte mehr über die Kontogenehmigung wissen.
+- Ich möchte mehr über den Genehmigungsprozess erfahren.
+- Ich möchte mehr über die Genehmigung des Whatsapp Kontos erfahren
+- Ich möchte mehr über den Whatsapp Genehmigungsprozess erfahren
+- Ich möchte mehr über die Genehmigung des Whatsapp Business Kontos erfahren.
+- Ich möchte mehr über den Genehmigungsprozess von Whatsapp Business erfahren
+- Über den Genehmigungsprozess
+	
+## intent:whatsapp_business_api_consent
+- WhatsApp Business API-Zustimmung
+- WhatsApp Business Zustimmung
+- WhatsApp Business API Zustimmung
+- Sollten Kunden ihre Zustimmung geben, bevor sie Nachrichten von WhatsApp von meinem Unternehmen erhalten
+- Sollten Kunden ihre Zustimmung geben, bevor sie WhatsApp Nachrichten von meinem Unternehmen erhalten
+- Sollten Kunden ihre Zustimmung geben, bevor sie Nachrichten von WhatsApp von meinem Unternehmen erhalten können
+- Sollten Kunden ihre Zustimmung geben, bevor sie WhatsApp Nachrichten von meinem Unternehmen erhalten können
+- Gibt es eine Zustimmungsmitteilung für Kunden, bevor sie Nachrichten von WhatsApp von meinem Unternehmen erhalten?
+- Gibt es eine Einverständniserklärung für Kunden, bevor ich Nachrichten von meinem Unternehmen von WhatsApp erhalte?
+- Gibt es eine Zustimmungsnachricht für Kunden, bevor sie Nachrichten von WhatsApp von meinem Unternehmen erhalten?
+- Gibt es eine Zustimmungsnachricht für Kunden, bevor ich WhatsApp Nachrichten von meinem Unternehmen erhalte?
+- Gibt es eine Einverständniserklärung für Kunden, bevor ich WhatsApp Nachrichten von meinem Unternehmen erhalte?
+- Müssen sich Kunden für den Empfang von WhatsApp Nachrichten meines Unternehmens entscheiden?
+- Müssen Kunden sich für den Empfang von WhatsApp Nachrichten aus meinem Unternehmen entscheiden?
+- Müssen sich Kunden für den Empfang von Nachrichten von WhatsApp aus meinem Unternehmen entscheiden?
+- Müssen Kunden ihre Zustimmung geben, um WhatsApp Nachrichten von meinem Unternehmen zu erhalten?
+- Müssen Kunden ihre Zustimmung geben, um Nachrichten von WhatsApp von meinem Unternehmen zu erhalten?
+- Erhalten Kunden WhatsApp Nachrichten direkt von meinem Unternehmen oder liegt eine Zustimmungsmitteilung vor?
+- Erhalten Kunden WhatsApp Nachrichten direkt von meinem Unternehmen oder liegt eine Zustimmungsnachricht vor?
+- Erhalten Kunden WhatsApp Nachrichten direkt von meinem Unternehmen oder gibt es eine Opt in Nachricht
+- Erhalten Kunden WhatsApp Nachrichten direkt von meinem Unternehmen oder gibt es eine Zustimmungsmitteilung?
+- Erhalten Kunden WhatsApp Nachrichten direkt von meinem Unternehmen oder gibt es eine Zustimmungsnachricht?
+- Erhalten Kunden von meinem Unternehmen direkt Nachrichten von WhatsApp oder gibt es eine Opt in Benachrichtigung
+- Erhalten Kunden von meinem Unternehmen direkt Nachrichten von WhatsApp oder gibt es eine Zustimmungsmitteilung
+- Gibt es eine Opt in Benachrichtigung für Kunden, bevor sie WhatsApp Nachrichten von meinem Unternehmen erhalten?
+- WhatsApp für Unternehmen wählen
+- Opt in WhatsApp Geschäft
+- Opt in WhatsApp für Unternehmen
+- Optin WhatsApp Unternehmen
+- Optin WhatsApp für Unternehmen
+- Gibt es eine Opt in Nachricht für Kunden, bevor sie WhatsApp Nachrichten von meinem Unternehmen erhalten?
+- Gibt es eine Opt in Nachricht für Kunden, bevor sie Nachrichten von WhatsApp von meinem Unternehmen erhalten?
+- Gibt es eine Einverständniserklärung für Kunden, bevor sie Nachrichten von WhatsApp von meinem Unternehmen erhalten?
+- Gibt es eine Einverständniserklärung für Kunden, bevor sie WhatsApp Nachrichten von meinem Unternehmen erhalten?
+- Sollten sich Kunden anmelden, bevor sie WhatsApp Nachrichten von meinem Unternehmen erhalten können
+- Sollten Kunden sich dafür entscheiden, Nachrichten von meinem Unternehmen von WhatsApp zu erhalten
+- Sollten sich Kunden dafür entscheiden, Nachrichten von WhatsApp von meinem Unternehmen zu erhalten
+- Sollten Kunden sich für den Empfang von WhatsApp Nachrichten von meinem Unternehmen entscheiden
+- WhatsApp geschäftliche Zustimmung
+- WhatsApp Unternehmen entscheiden sich für
+- WhatsApp Business Opt in
+- WhatsApp Business Optin
+- Sollten Kunden ihre Zustimmung zum Empfang von Nachrichten von WhatsApp aus meinem Unternehmen geben
+- Sollten sich Kunden anmelden, bevor sie Nachrichten von WhatsApp von meinem Unternehmen erhalten können
+- Sollten sich Kunden einloggen, bevor sie Nachrichten von WhatsApp von meinem Unternehmen erhalten können
+- Sollten sich Kunden vor dem Erhalt von WhatsApp Nachrichten von meinem Unternehmen anmelden
+- Sollten sich Kunden vor dem Erhalt von Nachrichten von WhatsApp aus meinem Unternehmen anmelden
+- WhatsApp für die Zustimmung der Geschäftsanwender
+- WhatsApp für Geschäftskunden opt in
+- WhatsApp für Geschäftsanwender Opt in
+- Erhalten Kunden von meinem Unternehmen direkt Nachrichten von WhatsApp, oder gibt es eine Zustimmungsnachricht?
+- Erhalten Kunden von meinem Unternehmen direkt Nachrichten von WhatsApp oder gibt es eine Opt in Nachricht?
+- Werden Kunden direkt von meinem Unternehmen Nachrichten von WhatsApp erhalten, oder gibt es eine Zustimmungsnachricht?
+- Werden Kunden direkt von meinem Unternehmen Nachrichten von WhatsApp erhalten, oder gibt es eine Zustimmungsmitteilung?
+- Werden Kunden direkt von meinem Unternehmen Nachrichten von WhatsApp erhalten, oder gibt es eine Opt in Nachricht?
+- Werden Kunden direkt von meinem Unternehmen Nachrichten von WhatsApp erhalten, oder gibt es eine Opt in Benachrichtigung?
+- Werden Kunden direkt WhatsApp Nachrichten von meinem Unternehmen erhalten oder gibt es eine Zustimmungsnachricht?
+- Werden Kunden direkt WhatsApp Nachrichten von meinem Unternehmen erhalten oder gibt es eine Zustimmungsmitteilung?
+- Erhalten Kunden WhatsApp Nachrichten direkt von meinem Unternehmen oder gibt es eine Opt in Benachrichtigung?
+- Erhalten Kunden WhatsApp Nachrichten direkt von meinem Unternehmen, oder gibt es eine Zustimmungsnachricht?
+- Erhalten Kunden WhatsApp Nachrichten direkt von meinem Unternehmen, oder gibt es eine Zustimmungsmitteilung?
+- Erhalten Kunden WhatsApp Nachrichten direkt von meinem Unternehmen, oder gibt es eine Opt in Nachricht?
+- Erhalten Kunden WhatsApp Nachrichten direkt von meinem Unternehmen, oder gibt es eine Opt in Benachrichtigung?
+- Erhalten Kunden von meinem Unternehmen direkt Nachrichten von WhatsApp, oder gibt es eine Zustimmungsnachricht
+- Erhalten Kunden von meinem Unternehmen direkt Nachrichten von WhatsApp oder gibt es eine Opt in Benachrichtigung?
+- Erhalten Kunden von meinem Unternehmen direkt Nachrichten von WhatsApp oder gibt es eine Opt in Nachricht
+- Erhalten Kunden von meinem Unternehmen direkt Nachrichten von WhatsApp oder gibt es eine Zustimmungsmeldung?
+- Erhalten Kunden von meinem Unternehmen direkt Nachrichten von WhatsApp oder liegt eine Zustimmungsnachricht vor?
+- WhatsApp für Unternehmen genehmigen
+- WhatsApp Geschäft zustimmen
+- WhatsApp für die Geschäftsoption
+- WhatsApp für Business Opt in
+- Gibt es eine Zustimmungsnachricht für Kunden, bevor ich Nachrichten von WhatsApp von meinem Unternehmen erhalte?
+- Müssen sich Kunden für den Empfang von WhatsApp Nachrichten meines Unternehmens anmelden?
+- Müssen sich Kunden für den Empfang von WhatsApp Nachrichten aus meinem Unternehmen entscheiden?
+	
+## intent:whatsapp_business_api_info
+- Ich würde gerne mehr über WhatsApp für Unternehmen erfahren.
+- Ich möchte etwas über WhatsApp for businesses wissen.
+- Ich würde gerne etwas über die WhatsApp for enterprises API erfahren.
+- Ich möchte etwas über WhatsApp for enterprises wissen.
+- Ich würde gerne etwas über die WhatsApp Business API erfahren.
+- Informationen über WhatsApp für Unternehmen API
+- Informationen WhatsApp Business API
+- Informationen WhatsApp Business
+- Könnten Sie mir etwas über die WhatsApp for Enterprises API erzählen
+- Könnten Sie mir etwas über die WhatsApp for business API erzählen
+- Könnten Sie mir etwas über WhatsApp Business
+- Über WhatsApp für Unternehmen
+- Über WhatsApp for Businesses
+- Über WhatsApp Business
+- Erzählen Sie mir etwas über die WhatsApp for business API.
+- Würden Sie mir etwas über die WhatsApp for enterprises API erzählen?
+- Würden Sie mir etwas über WhatsApp für Unternehmen erzählen?
+- Würden Sie mir etwas über WhatsApp for enterprises erzählen?
+- Würden Sie mir etwas über die WhatsApp for Enterprises API erzählen
+- Würden Sie mir etwas über WhatsApp for businesses erzählen?
+- Würden Sie mir etwas über die WhatsApp for business API erzählen
+- Würden Sie mir etwas über WhatsApp Business
+- Würden Sie mir etwas über die WhatsApp Business API erzählen
+- WhatsApp für Unternehmen Info
+- WhatsApp for enterprises API, was ist das?
+- WhatsApp für Unternehmen
+- WhatsApp für Unternehmen API
+- WhatsApp für Unternehmen API, was ist das?
+- WhatsApp Geschäft
+- WhatsApp Business API
+- WhatsApp Business API-Informationen
+- Was ist die WhatsApp für Unternehmen API
+- Was ist das WhatsApp Geschäft?
+- über Whatsapp
+- Erzählen Sie mir etwas über Whatsapp
+- erzählen Sie mir Dinge über whtasapp
+- Ich würde gerne etwas über WhatsApp Business erfahren.
+- Informationen zu WhatsApp für Unternehmen
+- Informationen zur WhatsApp für Unternehmen API
+- Informationen über die WhatsApp for enterprises API
+- Informationen über die WhatsApp Business API
+- Info WhatsApp für Unternehmen API
+- Info WhatsApp für Unternehmen
+- Info WhatsApp Business API
+- Info WhatsApp Geschäft
+- Informationen zur WhatsApp Business API
+- Informationen über die WhatsApp for Enterprises API
+- Informationen über die WhatsApp for business API
+- Erzählen Sie mir etwas über die WhatsApp for Enterprises API.
+- Informationen über WhatsApp für Unternehmen
+- Informationen über WhatsApp Business API
+- Informationen über WhatsApp Business
+- Ich würde gerne etwas über die WhatsApp for Enterprises API erfahren.
+- Ich würde gerne etwas über WhatsApp für Unternehmen erfahren.
+- Ich würde gerne etwas über die API von WhatsApp für Unternehmen erfahren.
+- Ich würde gerne mehr über die WhatsApp Business API erfahren.
+- Ich würde gerne etwas über WhatsApp for enterprises wissen.
+- Ich möchte mehr über WhatsApp for businesses wissen.
+- Ich möchte etwas über die WhatsApp for enterprises API wissen.
+- Ich möchte etwas über die WhatsApp Business API erfahren.
+- Ich möchte etwas über WhatsApp für Unternehmen erfahren.
+- Ich möchte etwas über die WhatsApp for Enterprises-API erfahren.
+- Ich möchte etwas über WhatsApp für Unternehmen wissen.
+- Ich möchte etwas über die WhatsApp for businesses API wissen.
+- Ich möchte etwas über WhatsApp Business wissen.
+- Ich möchte etwas über die WhatsApp Business API wissen.
+- Ich möchte mehr über WhatsApp für Unternehmen wissen.
+- Erzählen Sie mir etwas über die WhatsApp for businesses API.
+- Erzählen Sie mir von WhatsApp for businesses.
+- Erzählen Sie mir von der WhatsApp for enterprises API.
+- Erzählen Sie mir von WhatsApp for enterprises.
+- Erzählen Sie mir etwas über WhatsApp Business API.
+- Erzählen Sie mir etwas über WhatsApp Business.
+- Erzählen Sie mir etwas über WhatsApp for businesses.
+- Was ist die WhatsApp for businesses API?
+- Was ist WhatsApp für Unternehmen?
+- Infos zur WhatsApp für Unternehmen API
+- Was ist das, was für die Wirtschaft untragbar ist?
+- Was ist WhatsApp Business
+- Was ist die WhatsApp Business API?
+- Was wissen Sie über WhatsApp Business
+- Informationen WhatsApp für Unternehmen API
+- Erzählen Sie mir von der WhatsApp Business API.
+- Was ist mit WhatsApp für Unternehmen?
+- Was ist mit WhatsApp Business
+- Ich möchte mehr über die API von WhatsApp for businesses erfahren.
+- Ich möchte mehr über WhatsApp für Unternehmen erfahren.
+- Ich möchte mehr über die WhatsApp for businesses API erfahren.
+- Könnten Sie mir etwas über WhatsApp Business erzählen?
+- Könnten Sie mir etwas über die WhatsApp for business API sagen
+- Könnten Sie mir etwas über WhatsApp for businesses erzählen?
+- Könnten Sie mir etwas über die WhatsApp for Enterprises-API erzählen
+- Ich möchte mehr über WhatsApp Business erfahren.
+- Ich möchte mehr über die WhatsApp for Business API erfahren.
+- Ich möchte mehr über WhatsApp for Business erfahren.
+- Ich möchte mehr über die WhatsApp for Enterprises API erfahren.
+- Was ist die WhatsApp for enterprises API?
+- Ich möchte mehr über die WhatsApp Business API erfahren.
+- Könnten Sie mir etwas über die WhatsApp Business API erzählen
+- Könnten Sie mir etwas über WhatsApp for enterprises erzählen?
+- Informationen WhatsApp für Unternehmen
+- Erzählen Sie mir etwas über WhatsApp für Unternehmen.
+- Ich würde gerne mehr über WhatsApp Business erfahren.
+- Ich würde gerne mehr über die WhatsApp for businesses API erfahren.
+- Ich möchte mehr über WhatsApp for businesses erfahren.
+- Ich möchte mehr über die WhatsApp for enterprises API erfahren.
+	
+## intent:whatsapp_business_api_options
+- Welche offiziellen Lösungen kann man für WhatsApp Business verwenden?
+- Welche Optionen kann ich für mein Unternehmen nutzen?
+- Könnten Sie mir etwas über die verschiedenen Optionen für WhatsApp Business
+- Könnten Sie mir etwas über die verschiedenen offiziellen Lösungen für WhatsApp Business
+- Könnten Sie mir die verschiedenen Optionen für WhatsApp Business
+- Könnten Sie mir die verschiedenen Lösungen für WhatsApp Business
+- Könnten Sie mir die verschiedenen Optionen für WhatsApp Business erläutern?
+- Könnten Sie mir die verschiedenen offiziellen Lösungen für WhatsApp Business
+- Gibt es verschiedene Lösungen für WhatsApp Business
+- Könnten Sie mir etwas über die verschiedenen Lösungen für WhatsApp Business
+- Wie viele Optionen hat WhatsApp Business für Unternehmen
+- Wie viele Optionen bietet WhatsApp Business für Unternehmen
+- Wie viele Optionen WhatsApp Business für Unternehmen bietet
+- Wie viele Optionen WhatsApp für Unternehmen bietet
+- Wie viele Lösungen bietet WhatsApp Business für Unternehmen
+- Gibt es unterschiedliche Lösungen für WhatsApp Business
+- Gibt es verschiedene Optionen für WhatsApp Business
+- Wie viele Lösungen WhatsApp Business für Unternehmen bietet
+- Wie viele Lösungen WhatsApp für Unternehmen bietet
+- Ich möchte mehr über die verschiedenen offiziellen Lösungen für WhatsApp Business erfahren.
+- Ich möchte mehr über die verschiedenen Lösungen für WhatsApp Business wissen.
+- Welche Lösungen können für WhatsApp Business eingesetzt werden?
+- Ich möchte etwas über die verschiedenen Optionen für WhatsApp Business erfahren.
+- Ich möchte etwas über die verschiedenen offiziellen Lösungen für WhatsApp Business wissen.
+- Ich möchte etwas über die verschiedenen Optionen für WhatsApp Business wissen.
+- Ich möchte etwas über die verschiedenen Lösungen für WhatsApp Business wissen.
+- Ich möchte über die verschiedenen offiziellen Lösungen für WhatsApp Business informiert werden.
+- Ich möchte mehr über die verschiedenen Optionen für WhatsApp Business erfahren.
+- Ich möchte mehr über die verschiedenen offiziellen Lösungen für WhatsApp Business wissen.
+- Ich möchte mehr über die verschiedenen Möglichkeiten für WhatsApp Business wissen.
+- Ich möchte mehr über die verschiedenen Lösungen für WhatsApp Business erfahren.
+- Ich würde gerne etwas über die verschiedenen Optionen für WhatsApp Business erfahren.
+- Ich möchte etwas über die verschiedenen Lösungen für WhatsApp Business erfahren.
+- Erzählen Sie mir etwas über die verschiedenen offiziellen Lösungen für WhatsApp Business.
+- Erzählen Sie mir etwas über die verschiedenen Optionen für WhatsApp Business.
+- Erzählen Sie mir etwas über die verschiedenen Lösungen für WhatsApp Business.
+- Welche Optionen können für WhatsApp Business genutzt werden?
+- Welche Optionen kann man für WhatsApp Business verwenden?
+- Welches sind die offiziellen Lösungen, die für WhatsApp Business existieren?
+- Welche sind die offiziellen Lösungen, die für WhatsApp Business verwendet werden können?
+- Welche sind die offiziellen Lösungen, die man für WhatsApp Business verwenden kann?
+- Wie viele Lösungen bietet WhatsApp für Unternehmen
+- Würden Sie mir etwas über die verschiedenen Lösungen für WhatsApp Business erzählen?
+- Würden Sie mir etwas über die verschiedenen Optionen für WhatsApp Business erzählen?
+- Gibt es verschiedene offizielle Lösungen für WhatsApp Business
+- Würden Sie mir etwas über die verschiedenen offiziellen Lösungen für WhatsApp Business erzählen?
+- Würden Sie mir die verschiedenen Lösungen für WhatsApp Business
+- Würden Sie mir die verschiedenen Lösungen für WhatsApp Business erläutern?
+- Würden Sie mir die verschiedenen Optionen für WhatsApp Business
+- Würden Sie mir die verschiedenen offiziellen Lösungen für WhatsApp Business
+- Welche sind die offiziellen Lösungen, die ich für WhatsApp Business verwenden kann?
+- WhatsApp Lösungen
+- WhatsApp-Optionen
+- WhatsApp Business Lösungen
+- WhatsApp Geschäftsoptionen
+- Welche Lösungen bietet WhatsApp?
+- Welche Lösungen bietet WhatsApp Business?
+- Welche Lösungen gibt es für WhatsApp Business?
+- Welche Optionen bietet WhatsApp Business?
+- Welche Optionen kann ich für WhatsApp Business verwenden?
+- Welche Optionen gibt es für WhatsApp Business?
+- Welche offiziellen Lösungen kann ich für WhatsApp Business verwenden?
+- Welche offiziellen Lösungen können für WhatsApp Business verwendet werden?
+- Welche offiziellen Lösungen gibt es für WhatsApp Business
+- Welche Lösungen gibt es für WhatsApp Business
+- Welche Lösungen können für WhatsApp Business verwendet werden?
+- Was sind die von WhatsApp angebotenen Lösungen?
+- Welche Lösungen bietet WhatsApp Business
+- Welche Lösungen kann man für WhatsApp Business verwenden?
+- Welche Lösungen kann ich für WhatsApp verwenden?
+- Welche Lösungen kann ich für WhatsApp Business verwenden?
+- Welche Lösungen kann ich für mein Unternehmen nutzen?
+- Welche Optionen gibt es für WhatsApp Business
+- Welche Optionen können für WhatsApp Business verwendet werden?
+- Welche Optionen bietet WhatsApp?
+- Welche Optionen bietet WhatsApp Business
+- Welche Optionen kann man für WhatsApp Business nutzen?
+- Welche Optionen kann ich für WhatsApp verwenden?
+	
+## intent:whatsapp_business_api_start_using
+- Wie beginne ich mit WhatsApp for Business
+- Wie beginne ich mit der Nutzung der WhatsApp Business Lösung
+- Wie kann ich mit WhatsApp for Business beginnen?
+- Wie kann ich beginnen, WhatsApp geschäftlich zu nutzen?
+- Wie kann ich mit der Verwendung der WhatsApp for Business API beginnen?
+- WhatsApp Business nutzen
+- WhatsApp Business API nutzen
+- WhatsApp Business API nutzung
+- Wie kann ich mit der Nutzung von WhatsApp für Unternehmen beginnen?
+- Wie kann ich mit der WhatsApp Business Lösung beginnen?
+- Wie kann ich mit der WhatsApp for Business API beginnen?
+- Wie kann ich mit WhatsApp für Unternehmen beginnen?
+- Wie beginne ich mit der WhatsApp for Business API
+- Wie beginne ich mit der Verwendung der WhatsApp for Business API?
+- Wie beginne ich mit der Nutzung von WhatsApp für Unternehmen
+- Wie beginne ich mit der WhatsApp Business Lösung
+- Wie beginne ich mit der WhatsApp for Business API?
+- Wie beginne ich mit WhatsApp für Unternehmen
+- Was ist der erste Schritt, wenn ich WhatsApp für das Geschäft nutzen möchte?
+- Was ist der erste Schritt, wenn ich die WhatsApp Business Lösung verwenden möchte?
+- Was ist der erste Schritt, wenn ich WhatsApp geschäftlich nutzen möchte?
+- Was ist der erste Schritt, wenn ich die WhatsApp for Business API verwenden möchte?
+- Was ist der erste Schritt, wenn ich die WhatsApp Business Lösung nutzen möchte?
+- Was ist der erste Schritt für die Nutzung von WhatsApp für Unternehmen?
+- Was ist der erste Schritt bei der Verwendung der WhatsApp for Business API?
+- Was ist der erste Schritt zur Nutzung der WhatsApp Business Lösung?
+- Was sind die ersten Schritte, wenn ich WhatsApp für das Geschäft nutzen möchte?
+- Wie sollte ich beginnen, WhatsApp für das Geschäft zu nutzen?
+- Was sind die ersten Schritte, wenn ich WhatsApp geschäftlich nutzen möchte?
+- Was sind die ersten Schritte, wenn ich die WhatsApp for Business API verwenden möchte?
+- Was sind die ersten Schritte, wenn ich die WhatsApp Business Lösung nutzen möchte?
+- Was sind die ersten Schritte für den Einsatz von WhatsApp für das Geschäft?
+- Was sind die ersten Schritte für die Verwendung der WhatsApp for Business API?
+- Wie Sie mit der Nutzung von WhatsApp Business beginnen können
+- Wie sollte ich anfangen, WhatsApp für das Geschäft zu nutzen?
+- Wie sollte ich mit WhatsApp für Unternehmen beginnen?
+- Wie sollte ich mit der WhatsApp Business Lösung beginnen?
+- Wie sollte ich mit der WhatsApp for Business API beginnen?
+- Wie sollte ich mit der Verwendung der WhatsApp for Business API beginnen?
+- Welche verifizierten oder bestätigten Optionen habe ich für mein Unternehmen
+	
+## intent:whatsapp_business_api_verified_statuses
+- Was sind die verschiedenen verifizierten oder bestätigten Status?
+- Was sind die verschiedenen verifizierten Status
+- Was sind die verifizierten Optionen
+- WhatsApp Business API verifizierter Status
+- Was sind die verifizierten oder bestätigten Optionen
+- Was sind die verifizierten oder bestätigten Status
+- Was sind die verifizierten Status
+- Wie viele verifizierte Optionen habe ich für mein Unternehmen in WhatsApp
+- Wie viele verifizierte Optionen habe ich für mein Unternehmen in der App
+- Wie viele verschiedene verifizierte Status habe ich für mein Unternehmen in WhatsApp Wie werden sie in der App angezeigt?
+- Wie viele verschiedene verifizierte Status habe ich für mein Unternehmen in WhatsApp
+- Wie viele verschiedene verifizierte Status habe ich für mein Unternehmen in der App
+- Wie viele verschiedene verifizierte Optionen habe ich für mein Unternehmen in WhatsApp Wie werden sie in der App angezeigt?
+- Wie viele verschiedene verifizierte Optionen habe ich für mein Unternehmen in WhatsApp
+- Wie viele verschiedene verifizierte Optionen habe ich für mein Unternehmen in der App
+- Wie viele verschiedene bestätigte oder verifizierte Status habe ich für mein Unternehmen in WhatsApp Wie werden sie in der App angezeigt?
+- Welche verifizierten Status habe ich für mein Unternehmen in WhatsApp
+- Welche bestätigten oder verifizierten Optionen habe ich für mein Unternehmen
+- Welche bestätigten oder verifizierten Status gibt es für mein Unternehmen
+- Welchen bestätigten oder verifizierten Status habe ich für mein Unternehmen in WhatsApp Wie werden sie in der App angezeigt
+- Welche bestätigten oder verifizierten Status habe ich für mein Unternehmen?
+- Welche verschiedenen verifizierten Optionen habe ich für mein Unternehmen in der App
+- Welche verifizierten Status habe ich für mein Unternehmen in WhatsApp? Wie werden sie in der App angezeigt?
+- Wie viele verschiedene bestätigte oder verifizierte Status habe ich für mein Unternehmen in WhatsApp
+- Welche verifizierten Status habe ich für mein Unternehmen in der App
+- Welchen verifizierten oder bestätigten Status habe ich für mein Unternehmen?
+- Welche verifizierten oder bestätigten Status gibt es für mein Unternehmen
+- Was sind die verschiedenen verifizierten oder bestätigten Optionen?
+- Welche verifizierten oder bestätigten Optionen gibt es für mein Unternehmen
+- Welche verifizierten Optionen habe ich für mein Unternehmen in WhatsApp? Wie werden sie in der App angezeigt?
+- Welche verifizierten Optionen habe ich für mein Unternehmen in WhatsApp
+- Welche verifizierten Optionen habe ich für mein Unternehmen in der App
+- Welche verschiedenen verifizierten Status habe ich für mein Unternehmen in WhatsApp? Wie werden sie in der App angezeigt?
+- Welche verschiedenen verifizierten Status habe ich für mein Unternehmen in WhatsApp
+- Welche verschiedenen verifizierten Status habe ich für mein Unternehmen in der App
+- Welche verschiedenen verifizierten Optionen habe ich für mein Unternehmen in WhatsApp? Wie werden sie in der App angezeigt?
+- Welche bestätigten oder verifizierten Optionen habe ich für mein Unternehmen in der App
+- Welche bestätigten oder verifizierten Optionen habe ich für mein Unternehmen in WhatsApp
+- Welche bestätigten oder verifizierten Optionen habe ich für mein Unternehmen in WhatsApp? Wie werden sie in der App angezeigt?
+- Welches sind die bestätigten oder verifizierten Status für mein Unternehmen in der App
+- Welches sind die bestätigten oder verifizierten Status für mein Unternehmen in WhatsApp
+- Was sind die bestätigten oder verifizierten Status für mein Unternehmen in WhatsApp Wie werden sie in der App angezeigt?
+- Welche bestätigten oder verifizierten Status habe ich für mein Unternehmen in der App
+- Welche bestätigten oder verifizierten Status habe ich für mein Unternehmen in WhatsApp
+- Welche bestätigten oder verifizierten Status habe ich für mein Unternehmen in WhatsApp Wie werden sie in der App angezeigt?
+- Welches sind die bestätigten Status für mein Unternehmen in der App
+- Was sind die bestätigten oder verifizierten Optionen für mein Unternehmen in WhatsApp Wie werden sie in der App angezeigt?
+- Wie viele bestätigte oder verifizierte Status habe ich für mein Unternehmen in der App
+- Wie viele bestätigte oder verifizierte Status habe ich für mein Unternehmen in WhatsApp
+- Wie viele bestätigte oder verifizierte Status habe ich für mein Unternehmen in WhatsApp Wie werden sie in der App angezeigt?
+- Wie viele verschiedene bestätigte oder verifizierte Optionen habe ich für mein Unternehmen in der App
+- Wie viele verschiedene bestätigte oder verifizierte Optionen habe ich für mein Unternehmen in WhatsApp
+- Wie viele verschiedene bestätigte oder verifizierte Optionen habe ich für mein Unternehmen in WhatsApp Wie werden sie in der App angezeigt?
+- Wie viele verschiedene bestätigte oder verifizierte Status habe ich für mein Unternehmen in der App
+- Wie viele verifizierte Optionen habe ich für mein Unternehmen in WhatsApp Wie werden sie in der App angezeigt?
+- Wie viele verifizierte Status habe ich für mein Unternehmen in der App
+- Welche Optionen habe ich für mein Unternehmen in der App bestätigt
+- Welche Optionen habe ich für mein Unternehmen in WhatsApp bestätigt
+- Welche bestätigten Optionen habe ich für mein Unternehmen in 
+- Wie werden die verifizierten oder bestätigten Optionen in der App angezeigt
+- Wie werden die verifizierten Optionen in der App angezeigt
+- Welche verschiedenen bestätigten oder verifizierten Optionen habe ich für mein Unternehmen in der App
+- Wie viele bestätigte oder verifizierte Optionen habe ich für mein Unternehmen in WhatsApp
+- Welche verschiedenen bestätigten oder verifizierten Optionen habe ich für mein Unternehmen in WhatsApp? Wie werden sie in der App angezeigt?
+- Welche verschiedenen bestätigten oder verifizierten Status hat mein Unternehmen in der App
+- Was sind die verschiedenen bestätigten Status für mein Unternehmen in der App
+- Welche verschiedenen bestätigten Status hat mein Unternehmen in WhatsApp?
+- Was sind die verschiedenen bestätigten Status für mein Unternehmen in WhatsApp Wie werden sie in der App angezeigt?
+- Welche verschiedenen bestätigten Status habe ich für mein Unternehmen in der App
+- Was sind die verschiedenen verifizierten Optionen
+- Was sind die bestätigten Optionen für mein Unternehmen in WhatsApp Wie werden sie in der App angezeigt?
+- Was sind die bestätigten Optionen für mein Unternehmen in WhatsApp
+- Was sind die bestätigten Optionen für mein Unternehmen in der App
+- Wie viele verifizierte Status habe ich für mein Unternehmen in WhatsApp Wie werden sie in der App angezeigt?
+- Wie viele verifizierte Status habe ich für mein Unternehmen in WhatsApp
+- Welche verschiedenen bestätigten oder verifizierten Optionen habe ich für mein Unternehmen in WhatsApp
+- Welche verschiedenen verifizierten Optionen habe ich für mein Unternehmen in WhatsApp
+- Welches sind die bestätigten Status für mein Unternehmen in WhatsApp
+- Was sind die bestätigten Status für mein Unternehmen in WhatsApp Wie werden sie in der App angezeigt?
+- Welche bestätigten Status habe ich für mein Unternehmen in der App
+- Welche bestätigten Status habe ich für mein Unternehmen in WhatsApp
+- Welche bestätigten Status habe ich für mein Unternehmen in WhatsApp? Wie werden sie in der App angezeigt?
+- Was sind die verschiedenen bestätigten Optionen für mein Unternehmen in WhatsApp Wie werden sie in der App angezeigt?
+- Was sind die verschiedenen bestätigten Optionen, die ich für mein Unternehmen in der App habe
+- Welche verschiedenen bestätigten Optionen habe ich für mein Unternehmen in WhatsApp
+- Welche verschiedenen bestätigten Optionen habe ich für mein Unternehmen in WhatsApp? Wie werden sie in der App angezeigt?
+- Was sind die verschiedenen bestätigten oder verifizierten Optionen für mein Unternehmen in der App
+- Was sind die verschiedenen bestätigten oder verifizierten Optionen für mein Unternehmen in WhatsApp
+- Was sind die verschiedenen bestätigten oder verifizierten Optionen für mein Unternehmen in WhatsApp Wie werden sie in der App angezeigt?
+- Wie viele bestätigte oder verifizierte Optionen habe ich für mein Unternehmen in WhatsApp Wie werden sie in der App angezeigt?
+	
+## intent:whatsapp_business_cases_hsm
+- Highly Structures Messages und WhatsApp Business
+- Highly Structures Messages und WhatsApp for Business
+- Highly Structures Messages WhatsApp Business
+- Highly Structures Messages WhatsApp for Business
+- HSM
+- HSM und WhatsApp Geschäft
+- HSM und WhatsApp für Unternehmen
+- HSM WhatsApp Geschäft
+- HSM WhatsApp für Unternehmen
+- Ich möchte mehr über HSM erfahren
+- Ich möchte mehr über HSM wissen
+- Ich möchte mehr über WhatsApp HSM erfahren.
+- Ich möchte etwas über HSM erfahren
+- Ich möchte mehr über WhatsApp HSM erfahren
+- Informationen über HSM
+- Highly Structures Messages
+- Informationen über WhatsApp HSM
+- Gibt es etwas, das ich beim Versenden hochstrukturierter Nachrichten beachten sollte
+- Gibt es etwas, das man bei der Entsendung von Highly Structures Messages beachten sollte
+- Gibt es etwas, worauf man achten sollte, wenn man Highly Structures Messages versendet
+- Gibt es etwas, worauf man beim Versenden von HSM-Nachrichten achten sollte
+- Gibt es etwas, worauf man bei der Entsendung von Highly Structures Messages achten sollte
+- Auf WhatsApp HSM
+- Was muss ich über Highly Structures Messages wissen?
+- Was muss ich über HSM wissen?
+- Was ist zu beachten, wenn ich Highly Structures Messages senden möchte
+- Was ist zu beachten, wenn ich HSM-Nachrichten senden möchte
+- Was ist zu beachten, wenn ich Highly Structures Messages versenden möchte
+- Was ist beim Versenden hochstrukturierter Nachrichten zu beachten?
+- Was ist beim Versenden von HSM-Nachrichten zu beachten?
+- Was ist bei der Entsendung von HSM zu beachten?
+- Welche Besonderheiten muss ich über Highly Structures Messages wissen?
+- Was sollte ich bei der Versendung von Highly Structures Messages beachten
+- Gibt es etwas, das man beim Versenden hochstrukturierter Nachrichten beachten sollte
+- Gibt es etwas, das man beim Versenden von HSM-Nachrichten beachten sollte
+- Was muss man über Highly Structures Messages wissen?
+- WhatsApp für Business HSM
+- WhatsApp für hochstrukturierte Business-Nachrichten
+- WhatsApp für Unternehmen und HSM
+- WhatsApp für geschäftliche und Highly Structures Messages
+- WhatsApp Business HSM
+- WhatsApp Business Highly Structures Messages
+- WhatsApp Business und HSM
+- WhatsApp Business und Highly Structures Messages
+- Welche Besonderheiten sollte ich über HSM wissen?
+- Was sollte ich über Highly Structures Messages wissen?
+- Was man über HSM wissen muss
+- Was man über Highly Structures Messages wissen muss
+- Was muss ich über HSM im Einzelnen wissen?
+- Gibt es etwas, worauf ich achten sollte, wenn ich hochstrukturierte Botschaften versende
+- Gibt es etwas, das ich beim Versenden von HSM-Nachrichten beachten sollte
+- Gibt es etwas, das ich bei der Entsendung von Highly Structures Messages beachten sollte
+- Was sollte ich über HSM wissen?
+- Was sollte ich beachten, wenn ich Highly Structures Messages senden möchte?
+- Was muss ich beachten, wenn ich HSM-Nachrichten senden möchte
+- Was sollte ich beachten, wenn ich Highly Structures Messages versenden möchte
+- Was sollte ich beim Versenden hochstrukturierter Nachrichten beachten?
+- Was sollte ich beim Versenden von HSM-Nachrichten beachten
+- Über HSM
+- Über WhatsApp HSM
+	
+## intent:whatsapp_business_cases_messaging_types
+- Kann ich Benachrichtigungen an meine Kunden mit WhatsApp senden?
+- Kann ich Benachrichtigungen und Warnungen an die Kunden senden?
+- Kann ich mit WhatsApp Benachrichtigungen und Benachrichtigungen an Kunden senden?
+- Kann ich mit WhatsApp Web Benachrichtigungen und Benachrichtigungen an Kunden senden?
+- Kann ich Benachrichtigungen und Warnungen an meine Kunden senden?
+- Kann ich mit WhatsApp Benachrichtigungen und Benachrichtigungen an meine Kunden senden?
+- Kann ich mit WhatsApp Web Benachrichtigungen und Benachrichtigungen an meine Kunden senden?
+- Kann ich mit WhatsApp Alerts an die Kunden senden?
+- Kann ich mit WhatsApp Web Alerts an die Kunden senden?
+- Kann ich Benachrichtigungen an meine Kunden senden?
+- Kann ich mit WhatsApp Benachrichtigungen an meine Kunden senden?
+- Kann ich mit WhatsApp Web Benachrichtigungen an meine Kunden senden?
+- Welche Art von Nachrichten wird auf WhatsApp Business unterstützt?
+- wo kann ich robo bekommen
+- Kann ich mit WhatsApp Web Benachrichtigungen an die Kunden senden?
+- Kann ich mit WhatsApp Benachrichtigungen an die Kunden senden?
+- Kann ich Benachrichtigungen an die Kunden senden?
+- Ist es möglich, Alerts an meine Kunden zu senden
+- Ist es möglich, mit WhatsApp Benachrichtigungen an meine Kunden zu senden?
+- Welche Arten von Nachrichten werden auf WhatsApp Business unterstützt?
+- Welcher Nachrichtentyp wird auf WhatsApp Business unterstützt?
+- Welche Nachrichtentypen werden auf WhatsApp Business unterstützt?
+- WhatsApp für Business-Meldungstypen
+- WhatsApp für Business-Nachrichtentypen
+- Welche Arten von Nachrichten werden von WhatsApp for Business unterstützt?
+- Welche Arten von Nachrichten werden von WhatsApp Business unterstützt?
+- Welche Art von Nachrichten wird von WhatsApp for Business unterstützt?
+- Welche Art von Nachrichten wird von WhatsApp Business unterstützt?
+- Welcher Nachrichtentyp wird von WhatsApp for Business unterstützt?
+- Welcher Nachrichtentyp wird von WhatsApp Business unterstützt?
+- Welche Nachrichtentypen werden von WhatsApp for Business unterstützt?
+- Welche Nachrichtentypen werden von WhatsApp Business unterstützt?
+- Ist es möglich, Erinnerungen an die Kunden zu senden
+- Ist es möglich, mit WhatsApp Erinnerungen an die Kunden zu senden?
+- Ist es möglich, mit WhatsApp Web Erinnerungen an Kunden zu versenden?
+- Ist es möglich, Erinnerungen an meine Kunden zu senden
+- Ist es möglich, mit WhatsApp Erinnerungen an meine Kunden zu versenden?
+- Ist es möglich, mit WhatsApp Web Erinnerungen an meine Kunden zu versenden?
+- Ist es möglich, Benachrichtigungen an die Kunden zu senden
+- Ist es möglich, mit WhatsApp Benachrichtigungen an die Kunden zu senden?
+- Ist es möglich, Benachrichtigungen an Kunden mit WhatsApp Web zu senden?
+- Ist es möglich, Benachrichtigungen an meine Kunden zu senden
+- Ist es möglich, mit WhatsApp Web Benachrichtigungen an meine Kunden zu senden?
+- Ist es möglich, Benachrichtigungen und Warnungen an die Kunden zu senden?
+- Ist es möglich, mit WhatsApp Benachrichtigungen und Warnungen an die Kunden zu senden?
+- Ist es möglich, mit WhatsApp Web Benachrichtigungen und Warnungen an die Kunden zu senden?
+- Ist es möglich, Benachrichtigungen und Warnungen an meine Kunden zu senden?
+- Ist es möglich, mit WhatsApp Benachrichtigungen und Warnungen an meine Kunden zu senden?
+- Ist es möglich, mit WhatsApp Web Benachrichtigungen und Warnungen an meine Kunden zu senden?
+- Ist es möglich, Alerts an die Kunden zu senden
+- Ist es möglich, mit WhatsApp Alerts an die Kunden zu senden?
+- Ist es möglich, mit WhatsApp Web Alerts an die Kunden zu senden?
+- Ist es möglich, mit WhatsApp Alerts an meine Kunden zu senden?
+- Ist es möglich, mit WhatsApp Web Alerts an meine Kunden zu senden?
+- Kann ich Erinnerungen an die Kunden senden?
+- Kann ich mit WhatsApp Erinnerungen an die Kunden senden?
+- Kann ich mit WhatsApp Web Erinnerungen an die Kunden senden?
+- Kann ich Erinnerungen an meine Kunden senden?
+- Kann ich mit WhatsApp Erinnerungen an meine Kunden senden?
+- Kann ich mit WhatsApp Web Erinnerungen an meine Kunden senden?
+	
+## intent:whatsapp_business_cases_session
+- Was ist in den Sitzungen erlaubt
+- Informationen über die Dauer der WhatsApp Business-Sitzungen
+- Informationen über WhatsApp Business-Sitzungen
+- Muss ich während einer Sitzung irgendwelche Kommunikationselemente vorab von WhatsApp Business genehmigt haben?
+- Muss ich während einer Sitzung irgendwelche Kommunikationselemente vorab von WhatsApp Business Business genehmigen lassen?
+- Wie lange dauert eine WhatsApp-Sitzung?
+- Wie lange dauert eine WhatsApp for Enterprises-Sitzung?
+- Wie lange dauert eine WhatsApp für Unternehmen?
+- Wie lange dauert eine WhatsApp Business-Sitzung?
+- Wie lange dauert eine Sitzung
+- Wie lange dauern die Sitzungen
+- Wie lang sind die Sitzungen
+- Wie lang sind die Sitzungen auf WhatsApp
+- Wie lange dauern die Sitzungen in WhatsApp
+- Wie lange dauern die Sitzungen zu WhatsApp Business
+- Muss ich irgendwelche Kommunikationselemente während einer Sitzung vorab von WhatsApp genehmigt haben?
+- Was kann ich während der WhatsApp für Unternehmenssitzungen tun?
+- Was kann ich während der WhatsApp Business-Sitzungen tun?
+- Was kann ich während der Sitzungen tun?
+- Wie lange dauern die WhatsApp-Sitzungen?
+- Wie lang sind die Sitzungen zu WhatsApp für Unternehmen
+- Informationen über die Dauer der WhatsApp for Enterprises-Sitzungen
+- Wie lang sind die Sitzungen zu WhatsApp Business
+- Wie lang sind die Sitzungen in WhatsApp
+- Wie lange dauern die Sitzungen von WhatsApp für Unternehmen?
+- Wie lang sind die Sitzungen in WhatsApp Business
+- Was kann ich während der WhatsApp for Enterprises-Sitzungen tun?
+- Was kann ich während der WhatsApp-Sitzungen tun?
+- Was auf den Sitzungen erlaubt ist
+- Wie lange dauert eine Sitzung in WhatsApp Business
+- Wie lang ist die Dauer einer Sitzung in WhatsApp
+- Wie lange dauert eine Sitzung zu WhatsApp Business
+- Wie lange dauert eine WhatsApp-Sitzung für Unternehmen?
+- Wie lange dauert eine Sitzung zu WhatsApp für Unternehmen?
+- Wie lange dauert eine Sitzung auf WhatsApp
+- Wie lang ist die Dauer einer Sitzung
+- Muss ich während einer Sitzung irgendwelche Kommunikationselemente von WhatsApp für Unternehmen vorab genehmigen lassen?
+- Informationen zur WhatsApp Business-Sitzung
+- Informationen über die Dauer der WhatsApp Business-Sitzung
+- Informationen über WhatsApp für Unternehmen Sitzungen
+- Informationen über WhatsApp für Unternehmen - Sitzungsdauer
+- Informationen zur WhatsApp for Enterprises-Sitzung
+- Informationen über WhatsApp für Unternehmenssitzungen
+- Informationen über WhatsApp für die Dauer von Unternehmenssitzungen
+- Informationen zur WhatsApp for Business-Sitzung
+- Wie lange dauert die WhatsApp für Unternehmen
+- Wie lange dauern die WhatsApp Business-Sitzungen?
+- Wie lang sind die Sitzungen?
+- Wie lange dauern die Sitzungen auf WhatsApp
+- Wie lange dauern die Sitzungen zu WhatsApp für Unternehmen?
+- Wie lange dauern die Sitzungen in WhatsApp für Unternehmen?
+- Wie lange dauern die Sitzungen in WhatsApp Business
+- Müssen nach dem Einleiten einer Sitzungsnachricht alle Kommunikationselemente vorab von WhatsApp genehmigt werden?
+- Muss ich, sobald eine Sitzungsnachricht initiiert wurde, irgendwelche Kommunikationselemente von WhatsApp für Unternehmen vorab genehmigen lassen?
+- Müssen nach dem Einleiten einer Sitzungsnachricht alle Kommunikationselemente von WhatsApp Business vorab genehmigt werden?
+- Muss ich nach dem Einleiten einer Sitzungsnachricht die Kommunikationselemente vorab von WhatsApp Business genehmigen lassen?
+- Informationen zur Dauer von WhatsApp-Sitzungen
+- Informationen über WhatsApp-Sitzungen
+- Informationen über die Dauer der WhatsApp-Sitzung
+- Informationen zur WhatsApp-Sitzung
+	
+## intent:whatsapp_business_cases_use
+- Für welche Anwendungsfälle könnte die WhatsApp Business API von meinem Unternehmen verwendet werden?
+- Für welche Anwendungsfälle könnte die WhatsApp Business API von meinem Unternehmen genutzt werden?
+- Für welche Anwendungsfälle könnte die WhatsApp Business API von meinem Unternehmen eingesetzt werden?
+- Für welche Anwendungsfälle könnte WhatsApp Business in meinem Unternehmen eingesetzt werden?
+- Für welche Anwendungsfälle könnte WhatsApp Business von meinem Unternehmen genutzt werden?
+- Für welche Anwendungsfälle könnte WhatsApp Business von meinem Unternehmen eingesetzt werden?
+- Für welche Anwendungsfälle könnte WhatsApp Business in einem Unternehmen eingesetzt werden?
+- Für welche Anwendungsfälle kann mein Unternehmen die WhatsApp Business API verwenden?
+- Für welche Anwendungsfälle kann mein Unternehmen WhatsApp Business nutzen?
+- Inwieweit kann WhatsApp Business von meinem Unternehmen genutzt werden?
+- Inwieweit könnte die WhatsApp Business API in einem Unternehmen eingesetzt werden?
+- Inwieweit könnte die WhatsApp Business API von meinem Unternehmen genutzt werden?
+- Auf welche Weise könnte mein Unternehmen WhatsApp Business
+- Auf welche Weise könnte mein Unternehmen das WhatsApp Business nutzen?
+- Auf welche Weise könnte mein Unternehmen die WhatsApp Business API nutzen?
+- Auf welche Weise könnte mein Unternehmen WhatsApp Business nutzen?
+- Was sind die Anwendungsfälle der WhatsApp Business API
+- Was sind die Anwendungsfälle von WhatsApp Business
+- Was sind Anwendungsfälle der WhatsApp Business API
+- Was sind Anwendungsfälle von WhatsApp Business
+- Wo kann mein Unternehmen die WhatsApp Business API nutzen?
+- Wo kann mein Unternehmen WhatsApp Business nutzen?
+- Wo kann mein Unternehmen die WhatsApp Business
+- Wo kann mein Unternehmen die WhatsApp Business API verwenden?
+- Wo kann mein Unternehmen das WhatsApp Business nutzen?
+- Wo kann mein Unternehmen die WhatsApp Business API einsetzen?
+- Wo kann mein Unternehmen WhatsApp Business einsetzen?
+- Wo könnte mein Unternehmen das WhatsApp Business nutzen?
+- Inwieweit kann die WhatsApp Business API in einem Unternehmen genutzt werden?
+- Inwieweit kann die WhatsApp Business API von meinem Unternehmen genutzt werden?
+- Wie könnte WhatsApp Business von meinem Unternehmen genutzt werden?
+- Wie könnte die WhatsApp Business API in einem Unternehmen eingesetzt werden?
+- Wie könnte die WhatsApp Business API von meinem Unternehmen genutzt werden?
+- Wofür kann die WhatsApp Business API in meinem Unternehmen eingesetzt werden?
+- Wozu kann die WhatsApp Business API in einem Unternehmen eingesetzt werden?
+- Wozu kann WhatsApp Business in einem Unternehmen eingesetzt werden?
+- Wofür kann WhatsApp Business in einem Unternehmen eingesetzt werden?
+- Wofür kann WhatsApp Business von meinem Unternehmen genutzt werden?
+- Für welche Anwendungsfälle könnte mein Unternehmen WhatsApp Business einsetzen?
+- Wie kann WhatsApp Business in einem Unternehmen eingesetzt werden?
+- Für welche Anwendungsfälle kann WhatsApp Business von meinem Unternehmen genutzt werden?
+- Für welche Anwendungsfälle kann WhatsApp Business von meinem Unternehmen eingesetzt werden?
+- Für welche Anwendungsfälle kann WhatsApp Business in einem Unternehmen eingesetzt werden?
+- Wofür kann die WhatsApp Business API in einem Unternehmen verwendet werden?
+- Wofür kann die WhatsApp Business API von meinem Unternehmen verwendet werden?
+- Für welche Anwendungsfälle könnte mein Unternehmen die WhatsApp Business API verwenden?
+- Für welche Anwendungsfälle könnte mein Unternehmen WhatsApp Business nutzen?
+- Für welche Anwendungsfälle könnte mein Unternehmen die WhatsApp Business
+- Für welche Anwendungsfälle könnte mein Unternehmen die WhatsApp Business API nutzen?
+- Wo könnte mein Unternehmen das WhatsApp Business einsetzen?
+- Wo könnte mein Unternehmen die WhatsApp Business
+- Wo könnte mein Unternehmen die WhatsApp Business API einsetzen?
+- Wo könnte mein Unternehmen WhatsApp Business einsetzen?
+- Für welche Anwendungsfälle kann mein Unternehmen die WhatsApp Business
+- Für welche Anwendungsfälle kann mein Unternehmen die WhatsApp Business API nutzen?
+- Für welche Anwendungsfälle kann mein Unternehmen WhatsApp Business einsetzen?
+- Ist WhatsApp Business auf die Regulierung des Datenschutzes ausgerichtet?
+	
+## intent:whatsapp_business_data_agreement
+- Ist WhatsApp Business auf die GDPR ausgerichtet?
+- Ist WhatsApp Business auf die Datenschutzbestimmungen abgestimmt?
+- Ist WhatsApp auf die Regulierung des Datenschutzes ausgerichtet?
+- Ist WhatsApp auf die GDPR ausgerichtet?
+- Ist WhatsApp mit dem GDPR koordiniert?
+- Ist WhatsApp mit der Regulierung des Datenschutzes koordiniert?
+- Koordiniert die Bedingungen von WhatsApp mit GDPR
+- Stimmen die WhatsApp Dienste mit GDPR
+- Kann WhatsApp Business eine Datenschutzvereinbarung unterzeichnen?
+- Kann WhatsApp Business die EU-Mustervertragsklauseln unterzeichnen?
+- Kann WhatsApp eine Datenschutzvereinbarung unterzeichnen?
+- Kann WhatsApp die EU-Mustervertragsklauseln unterzeichnen?
+- Stimmen die WhatsApp Dienste und Bedingungen mit GDPR überein?
+- Stimmen die WhatsApp Dienste und Bedingungen mit GDPR ab
+- Stimmen die WhatsApp Bedingungen und Dienstleistungen mit GDPR ab
+- Stimmen die Dienstleistungen und Bedingungen von WhatsApp mit GDPR überein?
+- Koordinieren die Dienstleistungen und Bedingungen von WhatsApp mit GDPR
+- Stimmen die Bedingungen und Dienstleistungen von WhatsApp mit GDPR überein?
+- Stimmen die Bedingungen und Dienstleistungen von WhatsApp mit GDPR ab?
+- Stimmen Ihre Dienstleistungen und Bedingungen mit GDPR überein
+- Stimmen Sie Ihre Dienste und Bedingungen mit GDPR ab
+- Stimmen Ihre Bedingungen und Dienstleistungen mit GDPR überein
+- Stimmen Sie Ihre Bedingungen und Dienstleistungen mit GDPR ab
+- Koordinieren die WhatsApp Dienste mit GDPR
+- Entsprechen die WhatsApp-Begriffe dem GDPR
+- Stimmen die WhatsApp-Begriffe mit GDPR
+- Entsprechen die Dienstleistungen von WhatsApp dem GDPR
+- Koordinieren die Dienstleistungen von WhatsApp mit GDPR
+- Stimmen die Bedingungen von WhatsApp mit GDPR überein
+- Ist WhatsApp auf die Datenschutzverordnung abgestimmt?
+- Stimmen Ihre Bedingungen mit GDPR ab
+- Stimmen Ihre Bedingungen mit GDPR überein
+- Koordinieren Ihre Dienststellen mit GDPR
+- Entsprechen Ihre Dienstleistungen dem GDPR
+- Ist WhatsApp mit der Datenschutzverordnung koordiniert?
+- Ist WhatsApp Business mit der Regulierung des Datenschutzes koordiniert?
+- Ist WhatsApp Business mit dem GDPR koordiniert?
+- Ist WhatsApp Business mit der Datenschutzverordnung koordiniert?
+- Is WhatsApp Business coordinated with the GDPR
+- GDPR
+- Wie werden Kundendaten von WhatsApp Business gespeichert?
+- Wie werden Kundendaten von WhatsApp gespeichert?
+- Wie werden Kundendaten von WhatsApp für Unternehmen gespeichert?
+- Wie werden die Kundendaten eines Kunden von WhatsApp Business gespeichert?
+- Wie erfolgt die Speicherung von Daten eines Kunden durch WhatsApp
+- Wie ist die Speicherung von Daten eines Kunden durch WhatsApp für Unternehmen
+- Wie erfolgt die Speicherung von Daten eines Kunden durch WhatsApp Business
+- Wo WhatsApp die Kundendaten des Kunden speichert
+- Wie ist die Speicherung von Daten eines Kunden
+- WhatsApp-Client-Kundendatenspeicherung
+- WhatsApp Speicherung von Geschäftskundendaten
+- WhatsApp Business Client Kundendatenspeicher
+- Erzählen Sie mir über die Speicherung der Kundendaten
+- Erzählen Sie mir über die Speicherung der Kundendaten des Kunden
+- Erzählen Sie mir mehr über die Speicherung der Kundendaten
+- Erzählen Sie mir mehr über die Speicherung der Kundendaten des Kunden
+- Informieren Sie mich über die Speicherung der Kundendaten
+- Informieren Sie mich über die Speicherung der Kundendaten des Kunden
+- Informationen über die Speicherung der Kundendaten
+- Wo WhatsApp for Enterprises die Kundendaten speichert
+- Wo WhatsApp for Enterprises die Kundendaten des Kunden speichert
+- Wo WhatsApp for businesses die Kundendaten speichert
+- Wo WhatsApp for businesses die Kundendaten des Kunden speichert
+- Wo WhatsApp Business die Kundendaten speichert
+- Informationen über die Speicherung der Kundendaten des Kunden
+- Wie wird ein Kunde von Kundendaten gespeichert
+- Wo WhatsApp die Kundendaten speichert
+- Wie werden die Kundendaten eines Kunden gespeichert?
+- Wie werden Kundendaten eines Kunden von WhatsApp gespeichert?
+- Wie werden Kundendaten eines Kunden von WhatsApp für Unternehmen gespeichert?
+- WhatsApp Kundendatenspeicher
+- WhatsApp für die Datenspeicherung von Geschäftskunden
+- WhatsApp für Unternehmen Kundendatenspeicherung
+- WhatsApp für Unternehmen Kundendatenspeicher
+- Wo speichert WhatsApp Business die Kundendaten des Kunden
+- Wo speichert WhatsApp Business die Kundendaten
+- Wo speichert WhatsApp for businesses die Kundendaten des Kunden
+- Wo speichert WhatsApp for businesses die Kundendaten?
+- Wo speichert WhatsApp for Enterprises die Kundendaten des Kunden
+- Wo speichert WhatsApp for Enterprises die Kundendaten
+- Wo speichert WhatsApp die Kundendaten des Kunden
+- Wo speichert WhatsApp die Kundendaten?
+- Wo werden die Kundendaten eines Kunden gespeichert?
+- Wo werden Kundendaten von WhatsApp Business gespeichert?
+- Wo werden Kundendaten von WhatsApp für Unternehmen gespeichert?
+- Wo werden Kundendaten von WhatsApp gespeichert?
+- Wo werden die Daten eines Kunden gespeichert?
+- Wo ist ein Kunde von Kundendaten, die von WhatsApp Business gespeichert werden?
+- Wo speichert ein Kunde Kundendaten, die von WhatsApp für Unternehmen gespeichert werden?
+- Wo ist ein Kunde von Kundendaten, die von WhatsApp für Unternehmen gespeichert werden?
+- Wo befindet sich ein Kunde von Kundendaten, die von WhatsApp gespeichert werden
+- Wo wird ein Kunde von Kundendaten gespeichert?
+- Wo WhatsApp Business die Kundendaten des Kunden speichert
+- Wie wird ein Kunde von WhatsApp gespeicherte Kundendaten
+- Wie wird ein Kunde von Kundendaten, die von WhatsApp für Unternehmen gespeichert werden
+- Wie wird ein Kunde von Kundendaten, die von WhatsApp für Unternehmen gespeichert werden, angesprochen
+- Wie wird ein Kunde von Kundendaten, die von WhatsApp Business gespeichert werden, angesprochen
+- Wie werden Kundendaten gespeichert?
+
+## intent:whatsapp_business_data_customer
+- Wie werden Kundendaten von WhatsApp Business gespeichert?
+- WhatsApp Business Kundendatenspeicherung
+- Kundendatenspeicherung WhatsApp Business 
+- WhatsApp Business Kundendaten speicherung
+- Kundendaten speicherung WhatsApp Business 
+- Wo werden Kundendaten von WhatsApp Business für Unternehmen gespeichert?
+- Wo werden Kundendaten bei WhatsApp gespeichert?
+- Wo werden Kundendaten gespeichert?
+- Wo werden Kundendaten von WhatsApp Business gespeichert?
+- Wo werden Kundendaten von WhatsApp für Unternehmen gespeichert?
+- Wo werden Kundendaten von WhatsApp für Unternehmen gespeichert?
+- Wo werden Kundendaten von WhatsApp gespeichert?
+- Wo werden Kundendaten von Kunden gespeichert?
+- Wo speichert WhatsApp Business die Kundendaten des Kunden?
+- Informationen über die Speicherung der Kundendaten
+- Informationen über die Speicherung der Kundendaten
+- Informationen über die Speicherung der Kundendaten des Kunden
+- Wo speichert WhatsApp Business die Kundendaten?
+- Wo speichert WhatsApp für Unternehmen die Kundendaten des Kunden?
+- Wo speichert WhatsApp für Unternehmen die Kundendaten?
+- Wo speichert WhatsApp für Unternehmen die Kundendaten des Kunden?
+- Wie werden die Kundendaten eines Kunden von WhatsApp for businesses gespeichert?
+- Wie werden die Kundendaten eines Kunden von WhatsApp gespeichert?
+- Wie werden die Kundendaten bei WhatsApp for businesses gespeichert?
+- Informationen über die Speicherung der Kundendaten
+- Wo speichert WhatsApp for Enterprises die Kundendaten?
+- Wo speichert WhatsApp für Unternehmen die Kundendaten des Kunden?
+- Wo speichert WhatsApp die Kundendaten?
+- Informationen über die Speicherung der Kundendaten des Kunden
+- Wie werden die Kundendaten eines Kunden von WhatsApp Business gespeichert?
+- Wie werden Kundendaten von WhatsApp Business für Unternehmen gespeichert?
+- Wie werden die Kundendaten eines Kunden bei WhatsApp gespeichert?
+- Wie werden Kundendaten bei WhatsApp Business für Unternehmen gespeichert?
+- Wie werden Kundendaten bei WhatsApp gespeichert?
+- Wo speichert WhatsApp die Kundendaten?
+- Wie werden die Kundendaten eines Kunden gespeichert?
+- Wie werden Kundendaten eines Kunden bei WhatsApp für Unternehmen gespeichert?
+- Speicherung von WhatsApp-Kundendaten
+- WhatsApp für die Speicherung von Kundendaten von Geschäftskunden
+- WhatsApp für die Datenspeicherung von Geschäftskunden
+- WhatsApp für die Speicherung von Kundendaten in Unternehmen
+- WhatsApp für die Speicherung von Kundendaten in Unternehmen
+- Wo speichert WhatsApp Business die Kundendaten des Kunden?
+- Wo speichert WhatsApp Business die Kundendaten?
+- Wo speichert WhatsApp für Unternehmen die Kundendaten des Kunden?
+- Wo speichert WhatsApp für Unternehmen die Kundendaten?
+- Wo speichert WhatsApp für Unternehmen die Kundendaten des Kunden?
+- Informationen über die Speicherung der Kundendaten des Kunden
+- Wie wird ein Kunde von Kundendaten bei WhatsApp Business gespeichert?
+- Wie werden die Daten eines Kunden gespeichert?
+- Wie werden die Kundendaten eines Kunden von WhatsApp Business gespeichert?
+- Wie werden Kundendaten bei WhatsApp gespeichert?
+- Wo speichert WhatsApp für Unternehmen die Kundendaten?
+- Informationen über die Speicherung der Kundendaten des Kunden
+- Informationen über die Speicherung der Kundendaten
+- Informieren Sie mich über die Speicherung der Kundendaten des Kunden
+- Informieren Sie mich über die Speicherung der Kundendaten
+- Erzählen Sie mir mehr über die Speicherung der Kundendaten des Kunden
+- Erzählen Sie mir mehr über die Speicherung der Kundendaten
+- Erzählen Sie mir mehr über die Speicherung der Kundendaten des Kunden
+- Erzählen Sie mir mehr über die Speicherung der Kundendaten
+- Informieren Sie mich über die Speicherung der Kundendaten des Kunden
+- Informieren Sie mich über die Speicherung der Kundendaten
+- WhatsApp Business-Client Kundendatenspeicher
+- WhatsApp Business-Kundendatenspeicher
+- WhatsApp-Client-Kundendatenspeicher
+- Wie ist die Speicherung von Daten eines Kunden
+- Wo speichert WhatsApp die Kundendaten des Kunden?
+- Wie erfolgt die Speicherung der Daten eines Kunden durch WhatsApp Business?
+- Wie erfolgt die Speicherung von Daten eines Kunden durch WhatsApp Business?
+- Wie erfolgt die Speicherung von Daten eines Kunden durch WhatsApp für Unternehmen?
+- Wie erfolgt die Speicherung von Daten eines Kunden durch WhatsApp?
+- Wo werden die Kundendaten eines Kunden gespeichert?
+- Wo werden die Daten eines Kunden bei WhatsApp Business gespeichert?
+- Wo werden die Kundendaten von WhatsApp für Unternehmen gespeichert?
+	
+## intent:whatsapp_business_data_gdpr
+- Wie steht WhatsApp zu allgemeinen Datenschutzbestimmungen?
+- Allgemeine Datenschutzbestimmungen und WhatsApp Business
+- Welche Position vertritt WhatsApp zur DSGVO?
+- Wie steht WhatsApp Business zur DSGVO?
+- Wie steht WhatsApp zur Regelung des Datenschutzes?
+- WhatsApp-Regelung zum Datenschutz
+- WhatsApp und GDPR
+- WhatsApp und allgemeine Datenschutzbestimmungen
+- Allgemeine Datenschutzbestimmungen WhatsApp
+- Allgemeine Datenschutzbestimmungen WhatsApp Business
+- Verordnung zum Schutz von Daten und WhatsApp Business
+- Regulierung des Datenschutzes und WhatsApp Business
+- Regelung des Datenschutzes WhatsApp
+- Regelung des Datenschutzes WhatsApp Business
+- Was ist die Position von WhatsApp Business in Bezug auf Datenschutzbestimmungen?
+- Wie steht WhatsApp Business zu den allgemeinen Datenschutzbestimmungen?
+- Wie steht WhatsApp zur Datenschutzregelung?
+- Was ist die Position von WhatsApp auf GDPR
+- Wie steht WhatsApp zu den allgemeinen Datenschutzbestimmungen?
+- Wie steht WhatsApp zur Regulierung des Datenschutzes?
+- Wie steht WhatsApp Business zu Datenschutzbestimmungen?
+- Was ist die WhatsApp Business Position auf GDPR
+- Wie steht WhatsApp Business zur Regulierung des Datenschutzes?
+- Was ist die WhatsApp-Position zur Datenschutzverordnung?
+- Was ist die WhatsApp-Position auf GDPR
+- Was ist die WhatsApp-Position zu allgemeinen Datenschutzbestimmungen?
+- Was ist die WhatsApp-Position zur Regulierung des Datenschutzes?
+- WhatsApp Business und GDPR
+- WhatsApp Business und allgemeine Datenschutzbestimmungen
+- WhatsApp Business und Datenschutzbestimmungen
+- WhatsApp Business und Regelung des Datenschutzes
+- WhatsApp Business Datenschutzbestimmungen
+- WhatsApp Business DSGVO
+- Allgemeine WhatsApp Business-Datenschutzbestimmungen
+- WhatsApp Business Regelung zum Datenschutz
+- WhatsApp Business Regelung des Datenschutzes
+- WhatsApp Datenschutzbestimmungen
+- WhatsApp GDPR
+- Allgemeine WhatsApp-Datenschutzbestimmungen
+- WhatsApp und Regelung des Datenschutzes
+- Datenschutzbestimmungen und WhatsApp
+- Datenschutzbestimmungen und WhatsApp Business
+- Datenschutzbestimmungen WhatsApp
+- Datenschutzbestimmungen WhatsApp Business
+- Wie steht WhatsApp Business zu allgemeinen Datenschutzbestimmungen?
+- Wie steht WhatsApp zu Datenschutzbestimmungen?
+- Wie steht WhatsApp Business zur Regelung des Datenschutzes?
+- Regelung des Datenschutzes und WhatsApp
+- DSGVO und WhatsApp
+- GDPR und WhatsApp Business
+- DSGVO WhatsApp
+- GDPR WhatsApp-Geschäft
+- Allgemeine Datenschutzbestimmungen und WhatsApp
+- Was ist die Position von WhatsApp Business auf GDPR
+- WhatsApp-Regelung zum Schutz von Daten
+- WhatsApp und Datenschutzbestimmungen
+	
+## intent:whatsapp_business_data_origin
+- Wer schreibt die Daten
+- Wer schreibt den Inhalt?
+- Wer schreibt den Inhalt
+- Woher stammen die Nachrichten?
+- Woher stammen die Daten?
+- Woher kommen die Nachrichten?
+- Wer ist für die Erstellung der Daten verantwortlich?
+- Wer ist für die Erstellung der Inhalte verantwortlich?
+- Wer schreibt die Daten?
+- Wer schreibt die Nachrichten?
+- Woher kommt der Inhalt?
+- Woher kommen die Daten?
+- Wer erstellt den Inhalt
+- Wer erstellt die Nachrichten?
+- Wer erstellt den Inhalt?
+- Wer erstellt die Daten?
+- Wer ist für die Erstellung der Nachrichten verantwortlich?
+- Wer ist für die Erstellung des Inhalts verantwortlich?
+	
+## intent:whatsapp_business_data_privacy
+- Wie sieht’s aus mit dem Datenschutz
+- Wie sieht es mit der Sicherheit der Daten aus?
+- Was ist mit der GDPR-Konformität?
+- Was ist mit dem Datenschutz
+- Was ist mit Datenschutz, Sicherheit und Einhaltung der Datenschutzrichtlinien?
+- Was passiert mit meinen Daten?
+- Über Datenschutz und WhatsApp-Geschäft
+- Über Datenschutz und WhatsApp
+- Erzählen Sie mir, wie Sie meine Daten schützen
+- Was passiert mit meinen persönlichen Daten?
+- Informationen zum Datenschutz, zur Sicherheit und zur Einhaltung der Datenschutzbestimmungen
+- Erzählen Sie mir von meinen Daten
+- Erzählen Sie mir von meinen persönlichen Daten
+- Erzähl mir von der Sicherheit
+- Erzähl mir mehr über den Datenschutz
+- Erzählen Sie mir mehr darüber, wie Sie meine Daten schützen
+- Informieren Sie mich über Datenschutz, Sicherheit und Einhaltung der Datenschutzbestimmungen
+- Wie werden meine persönlichen Daten verarbeitet?
+- Infos zum Datenschutz
+- Info darüber, wie Sie meine Daten schützen
+- Sag mir was zum Datenschutz
+- Informieren Sie mich über die Einhaltung der Datenschutzbestimmungen
+- Sagen Sie mir, wie Sie meine Daten schützen
+- Erzähl mir von Datenschutz
+- Erzählen Sie mir von Datenschutz, Sicherheit und Einhaltung der Datenschutzbestimmungen
+- Über die Daten Sicherheit
+- Sage mir etwas über die Datensicherheit und WhatsApp
+- Sage mir etwas über die Sicherheit und WhatsApp-Geschäft
+- Sage mir etwas über die GDPR-Konformität
+- Sage mir etwas über die GDPR Compliance und WhatsApp
+- Sage mir etwas über die GDPR Compliance und WhatsApp-Geschäft
+- Sage mir etwas über die GDPR und WhatsApp-Geschäft
+- Sage mir etwas über die GDPR und WhatsApp
+- Zum Datenschutz
+- Zum Datenschutz, zur Sicherheit und zur Einhaltung der Datenschutzbestimmungen
+- Zum Datenschutz und WhatsApp
+- Zum Datenschutz und zum WhatsApp-Geschäft
+- Hinweise zum Datenschutz
+- Informationen zum Datenschutz
+- Informationen darüber, wie Sie meine Daten schützen
+- Sagen Sie mir meine Daten
+- Teilen Sie mir meine persönlichen Daten mit
+- Sagen Sie mir auf Sicherheit
+- Sagen Sie mir, was mit meinen Daten passiert
+- Sagen Sie mir, was mit meinen persönlichen Daten passiert
+- Wie werden meine Daten verarbeitet?
+- Wie schützen Sie meine Daten?
+- Über Sicherheit
+- Datenschutz
+- Über Sicherheit und WhatsApp
+- Über Sicherheit und WhatsApp-Geschäft
+- Über die Einhaltung der GDPR
+- Über GDPR Compliance und WhatsApp
+- Über GDPR Compliance und WhatsApp-Geschäft
+- Über GDPR und WhatsApp Business
+- Was ist mit der GDPR-Konformität
+- Was ist mit der Sicherheit der Daten
+- Was ist mit meinen persönlichen Daten?
+- Erzählen Sie mir von der GDPR-Konformität
+- Was ist mit meinen Daten?
+- Welche Rolle spielt WhatsApp bei der Datenverarbeitung?
+	
+## intent:whatsapp_business_data_role
+- Erläutern Sie die Rollen bei der Datenverarbeitung
+- Erläutern Sie die Rollen der Datenverarbeitung
+- Erläutern Sie die Datenrollen der Verarbeitung
+- Erläutern Sie die Datenverarbeitungsrollen
+- Versteht sich WhatsApp als Datencontroller, Datenprozessor oder beides?
+- Datenverarbeitungsrollen
+- Datenverarbeitungsrolle WhatsApp
+- WhatsApp-Rolle bei der Datenverarbeitung
+- Welches sind die Daten verarbeitungsrollen?
+- Welche Rolle spielt die Datenverarbeitung von WhatsApp?
+- Was ist ein Daten prozessor und ein Datencontroller?
+- Was ist ein Daten prozessor?
+- Was ist ein Daten controller und ein Datenprozessor?
+- Was ist ein Datencontroller?
+- Was sind die Rollen der Datenverarbeitung
+- Was sind die Verarbeitungsrollen der Daten
+- Was sind die Datenverarbeitungsrollen?
+- Rollen der Daten verarbeitung
+- Welches sind die Verarbeitungsrollen der Daten?
+- Welches sind die Rollen der Datenverarbeitung
+- Welches ist ein Daten controller
+- Welches ist ein Datencontroller und ein Datenprozessor
+- Welches ist ein Daten prozessor
+- Welches ist ein Datenprozessor und ein Datencontroller
+- WhatsApp-Rollendatenverarbeitung
+- Erläutern Sie die Rollen in der Datenverarbeitung
+- WhatsApp-Rolle in der Datenverarbeitung
+	
+## intent:whatsapp_business_data_storage
+- Können Sie mir sagen, ob die Daten auf Servern mit Sitz in den USA gespeichert werden?
+- Können Sie mir sagen, ob die Daten auf US-Servern gespeichert werden?
+- Können Sie mir mitteilen, ob die Daten auf EU-basierten Servern gespeichert werden?
+- Können Sie mir sagen, ob die Daten auf EU-Servern gespeichert werden?
+- Können Sie mir mitteilen, ob meine Daten auf Servern mit Sitz in den USA gespeichert werden?
+- Können Sie mir mitteilen, ob meine Daten auf US-Servern gespeichert sind?
+- Können Sie mir mitteilen, ob meine Daten auf EU-basierten Servern gespeichert werden?
+- Können Sie mir mitteilen, ob meine Daten auf EU-Servern gespeichert werden?
+- Ich möchte Informationen zur Datenspeicherung
+- Können Sie mir sagen, wo die Daten gespeichert werden
+- Info zur Datenspeicherung
+- Können Sie mir sagen, auf welchen Servern meine Daten gespeichert sind?
+- Können Sie mir sagen, auf welchen Servern die Daten gespeichert sind?
+- Können Sie mir sagen, in welchen Diensten die Daten gespeichert werden
+- Informationen zur Datenspeicherung
+- Ich möchte wissen, wo meine Daten gespeichert werden
+- Wo werden die personenbezogenen Daten gespeichert?
+- Wo werden meine persönlichen Daten gespeichert?
+- Wo speichert WhatsApp meine Daten?
+- Werden personenbezogene Daten auf Servern mit Sitz in den USA gespeichert?
+- Werden persönliche Daten auf US-Servern gespeichert?
+- Werden personenbezogene Daten auf europäischen Servern gespeichert?
+- Werden personenbezogene Daten auf Servern mit Sitz in Europa gespeichert?
+- Werden personenbezogene Daten auf EU-basierten Servern gespeichert?
+- Werden personenbezogene Daten auf EU-Servern gespeichert?
+- Informationen zur Speicherung von Daten
+- Können Sie mir sagen, wo meine Daten gespeichert werden?
+- Info zur Speicherung von Daten
+- Infos zur Datenspeicherung
+- In welchen Diensten speichert Whatsapp meine Daten?
+- Können Sie mir mitteilen, zu welchen Zwecken meine Daten gespeichert werden
+	
+## intent:whatsapp_business_for_large
+- WhatsApp großes Geschäft
+- WhatsApp für große Unternehmen
+- WhatsApp-Geschäft für Großunternehmen
+- Infos zu WhatsApp für große Unternehmen
+- WhatsApp-Geschäft für große Unternehmen
+- WhatsApp-Geschäft für große
+- WhatsApp Business API für Großunternehmen
+- WhatsApp API für große Unternehmen
+- Informationen zu WhatsApp für große Unternehmen
+- Auf WhatsApp für große Unternehmen
+- Auf WhatsApp-Geschäft für große Unternehmen
+- Auf WhatsApp-Geschäft für Großunternehmen
+- Auf WhatsApp-Geschäft für große
+- Auf WhatsApp Business API für Großunternehmen
+- Auf WhatsApp API für große Unternehmen
+- Infos zum WhatsApp-Geschäft für Groß
+- Infos zu WhatsApp Business API für Großunternehmen
+- Infos zu WhatsApp API für große Unternehmen
+- Informationen zu WhatsApp für Großunternehmen
+- Informationen zum WhatsApp-Geschäft für Großunternehmen
+- Informationen zu WhatsApp Business API für Großunternehmen
+- Infos zum WhatsApp-Geschäft für Großunternehmen
+- WhatsApp große Unternehmen
+- Über WhatsApp für große Unternehmen
+- Informationen zu WhatsApp API für große Unternehmen
+- Infos zu WhatsApp für Großunternehmen
+- Über WhatsApp-Geschäft für große Unternehmen
+- Über WhatsApp Business für Großunternehmen
+- Über WhatsApp-Geschäft für große
+- Über WhatsApp Business API für Großunternehmen
+- Über WhatsApp API für große Unternehmen
+	
+## intent:whatsapp_business_for_small
+- Informationen über WhatsApp App für kleine Unternehmen
+- Informationen über WhatsApp Business App für kleine Unternehmen
+- Informationen zur WhatsApp-App für kleine Unternehmen
+- Informationen zu WhatsApp Business App für kleine Unternehmen
+- Informationen zu WhatsApp Business für kleine Unternehmen
+- Informationen zum WhatsApp-Geschäft für kleine Unternehmen
+- Infos zur WhatsApp-App für kleine Unternehmen
+- WhatsApp-Geschäft für kleine Unternehmen
+- WhatsApp-Geschäft für kleine
+- WhatsApp Business App für kleine Unternehmen
+- WhatsApp App für kleine Unternehmen
+- Über WhatsApp-Geschäft für kleine Unternehmen
+- Über WhatsApp-Geschäft für kleine
+- Über WhatsApp App für kleine Unternehmen
+- Infos zur WhatsApp Business App für kleine Unternehmen
+- Infos zu WhatsApp Business App für kleine Unternehmen
+- Infos zum WhatsApp-Business für kleine
+- Infos zu WhatsApp Business für kleine Unternehmen
+- WhatsApp Kleinunternehmen
+- Über WhatsApp Business für kleine Unternehmen
+- Über WhatsApp Business für kleine
+- Über WhatsApp Business App für kleine Unternehmen
+- Informationen zu WhatsApp für kleine Unternehmen
+- Über WhatsApp für kleine Unternehmen
+- Infos zur WhatsApp App für kleine Unternehmen
+- Infos zu WhatsApp für kleine Unternehmen
+- Infos zum WhatsApp-Geschäft für kleine Unternehmen
+- Kann ich Dokumente mit meinen Kunden über WhatsApp teilen?
+	
+## intent:whatsapp_business_other_content_sharing
+- Ich möchte Videos mit meinen Kunden auf WhatsApp teilen
+- Ich möchte Audio mit meinen Kunden auf WhatsApp for Business teilen
+- Ist es möglich, Dokumente auf WhatsApp for Business an meine Kunden zu senden?
+- Ist es möglich, Dokumente über WhatsApp for Business an meine Kunden zu senden?
+- Ist es möglich, Dokumente über WhatsApp an meine Kunden zu senden?
+- Ist es möglich, Geolocations über WhatsApp for Business an meine Kunden zu senden?
+- Kann ich Geolocations über WhatsApp an meine Kunden senden?
+- Ist es möglich, Bilder auf WhatsApp for Business an meine Kunden zu senden?
+- Ist es möglich, Bilder über WhatsApp for Business an meine Kunden zu senden?
+- Ist es möglich, auf WhatsApp for Business Mediendateien an meine Kunden zu senden?
+- Ist es möglich, Mediendateien über WhatsApp for Business an meine Kunden zu senden?
+- Ist es möglich, Mediendateien über WhatsApp an meine Kunden zu senden?
+- Ist es möglich, auf WhatsApp for Business PDF-Dokumente an meine Kunden zu senden?
+- Ist es möglich, über WhatsApp for Business PDF-Dokumente an meine Kunden zu senden?
+- Kann ich meinen Kunden PDF-Dokumente über WhatsApp senden?
+- Ist es möglich, auf WhatsApp for Business PDF-Dateien an meine Kunden zu senden?
+- Ist es möglich, über WhatsApp for Business PDF-Dateien an meine Kunden zu senden?
+- Kann ich meinen Kunden PDF-Dateien über WhatsApp senden?
+- Ist es möglich, auf WhatsApp umfangreiche Inhalte an meine Kunden zu senden?
+- Ist es möglich, über WhatsApp for Business umfangreiche Inhalte an meine Kunden zu senden?
+- Ist es möglich, über WhatsApp umfangreiche Inhalte an meine Kunden zu senden?
+- Ist es möglich, über WhatsApp for Business Rich Media an meine Kunden zu senden?
+- Ist es möglich, über WhatsApp Rich Media an meine Kunden zu senden?
+- Ist es möglich, URLs über WhatsApp for Business an meine Kunden zu senden?
+- Kann ich URLs über WhatsApp an meine Kunden senden?
+- Ist es möglich, auf WhatsApp for Business Videos an meine Kunden zu senden?
+- Ist es möglich, über WhatsApp for Business Videos an meine Kunden zu senden?
+- Ist es möglich, Audio mit meinen Kunden auf WhatsApp for Business zu teilen?
+- Ist es möglich, Audio mit meinen Kunden auf WhatsApp zu teilen?
+- Ist es möglich, Audio mit meinen Kunden über WhatsApp for Business zu teilen?
+- Ist es möglich, Audio mit meinen Kunden über WhatsApp zu teilen?
+- Ist es möglich, Dokumente auf WhatsApp for Business mit meinen Kunden zu teilen?
+- Ist es möglich, Dokumente auf WhatsApp mit meinen Kunden zu teilen?
+- Ist es möglich, Dokumente mit meinen Kunden über WhatsApp for Business zu teilen?
+- Ist es möglich, Dokumente mit meinen Kunden über WhatsApp zu teilen?
+- Ist es möglich, Bilder mit meinen Kunden auf WhatsApp for Business zu teilen?
+- Ist es möglich, Bilder mit meinen Kunden auf WhatsApp zu teilen?
+- Ist es möglich, Bilder mit meinen Kunden über WhatsApp for Business zu teilen?
+- Ist es möglich, Bilder mit meinen Kunden über WhatsApp zu teilen?
+- Ist es möglich, Mediendateien auf WhatsApp for Business mit meinen Kunden zu teilen?
+- Ist es möglich, Mediendateien mit meinen Kunden auf WhatsApp zu teilen?
+- Ist es möglich, Mediendateien mit meinen Kunden über WhatsApp for Business zu teilen?
+- Ist es möglich, Mediendateien mit meinen Kunden über WhatsApp zu teilen?
+- Ist es möglich, auf WhatsApp for Business PDF-Dokumente mit meinen Kunden zu teilen?
+- Ist es möglich, auf WhatsApp PDF-Dokumente mit meinen Kunden zu teilen?
+- Ist es möglich, über WhatsApp for Business PDF-Dokumente mit meinen Kunden zu teilen?
+- Ist es möglich, über WhatsApp PDF-Dokumente mit meinen Kunden zu teilen?
+- Ist es möglich, auf WhatsApp for Business PDF-Dateien mit meinen Kunden zu teilen?
+- Ist es möglich, auf WhatsApp PDF-Dateien mit meinen Kunden zu teilen?
+- Ist es möglich, über WhatsApp for Business PDF-Dateien mit meinen Kunden zu teilen?
+- Ist es möglich, über WhatsApp PDF-Dateien mit meinen Kunden zu teilen?
+- Ist es möglich, auf WhatsApp for Business umfangreiche Inhalte mit meinen Kunden zu teilen?
+- Ist es möglich, auf WhatsApp reichhaltige Inhalte mit meinen Kunden zu teilen?
+- Ist es möglich, über WhatsApp for Business umfangreiche Inhalte mit meinen Kunden zu teilen?
+- Ist es möglich, über WhatsApp umfangreiche Inhalte mit meinen Kunden zu teilen?
+- Ist es möglich, Rich Media mit meinen Kunden auf WhatsApp for Business zu teilen?
+- Ist es möglich, Rich Media mit meinen Kunden auf WhatsApp zu teilen?
+- Ist es möglich, Rich Media mit meinen Kunden über WhatsApp for Business zu teilen?
+- Ist es möglich, über WhatsApp Rich Media mit meinen Kunden zu teilen?
+- Ist es möglich, auf WhatsApp for Business Videos mit meinen Kunden zu teilen?
+- Ist es möglich, Videos mit meinen Kunden auf WhatsApp zu teilen?
+- Ist es möglich, Videos mit meinen Kunden über WhatsApp for Business zu teilen?
+- Ist es möglich, Videos mit meinen Kunden über WhatsApp zu teilen?
+- Senden von Audio auf WhatsApp
+- Senden von Audio auf WhatsApp for Business
+- Senden von Audio über WhatsApp
+- Senden von Audio über WhatsApp for Business
+- Senden von Audio mit WhatsApp
+- Senden von Audio mit WhatsApp for Business
+- Senden von Content-Sharing auf WhatsApp
+- Senden von Content-Sharing auf WhatsApp for Business
+- Versenden von Content-Sharing über WhatsApp
+- Senden von Content-Sharing über WhatsApp for Business
+- Senden von Content-Sharing mit WhatsApp
+- Senden von Content-Sharing mit WhatsApp for Business
+- Senden von Dokumenten auf WhatsApp
+- Senden von Dokumenten auf WhatsApp for Business
+- Senden von Dokumenten über WhatsApp
+- Senden von Dokumenten über WhatsApp for Business
+- Senden von Dokumenten mit WhatsApp
+- Senden von Dokumenten mit WhatsApp for Business
+- Geolocations auf WhatsApp senden
+- Senden von Geolocations auf WhatsApp for Business
+- Senden von Geolocations über WhatsApp
+- Senden von Geolocations über WhatsApp for Business
+- Geolocations mit WhatsApp senden
+- Senden von Geolocations mit WhatsApp for Business
+- Senden von Bildern auf WhatsApp
+- Senden von Bildern auf WhatsApp for Business
+- Senden von Bildern über WhatsApp
+- Senden von Bildern über WhatsApp for Business
+- Senden von Bildern mit WhatsApp
+- Senden von Bildern mit WhatsApp for Business
+- Senden von Mediendateien auf WhatsApp
+- Senden von Mediendateien auf WhatsApp for Business
+- Senden von Mediendateien über WhatsApp
+- Senden von Mediendateien über WhatsApp for Business
+- Senden von Mediendateien mit WhatsApp
+- Senden von Mediendateien mit WhatsApp for Business
+- Senden von PDF-Dokumenten auf WhatsApp
+- Senden von PDF-Dokumenten auf WhatsApp for Business
+- Senden von PDF-Dokumenten über WhatsApp
+- Senden von PDF-Dokumenten über WhatsApp for Business
+- Senden von PDF-Dokumenten mit WhatsApp
+- Senden von PDF-Dokumenten mit WhatsApp for Business
+- Senden von PDF-Dateien auf WhatsApp
+- Senden von PDF-Dateien auf WhatsApp for Business
+- Senden von PDF-Dateien über WhatsApp
+- Senden von PDF-Dateien über WhatsApp for Business
+- Senden von PDF-Dateien mit WhatsApp
+- Senden von PDF-Dateien mit WhatsApp for Business
+- Senden von umfangreichen Inhalten auf WhatsApp
+- Senden umfangreicher Inhalte auf WhatsApp for Business
+- Senden von umfangreichen Inhalten über WhatsApp
+- Senden umfangreicher Inhalte über WhatsApp for Business
+- Senden von umfangreichen Inhalten mit WhatsApp
+- Senden Sie umfangreiche Inhalte mit WhatsApp for Business
+- Rich Media-Versand über WhatsApp
+- Senden von Rich Media auf WhatsApp for Business
+- Senden von Rich Media über WhatsApp
+- Senden von Rich Media über WhatsApp for Business
+- Rich Media-Versand mit WhatsApp
+- Rich Media-Versand mit WhatsApp for Business
+- Senden von URLs auf WhatsApp
+- Senden von URLs auf WhatsApp for Business
+- Senden von URLs über WhatsApp
+- Senden von URLs über WhatsApp for Business
+- Senden von URLs mit WhatsApp
+- Senden von URLs mit WhatsApp for Business
+- Senden von Videos auf WhatsApp
+- Senden von Videos auf WhatsApp for Business
+- Senden von Videos über WhatsApp
+- Senden von Videos über WhatsApp for Business
+- Senden von Videos mit WhatsApp for Business
+- WhatsApp for Business PDF-Dateien
+- WhatsApp for Business PDF-Dokumente
+- WhatsApp for Business-Mediendateien
+- WhatsApp für Business-Bilder
+- WhatsApp for Business-Geolocations
+- WhatsApp for Business-Dokumente
+- Teilen von WhatsApp for Business-Inhalten
+- WhatsApp for Business Audio
+- WhatsApp-Dokumente
+- Teilen von WhatsApp-Inhalten
+- WhatsApp-Audio
+- Welche Art von Rich Content kann ich auf WhatsApp for Business für Kunden freigeben?
+- Welche Art von Mediendateien kann ich mit Kunden über WhatsApp teilen
+- WhatsApp-Videos
+- WhatsApp-URLs
+- WhatsApp Rich Media
+- WhatsApp-reicher Inhalt
+- WhatsApp PDF-Dateien
+- WhatsApp-PDF-Dokumente
+- WhatsApp-Mediendateien
+- WhatsApp-Bilder
+- WhatsApp-Geolocations
+- WhatsApp für Business-Videos
+- WhatsApp for Business-URLs
+- WhatsApp for Business Rich Media
+- WhatsApp for Business Rich Content
+- Kann ich auf WhatsApp for Business Dokumente an meine Kunden senden?
+- Kann ich auf WhatsApp Dokumente an meine Kunden senden?
+- Kann ich meinen Kunden Dokumente über WhatsApp for Business senden?
+- Kann ich über WhatsApp Dokumente an meine Kunden senden?
+- Kann ich auf WhatsApp for Business Geolocations an meine Kunden senden?
+- Kann ich auf WhatsApp Geolocations an meine Kunden senden?
+- Kann ich über WhatsApp for Business Geolocations an meine Kunden senden?
+- Kann ich über WhatsApp Geolocations an meine Kunden senden?
+- Kann ich auf WhatsApp for Business Bilder an meine Kunden senden?
+- Kann ich auf WhatsApp Bilder an meine Kunden senden?
+- Kann ich über WhatsApp for Business Bilder an meine Kunden senden?
+- Kann ich über WhatsApp Bilder an meine Kunden senden?
+- Kann ich auf WhatsApp for Business Mediendateien an meine Kunden senden?
+- Kann ich auf WhatsApp Mediendateien an meine Kunden senden?
+- Kann ich meinen Kunden Mediendateien über WhatsApp for Business senden?
+- Kann ich meinen Kunden Mediendateien über WhatsApp senden?
+- Kann ich meinen Kunden auf WhatsApp for Business PDF-Dokumente senden?
+- Kann ich meinen Kunden auf WhatsApp PDF-Dokumente senden?
+- Kann ich meinen Kunden über WhatsApp for Business PDF-Dokumente senden?
+- Kann ich meinen Kunden über WhatsApp PDF-Dokumente senden?
+- Kann ich meinen Kunden auf WhatsApp for Business PDF-Dateien senden?
+- Kann ich meinen Kunden auf WhatsApp PDF-Dateien senden?
+- Kann ich meinen Kunden über WhatsApp for Business PDF-Dateien senden?
+- Kann ich meinen Kunden über WhatsApp PDF-Dateien senden?
+- Kann ich meinen Kunden auf WhatsApp for Business umfangreiche Inhalte senden?
+- Kann ich auf WhatsApp umfangreiche Inhalte an meine Kunden senden?
+- Kann ich über WhatsApp for Business umfangreiche Inhalte an meine Kunden senden?
+- Kann ich über WhatsApp umfangreiche Inhalte an meine Kunden senden?
+- Kann ich über WhatsApp for Business Rich Media an meine Kunden senden?
+- Kann ich auf WhatsApp Rich Media an meine Kunden senden?
+- Kann ich meinen Kunden Rich Media über WhatsApp for Business senden?
+- Kann ich über WhatsApp Rich Media an meine Kunden senden?
+- Kann ich auf WhatsApp for Business URLs an meine Kunden senden?
+- Kann ich auf WhatsApp URLs an meine Kunden senden?
+- Kann ich über WhatsApp for Business URLs an meine Kunden senden?
+- Kann ich über WhatsApp URLs an meine Kunden senden?
+- Kann ich auf WhatsApp for Business Videos an meine Kunden senden?
+- Kann ich auf WhatsApp Videos an meine Kunden senden?
+- Kann ich über WhatsApp for Business Videos an meine Kunden senden?
+- Kann ich über WhatsApp Videos an meine Kunden senden?
+- Kann ich auf WhatsApp for Business Audio für meine Kunden freigeben?
+- Kann ich auf WhatsApp Audio mit meinen Kunden teilen?
+- Kann ich Audio mit meinen Kunden über WhatsApp for Business teilen?
+- Kann ich über WhatsApp Audio mit meinen Kunden teilen?
+- Kann ich auf WhatsApp for Business Dokumente mit meinen Kunden teilen?
+- Kann ich Dokumente mit meinen Kunden auf WhatsApp teilen?
+- Kann ich Dokumente mit meinen Kunden über WhatsApp for Business teilen?
+- Kann ich auf WhatsApp for Business Bilder mit meinen Kunden teilen?
+- Kann ich Bilder mit meinen Kunden auf WhatsApp teilen?
+- Kann ich Bilder mit meinen Kunden über WhatsApp for Business teilen?
+- Kann ich Bilder mit meinen Kunden über WhatsApp teilen?
+- Kann ich auf WhatsApp for Business Mediendateien mit meinen Kunden teilen?
+- Kann ich auf WhatsApp Mediendateien mit meinen Kunden teilen?
+- Kann ich Mediendateien mit meinen Kunden über WhatsApp for Business teilen?
+- Kann ich über WhatsApp Mediendateien mit meinen Kunden teilen?
+- Kann ich auf WhatsApp for Business PDF-Dokumente mit meinen Kunden teilen?
+- Kann ich auf WhatsApp PDF-Dokumente mit meinen Kunden teilen?
+- Kann ich meinen Kunden über WhatsApp for Business PDF-Dokumente zur Verfügung stellen?
+- Kann ich über WhatsApp PDF-Dokumente mit meinen Kunden teilen?
+- Kann ich auf WhatsApp for Business PDF-Dateien mit meinen Kunden teilen?
+- Kann ich auf WhatsApp PDF-Dateien mit meinen Kunden teilen?
+- Kann ich meinen Kunden über WhatsApp for Business PDF-Dateien zur Verfügung stellen?
+- Kann ich über WhatsApp PDF-Dateien mit meinen Kunden teilen?
+- Kann ich auf WhatsApp for Business umfangreiche Inhalte mit meinen Kunden teilen?
+- Kann ich auf WhatsApp umfangreiche Inhalte mit meinen Kunden teilen?
+- Kann ich über WhatsApp for Business umfangreiche Inhalte mit meinen Kunden teilen?
+- Kann ich über WhatsApp umfangreiche Inhalte mit meinen Kunden teilen?
+- Kann ich auf WhatsApp for Business Rich Media mit meinen Kunden teilen?
+- Kann ich auf WhatsApp Rich Media mit meinen Kunden teilen?
+- Kann ich über WhatsApp for Business Rich Media mit meinen Kunden teilen?
+- Kann ich über WhatsApp Rich Media mit meinen Kunden teilen?
+- Kann ich auf WhatsApp for Business Videos mit meinen Kunden teilen?
+- Kann ich auf WhatsApp Videos mit meinen Kunden teilen?
+- Kann ich über WhatsApp for Business Videos mit meinen Kunden teilen?
+- Kann ich über WhatsApp Videos mit meinen Kunden teilen?
+- Unterstützt WhatsApp for Business Audio?
+- Unterstützt WhatsApp for Business-Dokumente
+- Unterstützt WhatsApp for Business Bilder?
+- Unterstützt WhatsApp for Business Mediendateien?
+- Unterstützt WhatsApp for Business PDF-Dokumente?
+- Unterstützt WhatsApp for Business PDF-Dateien?
+- Unterstützt WhatsApp for Business umfangreiche Inhalte?
+- Unterstützt WhatsApp for Business Rich Media?
+- Unterstützt WhatsApp for Business Videos?
+- Unterstützt WhatsApp Audio?
+- Unterstützt WhatsApp Dokumente?
+- Unterstützt WhatsApp Bilder?
+- Unterstützt WhatsApp Mediendateien?
+- Unterstützt WhatsApp PDF-Dokumente?
+- Unterstützt WhatsApp PDF-Dateien?
+- Unterstützt WhatsApp Rich Content?
+- Welche Rich Media kann ich mit Kunden auf WhatsApp for Business teilen?
+- Welche Rich Media kann ich mit Kunden über WhatsApp for Business teilen?
+- Unterstützt WhatsApp Rich Media?
+- Unterstützt WhatsApp Videos?
+- Kann ich über WhatsApp Audio an meine Kunden senden?
+- Ich möchte Audio mit meinen Kunden auf WhatsApp teilen
+- Ich möchte Audio mit meinen Kunden über WhatsApp for Business teilen
+- Ich möchte Audio mit meinen Kunden über WhatsApp teilen
+- Ich möchte Dokumente auf WhatsApp for Business mit meinen Kunden teilen
+- Ich möchte Dokumente mit meinen Kunden auf WhatsApp teilen
+- Ich möchte Dokumente mit meinen Kunden über WhatsApp for Business teilen
+- Kann ich über WhatsApp for Business Audio an meine Kunden senden?
+- Kann ich auf WhatsApp Audio an meine Kunden senden?
+- Kann ich auf WhatsApp for Business Audio an meine Kunden senden?
+- Ich möchte meinen Kunden Videos über WhatsApp senden
+- Ich möchte meinen Kunden Videos über WhatsApp for Business senden
+- Ich möchte meinen Kunden auf WhatsApp Videos senden
+- Ich möchte meinen Kunden auf WhatsApp for Business Videos senden
+- Ich möchte meinen Kunden Rich Media über WhatsApp for Business senden
+- Ich möchte meinen Kunden umfangreiche Inhalte über WhatsApp senden
+- Ich möchte meinen Kunden umfangreiche Inhalte über WhatsApp for Business senden
+- Ich möchte meinen Kunden auf WhatsApp umfangreiche Inhalte senden
+- Ich möchte meinen Kunden auf WhatsApp for Business umfangreiche Inhalte senden
+- Ich möchte meinen Kunden über WhatsApp PDF-Dateien senden
+- Ich möchte meinen Kunden über WhatsApp for Business PDF-Dateien senden
+- Ich möchte meinen Kunden auf WhatsApp PDF-Dateien senden
+- Ich möchte meinen Kunden auf WhatsApp for Business PDF-Dateien senden
+- Ich möchte meinen Kunden PDF-Dokumente über WhatsApp senden
+- Ich möchte meinen Kunden PDF-Dokumente über WhatsApp for Business senden
+- Ich möchte meinen Kunden auf WhatsApp PDF-Dokumente senden
+- Ich möchte meinen Kunden auf WhatsApp for Business PDF-Dokumente senden
+- Ich möchte meinen Kunden Mediendateien über WhatsApp senden
+- Ich möchte meinen Kunden Mediendateien über WhatsApp for Business senden
+- Ich möchte meinen Kunden Bilder über WhatsApp senden
+- Ich möchte meinen Kunden Bilder über WhatsApp for Business senden
+- Ich möchte meinen Kunden Bilder auf WhatsApp senden
+- Ich möchte meinen Kunden Bilder auf WhatsApp for Business senden
+- Ich möchte meinen Kunden Dokumente über WhatsApp senden
+- Ich möchte meinen Kunden Dokumente auf WhatsApp senden
+- Ich möchte meinen Kunden Dokumente über WhatsApp for Business senden
+- Ich möchte über WhatsApp Audio an meine Kunden senden
+- Welche Art von Rich Media kann ich auf WhatsApp for Business an meine Kunden senden?
+- Welche Art von Rich Content kann ich mit Kunden über WhatsApp teilen?
+- Welche Art von Rich Content kann ich mit Kunden über WhatsApp for Business teilen?
+- Welche Art von Rich Content kann ich mit Kunden auf WhatsApp teilen?
+- Welche Art von Rich Content kann ich mit Kunden auf WhatsApp for Business teilen?
+- Welche Art von Rich Content kann ich über WhatsApp an meine Kunden senden?
+- Welche Art von Rich Content kann ich über WhatsApp for Business an meine Kunden senden?
+- Welche Art von Rich Content kann ich auf WhatsApp an meine Kunden senden?
+- Welche Art von Rich Content kann ich auf WhatsApp for Business an meine Kunden senden?
+- Welche Art von Mediendateien kann ich mit Kunden über WhatsApp teilen?
+- Welche Rich Media kann ich über WhatsApp mit Kunden teilen?
+- Welche Art von Rich Media kann ich auf WhatsApp an meine Kunden senden?
+- Welche Art von Rich Media kann ich über WhatsApp for Business an meine Kunden senden?
+- Welche Art von Rich Media kann ich über WhatsApp an meine Kunden senden?
+- Welche Art von Rich Media kann ich auf WhatsApp for Business für Kunden freigeben?
+- Welche Art von Rich Media kann ich mit Kunden auf WhatsApp teilen?
+- Welche Art von Rich Media kann ich über WhatsApp for Business für Kunden freigeben?
+- Welche Art von Rich Media kann ich über WhatsApp für Kunden freigeben?
+- Welche Art von Mediendateien kann ich mit Kunden über WhatsApp for Business teilen?
+- Welche Art von Mediendateien kann ich mit Kunden auf WhatsApp teilen?
+- Welche Art von Mediendateien kann ich auf WhatsApp for Business für Kunden freigeben?
+- Welche Art von Mediendateien kann ich über WhatsApp an meine Kunden senden?
+- Welche Art von Mediendateien kann ich über WhatsApp for Business an meine Kunden senden?
+- Welche Art von Mediendateien kann ich auf WhatsApp an meine Kunden senden?
+- Welche Art von Mediendateien kann ich auf WhatsApp for Business an meine Kunden senden?
+- Ich möchte über WhatsApp for Business Audio an meine Kunden senden
+- Ich möchte auf WhatsApp Audio an meine Kunden senden
+- Ich möchte auf WhatsApp for Business Audio an meine Kunden senden
+- Ich möchte Videos mit meinen Kunden über WhatsApp teilen
+- Ich möchte Videos mit meinen Kunden über WhatsApp for Business teilen
+- Ich möchte Videos mit meinen Kunden auf WhatsApp for Business teilen
+- Ich möchte über WhatsApp Rich Media mit meinen Kunden teilen
+- Ich möchte Rich Media mit meinen Kunden über WhatsApp for Business teilen
+- Ich möchte Rich Media mit meinen Kunden auf WhatsApp teilen
+- Ich möchte Rich Media mit meinen Kunden auf WhatsApp for Business teilen
+- Ich möchte über WhatsApp umfangreiche Inhalte mit meinen Kunden teilen
+- Ich möchte über WhatsApp for Business umfangreiche Inhalte mit meinen Kunden teilen
+- Ich möchte auf WhatsApp reichhaltige Inhalte mit meinen Kunden teilen
+- Ich möchte auf WhatsApp for Business umfangreiche Inhalte mit meinen Kunden teilen
+- Ich möchte meinen Kunden über WhatsApp PDF-Dateien zur Verfügung stellen
+- Ich möchte meinen Kunden über WhatsApp for Business PDF-Dateien zur Verfügung stellen
+- Ich möchte auf WhatsApp PDF-Dateien mit meinen Kunden teilen
+- Ich möchte meinen Kunden auf WhatsApp for Business PDF-Dateien zur Verfügung stellen
+- Ich möchte meinen Kunden über WhatsApp PDF-Dokumente zur Verfügung stellen
+- Ich möchte meinen Kunden über WhatsApp for Business PDF-Dokumente zur Verfügung stellen
+- Ich möchte auf WhatsApp PDF-Dokumente mit meinen Kunden teilen
+- Ich möchte auf WhatsApp for Business PDF-Dokumente mit meinen Kunden teilen
+- Ich möchte Mediendateien mit meinen Kunden über WhatsApp teilen
+- Ich möchte Mediendateien mit meinen Kunden über WhatsApp for Business teilen
+- Ich möchte Mediendateien mit meinen Kunden auf WhatsApp teilen
+- Ich möchte Mediendateien mit meinen Kunden auf WhatsApp for Business teilen
+- Ich möchte Bilder mit meinen Kunden über WhatsApp teilen
+- Ich möchte Bilder mit meinen Kunden über WhatsApp for Business teilen
+- Ich möchte Bilder mit meinen Kunden auf WhatsApp teilen
+- Ich möchte Bilder mit meinen Kunden auf WhatsApp for Business teilen
+- Ich möchte Dokumente mit meinen Kunden über WhatsApp teilen
+- Welche Rich Media kann ich über WhatsApp for Business mit Kunden teilen?
+- Welche Rich Media kann ich mit Kunden auf WhatsApp teilen?
+- Welche Rich Media-Inhalte kann ich auf WhatsApp for Business für Kunden freigeben?
+- Welche Rich Media kann ich über WhatsApp an meine Kunden senden?
+- Welche Rich Media kann ich über WhatsApp for Business an meine Kunden senden?
+- Welche Rich Media kann ich auf WhatsApp an meine Kunden senden?
+- Welche Rich Media kann ich auf WhatsApp for Business an meine Kunden senden?
+- Welche umfangreichen Inhalte kann ich über WhatsApp mit Kunden teilen?
+- Welche umfangreichen Inhalte kann ich über WhatsApp for Business mit Kunden teilen?
+- Welche umfangreichen Inhalte kann ich mit Kunden auf WhatsApp teilen?
+- Welche umfangreichen Inhalte kann ich mit Kunden auf WhatsApp for Business teilen?
+- Welche umfangreichen Inhalte kann ich über WhatsApp an meine Kunden senden?
+- Welche umfangreichen Inhalte kann ich über WhatsApp for Business an meine Kunden senden?
+- Welche umfangreichen Inhalte kann ich auf WhatsApp an meine Kunden senden?
+- Welche umfangreichen Inhalte kann ich auf WhatsApp for Business an meine Kunden senden?
+- Welche Mediendateien kann ich über WhatsApp mit Kunden teilen?
+- Welche Mediendateien kann ich mit Kunden über WhatsApp for Business teilen?
+- Welche Mediendateien kann ich mit Kunden auf WhatsApp teilen?
+- Welche Mediendateien kann ich mit Kunden auf WhatsApp for Business teilen?
+- Welche Mediendateien kann ich über WhatsApp an meine Kunden senden?
+- Welche Mediendateien kann ich über WhatsApp for Business an meine Kunden senden?
+- Welche Mediendateien kann ich auf WhatsApp an meine Kunden senden?
+- Welche Mediendateien kann ich auf WhatsApp for Business an meine Kunden senden?
+- Senden von Videos mit WhatsApp
+	
+## intent:whatsapp_business_other_enabled_phone_number
+- Gibt es eine Möglichkeit herauszufinden, ob eine Mobiltelefonnummer für WhatsApp for Business aktiviert ist?
+- Gibt es eine Möglichkeit herauszufinden, ob eine Mobiltelefonnummer für WhatsApp aktiviert ist?
+- Gibt es eine Möglichkeit herauszufinden, ob eine Handynummer WhatsApp-fähig ist?
+- Gibt es eine Möglichkeit herauszufinden, ob eine Telefonnummer WhatsApp-fähig ist?
+- Gibt es eine Möglichkeit herauszufinden, ob eine Telefonnummer für WhatsApp for Business aktiviert ist?
+- Gibt es eine Möglichkeit herauszufinden, ob eine Telefonnummer für WhatsApp aktiviert ist?
+- Gibt es eine Möglichkeit herauszufinden, ob eine Telefonnummer WhatsApp-fähig ist
+- Gibt es eine Möglichkeit herauszufinden, ob die Mobiltelefonnummer eines Benutzers für WhatsApp for Business aktiviert ist?
+- Gibt es eine Möglichkeit herauszufinden, ob die Mobiltelefonnummer eines Benutzers für WhatsApp aktiviert ist?
+- Gibt es eine Möglichkeit herauszufinden, ob die Mobiltelefonnummer eines Benutzers WhatsApp-fähig ist?
+- Gibt es eine Möglichkeit herauszufinden, ob die Telefonnummer eines Benutzers für WhatsApp for Business aktiviert ist?
+- Gibt es eine Möglichkeit herauszufinden, ob die Telefonnummer eines Benutzers für WhatsApp aktiviert ist?
+- Gibt es eine Möglichkeit herauszufinden, ob die Telefonnummer eines Benutzers WhatsApp-fähig ist?
+- Gibt es eine API, um zu überprüfen, ob eine bestimmte Handynummer WhatsApp-fähig ist?
+- Gibt es eine API, um zu überprüfen, ob eine bestimmte Telefonnummer WhatsApp-fähig ist?
+- Gibt es eine API, um zu überprüfen, ob eine Handynummer WhatsApp-fähig ist?
+- Gibt es eine API, um zu überprüfen, ob eine Telefonnummer WhatsApp-fähig ist?
+- Gibt es eine API, mit der überprüft werden kann, ob die Mobiltelefonnummer eines Benutzers WhatsApp-fähig ist?
+- Gibt es eine API, die überprüft, ob für eine bestimmte Telefonnummer WhatsApp for Business verfügbar ist?
+- Gibt es eine API, die überprüft, ob eine bestimmte Mobiltelefonnummer WhatsApp verwenden kann?
+- Gibt es eine API, die überprüft, ob eine bestimmte Mobiltelefonnummer WhatsApp for Business verwenden kann?
+- Gibt es eine API, die prüft, ob eine bestimmte Handynummer WhatsApp haben kann?
+- Gibt es eine API, die überprüft, ob eine bestimmte Mobiltelefonnummer WhatsApp for Business enthalten kann?
+- Gibt es eine API, mit der überprüft werden kann, ob die Telefonnummer eines Benutzers WhatsApp-fähig ist?
+- Kann ich prüfen, ob für eine bestimmte Telefonnummer WhatsApp for Business verfügbar ist?
+- WhatsApp for Business-fähige Handynummer
+- WhatsApp-fähige Handynummer
+- Kann ich überprüfen, ob eine bestimmte Telefonnummer WhatsApp for Business unterstützt?
+- Kann ich überprüfen, ob eine bestimmte Handynummer WhatsApp-fähig ist?
+- Kann ich überprüfen, ob eine bestimmte Handynummer für WhatsApp aktiviert ist?
+- Kann ich überprüfen, ob eine bestimmte Mobiltelefonnummer für WhatsApp for Business aktiviert ist?
+- Kann ich überprüfen, ob eine bestimmte Handynummer WhatsApp verwenden kann?
+- Kann ich überprüfen, ob eine bestimmte Mobiltelefonnummer WhatsApp for Business verwenden kann?
+- Kann ich prüfen, ob eine bestimmte Handynummer WhatsApp haben kann?
+- Kann ich überprüfen, ob eine bestimmte Handynummer WhatsApp for Business unterstützt?
+- Woher weiß ich, ob eine bestimmte Handynummer WhatsApp-fähig ist?
+- Gibt es eine API, die überprüft, ob die Mobiltelefonnummer eines Benutzers WhatsApp enthalten kann?
+- Gibt es eine API, die überprüft, ob die Mobiltelefonnummer eines Benutzers WhatsApp for Business verwenden kann?
+- Gibt es eine API, die überprüft, ob die Mobiltelefonnummer eines Benutzers WhatsApp verwenden kann?
+- Gibt es eine API, die überprüft, ob die Telefonnummer eines Benutzers WhatsApp for Business enthalten kann?
+- Gibt es eine API, die überprüft, ob die Telefonnummer eines Benutzers WhatsApp haben kann?
+- Gibt es eine Möglichkeit zu überprüfen, ob eine Handynummer WhatsApp verwenden kann
+- Gibt es eine Möglichkeit zu überprüfen, ob eine Mobiltelefonnummer für WhatsApp for Business aktiviert ist?
+- Gibt es eine Möglichkeit zu überprüfen, ob eine Mobiltelefonnummer für WhatsApp aktiviert ist?
+- Gibt es eine Möglichkeit zu überprüfen, ob eine Handynummer WhatsApp-fähig ist
+- Gibt es eine Möglichkeit zu überprüfen, ob eine Telefonnummer WhatsApp for Business haben kann
+- Gibt es eine Möglichkeit zu überprüfen, ob eine Telefonnummer WhatsApp haben kann
+- Gibt es eine Möglichkeit zu überprüfen, ob eine Telefonnummer WhatsApp for Business verwenden kann
+- Gibt es eine Möglichkeit zu überprüfen, ob eine Telefonnummer WhatsApp verwenden kann
+- Gibt es eine Möglichkeit zu überprüfen, ob eine Telefonnummer für WhatsApp for Business aktiviert ist?
+- Gibt es eine Möglichkeit zu überprüfen, ob eine Telefonnummer für WhatsApp aktiviert ist
+- Gibt es eine Möglichkeit zu überprüfen, ob eine Telefonnummer WhatsApp-fähig ist
+- Gibt es eine Möglichkeit, zu überprüfen, ob die Mobiltelefonnummer eines Benutzers WhatsApp for Business enthalten kann?
+- Gibt es eine Möglichkeit, zu überprüfen, ob die Mobiltelefonnummer eines Benutzers WhatsApp enthalten kann?
+- Gibt es eine Möglichkeit zu überprüfen, ob die Mobiltelefonnummer eines Benutzers WhatsApp for Business verwenden kann?
+- Gibt es eine Möglichkeit zu überprüfen, ob die Mobiltelefonnummer eines Benutzers WhatsApp verwenden kann?
+- Gibt es eine Möglichkeit zu überprüfen, ob die Mobiltelefonnummer eines Benutzers für WhatsApp for Business aktiviert ist?
+- Gibt es eine Möglichkeit zu überprüfen, ob die Mobiltelefonnummer eines Benutzers für WhatsApp aktiviert ist?
+- Gibt es eine Möglichkeit zu überprüfen, ob die Mobiltelefonnummer eines Benutzers WhatsApp-fähig ist?
+- Gibt es eine Möglichkeit zu überprüfen, ob die Telefonnummer eines Benutzers WhatsApp for Business verwenden kann?
+- Gibt es eine Möglichkeit zu überprüfen, ob die Telefonnummer eines Benutzers WhatsApp verwenden kann
+- Gibt es eine Möglichkeit zu überprüfen, ob die Telefonnummer eines Benutzers für WhatsApp for Business aktiviert ist?
+- Gibt es eine Möglichkeit zu überprüfen, ob die Telefonnummer eines Benutzers für WhatsApp aktiviert ist
+- Gibt es eine Möglichkeit zu überprüfen, ob die Telefonnummer eines Benutzers WhatsApp-fähig ist
+- Gibt es eine Möglichkeit herauszufinden, ob eine bestimmte Mobiltelefonnummer für WhatsApp for Business aktiviert ist?
+- Gibt es eine Möglichkeit herauszufinden, ob eine bestimmte Handynummer für WhatsApp aktiviert ist?
+- Gibt es eine Möglichkeit herauszufinden, ob eine bestimmte Handynummer WhatsApp-fähig ist?
+- Gibt es eine Möglichkeit herauszufinden, ob eine bestimmte Telefonnummer für WhatsApp for Business aktiviert ist?
+- Gibt es eine Möglichkeit herauszufinden, ob eine bestimmte Telefonnummer WhatsApp-fähig ist?
+- Gibt es eine Möglichkeit herauszufinden, ob eine bestimmte Telefonnummer für WhatsApp aktiviert ist?
+- Wie kann ich herausfinden, ob die Telefonnummer eines Benutzers WhatsApp-fähig ist?
+- Wie kann ich herausfinden, ob die Handynummer eines Benutzers WhatsApp-fähig ist?
+- Aktivierte Telefonnummer WhatsApp
+- Aktivierte Handynummer WhatsApp for Business
+- Aktivierte Handynummer WhatsApp
+- Kann ich herausfinden, ob die Telefonnummer eines Benutzers für WhatsApp aktiviert ist?
+- Kann ich herausfinden, ob die Telefonnummer eines Benutzers für WhatsApp for Business aktiviert ist?
+- Kann ich herausfinden, ob die Handynummer eines Benutzers WhatsApp-fähig ist?
+- Kann ich herausfinden, ob die Mobiltelefonnummer eines Benutzers für WhatsApp aktiviert ist?
+- Kann ich herausfinden, ob die Mobiltelefonnummer eines Benutzers für WhatsApp for Business aktiviert ist?
+- Kann ich herausfinden, ob eine Handynummer WhatsApp-fähig ist?
+- Kann ich herausfinden, ob eine Handynummer für WhatsApp aktiviert ist?
+- Kann ich herausfinden, ob eine Handynummer für WhatsApp for Business aktiviert ist?
+- Kann ich herausfinden, ob eine bestimmte Telefonnummer für WhatsApp aktiviert ist?
+- Kann ich herausfinden, ob eine bestimmte Telefonnummer für WhatsApp for Business aktiviert ist?
+- Kann ich herausfinden, ob eine bestimmte Handynummer WhatsApp-fähig ist?
+- Kann ich herausfinden, ob eine bestimmte Handynummer für WhatsApp aktiviert ist?
+- Kann ich herausfinden, ob eine bestimmte Handynummer für WhatsApp for Business aktiviert ist?
+- Kann ich überprüfen, ob die Telefonnummer eines Benutzers WhatsApp haben kann?
+- Gibt es eine Möglichkeit zu überprüfen, ob eine Handynummer WhatsApp haben kann
+- Gibt es eine Möglichkeit zu überprüfen, ob eine Handynummer WhatsApp for Business enthalten kann?
+- Gibt es eine Möglichkeit zu überprüfen, ob eine bestimmte Telefonnummer WhatsApp-fähig ist
+- Gibt es eine Möglichkeit zu überprüfen, ob eine bestimmte Telefonnummer WhatsApp for Business haben kann
+- Gibt es eine Möglichkeit zu überprüfen, ob eine bestimmte Telefonnummer für WhatsApp aktiviert ist
+- Gibt es eine Möglichkeit zu überprüfen, ob eine bestimmte Telefonnummer für WhatsApp for Business aktiviert ist?
+- Gibt es eine Möglichkeit zu überprüfen, ob eine bestimmte Telefonnummer WhatsApp verwenden kann
+- Gibt es eine Möglichkeit zu überprüfen, ob eine bestimmte Telefonnummer WhatsApp for Business verwenden kann?
+- Gibt es eine Möglichkeit zu überprüfen, ob eine bestimmte Telefonnummer WhatsApp haben kann
+- Gibt es eine Möglichkeit zu überprüfen, ob eine bestimmte Telefonnummer WhatsApp for Business unterstützt?
+- Gibt es eine Möglichkeit zu überprüfen, ob eine Mobiltelefonnummer WhatsApp for Business verwenden kann?
+- Gibt es eine Möglichkeit zu überprüfen, ob eine bestimmte Handynummer WhatsApp-fähig ist
+- Gibt es eine Möglichkeit zu überprüfen, ob eine bestimmte Handynummer für WhatsApp aktiviert ist
+- Gibt es eine Möglichkeit zu überprüfen, ob eine bestimmte Mobiltelefonnummer für WhatsApp for Business aktiviert ist?
+- Gibt es eine Möglichkeit zu überprüfen, ob eine bestimmte Handynummer WhatsApp verwenden kann
+- Gibt es eine Möglichkeit zu überprüfen, ob eine bestimmte Mobiltelefonnummer WhatsApp for Business verwenden kann?
+- Gibt es eine Möglichkeit zu überprüfen, ob eine bestimmte Handynummer WhatsApp haben kann
+- Gibt es eine Möglichkeit zu überprüfen, ob eine bestimmte Handynummer WhatsApp for Business enthalten kann?
+- Wie kann ich feststellen, ob die Mobiltelefonnummer eines Benutzers WhatsApp-fähig ist?
+- Wie kann ich wissen, ob eine Telefonnummer WhatsApp-fähig ist?
+- Woher weiß ich, ob eine Telefonnummer WhatsApp-fähig ist?
+- Woher weiß ich, ob eine Handynummer WhatsApp-fähig ist?
+- Woher weiß ich, ob eine bestimmte Telefonnummer WhatsApp-fähig ist?
+- Kann ich überprüfen, ob eine bestimmte Telefonnummer für WhatsApp aktiviert ist?
+- Kann ich überprüfen, ob eine bestimmte Telefonnummer WhatsApp-fähig ist?
+- Kann ich überprüfen, ob eine Handynummer WhatsApp for Business unterstützt?
+- Kann ich überprüfen, ob eine Handynummer WhatsApp haben kann?
+- Kann ich überprüfen, ob eine Mobiltelefonnummer WhatsApp for Business verwenden kann?
+- Kann ich überprüfen, ob eine bestimmte Telefonnummer für WhatsApp for Business aktiviert ist?
+- Kann ich überprüfen, ob eine Handynummer WhatsApp verwenden kann?
+- Kann ich überprüfen, ob eine Mobiltelefonnummer für WhatsApp for Business aktiviert ist?
+- Kann ich überprüfen, ob eine Handynummer für WhatsApp aktiviert ist?
+- Kann ich überprüfen, ob eine Handynummer WhatsApp-fähig ist?
+- Kann ich überprüfen, ob eine Telefonnummer WhatsApp verwenden kann?
+- Kann ich überprüfen, ob eine Telefonnummer für WhatsApp for Business aktiviert ist?
+- Kann ich überprüfen, ob eine Telefonnummer für WhatsApp aktiviert ist?
+- Kann ich überprüfen, ob eine Telefonnummer WhatsApp-fähig ist?
+- Kann ich überprüfen, ob die Mobiltelefonnummer eines Benutzers WhatsApp for Business enthalten kann?
+- Kann ich überprüfen, ob die Mobiltelefonnummer eines Benutzers WhatsApp enthalten kann?
+- Kann ich überprüfen, ob die Mobiltelefonnummer eines Benutzers WhatsApp for Business verwenden kann?
+- Kann ich überprüfen, ob die Mobiltelefonnummer eines Benutzers WhatsApp verwenden kann?
+- Kann ich überprüfen, ob die Mobiltelefonnummer eines Benutzers für WhatsApp for Business aktiviert ist?
+- Kann ich überprüfen, ob die Mobiltelefonnummer eines Benutzers für WhatsApp aktiviert ist?
+- Kann ich überprüfen, ob die Handynummer eines Benutzers WhatsApp-fähig ist?
+- Kann ich überprüfen, ob die Telefonnummer eines Benutzers WhatsApp for Business enthalten kann?
+- Kann ich überprüfen, ob die Telefonnummer eines Benutzers WhatsApp enthalten kann?
+- Kann ich überprüfen, ob eine bestimmte Telefonnummer WhatsApp verwenden kann?
+- Kann ich überprüfen, ob eine bestimmte Telefonnummer WhatsApp for Business verwenden kann?
+- Kann ich überprüfen, ob die Telefonnummer eines Benutzers für WhatsApp for Business aktiviert ist?
+- Kann ich überprüfen, ob eine bestimmte Telefonnummer WhatsApp haben kann?
+- Kann ich überprüfen, ob eine Telefonnummer WhatsApp haben kann?
+- Gibt es eine API, die überprüft, ob eine bestimmte Telefonnummer WhatsApp haben kann
+- Gibt es eine API, die überprüft, ob eine bestimmte Telefonnummer WhatsApp for Business verwenden kann?
+- Gibt es eine API, die überprüft, ob eine bestimmte Telefonnummer WhatsApp verwenden kann?
+- Gibt es eine API, die überprüft, ob eine Mobiltelefonnummer WhatsApp for Business enthalten kann?
+- Gibt es eine API, die prüft, ob eine Handynummer WhatsApp haben kann
+- Gibt es eine API, die überprüft, ob eine Mobiltelefonnummer WhatsApp for Business verwenden kann?
+- Gibt es eine API, die überprüft, ob eine Mobiltelefonnummer WhatsApp verwenden kann?
+- Gibt es eine API, die überprüft, ob eine Telefonnummer WhatsApp verwenden kann?
+- Gibt es eine API, die überprüft, ob die Mobiltelefonnummer eines Benutzers WhatsApp for Business enthalten kann?
+	
+## intent:whatsapp_business_other_formatting_options
+- Ich möchte die Nachrichten in WhatsApp for Business formatieren.
+- Formatieren Sie Nachrichten in WhatsApp for Business
+- Formatieren Sie Nachrichten auf WhatsApp
+- Kann ich die Nachrichten mit WhatsApp formatieren?
+- Kann ich die Nachrichten mit WhatsApp for Business formatieren?
+- Kann ich die Nachrichten in WhatsApp formatieren?
+- Kann ich die Nachrichten in WhatsApp for Business formatieren?
+- Kann ich Nachrichten mit WhatsApp formatieren?
+- Formatieren von Nachrichten mit WhatsApp
+- Formatierungsoptionen in Nachrichten in WhatsApp
+- Formatierungsoptionen in Nachrichten in WhatsApp for Business
+- Formatierungsoptionen in Nachrichten mit WhatsApp
+- Formatierungsoptionen in Nachrichten mit WhatsApp for Business
+- Formatierungsoptionen für Nachrichten in WhatsApp
+- Formatierungsoptionen für Nachrichten in WhatsApp for Business
+- Formatierungsoptionen von Nachrichten mit WhatsApp
+- Formatierungsoptionen für Nachrichten mit WhatsApp for Business
+- WhatsApp formatieren
+- Formatieren von WhatsApp for Business
+- Ich muss die Nachrichten in WhatsApp for Business formatieren.
+- Ich muss die Nachrichten in WhatsApp formatieren.
+- Ich muss die Nachrichten mit WhatsApp for Business formatieren.
+- Ich muss die Nachrichten mit WhatsApp formatieren.
+- Ich möchte die Nachrichten formatieren, die mein Unternehmen an unsere Kunden sendet.
+- Ich möchte die Textnachrichten formatieren, die ich an meine Kunden sende.
+- Ich möchte die WhatsApp-Nachrichten formatieren, die wir an unsere Kunden senden.
+- Ich möchte die WhatsApp-Nachrichten, die wir an unsere Kunden senden, formatieren.
+- Ich möchte die WhatsApp-Nachrichten, die wir an meine Kunden senden, formatieren.
+- Ich möchte die WhatsApp-Nachrichten, die ich an unsere Kunden sende, formatieren.
+- Ich möchte die WhatsApp-Nachrichten, die ich an meine Kunden sende, formatieren.
+- Ich möchte die Textnachrichten, die mein Unternehmen an meine Kunden sendet, formatieren.
+- Ich möchte die Textnachrichten, die mein Unternehmen an unsere Kunden sendet, formatieren.
+- Ich möchte die Textnachrichten formatieren, die mein Unternehmen an meine Kunden sendet.
+- Ich möchte die Textnachrichten, die ich an unsere Kunden sende, formatieren.
+- Ich möchte die Textnachrichten, die ich an meine Kunden sende, formatieren.
+- Ich möchte die Nachrichten formatieren, die mein Unternehmen an meine Kunden sendet.
+- Ich möchte die Nachrichten, die ich an unsere Kunden sende, formatieren.
+- Ich möchte die Nachrichten, die ich an meine Kunden sende, formatieren.
+- Ich möchte die Nachrichten, die wir an unsere Kunden senden, formatieren.
+- Ich möchte die Nachrichten, die wir an meine Kunden senden, formatieren.
+- Ich möchte die Nachrichten, die mein Unternehmen an unsere Kunden sendet, formatieren.
+- Ich möchte die Nachrichten, die mein Unternehmen an meine Kunden sendet, formatieren.
+- Ich möchte die Nachrichten in WhatsApp formatieren.
+- Ich möchte die WhatsApp-Nachrichten formatieren, die wir an meine Kunden senden.
+- Ich möchte die WhatsApp-Nachrichten formatieren, die mein Unternehmen an unsere Kunden sendet.
+- Ich möchte die WhatsApp-Nachrichten formatieren, die mein Unternehmen an meine Kunden sendet.
+- Ich möchte die WhatsApp-Nachrichten formatieren, die ich an unsere Kunden sende.
+- Ich möchte die WhatsApp-Nachrichten formatieren, die ich an meine Kunden sende.
+- WhatsApp-Formatierungsoptionen
+- WhatsApp-Formatierung
+- WhatsApp-Formatoptionen
+- WhatsApp-Format
+- WhatsApp for Business-Formatierungsoptionen
+- WhatsApp for Business-Formatierung
+- WhatsApp for Business-Formatoptionen
+- WhatsApp for Business-Format
+- Welche Formatierungsoptionen habe ich mit WhatsApp?
+- Welche Formatierungsoptionen stehen mir mit WhatsApp for Business zur Verfügung?
+- Welche Formatierungsoptionen habe ich in WhatsApp?
+- Welche Formatierungsoptionen stehen mir in WhatsApp for Business zur Verfügung?
+- Kann ich Nachrichten mit WhatsApp for Business formatieren?
+- Kann ich Nachrichten in WhatsApp formatieren?
+- Kann ich Nachrichten in WhatsApp for Business formatieren?
+- Formatieren von Nachrichten in WhatsApp
+- Formatieren von Nachrichten mit WhatsApp for Business
+- Formatieren in Nachrichten mit WhatsApp
+- Ich möchte den Text, den wir an unsere Kunden senden, formatieren.
+- Ich möchte den Text, den wir an meine Kunden senden, formatieren.
+- Ich möchte den Text formatieren, den mein Unternehmen an unsere Kunden sendet.
+- Ich möchte den Text formatieren, den mein Unternehmen an meine Kunden sendet.
+- Ich möchte den Text, den ich an unsere Kunden sende, formatieren.
+- Formatieren von Nachrichten in WhatsApp for Business
+- Ich möchte den Text, den ich an meine Kunden sende, formatieren.
+- Ich möchte die Textnachrichten, die wir an unsere Kunden senden, formatieren.
+- Ich möchte die Textnachrichten, die wir an meine Kunden senden, formatieren.
+- Ich möchte die Textnachrichten formatieren, die mein Unternehmen an unsere Kunden sendet.
+	
+## intent:vocative_yes
+- Jawohl.
+- Bestätige.
+- Bestimmt.
+- Besiegelt.
+- Akzeptiere.
+- Wir sind in Butter.
+- Wirklich.
+- Yap.
+- Yep.
+- Yup.
+- Zustimmung.
+- Zweifellos.
+- Zweifelsfrei.
+- Abgemacht.
+- Ja, freilich.
+- Ja, fraglos.
+- Ja, bestimmt.
+- Ja, abgemacht.
+- Ja, gern.
+- Ich habe keine Einwände.
+- Ja, aber sicher.
+- Ist geritzt.
+- In jedem Fall.
+- In Ordnung.
+- In Butter.
+- O doch.
+- Nun erst recht.
+- Normal.
+- Nichts dagegen.
+- Natürlich.
+- Natürlich doch.
+- Na klar!
+- Mit Vergnügen.
+- Mit Sicherheit.
+- Meinetwillen.
+- Meinetwegen.
+- Meinethalben.
+- Ich erkenne an.
+- Stimme zu.
+- Immer doch.
+- Wahrhaftig.
+- Von mir aus.
+- Vollständig.
+- Vereinbart.
+- Verabredet.
+- Unstrittig.
+- Beschlossen.
+- Bejahe.
+- Bedingungslos.
+- Ausnahmslos.
+- Ausgemacht.
+- Auf jeden Fall.
+- Angenommen.
+- Anerkannt.
+- Alle Mal.
+- Jep.
+- Ohne Frage.
+- Ohne Einwände.
+- O.K.
+- OK.
+- O ja.
+- Ich gebillige.
+- Ich gebe dir meine Zustimmung.
+- Ich gebe dir mein Einverständnis.
+- Ich gebe dir Recht.
+- Ich gebe Ihnen meine Zustimmung.
+- Ich gebe Ihnen mein Einverständnis.
+- Ich gebe Ihnen Recht.
+- Ich bin einverstanden.
+- Ich billige.
+- Ich bejahe.
+- Ich akzeptiere.
+- Ich akzeptiere das.
+- Haargenau.
+- Gut.
+- Gut so.
+- Immer.
+- Definitiv.
+- Machen Sie das.
+- Mach.
+- Mach schon.
+- Mach das.
+- Los.
+- Klaro!
+- Klarer Fall.
+- Klar.
+- Klar!
+- Klar doch.
+- Jup.
+- yes
+- Absolut.
+- Zweifelsohne.
+- Aber sicher.
+- Aber natürlich.
+- Aber gewiss.
+- ja
+- Unbestritten.
+- Unbedingt.
+- Topp.
+- Tatsächlich.
+- Stimmt.
+- Sicherlich.
+- Sicher.
+- Selbstverständlicherweise.
+- Wie Sie wollen.
+- Wie du willst.
+- Willige ein.
+- Schon.
+- Richtig.
+- Positiv.
+- Perfekt.
+- Okay.
+- Ja, genau.
+- Ja, gerne.
+- Ja, natürlich.
+- Ja, sicher doch.
+- Ja, sicher.
+- Ja.
+- Gewiss.
+- Gewiss doch.
+- Gerne.
+- Gern.
+- Geritzt.
+- Genau.
+- Gebilligt.
+- Ganz klar.
+- Ganz gewiss.
+- Freilich.
+- Fraglos.
+- Ich habe nichts dagegen.
+- Ich heiße gut.
+- Ich nehme das an.
+- Ich nehme an.
+- Ich stimme Ihnen zu.
+- Ich stimme dir zu.
+- Ich stimme zu.
+- Ich willige ein.
+- Wahrlich.
+- Selbstverständlich.
+- Sehr gut.
+- Entschieden.
+- Einverstanden.
+- Eindeutig.
+- Echt.
+- Eben.
+- Durchaus.
+- Doch.
+- Das verabreden wir so.
+- Unfehlbar.
+- Das machen wir so aus.
+- Das können Sie machen.
+- Das kannst du machen.
+- Buchstäblich.
+- Jap.
+	
+## intent:vocative_you_welcome
+- Bitte, gerne!
+- Du brauchst mir nicht zu danken.
+- Bitte, sehr gerne!
+- Dafür brauchst du mir nicht danken.
+- Das habe ich doch gerne gemacht.
+- Bitte, gern!
+- Bitte, das war mir eine Ehre.
+- Bitte, ganz meine Ehre.
+- Bitte!
+- Aber immer doch!
+- Aber gerne!
+- Musst mir nicht danken.
+- Keiner Ursache wert!
+- Keine Ursache!
+- Ganz meine Ehre.
+- Nichts zu danken!
+- Passt schon!
+- Sehr gern geschehen.
+- Sehr gerne gemacht.
+- Nicht der Rede wert!
+- Immer schön dir helfen zu können.
+- Immer gut dir helfen zu können.
+- Das ist nicht der Rede wert.
+- Es war mir eine Ehre.
+- Gerne doch!
+- Gerne geschehen!
+- Gerne geschehen.
+- Habe ich gern gemacht.
+- Immer gerne doch!
+- Immer gerne!
+- Nichts zu danken
+- Gern geschehen
+- Kein Ding!
+- Das war mir eine Ehre.
+- Das habe ich gerne gemacht.
+- Bitte, gerne doch!
+- Bitte, nichts zu danken!

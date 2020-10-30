@@ -1,0 +1,56 @@
+{
+  "bot_channel": {
+    "precision": 0.9979381443298969,
+    "recall": 0.9969104016477858,
+    "f1-score": 0.9974240082431736,
+    "support": 971
+  },
+  "bot_business_sector": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 319
+  },
+  "bot_received_emotion": {
+    "precision": 0.9461358313817331,
+    "recall": 0.9017857142857143,
+    "f1-score": 0.9234285714285715,
+    "support": 448
+  },
+  "bot_sector": {
+    "precision": 0.9962962962962963,
+    "recall": 0.9990714948932219,
+    "f1-score": 0.9976819656930922,
+    "support": 1077
+  },
+  "bot_social_media": {
+    "precision": 0.9965277777777778,
+    "recall": 1.0,
+    "f1-score": 0.9982608695652174,
+    "support": 287
+  },
+  "company_cities_address": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 18
+  },
+  "micro avg": {
+    "precision": 0.9903288201160542,
+    "recall": 0.9846153846153847,
+    "f1-score": 0.9874638379942142,
+    "support": 3120
+  },
+  "macro avg": {
+    "precision": 0.9894830082976175,
+    "recall": 0.9829612684711204,
+    "f1-score": 0.9861325691550092,
+    "support": 3120
+  },
+  "weighted avg": {
+    "precision": 0.9900260813899614,
+    "recall": 0.9846153846153847,
+    "f1-score": 0.9872432880194868,
+    "support": 3120
+  }
+}

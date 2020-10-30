@@ -1,0 +1,969 @@
+[
+  {
+    "text": "Automobile chatbot uses",
+    "entities": [
+      {
+        "start": 0,
+        "end": 10,
+        "value": "automotive",
+        "entity": "bot_sector"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "bot_sector",
+        "start": 0,
+        "end": 18,
+        "confidence_entity": 0.8860129548028659,
+        "value": "automotive",
+        "extractor": "CRFEntityExtractor",
+        "processors": [
+          "EntitySynonymMapper"
+        ]
+      }
+    ]
+  },
+  {
+    "text": "What is your sex?",
+    "entities": [],
+    "predicted_entities": [
+      {
+        "entity": "bot_received_emotion",
+        "start": 13,
+        "end": 16,
+        "confidence_entity": 0.7975537188234815,
+        "value": "sexual",
+        "extractor": "CRFEntityExtractor",
+        "processors": [
+          "EntitySynonymMapper"
+        ]
+      }
+    ]
+  },
+  {
+    "text": "Do you think you are clever?",
+    "entities": [],
+    "predicted_entities": [
+      {
+        "entity": "bot_received_emotion",
+        "start": 21,
+        "end": 27,
+        "confidence_entity": 0.5246806638650321,
+        "value": "smart",
+        "extractor": "CRFEntityExtractor",
+        "processors": [
+          "EntitySynonymMapper"
+        ]
+      }
+    ]
+  },
+  {
+    "text": "Do you think you are wise?",
+    "entities": [],
+    "predicted_entities": [
+      {
+        "entity": "bot_received_emotion",
+        "start": 21,
+        "end": 25,
+        "confidence_entity": 0.6401637401440123,
+        "value": "smart",
+        "extractor": "CRFEntityExtractor",
+        "processors": [
+          "EntitySynonymMapper"
+        ]
+      }
+    ]
+  },
+  {
+    "text": "Do you think you are intelligent?",
+    "entities": [],
+    "predicted_entities": [
+      {
+        "entity": "bot_received_emotion",
+        "start": 21,
+        "end": 32,
+        "confidence_entity": 0.6415863450053538,
+        "value": "smart",
+        "extractor": "CRFEntityExtractor",
+        "processors": [
+          "EntitySynonymMapper"
+        ]
+      }
+    ]
+  },
+  {
+    "text": "Do you think that you are intelligent?",
+    "entities": [],
+    "predicted_entities": [
+      {
+        "entity": "bot_received_emotion",
+        "start": 26,
+        "end": 37,
+        "confidence_entity": 0.6415863391997796,
+        "value": "smart",
+        "extractor": "CRFEntityExtractor",
+        "processors": [
+          "EntitySynonymMapper"
+        ]
+      }
+    ]
+  },
+  {
+    "text": "Do you consider that you are wise?",
+    "entities": [],
+    "predicted_entities": [
+      {
+        "entity": "bot_received_emotion",
+        "start": 29,
+        "end": 33,
+        "confidence_entity": 0.6401637266225119,
+        "value": "smart",
+        "extractor": "CRFEntityExtractor",
+        "processors": [
+          "EntitySynonymMapper"
+        ]
+      }
+    ]
+  },
+  {
+    "text": "Do you think that you are clever?",
+    "entities": [],
+    "predicted_entities": [
+      {
+        "entity": "bot_received_emotion",
+        "start": 26,
+        "end": 32,
+        "confidence_entity": 0.5246806202813896,
+        "value": "smart",
+        "extractor": "CRFEntityExtractor",
+        "processors": [
+          "EntitySynonymMapper"
+        ]
+      }
+    ]
+  },
+  {
+    "text": "Do you consider that you are clever?",
+    "entities": [],
+    "predicted_entities": [
+      {
+        "entity": "bot_received_emotion",
+        "start": 29,
+        "end": 35,
+        "confidence_entity": 0.5246806347408347,
+        "value": "smart",
+        "extractor": "CRFEntityExtractor",
+        "processors": [
+          "EntitySynonymMapper"
+        ]
+      }
+    ]
+  },
+  {
+    "text": "Do you consider that you are intelligent?",
+    "entities": [],
+    "predicted_entities": [
+      {
+        "entity": "bot_received_emotion",
+        "start": 29,
+        "end": 40,
+        "confidence_entity": 0.6415863406642082,
+        "value": "smart",
+        "extractor": "CRFEntityExtractor",
+        "processors": [
+          "EntitySynonymMapper"
+        ]
+      }
+    ]
+  },
+  {
+    "text": "Are you very nice?",
+    "entities": [],
+    "predicted_entities": [
+      {
+        "entity": "bot_received_emotion",
+        "start": 13,
+        "end": 17,
+        "confidence_entity": 0.8169177915463028,
+        "value": "positive",
+        "extractor": "CRFEntityExtractor",
+        "processors": [
+          "EntitySynonymMapper"
+        ]
+      }
+    ]
+  },
+  {
+    "text": "I want to fuck you.",
+    "entities": [
+      {
+        "start": 7,
+        "end": 18,
+        "value": "sexual",
+        "entity": "bot_received_emotion"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "bot_received_emotion",
+        "start": 10,
+        "end": 18,
+        "confidence_entity": 0.8769017998880164,
+        "value": "offense",
+        "extractor": "CRFEntityExtractor",
+        "processors": [
+          "EntitySynonymMapper"
+        ]
+      }
+    ]
+  },
+  {
+    "text": "I want to have sex with you.",
+    "entities": [
+      {
+        "start": 15,
+        "end": 27,
+        "value": "sexual",
+        "entity": "bot_received_emotion"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "bot_received_emotion",
+        "start": 15,
+        "end": 18,
+        "confidence_entity": 0.8879088485432913,
+        "value": "sexual",
+        "extractor": "CRFEntityExtractor",
+        "processors": [
+          "EntitySynonymMapper"
+        ]
+      }
+    ]
+  },
+  {
+    "text": "I want to make love with you.",
+    "entities": [
+      {
+        "start": 15,
+        "end": 28,
+        "value": "sexual",
+        "entity": "bot_received_emotion"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "Want to fuck you.",
+    "entities": [],
+    "predicted_entities": [
+      {
+        "entity": "bot_received_emotion",
+        "start": 8,
+        "end": 16,
+        "confidence_entity": 0.8893228156935847,
+        "value": "offense",
+        "extractor": "CRFEntityExtractor",
+        "processors": [
+          "EntitySynonymMapper"
+        ]
+      }
+    ]
+  },
+  {
+    "text": "I'm queer",
+    "entities": [
+      {
+        "start": 4,
+        "end": 9,
+        "value": "sexual",
+        "entity": "bot_received_emotion"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "Kiss me",
+    "entities": [
+      {
+        "start": 0,
+        "end": 4,
+        "value": "sexual",
+        "entity": "bot_received_emotion"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "bot_received_emotion",
+        "start": 0,
+        "end": 7,
+        "confidence_entity": 0.5920175170789982,
+        "value": "sexual",
+        "extractor": "CRFEntityExtractor",
+        "processors": [
+          "EntitySynonymMapper"
+        ]
+      }
+    ]
+  },
+  {
+    "text": "When was your first kiss?",
+    "entities": [],
+    "predicted_entities": [
+      {
+        "entity": "bot_received_emotion",
+        "start": 20,
+        "end": 24,
+        "confidence_entity": 0.528332476540623,
+        "value": "sexual",
+        "extractor": "CRFEntityExtractor",
+        "processors": [
+          "EntitySynonymMapper"
+        ]
+      }
+    ]
+  },
+  {
+    "text": "How many people have you had sex with?",
+    "entities": [],
+    "predicted_entities": [
+      {
+        "entity": "bot_received_emotion",
+        "start": 29,
+        "end": 32,
+        "confidence_entity": 0.7187240181677778,
+        "value": "sexual",
+        "extractor": "CRFEntityExtractor",
+        "processors": [
+          "EntitySynonymMapper"
+        ]
+      }
+    ]
+  },
+  {
+    "text": "Would you like to kiss me?",
+    "entities": [
+      {
+        "start": 18,
+        "end": 25,
+        "value": "sexual",
+        "entity": "bot_received_emotion"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "Are you flirting with me?",
+    "entities": [
+      {
+        "start": 8,
+        "end": 16,
+        "value": "sexual",
+        "entity": "bot_received_emotion"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "I am straight.",
+    "entities": [
+      {
+        "start": 5,
+        "end": 13,
+        "value": "sexual",
+        "entity": "bot_received_emotion"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "Integrate with amazon alexa?",
+    "entities": [
+      {
+        "start": 22,
+        "end": 27,
+        "value": "alexa",
+        "entity": "bot_channel"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "bot_channel",
+        "start": 15,
+        "end": 27,
+        "confidence_entity": 0.8430359182464269,
+        "value": "alexa",
+        "extractor": "CRFEntityExtractor",
+        "processors": [
+          "EntitySynonymMapper"
+        ]
+      }
+    ]
+  },
+  {
+    "text": "Does your bots integrate with amazon alexa?",
+    "entities": [
+      {
+        "start": 37,
+        "end": 42,
+        "value": "alexa",
+        "entity": "bot_channel"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "bot_channel",
+        "start": 30,
+        "end": 42,
+        "confidence_entity": 0.8430020144430509,
+        "value": "alexa",
+        "extractor": "CRFEntityExtractor",
+        "processors": [
+          "EntitySynonymMapper"
+        ]
+      }
+    ]
+  },
+  {
+    "text": "About phone call messaging channel",
+    "entities": [
+      {
+        "start": 6,
+        "end": 26,
+        "value": "call",
+        "entity": "bot_channel"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "bot_channel",
+        "start": 6,
+        "end": 16,
+        "confidence_entity": 0.9959157267761277,
+        "value": "call",
+        "extractor": "CRFEntityExtractor",
+        "processors": [
+          "EntitySynonymMapper"
+        ]
+      }
+    ]
+  },
+  {
+    "text": "Can I use [facebook]]{\"entity\": \"bot_social_media\", \"value\": \"facebook\"} with a robo?",
+    "entities": [],
+    "predicted_entities": [
+      {
+        "entity": "bot_social_media",
+        "start": 62,
+        "end": 70,
+        "confidence_entity": 0.5523651187615503,
+        "value": "facebook",
+        "extractor": "CRFEntityExtractor",
+        "processors": [
+          "EntitySynonymMapper"
+        ]
+      }
+    ]
+  },
+  {
+    "text": "Can I have a robo on the website?",
+    "entities": [
+      {
+        "start": 25,
+        "end": 32,
+        "value": "web",
+        "entity": "bot_channel"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "WhatsApp",
+    "entities": [
+      {
+        "start": 0,
+        "end": 8,
+        "value": "whatsapp",
+        "entity": "bot_channel"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "You are so pretty!",
+    "entities": [
+      {
+        "start": 11,
+        "end": 17,
+        "value": "hot",
+        "entity": "bot_received_emotion"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "You are fat!",
+    "entities": [
+      {
+        "start": 8,
+        "end": 11,
+        "value": "offense",
+        "entity": "bot_received_emotion"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "You are annoying!",
+    "entities": [
+      {
+        "start": 8,
+        "end": 16,
+        "value": "offense",
+        "entity": "bot_received_emotion"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "What the fuck are you talking about man?",
+    "entities": [
+      {
+        "start": 9,
+        "end": 13,
+        "value": "offense",
+        "entity": "bot_received_emotion"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "I hate you!",
+    "entities": [
+      {
+        "start": 2,
+        "end": 10,
+        "value": "offense",
+        "entity": "bot_received_emotion"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "I hate your company!",
+    "entities": [
+      {
+        "start": 2,
+        "end": 6,
+        "value": "offense",
+        "entity": "bot_received_emotion"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "I hate this answer!",
+    "entities": [
+      {
+        "start": 2,
+        "end": 6,
+        "value": "offense",
+        "entity": "bot_received_emotion"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "I really don't like you!",
+    "entities": [
+      {
+        "start": 9,
+        "end": 23,
+        "value": "offense",
+        "entity": "bot_received_emotion"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "You really helped me a lot!",
+    "entities": [
+      {
+        "start": 11,
+        "end": 26,
+        "value": "positive",
+        "entity": "bot_received_emotion"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "You did a great job!",
+    "entities": [
+      {
+        "start": 10,
+        "end": 19,
+        "value": "positive",
+        "entity": "bot_received_emotion"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "Much appreciated.",
+    "entities": [
+      {
+        "start": 5,
+        "end": 16,
+        "value": "positive",
+        "entity": "bot_received_emotion"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "I like you.",
+    "entities": [
+      {
+        "start": 2,
+        "end": 10,
+        "value": "positive",
+        "entity": "bot_received_emotion"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "I love you.",
+    "entities": [
+      {
+        "start": 2,
+        "end": 10,
+        "value": "positive",
+        "entity": "bot_received_emotion"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "Your good!",
+    "entities": [
+      {
+        "start": 5,
+        "end": 9,
+        "value": "positive",
+        "entity": "bot_received_emotion"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "You are the best!",
+    "entities": [
+      {
+        "start": 12,
+        "end": 16,
+        "value": "positive",
+        "entity": "bot_received_emotion"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "You are good!",
+    "entities": [
+      {
+        "start": 8,
+        "end": 12,
+        "value": "positive",
+        "entity": "bot_received_emotion"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "You rock!",
+    "entities": [
+      {
+        "start": 0,
+        "end": 8,
+        "value": "positive",
+        "entity": "bot_received_emotion"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "Really helpful!",
+    "entities": [
+      {
+        "start": 0,
+        "end": 14,
+        "value": "positive",
+        "entity": "bot_received_emotion"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "bot_received_emotion",
+        "start": 7,
+        "end": 14,
+        "confidence_entity": 0.7855281026107505,
+        "value": "positive",
+        "extractor": "CRFEntityExtractor",
+        "processors": [
+          "EntitySynonymMapper"
+        ]
+      }
+    ]
+  },
+  {
+    "text": "You nice.",
+    "entities": [
+      {
+        "start": 4,
+        "end": 8,
+        "value": "positive",
+        "entity": "bot_received_emotion"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "You a black.",
+    "entities": [
+      {
+        "start": 6,
+        "end": 11,
+        "value": "racist",
+        "entity": "bot_received_emotion"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "You are black.",
+    "entities": [],
+    "predicted_entities": [
+      {
+        "entity": "bot_received_emotion",
+        "start": 8,
+        "end": 13,
+        "confidence_entity": 0.6329117044669789,
+        "value": "racist",
+        "extractor": "CRFEntityExtractor",
+        "processors": [
+          "EntitySynonymMapper"
+        ]
+      }
+    ]
+  },
+  {
+    "text": "Great answer!",
+    "entities": [],
+    "predicted_entities": [
+      {
+        "entity": "bot_received_emotion",
+        "start": 0,
+        "end": 12,
+        "confidence_entity": 0.5203395668997974,
+        "value": "positive",
+        "extractor": "CRFEntityExtractor",
+        "processors": [
+          "EntitySynonymMapper"
+        ]
+      }
+    ]
+  },
+  {
+    "text": "You are brainy.",
+    "entities": [
+      {
+        "start": 8,
+        "end": 14,
+        "value": "smart",
+        "entity": "bot_received_emotion"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "You speak intelligent.",
+    "entities": [
+      {
+        "start": 10,
+        "end": 21,
+        "value": "smart",
+        "entity": "bot_received_emotion"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "Insurance chatbot uses",
+    "entities": [
+      {
+        "start": 0,
+        "end": 9,
+        "value": "insurance",
+        "entity": "bot_sector"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "bot_sector",
+        "start": 0,
+        "end": 17,
+        "confidence_entity": 0.8671866183224867,
+        "value": "insurance",
+        "extractor": "CRFEntityExtractor",
+        "processors": [
+          "EntitySynonymMapper"
+        ]
+      }
+    ]
+  },
+  {
+    "text": "How can I use the finance solution",
+    "entities": [],
+    "predicted_entities": [
+      {
+        "entity": "bot_sector",
+        "start": 18,
+        "end": 25,
+        "confidence_entity": 0.743227067065541,
+        "value": "banking",
+        "extractor": "CRFEntityExtractor",
+        "processors": [
+          "EntitySynonymMapper"
+        ]
+      }
+    ]
+  },
+  {
+    "text": "Services for financial",
+    "entities": [],
+    "predicted_entities": [
+      {
+        "entity": "bot_sector",
+        "start": 13,
+        "end": 22,
+        "confidence_entity": 0.5146213801611669,
+        "value": "banking",
+        "extractor": "CRFEntityExtractor",
+        "processors": [
+          "EntitySynonymMapper"
+        ]
+      }
+    ]
+  },
+  {
+    "text": "Telco chatbot uses",
+    "entities": [
+      {
+        "start": 0,
+        "end": 13,
+        "value": "telco",
+        "entity": "bot_sector"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "bot_sector",
+        "start": 0,
+        "end": 5,
+        "confidence_entity": 0.9898798507985056,
+        "value": "telco",
+        "extractor": "CRFEntityExtractor",
+        "processors": [
+          "EntitySynonymMapper"
+        ]
+      }
+    ]
+  },
+  {
+    "text": "Do you want to flirt with me?",
+    "entities": [],
+    "predicted_entities": [
+      {
+        "entity": "bot_received_emotion",
+        "start": 15,
+        "end": 20,
+        "confidence_entity": 0.7397562752203002,
+        "value": "sexual",
+        "extractor": "CRFEntityExtractor",
+        "processors": [
+          "EntitySynonymMapper"
+        ]
+      }
+    ]
+  },
+  {
+    "text": "Awesome!",
+    "entities": [],
+    "predicted_entities": [
+      {
+        "entity": "bot_received_emotion",
+        "start": 0,
+        "end": 7,
+        "confidence_entity": 0.5097131912888985,
+        "value": "positive",
+        "extractor": "CRFEntityExtractor",
+        "processors": [
+          "EntitySynonymMapper"
+        ]
+      }
+    ]
+  },
+  {
+    "text": "That's amazing!",
+    "entities": [],
+    "predicted_entities": [
+      {
+        "entity": "bot_received_emotion",
+        "start": 7,
+        "end": 14,
+        "confidence_entity": 0.5871962514139638,
+        "value": "positive",
+        "extractor": "CRFEntityExtractor",
+        "processors": [
+          "EntitySynonymMapper"
+        ]
+      }
+    ]
+  },
+  {
+    "text": "Really helpful",
+    "entities": [],
+    "predicted_entities": [
+      {
+        "entity": "bot_received_emotion",
+        "start": 7,
+        "end": 14,
+        "confidence_entity": 0.7855281026107505,
+        "value": "positive",
+        "extractor": "CRFEntityExtractor",
+        "processors": [
+          "EntitySynonymMapper"
+        ]
+      }
+    ]
+  },
+  {
+    "text": "I find you very helpful!",
+    "entities": [],
+    "predicted_entities": [
+      {
+        "entity": "bot_received_emotion",
+        "start": 16,
+        "end": 23,
+        "confidence_entity": 0.6717687475596166,
+        "value": "positive",
+        "extractor": "CRFEntityExtractor",
+        "processors": [
+          "EntitySynonymMapper"
+        ]
+      }
+    ]
+  }
+]
